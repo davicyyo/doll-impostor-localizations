@@ -81,7 +81,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Не забывай закрывать дверь на защелку. Если этого не сделать, одержимая кукла может выйти из комнаты, убить тебя, или изменить информацию."
+        "str": "Не забывай закрывать дверь на защелку. Если этого не сделать, одержимая кукла может выйти из комнаты, убить тебя, или изменить твои расчеты."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -303,7 +303,7 @@
         "key": "2DEA68154A30209AA0698497E47F9DA9",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
         "id": "Leaderboard Endless",
-        "str": "Таблица лидеров бесконечного режима"
+        "str": "Лидеры бесконечного режима"
     },
     {
         "key": "2DF9E60442DE6DF03EF241849D289A55",
@@ -963,7 +963,7 @@
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diabolic",
-        "str": "Дьявольский"
+        "str": "Дьяволица"
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
@@ -1203,7 +1203,7 @@
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
         "location": "/Game/functions/interfaceFunctions.interfaceFunctions_C:showPopup [Script Bytecode]",
         "id": "OK",
-        "str": "Ok"
+        "str": "ОК"
     },
     {
         "key": "BCB8724F4D70F43E391D0FB8984329C6",
@@ -1359,7 +1359,7 @@
         "key": "D627A24C4957566043D3F0ADF0F70B9E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
         "id": "Playgrounds",
-        "str": "Площадка"
+        "str": "Площадки"
     },
     {
         "key": "D675865B4BDBCFCA800BB498976F9CA3",
