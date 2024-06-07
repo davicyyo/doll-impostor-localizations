@@ -75,7 +75,7 @@
         "key": "08D502454BD58980CE9821826F40CC46",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(21 - Value).languages_Value",
         "id": "Czech",
-        "str": "/aa"
+        "str": "捷克语"
     },
     {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
@@ -157,7 +157,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_78.Text",
         "id": "Back",
         "str": "返回"
     },
@@ -175,7 +175,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
         "str": "退出"
     },
@@ -267,19 +267,13 @@
         "key": "28D64D924C4E1CEAA574618C9450E217",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(20 - Value).languages_Value",
         "id": "Ukranian",
-        "str": "/aa"
+        "str": "乌克兰语"
     },
     {
         "key": "29F3050C4339ED0EDB9AF3A02F1F9377",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(23 - Value).languages_Value",
         "id": "Romanian",
-        "str": "/aa"
-    },
-    {
-        "key": "2A73A1A04BCF740241E4C3A29DA019E1",
-        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
-        "id": "Multigames",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "罗马尼亚语"
     },
     {
         "key": "2B1AABE94263FF89EC34AFB311957544",
@@ -297,7 +291,7 @@
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Demon",
-        "str": "/aa"
+        "str": "恶魔"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -403,7 +397,7 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
         "str": "设置"
     },
@@ -549,7 +543,7 @@
         "key": "576A0B8341B664A252403EBC3BC4DF35",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(22 - Value).languages_Value",
         "id": "Danish",
-        "str": "/aa"
+        "str": "丹麦语"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
@@ -573,7 +567,7 @@
         "key": "5AC930984185A24BC84F5EB1E734B80E",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
-        "str": "/aa"
+        "str": "长筒袜"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -765,13 +759,13 @@
         "key": "7A08599C42C900970133A6A784ED359D",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(19 - Value).languages_Value",
         "id": "Greek",
-        "str": "/aa"
+        "str": "希腊语"
     },
     {
         "key": "7A1B535144D14883FAFEBFBA058F9815",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(26 - Value).languages_Value",
         "id": "Indonesian",
-        "str": "/aa"
+        "str": "印尼语"
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -855,7 +849,7 @@
         "key": "8793689E435B182EC1B9B180AC5F9BE3",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(25 - Value).languages_Value",
         "id": "Vietnamese",
-        "str": "/aa"
+        "str": "越南语"
     },
     {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
@@ -973,7 +967,7 @@
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
         "id": "Action Details",
         "str": "动作细节"
     },
@@ -993,19 +987,19 @@
         "key": "9B0C4F0544EED1171CEEF59539778188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unlucky",
-        "str": "/aa"
+        "str": "不幸的"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Awkward",
-        "str": "/aa"
+        "str": "尴尬的"
     },
     {
         "key": "9CE4FD774DFBE4C84DC711A634666FA7",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Bot",
-        "str": "/aa"
+        "str": "机器人"
     },
     {
         "key": "9D7CA8BB4D12421F2093AB823A8EAC45",
@@ -1131,7 +1125,7 @@
         "key": "B40CBA3A4778871A485023833937F1BC",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(24 - Value).languages_Value",
         "id": "Swedish",
-        "str": "/aa"
+        "str": "瑞典语"
     },
     {
         "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
@@ -1362,6 +1356,12 @@
         "str": "伯爵"
     },
     {
+        "key": "D627A24C4957566043D3F0ADF0F70B9E",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
+        "id": "Playgrounds",
+        "str": "操场"
+    },
+    {
         "key": "D675865B4BDBCFCA800BB498976F9CA3",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(2 - Value).languages_Value",
         "id": "French",
@@ -1527,7 +1527,7 @@
         "key": "EBC92CA44981FDF83EACECB976139FEB",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(18 - Value).languages_Value",
         "id": "Korean",
-        "str": "/aa"
+        "str": "韩语"
     },
     {
         "key": "EC7F93EC4CB48E186252D6818A3CC280",
@@ -1641,7 +1641,7 @@
         "key": "FACAB65943781B084CD803A77E0F7266",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gurl",
-        "str": "/aa"
+        "str": "女孩"
     },
     {
         "key": "FAD096A047C791A2435446A372491A59",
