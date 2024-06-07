@@ -157,7 +157,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_78.Text",
         "id": "Back",
         "str": "Indietro"
     },
