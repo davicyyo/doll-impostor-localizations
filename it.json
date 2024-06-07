@@ -973,7 +973,7 @@
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
         "id": "Action Details",
         "str": "Dettagli Azioni"
     },
