@@ -403,7 +403,7 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
         "str": "Impostazioni"
     },
