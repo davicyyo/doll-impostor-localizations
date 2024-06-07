@@ -1,6 +1,6 @@
 [
     {
-        "key": "0078964D495E90CB9C263D86C289F115",        
+        "key": "0078964D495E90CB9C263D86C289F115",
         "location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Tea with friends",
         "str": "Чай с друзьями"
@@ -66,9 +66,15 @@
         "str": "Разблокирован новый уровень сложности!"
     },
     {
+        "key": "08AF4F5F4D1847B044DAC7BF08212C57",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(10 - Value).languages_Value",
+        "id": "Dutch",
+        "str": "Голландский"
+    },
+    {
         "key": "08D502454BD58980CE9821826F40CC46",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(21 - Value).languages_Value",
-        "id": "czech",
+        "id": "Czech",
         "str": "Чешский"
     },
     {
@@ -151,7 +157,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_78.Text",
         "id": "Back",
         "str": "Назад"
     },
@@ -168,14 +174,8 @@
         "str": "Фейерверки"
     },
     {
-        "key": "1604715E48E36DF5FD182BAD247DF0A6",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(14 - Value).languages_Value",
-        "id": "turkish",
-        "str": "Турецкий"
-    },
-    {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
         "str": "Выйти"
     },
@@ -252,6 +252,12 @@
         "str": "Метод отражения"
     },
     {
+        "key": "280CCA894BF0E14C4DB4268303AB1101",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(4 - Value).languages_Value",
+        "id": "German",
+        "str": "Немецкий"
+    },
+    {
         "key": "28953C4E43697949852B609F8D0793FB",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_115.Text",
         "id": "Off",
@@ -260,26 +266,20 @@
     {
         "key": "28D64D924C4E1CEAA574618C9450E217",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(20 - Value).languages_Value",
-        "id": "ukranian",
+        "id": "Ukranian",
         "str": "Украинский"
     },
     {
         "key": "29F3050C4339ED0EDB9AF3A02F1F9377",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(23 - Value).languages_Value",
-        "id": "romanian",
+        "id": "Romanian",
         "str": "Румынский"
     },
     {
-        "key": "2A02431848ABE0F4A4421DADA126C44D",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(9 - Value).languages_Value",
-        "id": "russian",
-        "str": "Русский"
-    },
-    {
-        "key": "2A73A1A04BCF740241E4C3A29DA019E1",
-        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
-        "id": "Multigames",
-        "str": "Площадка"
+        "key": "2B1AABE94263FF89EC34AFB311957544",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(0 - Value).languages_Value",
+        "id": "English",
+        "str": "Английский"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -397,9 +397,15 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
         "str": "Настройки"
+    },
+    {
+        "key": "403316C242142BFE9F809BA3338124D7",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(6 - Value).languages_Value",
+        "id": "Hungarian",
+        "str": "Венгерский"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
@@ -468,12 +474,6 @@
         "str": "Зловещая"
     },
     {
-        "key": "49A0DE5646D579369FC9D49B9B9DDE90",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(7 - Value).languages_Value",
-        "id": "bulgarian",
-        "str": "Болгарский"
-    },
-    {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Global",
@@ -496,12 +496,6 @@
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in the main menu",
         "str": "Теперь ты можешь попробовать в главном меню"
-    },
-    {
-        "key": "4CAA82534EAD39A52D70E99F83F44A89",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(16 - Value).languages_Value",
-        "id": "japanese",
-        "str": "Японский"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -548,14 +542,8 @@
     {
         "key": "576A0B8341B664A252403EBC3BC4DF35",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(22 - Value).languages_Value",
-        "id": "danish",
+        "id": "Danish",
         "str": "Датский"
-    },
-    {
-        "key": "5779D83E4AE77A7CCD345689396E60E4",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(5 - Value).languages_Value",
-        "id": "portuguese",
-        "str": "Португальский"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
@@ -600,6 +588,12 @@
         "str": "Качать других"
     },
     {
+        "key": "5FB5FC2446272109CE6E9E89EFD770F5",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(7 - Value).languages_Value",
+        "id": "Bulgarian",
+        "str": "Болгарский"
+    },
+    {
         "key": "60747A674F244C50BD7C42986DD084AD",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Widow",
@@ -628,6 +622,12 @@
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_5.Text",
         "id": "Nightmare",
         "str": "Кошмар"
+    },
+    {
+        "key": "64E292FF4533BC46C4BE84BD71E93B49",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(1 - Value).languages_Value",
+        "id": "Spanish",
+        "str": "Испанский"
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
@@ -690,12 +690,6 @@
         "str": "Отображение счетчика кадров"
     },
     {
-        "key": "6F7BC310415AC5EC6636AAA7D750A357",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(17 - Value).languages_Value",
-        "id": "polish",
-        "str": "Польский"
-    },
-    {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
         "location": "/Game/UI/paperInterface.paperInterface_C:GetText_4 [Script Bytecode]",
         "id": "Partner",
@@ -724,12 +718,6 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Deadly",
         "str": "Смертельная"
-    },
-    {
-        "key": "748858E64815FF4386822A82656BB5D0",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(2 - Value).languages_Value",
-        "id": "french",
-        "str": "Французский"
     },
     {
         "key": "75A0760B4CF756F7572751980578A7E4",
@@ -762,18 +750,6 @@
         "str": "Настройки игрового процесса"
     },
     {
-        "key": "784FAA4D4FB90763A8B30582C705402D",
-        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-        "id": "The Diablolic",
-        "str": "Дьявольская"
-    },
-    {
-        "key": "793EE79D400D02A8F9162A878DEA63D8",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(10 - Value).languages_Value",
-        "id": "dutch",
-        "str": "Голландский"
-    },
-    {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
         "id": "Go to Safe House",
@@ -782,13 +758,13 @@
     {
         "key": "7A08599C42C900970133A6A784ED359D",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(19 - Value).languages_Value",
-        "id": "greek",
+        "id": "Greek",
         "str": "Греческий"
     },
     {
         "key": "7A1B535144D14883FAFEBFBA058F9815",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(26 - Value).languages_Value",
-        "id": "indonesian",
+        "id": "Indonesian",
         "str": "Индонезийский"
     },
     {
@@ -872,7 +848,7 @@
     {
         "key": "8793689E435B182EC1B9B180AC5F9BE3",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(25 - Value).languages_Value",
-        "id": "vietnamese",
+        "id": "Vietnamese",
         "str": "Вьетнамский"
     },
     {
@@ -880,6 +856,12 @@
         "location": "/Game/enums/actions.actions.DisplayNameMap(25 - Value).DisplayNameMap",
         "id": "Tunnels",
         "str": "Туннели"
+    },
+    {
+        "key": "8A83135042983483AD6E609783F2B33F",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(15 - Value).languages_Value",
+        "id": "Arabic",
+        "str": "Арабский"
     },
     {
         "key": "8AA6BC7A4ECFD2DE81947DAFBC338CFF",
@@ -966,14 +948,26 @@
         "str": "Карусель с врагами"
     },
     {
+        "key": "94C1D362417DAA6789DAC39870AD9352",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(16 - Value).languages_Value",
+        "id": "Japanese",
+        "str": "Японский"
+    },
+    {
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text",
         "id": "Random",
         "str": "Случайный"
     },
     {
+        "key": "966BA2A948A2BC025A15EBA7AD8767E0",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Diabolic",
+        "str": "Дьявольский"
+    },
+    {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
         "id": "Action Details",
         "str": "Детали действия"
     },
@@ -1014,16 +1008,10 @@
         "str": "Пушка"
     },
     {
-        "key": "9EFF01BD4488B91B26717F833E53A487",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(12 - Value).languages_Value",
-        "id": "chinesse",
-        "str": "Китайский"
-    },
-    {
-        "key": "A0A4B5B94149B6CF4DF4E99ED10FAFF1",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(13 - Value).languages_Value",
-        "id": "thai",
-        "str": "Тайский"
+        "key": "A10D3CC54716BA57FF17F9BA5A30C98C",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(17 - Value).languages_Value",
+        "id": "Polish",
+        "str": "Польский"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
@@ -1068,12 +1056,6 @@
         "str": "Качели"
     },
     {
-        "key": "A7F247044DB7A374ACDB278B29BAC327",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(1 - Value).languages_Value",
-        "id": "spanish",
-        "str": "Испанский"
-    },
-    {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Move Self",
@@ -1086,10 +1068,10 @@
         "str": "Позиция"
     },
     {
-        "key": "AEE1344E48B91D8DB02D5E9638A05925",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(11 - Value).languages_Value",
-        "id": "finnish",
-        "str": "Финский"
+        "key": "AFC26E38415F397D92C04EA977140AA4",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(14 - Value).languages_Value",
+        "id": "Turkish",
+        "str": "Турецкий"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
@@ -1108,6 +1090,12 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grump",
         "str": "Ворчун"
+    },
+    {
+        "key": "B1EDD61244DE779F674B3B8F073DEC74",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(12 - Value).languages_Value",
+        "id": "Chinesse",
+        "str": "Китайский"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -1136,7 +1124,7 @@
     {
         "key": "B40CBA3A4778871A485023833937F1BC",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(24 - Value).languages_Value",
-        "id": "swedish",
+        "id": "Swedish",
         "str": "Шведский"
     },
     {
@@ -1158,12 +1146,6 @@
         "str": "Дворецкий"
     },
     {
-        "key": "BF221642449DB485C8FF39A6198C744B",
-        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-        "id": "The Sinister",
-        "str": "Безбожница"
-    },
-    {
         "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Terrifying",
@@ -1180,12 +1162,6 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Loner",
         "str": "Одиночка"
-    },
-    {
-        "key": "B71CEB8B4F8304E965C5D6A0F8130CD9",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
-        "id": "Settings",
-        "str": "Настройки"
     },
     {
         "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
@@ -1248,6 +1224,12 @@
         "str": "Ложись спать, подсказка появится в следующем часу."
     },
     {
+        "key": "BF221642449DB485C8FF39A6198C744B",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Sinister",
+        "str": "Безбожница"
+    },
+    {
         "key": "BF4FA5364C39224BE93EC080C21FF285",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock.Text",
         "id": "Mixed dolls",
@@ -1284,6 +1266,12 @@
         "str": "Неприятный"
     },
     {
+        "key": "C8EFE1E14991B32EA2B4749FB8BDDA2B",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(9 - Value).languages_Value",
+        "id": "Russian",
+        "str": "Русский"
+    },
+    {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
@@ -1302,12 +1290,6 @@
         "str": "Друзья"
     },
     {
-        "key": "CBFB4FBB4D2B07F275C31689FDD03927",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(3 - Value).languages_Value",
-        "id": "italian",
-        "str": "Итальянский"
-    },
-    {
         "key": "CE51CF0E45E7C77AAF2014B784C79BAF",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_1.Text",
         "id": "Anti Aliasing Quality",
@@ -1324,12 +1306,6 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Weasel",
         "str": "Ласка"
-    },
-    {
-        "key": "CF71BC72428ABF2563EB5FBABCABC795",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(4 - Value).languages_Value",
-        "id": "german",
-        "str": "Немецкий"
     },
     {
         "key": "D03A184741DBDC2985FBC9A454F19494",
@@ -1368,10 +1344,28 @@
         "str": "Переведено: {people}"
     },
     {
+        "key": "D5C4F05D4A571EC53FDCBFA36976035A",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(11 - Value).languages_Value",
+        "id": "Finnish",
+        "str": "Финский"
+    },
+    {
         "key": "D618A4A346B0EA7CBABE00AA94C80485",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Count",
         "str": "Граф"
+    },
+    {
+        "key": "D627A24C4957566043D3F0ADF0F70B9E",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
+        "id": "Playgrounds",
+        "str": "Площадка"
+    },
+    {
+        "key": "D675865B4BDBCFCA800BB498976F9CA3",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(2 - Value).languages_Value",
+        "id": "French",
+        "str": "Французский"
     },
     {
         "key": "D6990E6E49842675F17A4992C44B2E98",
@@ -1386,16 +1380,16 @@
         "str": "Качество отражения"
     },
     {
-        "key": "D7A8E5594548CA2B2074858BD20BD757",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(8 - Value).languages_Value",
-        "id": "norwegian",
-        "str": "Норвежский"
-    },
-    {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(16 - Value).DisplayNameMap",
         "id": "Knives",
         "str": "Ножи"
+    },
+    {
+        "key": "D8AACAC34D6DBE3AEDA973BB44F79452",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(8 - Value).languages_Value",
+        "id": "Norwegian",
+        "str": "Норвежский"
     },
     {
         "key": "D8CB256A4FC1286A3BD465B95B7398D6",
@@ -1432,12 +1426,6 @@
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Door",
         "str": "Дверь"
-    },
-    {
-        "key": "DAD646A44B54CD7B7F6A768D07BAF660",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(0 - Value).languages_Value",
-        "id": "english",
-        "str": "Английский"
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -1500,12 +1488,6 @@
         "str": "Нормальный"
     },
     {
-        "key": "E65B230748665A892261BD86E7381E3C",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(15 - Value).languages_Value",
-        "id": "arabic",
-        "str": "Арабский"
-    },
-    {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_56.Text",
         "id": "Temporal Upsample",
@@ -1544,8 +1526,20 @@
     {
         "key": "EBC92CA44981FDF83EACECB976139FEB",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(18 - Value).languages_Value",
-        "id": "korean",
+        "id": "Korean",
         "str": "Корейский"
+    },
+    {
+        "key": "EC7F93EC4CB48E186252D6818A3CC280",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(13 - Value).languages_Value",
+        "id": "Thai",
+        "str": "Тайский"
+    },
+    {
+        "key": "ECD25AAD47C7B377399945AFABE4A8F4",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(3 - Value).languages_Value",
+        "id": "Italian",
+        "str": "Итальянский"
     },
     {
         "key": "EEDF290B45DB5AF30C76E782E339BEB8",
@@ -1632,12 +1626,6 @@
         "str": "О, нет..."
     },
     {
-        "key": "FA3449364C245741ADD68FB81D76855E",
-        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(6 - Value).languages_Value",
-        "id": "hungarian",
-        "str": "Венгерский"
-    },
-    {
         "key": "FA4E21624A2D966B1B2ED19005131257",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traditional",
@@ -1684,6 +1672,12 @@
         "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
         "str": "ТЫ ПРОИГРАЛ"
+    },
+    {
+        "key": "FEA544BE47CF13811FC6FAA6D9A0228D",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(5 - Value).languages_Value",
+        "id": "Portuguese",
+        "str": "Португальский"
     },
     {
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",

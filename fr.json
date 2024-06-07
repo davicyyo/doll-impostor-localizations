@@ -3,7 +3,7 @@
         "key": "0078964D495E90CB9C263D86C289F115",
         "location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Tea with friends",
-        "str": "Thé avec ses Amis"
+        "str": "Thé avec ses amis"
     },
     {
         "key": "009701014DE8ACDFA9279092EA4CA3D3",
@@ -157,7 +157,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_78.Text",
         "id": "Back",
         "str": "Retour"
     },
@@ -175,7 +175,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
         "str": "Quitter"
     },
@@ -231,7 +231,7 @@
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
         "id": "Tea with enemies",
-        "str": "Thé avec ses Ennemis"
+        "str": "Thé avec ses ennemis"
     },
     {
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
@@ -274,12 +274,6 @@
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(23 - Value).languages_Value",
         "id": "Romanian",
         "str": "Roumain"
-    },
-    {
-        "key": "2A73A1A04BCF740241E4C3A29DA019E1",
-        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
-        "id": "Multigames",
-        "str": "Aire de Jeux"
     },
     {
         "key": "2B1AABE94263FF89EC34AFB311957544",
@@ -403,7 +397,7 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
         "str": "Paramètres"
     },
@@ -417,7 +411,7 @@
         "key": "411476E94611E3ECBFFCB29460596681",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_75.Text",
         "id": "Move Right",
-        "str": "Aller à Droite"
+        "str": "Aller à droite"
     },
     {
         "key": "4248DBDB48DBD64CC700D1A6E872840C",
@@ -555,7 +549,7 @@
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
         "id": "Camp with enemies",
-        "str": "Camper avec ses Ennemis"
+        "str": "Camper avec ses ennemis"
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
@@ -903,7 +897,7 @@
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
-        "str": "Camper avec ses Amis"
+        "str": "Camper avec ses amis"
     },
     {
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
@@ -933,7 +927,7 @@
         "key": "91B3AF44465FA4D4F6976EA74F572B41",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show names",
-        "str": "Afficher les noms"
+        "str": "Afficher les Noms"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -951,7 +945,7 @@
         "key": "9432768D4222957489019C86BD251CA3",
         "location": "/Game/enums/actions.actions.DisplayNameMap(20 - Value).DisplayNameMap",
         "id": "Carousel with enemies",
-        "str": "Carrousel avec ses Ennemis"
+        "str": "Carrousel avec ses ennemis"
     },
     {
         "key": "94C1D362417DAA6789DAC39870AD9352",
@@ -973,7 +967,7 @@
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
         "id": "Action Details",
         "str": "Détails des Actions"
     },
@@ -1362,6 +1356,12 @@
         "str": "Le Conte"
     },
     {
+        "key": "D627A24C4957566043D3F0ADF0F70B9E",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
+        "id": "Playgrounds",
+        "str": "Terrain de jeu"
+    },
+    {
         "key": "D675865B4BDBCFCA800BB498976F9CA3",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(2 - Value).languages_Value",
         "id": "French",
@@ -1479,7 +1479,7 @@
         "key": "E4EB2DCA415335BFF53C5EA064A15617",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_44.Text",
         "id": "Volumetric Fog Quality",
-        "str": "Qualité du Brouillard Volumétrique"
+        "str": "Qualité du brouillard Volumétrique"
     },
     {
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
@@ -1605,7 +1605,7 @@
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ringmaster",
-        "str": "La Cheffe de Cérémonie"
+        "str": "La Maître de Cérémonie"
     },
     {
         "key": "F76B117249DC58E73F25D38547349519",
@@ -1695,6 +1695,6 @@
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
         "location": "/Game/enums/actions.actions.DisplayNameMap(19 - Value).DisplayNameMap",
         "id": "Carousel with friends",
-        "str": "Carrousel avec ses Amis"
+        "str": "Carrousel avec ses amis"
     }
 ]
