@@ -1,0 +1,1700 @@
+[
+    {
+        "key": "0078964D495E90CB9C263D86C289F115",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
+        "id": "Tea with friends",
+        "str": "Чай з друзями"
+    },
+    {
+        "key": "009701014DE8ACDFA9279092EA4CA3D3",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_77.Text",
+        "id": "Video Settings",
+        "str": "Налаштування відео"
+    },
+    {
+        "key": "01A2125C4F867B60C4E289ACD43FEBF9",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Mentor",
+        "str": "Наставник"
+    },
+    {
+        "key": "0285258748FED1BC6E542F80A9097CE9",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(32 - Value).DisplayNameMap",
+        "id": "Tea",
+        "str": "Чай"
+    },
+    {
+        "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_59.Text",
+        "id": "Borderless",
+        "str": "Без рамок"
+    },
+    {
+        "key": "0375A2D542A72CFAD4E4CA8A30C56CC4",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Duchess",
+        "str": "Герцогиня"
+    },
+    {
+        "key": "04119A0C4BAB3896CA5F208DA41F582A",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
+        "str": "Схоже, що самозванець зробив кілька подій. Вони будуть відображатися на вашій лівій панелі. Перегляньте їх, а потім знову зайдіть у кімнату."
+    },
+    {
+        "key": "0593C38042D49BC9D0958EB990324EFA",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
+        "id": "Jail Self",
+        "str": "Ув’язнити себе"
+    },
+    {
+        "key": "067ABF5D4328EEF476A32C85D52E02A1",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
+        "id": "Confuse",
+        "str": "Збити з пантелику"
+    },
+    {
+        "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(31 - Value).DisplayNameMap",
+        "id": "Seesaws",
+        "str": "Гойдалки"
+    },
+    {
+        "key": "073BF882481ECDE57F50FF98957A3C22",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "You've unlocked a new difficulty!",
+        "str": "Ви розблокували нову складність!"
+    },
+    {
+        "key": "08AF4F5F4D1847B044DAC7BF08212C57",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(10 - Value).languages_Value",
+        "id": "Dutch",
+        "str": "Голландська"
+    },
+    {
+        "key": "08D502454BD58980CE9821826F40CC46",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(21 - Value).languages_Value",
+        "id": "Czech",
+        "str": "/aa"
+    },
+    {
+        "key": "08FC22B7498C0918FE50E0AB274B5889",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
+        "str": "Не забудьте тримати двері замкненими на засув. Якщо цього не зробити, ляльки можуть вийти, змінити ваші тести і навіть убити вас."
+    },
+    {
+        "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
+        "str": "Це кімната ляльок. Тут ви побачите, що вони робили, поки ви спали. Погляньте на них, а потім повернемося до кімнати."
+    },
+    {
+        "key": "09CCC43B450A924B1414CEA6C17A4E5D",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_46.Text",
+        "id": "Language",
+        "str": "Мова"
+    },
+    {
+        "key": "0A3D5EC2435134BB35A189A4B69C4101",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Room",
+        "str": "Кімната"
+    },
+    {
+        "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(36 - Value).DisplayNameMap",
+        "id": "Bouncy castles",
+        "str": "Надувні замки"
+    },
+    {
+        "key": "0B2A9AAE439C83F5A59624AAE1C48AAE",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Traps",
+        "str": "Пастки"
+    },
+    {
+        "key": "0BE1B9C54499AA9F3A64BBBDD1482D26",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Motivator",
+        "str": "Мотиватор"
+    },
+    {
+        "key": "0CA5844D4070A29607D91D9C17419FCD",
+        "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
+        "id": "Skip all hours",
+        "str": "Пропустити всі години"
+    },
+    {
+        "key": "0CC5F8694CE6C6DEA29A219EA3A5B801",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_49.Text",
+        "id": "Global Illumination Quality",
+        "str": "Якість глобального освітлення"
+    },
+    {
+        "key": "0D33F3C64097DC3B481D9DBBE348199B",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_117.Text",
+        "id": "Smooth Camera",
+        "str": "Плавна камера"
+    },
+    {
+        "key": "0DCDE313473E8A6D40F69ABCD969645B",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
+        "id": "Swing Self",
+        "str": "Розгойдувати себе"
+    },
+    {
+        "key": "0E888CB843DF92D55BD437BEB42F99EB",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
+        "str": "Повернімося до панелі та почнемо виключати підозрюваних, які не відповідають нашим доказам."
+    },
+    {
+        "key": "0EBDA17F450C39EF22E70592BF2B4162",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Dreadful",
+        "str": "Страшний"
+    },
+    {
+        "key": "11739C0E41A20499E9C760B853C45A40",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+        "id": "Back",
+        "str": "Назад"
+    },
+    {
+        "key": "143BBE1843E5BD9D98FB8C9B4041B306",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Beautiful",
+        "str": "Красуня"
+    },
+    {
+        "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(10 - Value).DisplayNameMap",
+        "id": "Fireworks",
+        "str": "Феєрверки"
+    },
+    {
+        "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
+        "id": "Exit",
+        "str": "Вихід"
+    },
+    {
+        "key": "175FDB6245E5ED987CC62684AC5049E4",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_83.Text",
+        "id": "Run",
+        "str": "Бігти"
+    },
+    {
+        "key": "19750FC24F8A0B2279246B801F612D34",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(5 - Value).DisplayNameMap",
+        "id": "Blood",
+        "str": "Кров"
+    },
+    {
+        "key": "1D5965BE4639794BCFFC6BA942EC1A62",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Gentleman",
+        "str": "Джентльмен"
+    },
+    {
+        "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_55.Text",
+        "id": "Screen Percentage",
+        "str": "Відсоток екрану"
+    },
+    {
+        "key": "1F51194C47FBB1A80E8868BDC35CC619",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(35 - Value).DisplayNameMap",
+        "id": "Sandbox",
+        "str": "Пісочниця"
+    },
+    {
+        "key": "21952B6F489AA6A8308F0591867EAC2B",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
+        "id": "Loves",
+        "str": "Любить"
+    },
+    {
+        "key": "21C6BEE848F00F2E624858864EE7CD22",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(7).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Board Place",
+        "str": "Місце для Дошки"
+    },
+    {
+        "key": "21FD3D1D43C022720514D89AC43F3A61",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
+        "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
+        "str": "У вас є всі підказки та вся інформація про ляльок, але це повністю випадково для кожної ляльки."
+    },
+    {
+        "key": "21FFAF7243B370CCA19D849D0F92E7A4",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
+        "id": "Tea with enemies",
+        "str": "Чай з ворогами"
+    },
+    {
+        "key": "25672B2F428EDE34D8AE9C8193CD05D6",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_100.Text",
+        "id": "Camera Sensivity",
+        "str": "Чутливість камери"
+    },
+    {
+        "key": "26671A61466BC92E1171AEBD64B64B7C",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_52.Text",
+        "id": "Low",
+        "str": "Низький"
+    },
+    {
+        "key": "267DB35B4828F6D27920F0A6E4892E5A",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_135.Text",
+        "id": "Reflection Method",
+        "str": "Метод відображення"
+    },
+    {
+        "key": "280CCA894BF0E14C4DB4268303AB1101",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(4 - Value).languages_Value",
+        "id": "German",
+        "str": "Німецька"
+    },
+    {
+        "key": "28953C4E43697949852B609F8D0793FB",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_115.Text",
+        "id": "Off",
+        "str": "Вимкнено"
+    },
+    {
+        "key": "28D64D924C4E1CEAA574618C9450E217",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(20 - Value).languages_Value",
+        "id": "Ukranian",
+        "str": "/aa"
+    },
+    {
+        "key": "29F3050C4339ED0EDB9AF3A02F1F9377",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(23 - Value).languages_Value",
+        "id": "Romanian",
+        "str": "/aa"
+    },
+    {
+        "key": "2A73A1A04BCF740241E4C3A29DA019E1",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
+        "id": "Multigames",
+        "str": "Багатоігрові"
+    },
+    {
+        "key": "2B1AABE94263FF89EC34AFB311957544",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(0 - Value).languages_Value",
+        "id": "English",
+        "str": "Англійська"
+    },
+    {
+        "key": "2C9826E7491425A6734CEB96CDC60470",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "Ms. Excellence",
+        "str": "Міс Досконалість"
+    },
+    {
+        "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Demon",
+        "str": "/aa"
+    },
+    {
+        "key": "2D485E384A7ABE47FD44F58A954301B6",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
+        "id": "Hard",
+        "str": "Важко"
+    },
+    {
+        "key": "2DEA68154A30209AA0698497E47F9DA9",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
+        "id": "Leaderboard Endless",
+        "str": "Нескінченний рейтинг"
+    },
+    {
+        "key": "2DF9E60442DE6DF03EF241849D289A55",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_106.Text",
+        "id": "Main Menu",
+        "str": "Головне меню"
+    },
+    {
+        "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_58.Text",
+        "id": "Fullscreen",
+        "str": "На весь екран"
+    },
+    {
+        "key": "2F3FBBCE4FDBC6D670CB188A9F33CF4B",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_24.Text",
+        "id": "Shading Quality",
+        "str": "Якість тіней"
+    },
+    {
+        "key": "2FEF48E44B224E75C8DE41B0CF76566A",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Lie bytes",
+        "str": "Байти брехні"
+    },
+    {
+        "key": "31AE9D6F49C281739FC52A9BDFD80478",
+        "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
+        "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the gear icon on your desktop!",
+        "str": "Ласкаво просимо до притулку! Це ваша безпечна зона. Тут ви можете розпочати нову гру на комп’ютері, переглянути свою колекцію ляльок і трофеїв, а також налаштувати це місце, натиснувши значок шестірні на робочому столі!"
+    },
+    {
+        "key": "31D2289342B165F56F2435A9CDCEB36A",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_71.Text",
+        "id": "VSync",
+        "str": "VSync"
+    },
+    {
+        "key": "34568E7B486905A5400643A88FA2E8A8",
+        "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
+        "id": "Show list",
+        "str": "Показати список"
+    },
+    {
+        "key": "34AFF09749F832F67360E0923F227F4F",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Discards",
+        "str": "Відмови"
+    },
+    {
+        "key": "367FB31C49B8F835CBA9AAAF25735FD8",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Malicious",
+        "str": "Зловмисний"
+    },
+    {
+        "key": "36DAFDA641D110060CAB6BBD14FE3722",
+        "location": "/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]",
+        "id": "Continue",
+        "str": "Продовжити"
+    },
+    {
+        "key": "37DB62854960261E8AF86C82B24C1276",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_16.Text",
+        "id": "High",
+        "str": "Високий"
+    },
+    {
+        "key": "37F6FE7147465126D16EBCAB90C1274D",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
+        "id": "Likes",
+        "str": "Подобається"
+    },
+    {
+        "key": "3837591C42D92A7775C0598726DC6D31",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_63.Text",
+        "id": "FPS Limit",
+        "str": "Ліміт FPS"
+    },
+    {
+        "key": "3A4B9B82453A3C78DD066BBB53AFC867",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
+        "str": "У нас залишилося лише 3. Підемо в кімнату, щоб побачити, хто перемістився, а кого перемістили."
+    },
+    {
+        "key": "3E796087492560DF199BD58F4D3A3731",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_62.Text",
+        "id": "Move Backward",
+        "str": "Рух назад"
+    },
+    {
+        "key": "3FD3275141C46D8A4E7B0C8B98721113",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "id": "Settings",
+        "str": "Налаштування"
+    },
+    {
+        "key": "403316C242142BFE9F809BA3338124D7",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(6 - Value).languages_Value",
+        "id": "Hungarian",
+        "str": "Угорська"
+    },
+    {
+        "key": "411476E94611E3ECBFFCB29460596681",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_75.Text",
+        "id": "Move Right",
+        "str": "Рух вправо"
+    },
+    {
+        "key": "4248DBDB48DBD64CC700D1A6E872840C",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(3).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Roof Materials",
+        "str": "Матеріали для Даху"
+    },
+    {
+        "key": "435F09EA4A22A70427D476927B999810",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(2).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Floor Materials",
+        "str": "Матеріали для Підлоги"
+    },
+    {
+        "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_21.Text",
+        "id": "Name",
+        "str": "Ім'я"
+    },
+    {
+        "key": "455698874FAE4AEB808E15AA36758F84",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(30 - Value).DisplayNameMap",
+        "id": "Houses",
+        "str": "Будинки"
+    },
+    {
+        "key": "45DB611B482D35EE05ADE98331F2EC20",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Haunting",
+        "str": "Переслідуючий"
+    },
+    {
+        "key": "460FFB13421148C8493D69A72A81E93C",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_85.Text",
+        "id": "Use",
+        "str": "Використовувати"
+    },
+    {
+        "key": "4634F1C448A78E03F4AC7B94441281EB",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
+        "id": "Resume Game",
+        "str": "Відновити гру"
+    },
+    {
+        "key": "47254BE24A91487FA9DB08918BAFEBED",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
+        "str": "Ви пройшли навчання, знаєте основи! Щоб завершити навчання, йдіть спати. Ви перейдете до своєї безпечної зони. Використовуйте комп’ютер, щоб розпочати гру!"
+    },
+    {
+        "key": "489847144EB616BAFF99E4A803BEC32C",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(11).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Sticker Bed",
+        "str": "Наклейка на Ліжко"
+    },
+    {
+        "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Ominous",
+        "str": "Зловісний"
+    },
+    {
+        "key": "49B315454A07028DFEC0AD8B9D05C3FA",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
+        "id": "Global",
+        "str": "Глобально"
+    },
+    {
+        "key": "49EE0D0C418246C21899368F2615D0DE",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(26 - Value).DisplayNameMap",
+        "id": "Trains",
+        "str": "Потяги"
+    },
+    {
+        "key": "4A4EFF4C40A276033B050495CB6E5179",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
+        "id": "World",
+        "str": "Світ"
+    },
+    {
+        "key": "4A5C2D4943F1DCB07E9919B822A67067",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "You can try it now in the main menu",
+        "str": "Ви можете спробувати це зараз в головному меню"
+    },
+    {
+        "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Governor",
+        "str": "Губернатор"
+    },
+    {
+        "key": "50CA9C1F443642D2B6B6BE9E5D1E302F",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_50.Text",
+        "id": "Global Illumination Method",
+        "str": "Метод глобального освітлення"
+    },
+    {
+        "key": "5220ED3742AAD20F53D18B86F110B811",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
+        "str": "Ви - охоронець ляльок, одна з них жива і має намір убити вас. Ви повинні з’ясувати, хто це до 09:00."
+    },
+    {
+        "key": "522781374DAEE121A2170885FDA53B63",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_129.Text",
+        "id": "Master Volume",
+        "str": "Основна гучність"
+    },
+    {
+        "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
+        "str": "Чудово, у нас залишилося 5 підозрюваних. Підемо спати знову."
+    },
+    {
+        "key": "554BB9D046155183D4DCF7A14F96171E",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Duke",
+        "str": "Герцог"
+    },
+    {
+        "key": "55EFF97C47FCF01169E8B286F2C36B0D",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(13).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Sticker Statue Right",
+        "str": "Наклейка на Статую Праворуч"
+    },
+    {
+        "key": "576A0B8341B664A252403EBC3BC4DF35",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(22 - Value).languages_Value",
+        "id": "Danish",
+        "str": "/aa"
+    },
+    {
+        "key": "591DF6954C2D384CBCCD838B12BD62CA",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
+        "id": "Camp with enemies",
+        "str": "Табір з ворогами"
+    },
+    {
+        "key": "5981A77041F835414316E0BEA0C3C8F8",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "id": "YOU WIN",
+        "str": "Ви перемогли"
+    },
+    {
+        "key": "5A6092F448BE77B01756FFA578E7435A",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
+        "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
+        "str": "Випадковий, але нескінченний режим, у вас є 3-хвилинний таймер для вирішення справи, і є таблиця лідерів"
+    },
+    {
+        "key": "5AC930984185A24BC84F5EB1E734B80E",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Tubesocks",
+        "str": "/aa"
+    },
+    {
+        "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap",
+        "id": "Move Others",
+        "str": "Пересувати інших"
+    },
+    {
+        "key": "5E0DC4AE4575000AC0171F95AD85CADA",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_114.Text",
+        "id": "Depth of Field",
+        "str": "Глибина різкості"
+    },
+    {
+        "key": "5E1C23674444BB331554B39281C7EA20",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
+        "id": "Swing Others",
+        "str": "Розгойдувати інших"
+    },
+    {
+        "key": "5FB5FC2446272109CE6E9E89EFD770F5",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(7 - Value).languages_Value",
+        "id": "Bulgarian",
+        "str": "Болгарська"
+    },
+    {
+        "key": "60747A674F244C50BD7C42986DD084AD",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Widow",
+        "str": "Вдова"
+    },
+    {
+        "key": "611C7265455A03D1E36711A53C897A09",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Detective",
+        "str": "Детектив"
+    },
+    {
+        "key": "61579A7B4A7A797C38911980E669DE96",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
+        "id": "Jail Others",
+        "str": "Ув’язнити інших"
+    },
+    {
+        "key": "63063D214706E5FBBE2227836F1BE194",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.name_18_82096130492E34A890A0138C4910D929",
+        "id": "Circus",
+        "str": "Цирк"
+    },
+    {
+        "key": "63D67BF743D308E3537D9794B417B76A",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_5.Text",
+        "id": "Nightmare",
+        "str": "Жах"
+    },
+    {
+        "key": "64E292FF4533BC46C4BE84BD71E93B49",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(1 - Value).languages_Value",
+        "id": "Spanish",
+        "str": "Іспанська"
+    },
+    {
+        "key": "6540E66F480EE470D56246880E1AAC02",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
+        "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
+        "str": "Стандартний рівень складності для кожного гравця, всі підказки будуть зроблені о 08:00, у вас є можливість побачити імена ляльок та список дій самозванця"
+    },
+    {
+        "key": "6599647B49FD6A15932490B717FE66F3",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Lover",
+        "str": "Коханець"
+    },
+    {
+        "key": "6621BA854D50DB36041E58AFE9A250D5",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
+        "str": "Це остання година. У нас є тільки цей шанс, щоб з’ясувати. Підемо в кімнату."
+    },
+    {
+        "key": "67E721CC4E280A5A435BA1B141936D38",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_76.Text",
+        "id": "Brightness",
+        "str": "яскравість"
+    },
+    {
+        "key": "694809A74B440CDD18D181A8C6BA0434",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
+        "id": "Enemies",
+        "str": "Вороги"
+    },
+    {
+        "key": "6A1B28C14FD17FB8222E60837327DA35",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(4).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Doll",
+        "str": "Лялька"
+    },
+    {
+        "key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_84.Text",
+        "id": "Focus / Zoom",
+        "str": "Фокус / Зум"
+    },
+    {
+        "key": "6AFC77BB43DCD66B4099688FF725AB13",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
+        "id": "Play tutorial",
+        "str": "Грати навчальний посібник"
+    },
+    {
+        "key": "6B78310947BA56A4D0322EAFBC650458",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Macabre",
+        "str": "Макабричний"
+    },
+    {
+        "key": "6C1ECE72400B16925C467984CD496238",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_274.Text",
+        "id": "Show FPS",
+        "str": "Показувати FPS"
+    },
+    {
+        "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_4 [Script Bytecode]",
+        "id": "Partner",
+        "str": "Партнер"
+    },
+    {
+        "key": "7286FEC6469CF65A5584DB896D227680",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_61.Text",
+        "id": "Windowed",
+        "str": "Віконний"
+    },
+    {
+        "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Traitor",
+        "str": "Зрадник"
+    },
+    {
+        "key": "740E2993476C6AB0DEDC3BA514B0FF5F",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Comedian",
+        "str": "Комік"
+    },
+    {
+        "key": "7461839E43289FBE953BE6A6CD4D28D8",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Deadly",
+        "str": "Смертельний"
+    },
+    {
+        "key": "75A0760B4CF756F7572751980578A7E4",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Single",
+        "str": "Самотній"
+    },
+    {
+        "key": "75DB907D4C3E80ED887ACDA2AADF602C",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
+        "str": "Ви будете грати роль детектива, визначаючи, виходячи з симпатій і антипатій самозванця, зазначених на панелі зліва, що йому подобається і що не подобається, хто його вороги, друзі, любов чи ненависні особи."
+    },
+    {
+        "key": "773B946148501068D9A5B3A814B81ECD",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_74.Text",
+        "id": "Move Left",
+        "str": "Рух вліво"
+    },
+    {
+        "key": "77B833D146F6092C36476683B0F018EE",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_66.Text",
+        "id": "Apply",
+        "str": "Застосувати"
+    },
+    {
+        "key": "77DAE76A48EC13E45F2983881F23E808",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_133.Text",
+        "id": "Gameplay Settings",
+        "str": "Налаштування гри"
+    },
+    {
+        "key": "798C9DA54AB7FB8B77443DA0EE442098",
+        "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
+        "id": "Go to Safe House",
+        "str": "Іди до безпечного будинку"
+    },
+    {
+        "key": "7A08599C42C900970133A6A784ED359D",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(19 - Value).languages_Value",
+        "id": "Greek",
+        "str": "/aa"
+    },
+    {
+        "key": "7A1B535144D14883FAFEBFBA058F9815",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(26 - Value).languages_Value",
+        "id": "Indonesian",
+        "str": "/aa"
+    },
+    {
+        "key": "7A7523B24363943AC1ECCE9A0B2634F5",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(12 - Value).DisplayNameMap",
+        "id": "Balls",
+        "str": "М’ячі"
+    },
+    {
+        "key": "7B6CC6BA4D259033F5B946A472D9AB10",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Menacing",
+        "str": "Загрозливий"
+    },
+    {
+        "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
+        "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
+        "str": "Підходить лише для професіоналів, починається о 08:00 і містить лише 3 ефективні підказки, немає фотографій чи допомоги, деякі дані приховані, у вас обмежений доступ до карти"
+    },
+    {
+        "key": "7C75165C49E7D2EBD079048C7F8B471B",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_116.Text",
+        "id": "On",
+        "str": "Увімкнено"
+    },
+    {
+        "key": "7F18D69F420F68627730E39CE489A2EC",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
+        "str": "Давайте влаштуємо пастку для самозванця. Ми вже знаємо, що йому подобаються телевізор і музика. Увімкніть світло."
+    },
+    {
+        "key": "8048C27C4B137230FE4708ADFD1AD7F4",
+        "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
+        "id": "Show jumpscares",
+        "str": "Показати переляки"
+    },
+    {
+        "key": "8098B1CA4AED33E029A8D4878EE21A49",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "You've broken your new record with {new} nights! of the {old} nights before!",
+        "str": "Ви побили свій новий рекорд {new} ночами! Попередній був {old} ночей!"
+    },
+    {
+        "key": "815797D840D1A6AEC45401A9A3996DE0",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Don't trust",
+        "str": "Не довіряй"
+    },
+    {
+        "key": "8482CDF142B6B8DA6AB0148C9B01430B",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Tactician",
+        "str": "Тактик"
+    },
+    {
+        "key": "854C215D473F67A78E485AB2763E3311",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(12).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Sticker Statue Left",
+        "str": "Наклейка на Статую Ліворуч"
+    },
+    {
+        "key": "861BC3334DA37AC86541D3A027AF0196",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_4.Text",
+        "id": "Post Processing Quality",
+        "str": "Якість пост-обробки"
+    },
+    {
+        "key": "8785C0644A30D7680DD4668FB916A03A",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
+        "id": "Hide Others",
+        "str": "Сховати інших"
+    },
+    {
+        "key": "878E24534B885E2AB87EACB0394A0E58",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_40.Text",
+        "id": "Screen Mode",
+        "str": "Режим екрану"
+    },
+    {
+        "key": "8793689E435B182EC1B9B180AC5F9BE3",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(25 - Value).languages_Value",
+        "id": "Vietnamese",
+        "str": "/aa"
+    },
+    {
+        "key": "87FBE09C4BC5718F45CC6F8E716201AE",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(25 - Value).DisplayNameMap",
+        "id": "Tunnels",
+        "str": "Тунелі"
+    },
+    {
+        "key": "8A83135042983483AD6E609783F2B33F",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(15 - Value).languages_Value",
+        "id": "Arabic",
+        "str": "Арабська"
+    },
+    {
+        "key": "8AA6BC7A4ECFD2DE81947DAFBC338CFF",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_120.Text",
+        "id": "Head Bobbing",
+        "str": "Хитання головою"
+    },
+    {
+        "key": "8AD4AF9144723D23B2F4FF840A109AE4",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_34.Text",
+        "id": "View Distance Quality",
+        "str": "Якість дальності огляду"
+    },
+    {
+        "key": "8B7A2813470D5B634D42F1B18FD1C975",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Acrobat",
+        "str": "Акробат"
+    },
+    {
+        "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Well done!",
+        "str": "Молодець!"
+    },
+    {
+        "key": "8D62136643D4EAA319AD22BBFD4C8FD1",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(5).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Statue",
+        "str": "Статуя"
+    },
+    {
+        "key": "8DDD1FD04F1754E2F728208EBEF897FC",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
+        "id": "Camp with friends",
+        "str": "Табір з друзями"
+    },
+    {
+        "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(27 - Value).DisplayNameMap",
+        "id": "Cars",
+        "str": "Автомобілі"
+    },
+    {
+        "key": "8E5AFE684A85E803C6F5ADAD24BB2C1D",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Events",
+        "str": "Події"
+    },
+    {
+        "key": "8F3E9D0F491C15FF172D6FBC7422E252",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_80.Text",
+        "id": "Film Grain",
+        "str": "Зернистість Плівки"
+    },
+    {
+        "key": "901E40384D0FE3FAD3508F98408C18C7",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_22.Text",
+        "id": "Nights",
+        "str": "Ночі"
+    },
+    {
+        "key": "91B3AF44465FA4D4F6976EA74F572B41",
+        "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
+        "id": "Show names",
+        "str": "Показати імена"
+    },
+    {
+        "key": "928D8B36495F7CA7451ECC8DA2DD1850",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_420.Text",
+        "id": "Move Forward",
+        "str": "Рух вперед"
+    },
+    {
+        "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_8.Text",
+        "id": "Easy",
+        "str": "Легко"
+    },
+    {
+        "key": "9432768D4222957489019C86BD251CA3",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(20 - Value).DisplayNameMap",
+        "id": "Carousel with enemies",
+        "str": "Карусель з ворогами"
+    },
+    {
+        "key": "94C1D362417DAA6789DAC39870AD9352",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(16 - Value).languages_Value",
+        "id": "Japanese",
+        "str": "Японська"
+    },
+    {
+        "key": "95E8DAF7441719B3063BE7B84B85AE87",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text",
+        "id": "Random",
+        "str": "Випадковий"
+    },
+    {
+        "key": "966BA2A948A2BC025A15EBA7AD8767E0",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Diabolic",
+        "str": "Диявольський"
+    },
+    {
+        "key": "96BE28504D901245DE1115BF00D47E10",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
+        "id": "Action Details",
+        "str": "Деталі дії"
+    },
+    {
+        "key": "996579D246DE71F2608BB5BF8C353DA4",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Kid",
+        "str": "Дитина"
+    },
+    {
+        "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
+        "id": "Daycare",
+        "str": "Дитячий садок"
+    },
+    {
+        "key": "9B0C4F0544EED1171CEEF59539778188",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Unlucky",
+        "str": "/aa"
+    },
+    {
+        "key": "9CDEB80D4E621DB2CC0B839965697925",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Awkward",
+        "str": "/aa"
+    },
+    {
+        "key": "9CE4FD774DFBE4C84DC711A634666FA7",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Bot",
+        "str": "/aa"
+    },
+    {
+        "key": "9D7CA8BB4D12421F2093AB823A8EAC45",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(15 - Value).DisplayNameMap",
+        "id": "Cannon",
+        "str": "Гармата"
+    },
+    {
+        "key": "A10D3CC54716BA57FF17F9BA5A30C98C",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(17 - Value).languages_Value",
+        "id": "Polish",
+        "str": "Польська"
+    },
+    {
+        "key": "A1CB54034B401A0E8BBD049E18CBFADD",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
+        "id": "Random mode but in race mode with medals",
+        "str": "Випадковий режим, але в режимі гонки з медалями"
+    },
+    {
+        "key": "A2C08BE6447E2720D3051F8CA460E102",
+        "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
+        "id": "Can you help me with a positive review?",
+        "str": "Чи можете ви допомогти мені з позитивним відгуком?"
+    },
+    {
+        "key": "A31A514F4934E454FDB9F4BF3A480C84",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Grim",
+        "str": "Похмурий"
+    },
+    {
+        "key": "A31E36FD49232B770DC7A19D191B2CD2",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_14.Text",
+        "id": "Texture Quality",
+        "str": "Якість текстур"
+    },
+    {
+        "key": "A3D62121433289A73DEDBBB88ACD038C",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(6).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Bed Place",
+        "str": "Місце для Ліжка"
+    },
+    {
+        "key": "A6E8E3B84059F699472F1C8DECDAF09C",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Star",
+        "str": "Зірка"
+    },
+    {
+        "key": "A7C36D644573AD30716F4283EBBE53D2",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(28 - Value).DisplayNameMap",
+        "id": "Swings",
+        "str": "Гойдалки"
+    },
+    {
+        "key": "AA8520BE4876828E544192BFA8F98EE7",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
+        "id": "Move Self",
+        "str": "Рухатися самому"
+    },
+    {
+        "key": "AB6B64D64932C68A8743709693AF267B",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
+        "id": "Position",
+        "str": "Позиція"
+    },
+    {
+        "key": "AFC26E38415F397D92C04EA977140AA4",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(14 - Value).languages_Value",
+        "id": "Turkish",
+        "str": "Турецька"
+    },
+    {
+        "key": "AFC2B2644270E4DDA921A0AA0660BA68",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "To sleep, simply point at the bed and click on it.",
+        "str": "Щоб спати, просто наведіть вказівник на ліжко та натисніть на нього."
+    },
+    {
+        "key": "B084116A4B080238B7AB2A89F60A598E",
+        "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
+        "id": "Replay",
+        "str": "Повторити"
+    },
+    {
+        "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Grump",
+        "str": "Буркотун"
+    },
+    {
+        "key": "B1EDD61244DE779F674B3B8F073DEC74",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(12 - Value).languages_Value",
+        "id": "Chinesse",
+        "str": "Китайська"
+    },
+    {
+        "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
+        "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
+        "str": "Ще один крок складності, немає додаткових підказок, ви не можете бачити імена чи список"
+    },
+    {
+        "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
+        "id": "Race",
+        "str": "Гонка"
+    },
+    {
+        "key": "B300BE9147F822906E54C7A227BF23BA",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Welcome to Doll Impostor!",
+        "str": "Ласкаво просимо до \nЛялькового самозванця\n!"
+    },
+    {
+        "key": "B383AEBA444328B5A71FF88EF36A0DBB",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
+        "id": "Impostor",
+        "str": "Самозванець"
+    },
+    {
+        "key": "B40CBA3A4778871A485023833937F1BC",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(24 - Value).languages_Value",
+        "id": "Swedish",
+        "str": "/aa"
+    },
+    {
+        "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Light Colors",
+        "str": "Світлі Кольори"
+    },
+    {
+        "key": "B4559452445FD99D5366B68268BCFC9E",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "Congratulations!",
+        "str": "Вітаємо!"
+    },
+    {
+        "key": "B46005B1494B233FC63D6C92DB922873",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Doorman",
+        "str": "Дверник"
+    },
+    {
+        "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Terrifying",
+        "str": "Жахаючий"
+    },
+    {
+        "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Unnoticed",
+        "str": "Непомітний"
+    },
+    {
+        "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Loner",
+        "str": "Самотній"
+    },
+    {
+        "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_70.Text",
+        "id": "Unlimited",
+        "str": "Необмежено"
+    },
+    {
+        "key": "B80DB5B347D818912D3DD0AC6782A9AE",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(10).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Sticker PC Right",
+        "str": "Наклейка на ПК Праворуч"
+    },
+    {
+        "key": "B8952A3841AAE9C0034514AC607965D8",
+        "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
+        "id": "Refuge",
+        "str": "Притулок"
+    },
+    {
+        "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Ghoster",
+        "str": "Примарний"
+    },
+    {
+        "key": "B9B809EC40076554656E1A8C91157931",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Patriot",
+        "str": "Патріот"
+    },
+    {
+        "key": "BAD425AD48B5C8A24B0663948D13EA94",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Planner",
+        "str": "Планувальник"
+    },
+    {
+        "key": "BCA4F7E9472918A4030087B0CBCF7608",
+        "location": "/Game/functions/interfaceFunctions.interfaceFunctions_C:showPopup [Script Bytecode]",
+        "id": "OK",
+        "str": "OK"
+    },
+    {
+        "key": "BCB8724F4D70F43E391D0FB8984329C6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Diva",
+        "str": "Діва"
+    },
+    {
+        "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
+        "str": "Для початку є 20 ляльок. Перевірте їх на дошці, а коли будете готові, йдіть у кімнату, щоб зустріти їх."
+    },
+    {
+        "key": "BDC3A1864427A6240202ACAFA646188C",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Go to sleep and let's see if the clue is solved in the next hour.",
+        "str": "Йди спати, і подивимося, чи вирішиться підказка протягом наступної години."
+    },
+    {
+        "key": "BF221642449DB485C8FF39A6198C744B",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Sinister",
+        "str": "Зловісний"
+    },
+    {
+        "key": "BF4FA5364C39224BE93EC080C21FF285",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock.Text",
+        "id": "Mixed dolls",
+        "str": "Змішані ляльки"
+    },
+    {
+        "key": "BF587B62432840655EC059BE5054E289",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
+        "str": "Очевидно, що йому подобається кров. Це може бути один з двох, але перевірте ящики. Фредді зник, і його ящик повний крові. Він залишив цей вердикт для вас. Коли будете впевнені, відхиліть кандидата."
+    },
+    {
+        "key": "C0FE25964E732C097D287AB368FB54A4",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
+        "id": "Dislikes",
+        "str": "Не подобається"
+    },
+    {
+        "key": "C4293D874AEB12AAC1AD32B45232D916",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_19.Text",
+        "id": "Foliage Quality",
+        "str": "Якість листя"
+    },
+    {
+        "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
+        "id": "New Game",
+        "str": "Нова гра"
+    },
+    {
+        "key": "C8A00764485261B746BFEE94C58D6ECA",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Scary",
+        "str": "Лякаючий"
+    },
+    {
+        "key": "C8EFE1E14991B32EA2B4749FB8BDDA2B",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(9 - Value).languages_Value",
+        "id": "Russian",
+        "str": "Російська"
+    },
+    {
+        "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
+        "str": "Він потрапив у нашу пастку і вимкнув світло. Тепер ми можемо виключити всіх, хто любить світло."
+    },
+    {
+        "key": "CAECC15549067E173F931888596593F1",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Sweet",
+        "str": "Солодкий"
+    },
+    {
+        "key": "CB775D1F41F692F4946D738AA83BB23E",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
+        "id": "Friends",
+        "str": "Друзі"
+    },
+    {
+        "key": "CE51CF0E45E7C77AAF2014B784C79BAF",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_1.Text",
+        "id": "Anti Aliasing Quality",
+        "str": "Якість антиаліазінгу"
+    },
+    {
+        "key": "CE5521734152BB8FDF36949D84AA7F39",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Ghastly",
+        "str": "Жахливий"
+    },
+    {
+        "key": "CF3A6ECB45A9488C10D246A3FD143977",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Weasel",
+        "str": "Ласка"
+    },
+    {
+        "key": "D03A184741DBDC2985FBC9A454F19494",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Nervous",
+        "str": "Нервовий"
+    },
+    {
+        "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Spooky",
+        "str": "Моторошний"
+    },
+    {
+        "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Chilling",
+        "str": "Холодний"
+    },
+    {
+        "key": "D21EB0BD4EFEF4D2C05DC5995C80D19E",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_101.Text",
+        "id": "Invert Vertical Camera",
+        "str": "Інвертувати вертикальну камеру"
+    },
+    {
+        "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(9 - Value).DisplayNameMap",
+        "id": "Light",
+        "str": "Світло"
+    },
+    {
+        "key": "D43847EE40A03CCE1238E0A4BAB8F812",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "Translated by: {people}",
+        "str": "Перекладено: {people}"
+    },
+    {
+        "key": "D5C4F05D4A571EC53FDCBFA36976035A",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(11 - Value).languages_Value",
+        "id": "Finnish",
+        "str": "Фінська"
+    },
+    {
+        "key": "D618A4A346B0EA7CBABE00AA94C80485",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Count",
+        "str": "Граф"
+    },
+    {
+        "key": "D675865B4BDBCFCA800BB498976F9CA3",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(2 - Value).languages_Value",
+        "id": "French",
+        "str": "Французька"
+    },
+    {
+        "key": "D6990E6E49842675F17A4992C44B2E98",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_134.Text",
+        "id": "Restore Defaults",
+        "str": "Відновити за замовчуванням"
+    },
+    {
+        "key": "D74411DA44C682BCC2A3C6A703550D34",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_139.Text",
+        "id": "Reflection Quality",
+        "str": "Якість відображення"
+    },
+    {
+        "key": "D8A8DBB34AAD96AC66B54A87365822C9",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(16 - Value).DisplayNameMap",
+        "id": "Knives",
+        "str": "Ножі"
+    },
+    {
+        "key": "D8AACAC34D6DBE3AEDA973BB44F79452",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(8 - Value).languages_Value",
+        "id": "Norwegian",
+        "str": "Норвезька"
+    },
+    {
+        "key": "D8CB256A4FC1286A3BD465B95B7398D6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Flirt",
+        "str": "Фліртун"
+    },
+    {
+        "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
+        "id": "Hide Self",
+        "str": "Сховати себе"
+    },
+    {
+        "key": "D8F293214EA6402451DED28B75ADA37E",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_39.Text",
+        "id": "Screen Resolution",
+        "str": "Роздільна здатність екрану"
+    },
+    {
+        "key": "D955FAE74433E108EB3C078EF42B2DC8",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Quiet",
+        "str": "Тихий"
+    },
+    {
+        "key": "DA8892FC49F2D3A771BA82989F92E34F",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_3.Text",
+        "id": "Extreme",
+        "str": "Екстремальний"
+    },
+    {
+        "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Door",
+        "str": "Двері"
+    },
+    {
+        "key": "DAFC2C134E48E1FBE3399C9D15E37173",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Unsettling",
+        "str": "Тривожний"
+    },
+    {
+        "key": "DFC327DA4616540509FBF6AA40D0458B",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
+        "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
+        "str": "Режим експерта, ви починаєте з 06:00, немає додаткових підказок і фотографій"
+    },
+    {
+        "key": "DFCF9FFA438E6B63C7745586401C14BA",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The New",
+        "str": "Новий"
+    },
+    {
+        "key": "E238A88B4FBC7C4641B8E9A95353B1C0",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Indecent",
+        "str": "Непристойний"
+    },
+    {
+        "key": "E2CB7139460B057EE03A6CB218504477",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_9.Text",
+        "id": "Shadow Quality",
+        "str": "Якість тіней"
+    },
+    {
+        "key": "E2D484854A1C9DB14835A6AD457B6207",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(22 - Value).DisplayNameMap",
+        "id": "Balloons",
+        "str": "Повітряні кульки"
+    },
+    {
+        "key": "E394613B4B711D939E1FE59DF906D29B",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_390.Text",
+        "id": "Input Settings",
+        "str": "Налаштування вводу"
+    },
+    {
+        "key": "E447809B421298C1BDA5E4B063D86F49",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
+        "id": "Action Dolls",
+        "str": "Екшн-ляльки"
+    },
+    {
+        "key": "E4EB2DCA415335BFF53C5EA064A15617",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_44.Text",
+        "id": "Volumetric Fog Quality",
+        "str": "Якість об'ємного туману"
+    },
+    {
+        "key": "E60C061E42EEE57516BA1B83B2A64C7E",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_3.Text",
+        "id": "Normal",
+        "str": "Нормальний"
+    },
+    {
+        "key": "E75E972A4F2C8D92EC495294816B3C8D",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_56.Text",
+        "id": "Temporal Upsample",
+        "str": "Тимчасове збільшення зразків"
+    },
+    {
+        "key": "E7D75C9A40FB9B41721A46B5B7198EF1",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(9).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Sticker PC Left",
+        "str": "Наклейка на ПК Ліворуч"
+    },
+    {
+        "key": "E7FB8D7E41915A442999178F416329D7",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(14).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Sticker Garage",
+        "str": "Наклейка на Гараж"
+    },
+    {
+        "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
+        "id": "As you unlock new levels, new ones will appear!",
+        "str": "Як ви розблокуєте нові рівні, з'являться нові!"
+    },
+    {
+        "key": "E93B4EC241D67CCBA288EAB44234C576",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Wall Materials",
+        "str": "Матеріали для Стіни"
+    },
+    {
+        "key": "E9E818494A07397E77DFC8AEBFE671E0",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Dolls",
+        "str": "Ляльки"
+    },
+    {
+        "key": "EBC92CA44981FDF83EACECB976139FEB",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(18 - Value).languages_Value",
+        "id": "Korean",
+        "str": "/aa"
+    },
+    {
+        "key": "EC7F93EC4CB48E186252D6818A3CC280",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(13 - Value).languages_Value",
+        "id": "Thai",
+        "str": "Тайська"
+    },
+    {
+        "key": "ECD25AAD47C7B377399945AFABE4A8F4",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(3 - Value).languages_Value",
+        "id": "Italian",
+        "str": "Італійська"
+    },
+    {
+        "key": "EEDF290B45DB5AF30C76E782E339BEB8",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_110.Text",
+        "id": "Invert Horizontal Camera",
+        "str": "Інвертувати горизонтальну камеру"
+    },
+    {
+        "key": "EFA9D69B4D4772938CC6CF9CBA9CEE11",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_29.Text",
+        "id": "Visual Effects Quality",
+        "str": "Якість візуальних ефектів"
+    },
+    {
+        "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_113.Text",
+        "id": "Field of View",
+        "str": "Поле зору"
+    },
+    {
+        "key": "F167859643FD37B593110B9A866E9EB3",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text",
+        "id": "Endless",
+        "str": "Нескінченно"
+    },
+    {
+        "key": "F1A567314CC85A9B4BE63EB07F379A28",
+        "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_20.Text",
+        "id": "Medium",
+        "str": "Середній"
+    },
+    {
+        "key": "F22CBEE0429B4D716137DE9A58D8A371",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Frightening",
+        "str": "Лякаючий"
+    },
+    {
+        "key": "F28247BF4A488DEE853285BA1EBC6188",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.name_18_82096130492E34A890A0138C4910D929",
+        "id": "House",
+        "str": "Будинок"
+    },
+    {
+        "key": "F2BC9C064F532236387F0ABC86BA8078",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap",
+        "id": "Organization",
+        "str": "Організація"
+    },
+    {
+        "key": "F328405344EB2B4CB4D34EA75D918FD1",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
+        "id": "Hates",
+        "str": "Ненавидить"
+    },
+    {
+        "key": "F343C45143C6D6F84AC69C85B3A85B2F",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(7 - Value).DisplayNameMap",
+        "id": "Tv",
+        "str": "Телебачення"
+    },
+    {
+        "key": "F4CB65EF48F9C01CD6AB509912890A36",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Ringmaster",
+        "str": "Циркач"
+    },
+    {
+        "key": "F76B117249DC58E73F25D38547349519",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(8).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Mini Object",
+        "str": "Міні Об'єкт"
+    },
+    {
+        "key": "F7F54678404761EAEB33B4B508EC97D1",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Hope",
+        "str": "Надія"
+    },
+    {
+        "key": "F83E76BC49FC84244322C382556B6E5F",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "Oh no...",
+        "str": "О ні..."
+    },
+    {
+        "key": "FA4E21624A2D966B1B2ED19005131257",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Traditional",
+        "str": "Традиціоналіст"
+    },
+    {
+        "key": "FA89ED204F28013D22A23CAE49ADAC61",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Sleep",
+        "str": "Сон"
+    },
+    {
+        "key": "FACAB65943781B084CD803A77E0F7266",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Gurl",
+        "str": "/aa"
+    },
+    {
+        "key": "FAD096A047C791A2435446A372491A59",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
+        "str": "У нас є Ріккі на дивані та Монті біля піаніно, тож у нас уже є 2 можливих кандидати. Однак ми не будемо ризикувати 50%. Повернімося до кімнати, щоб виключити того, хто не може бути, і почекати його наступної події."
+    },
+    {
+        "key": "FC67115746EDB65A022A51B4C1176418",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
+        "str": "Ви маєте {new} ночей, вам не вдалося побити свій рекорд {old} ночей"
+    },
+    {
+        "key": "FD50C07D436B39761D90A28961DE809F",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(2 - Value).DisplayNameMap",
+        "id": "Open Boxes",
+        "str": "Відкрити коробки"
+    },
+    {
+        "key": "FE11E6ED4FA63C5B12631383E56A20B5",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "You've unlocked the {map} Map!",
+        "str": "Ви розблокували карту {map}!"
+    },
+    {
+        "key": "FE160B74470133E4B513D18D4566D063",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "id": "YOU LOSE",
+        "str": "Ви програли"
+    },
+    {
+        "key": "FEA544BE47CF13811FC6FAA6D9A0228D",
+        "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(5 - Value).languages_Value",
+        "id": "Portuguese",
+        "str": "Португальська"
+    },
+    {
+        "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
+        "id": "Play",
+        "str": "Грати"
+    },
+    {
+        "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(4 - Value).DisplayNameMap",
+        "id": "Music",
+        "str": "Музика"
+    },
+    {
+        "key": "FF934248449771227CA5E6BAC5FBE7AF",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(19 - Value).DisplayNameMap",
+        "id": "Carousel with friends",
+        "str": "Карусель з друзями"
+    }
+]
