@@ -99,7 +99,7 @@
         "key": "0A3D5EC2435134BB35A189A4B69C4101",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Room",
-        "str": "Salle des Poupées"
+        "str": "Chambre"
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -274,6 +274,12 @@
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(23 - Value).languages_Value",
         "id": "Romanian",
         "str": "Roumain"
+    },
+    {
+        "key": "2A73A1A04BCF740241E4C3A29DA019E1",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
+        "id": "Playgrounds",
+        "str": "Aire de Jeux"
     },
     {
         "key": "2B1AABE94263FF89EC34AFB311957544",
@@ -675,7 +681,7 @@
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
         "id": "Play tutorial",
-        "str": "Jouer le Tutoriel"
+        "str": "Tutoriel"
     },
     {
         "key": "6B78310947BA56A4D0322EAFBC650458",
