@@ -48,10 +48,10 @@
         "str": "S'emprisonner"
     },
     {
-        "key": "067ABF5D4328EEF476A32C85D52E02A1",
+        "key": "420F5BCA40413C0383C7AA9583EEC5C0",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
-        "id": "Confuse",
-        "str": "Induire en Erreur"
+        "id": "Mislead",
+        "str": "Induire en erreur"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -141,7 +141,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Se balancer"
+        "str": "Se Balancer"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -279,7 +279,7 @@
         "key": "2A73A1A04BCF740241E4C3A29DA019E1",
         "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
         "id": "Playgrounds",
-        "str": "Aire de Jeux"
+        "str": "Aire de jeux"
     },
     {
         "key": "2B1AABE94263FF89EC34AFB311957544",
@@ -333,7 +333,7 @@
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lie bytes",
-        "str": "La Lie Bytes"
+        "str": "Lie Bytes"
     },
     {
         "key": "31AE9D6F49C281739FC52A9BDFD80478",
@@ -351,7 +351,7 @@
         "key": "34568E7B486905A5400643A88FA2E8A8",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show list",
-        "str": "Afficher la liste"
+        "str": "Afficher la liste d'événements"
     },
     {
         "key": "34AFF09749F832F67360E0923F227F4F",
@@ -423,7 +423,7 @@
         "key": "4248DBDB48DBD64CC700D1A6E872840C",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(3).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Roof Materials",
-        "str": "Matériaux de Toiture"
+        "str": "Matériaux de Plafond"
     },
     {
         "key": "435F09EA4A22A70427D476927B999810",
@@ -489,7 +489,7 @@
         "key": "49EE0D0C418246C21899368F2615D0DE",
         "location": "/Game/enums/actions.actions.DisplayNameMap(26 - Value).DisplayNameMap",
         "id": "Trains",
-        "str": "Trains"
+        "str": "Petits Trains"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -579,7 +579,7 @@
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap",
         "id": "Move Others",
-        "str": "Déplacer les Autres"
+        "str": "Déplacer les autres"
     },
     {
         "key": "5E0DC4AE4575000AC0171F95AD85CADA",
@@ -591,7 +591,7 @@
         "key": "5E1C23674444BB331554B39281C7EA20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
-        "str": "Balancer les Autres"
+        "str": "Balancer les autres"
     },
     {
         "key": "5FB5FC2446272109CE6E9E89EFD770F5",
@@ -615,7 +615,7 @@
         "key": "61579A7B4A7A797C38911980E669DE96",
         "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
         "id": "Jail Others",
-        "str": "Emprisonner les Autres"
+        "str": "Emprisonner les autres"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -843,7 +843,7 @@
         "key": "8785C0644A30D7680DD4668FB916A03A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
         "id": "Hide Others",
-        "str": "Cacher les Autres"
+        "str": "Cacher les autres"
     },
     {
         "key": "878E24534B885E2AB87EACB0394A0E58",
@@ -873,7 +873,7 @@
         "key": "8AA6BC7A4ECFD2DE81947DAFBC338CFF",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_120.Text",
         "id": "Head Bobbing",
-        "str": "Balancement de tête"
+        "str": "Mouvements de Tête"
     },
     {
         "key": "8AD4AF9144723D23B2F4FF840A109AE4",
@@ -933,7 +933,7 @@
         "key": "91B3AF44465FA4D4F6976EA74F572B41",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show names",
-        "str": "Afficher les Noms"
+        "str": "Afficher les noms"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -1473,7 +1473,7 @@
         "key": "E394613B4B711D939E1FE59DF906D29B",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_390.Text",
         "id": "Input Settings",
-        "str": "Paramètres des Touches"
+        "str": "Paramètres des Contrôles"
     },
     {
         "key": "E447809B421298C1BDA5E4B063D86F49",
@@ -1485,7 +1485,7 @@
         "key": "E4EB2DCA415335BFF53C5EA064A15617",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_44.Text",
         "id": "Volumetric Fog Quality",
-        "str": "Qualité du brouillard Volumétrique"
+        "str": "Qualité du Brouillard Volumétrique"
     },
     {
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
@@ -1647,7 +1647,7 @@
         "key": "FACAB65943781B084CD803A77E0F7266",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gurl",
-        "str": "Le Gurl"
+        "str": "Gurl"
     },
     {
         "key": "FAD096A047C791A2435446A372491A59",
@@ -1665,13 +1665,13 @@
         "key": "FD50C07D436B39761D90A28961DE809F",
         "location": "/Game/enums/actions.actions.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Open Boxes",
-        "str": "Ouvrir les Boîtes"
+        "str": "Ouvrir les boîtes"
     },
     {
         "key": "FE11E6ED4FA63C5B12631383E56A20B5",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the {map} Map!",
-        "str": "Vous avez débloquer la Map {map} !"
+        "str": "Vous avez débloquer le niveau {map} !"
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
