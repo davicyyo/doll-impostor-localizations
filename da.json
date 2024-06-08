@@ -48,10 +48,10 @@
         "str": "Fængsl andre"
     },
     {
-        "key": "067ABF5D4328EEF476A32C85D52E02A1",
+        "key": "420F5BCA40413C0383C7AA9583EEC5C0",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
-        "id": "Confuse",
-        "str": "Forvirre"
+        "id": "Mislead",
+        "str": "Føre bag lyset"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -1360,6 +1360,12 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Count",
         "str": "Komikeren"
+    },
+    {
+        "key": "D627A24C4957566043D3F0ADF0F70B9E",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
+        "id": "Playgrounds",
+        "str": "Legepladser"
     },
     {
         "key": "D675865B4BDBCFCA800BB498976F9CA3",

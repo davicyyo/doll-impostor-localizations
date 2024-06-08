@@ -48,10 +48,10 @@
         "str": "سجن الذات"
     },
     {
-        "key": "067ABF5D4328EEF476A32C85D52E02A1",
+        "key": "420F5BCA40413C0383C7AA9583EEC5C0",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
-        "id": "Confuse",
-        "str": "إرباك"
+        "id": "Mislead",
+        "str": "إضلال"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -1359,7 +1359,7 @@
         "key": "D627A24C4957566043D3F0ADF0F70B9E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
         "id": "Playgrounds",
-        "str": ""
+        "str": "ملاعب الأطفال"
     },
     {
         "key": "D675865B4BDBCFCA800BB498976F9CA3",
