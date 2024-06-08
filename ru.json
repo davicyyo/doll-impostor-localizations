@@ -51,7 +51,7 @@
         "key": "067ABF5D4328EEF476A32C85D52E02A1",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
         "id": "Confuse",
-        "str": "Запутать"
+        "str": "Путать"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -87,7 +87,7 @@
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "Это комната с куклами. Здесь ты увидишь, что они делали, пока ты спал. Посмотри на изменения, а затем отправляйся в свою комнату."
+        "str": "Это комната с куклами. Здесь ты увидишь, что делала одержимая кукла, пока ты спал. Посмотри на изменения, а затем отправляйся в свою комнату."
     },
     {
         "key": "09CCC43B450A924B1414CEA6C17A4E5D",
@@ -105,7 +105,7 @@
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(36 - Value).DisplayNameMap",
         "id": "Bouncy castles",
-        "str": "Батуты"
+        "str": "Надувные замки"
     },
     {
         "key": "0B2A9AAE439C83F5A59624AAE1C48AAE",
@@ -297,7 +297,7 @@
         "key": "2D485E384A7ABE47FD44F58A954301B6",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
         "id": "Hard",
-        "str": "Сложно"
+        "str": "Сложный"
     },
     {
         "key": "2DEA68154A30209AA0698497E47F9DA9",
@@ -435,7 +435,7 @@
         "key": "455698874FAE4AEB808E15AA36758F84",
         "location": "/Game/enums/actions.actions.DisplayNameMap(30 - Value).DisplayNameMap",
         "id": "Houses",
-        "str": "Дома"
+        "str": "Домики"
     },
     {
         "key": "45DB611B482D35EE05ADE98331F2EC20",
@@ -483,7 +483,7 @@
         "key": "49EE0D0C418246C21899368F2615D0DE",
         "location": "/Game/enums/actions.actions.DisplayNameMap(26 - Value).DisplayNameMap",
         "id": "Trains",
-        "str": "Поезда"
+        "str": "Паровозики"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -729,7 +729,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Ты - детектив, которому нужно найти одержимую куклу, исходя из того, что ей нравится и не нравится, кто ее враги, друзья, любимые или ненавистные люди."
+        "str": "Ты - детектив, которому нужно найти одержимую куклу, исходя из того, что ей нравится и не нравится, кто её враги, друзья, любимые или ненавистные люди."
     },
     {
         "key": "773B946148501068D9A5B3A814B81ECD",
@@ -753,7 +753,7 @@
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
         "id": "Go to Safe House",
-        "str": "В безопасную зону"
+        "str": "В лобби"
     },
     {
         "key": "7A08599C42C900970133A6A784ED359D",
@@ -903,7 +903,7 @@
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(27 - Value).DisplayNameMap",
         "id": "Cars",
-        "str": "Машины"
+        "str": "Машинки"
     },
     {
         "key": "8E5AFE684A85E803C6F5ADAD24BB2C1D",
@@ -939,7 +939,7 @@
         "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_8.Text",
         "id": "Easy",
-        "str": "Легко"
+        "str": "Легкий"
     },
     {
         "key": "9432768D4222957489019C86BD251CA3",
@@ -1401,7 +1401,7 @@
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
         "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
         "id": "Hide Self",
-        "str": "Прятать себя"
+        "str": "Прятаться"
     },
     {
         "key": "D8F293214EA6402451DED28B75ADA37E",
