@@ -48,10 +48,10 @@
         "str": "Encarcelarse"
     },
     {
-        "key": "067ABF5D4328EEF476A32C85D52E02A1",
+        "key": "420F5BCA40413C0383C7AA9583EEC5C0",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
-        "id": "Confuse",
-        "str": "Confundir"
+        "id": "Mislead",
+        "str": "Engañar"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
