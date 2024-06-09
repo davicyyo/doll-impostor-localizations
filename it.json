@@ -225,7 +225,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "Hai tutti gli indizi e tutte le informazioni sulle bambole, ma questo è del tutto casuale per ciascuna bambola."
+        "str": "Hai tutti gli indizi e tutte le informazioni sulle bambole, ma cambiano in ogni nuova partita."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -567,7 +567,7 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Modalità casuale ma infinita, hai un timer di 3 minuti per risolvere il caso e c'è una classifica globale."
+        "str": "Modalità casuale ma infinita, hai un timer di 3 minuti per scoprire l'impostore e c'è una classifica globale."
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
@@ -639,7 +639,7 @@
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "La difficoltà standard, si possono trovare trovare prove fino alle 08:00, si può vedere il nome delle bambole e l'elenco delle azioni dell'impostore."
+        "str": "La difficoltà standard, si possono trovare trovare prove fino alle 08:00, si possono vedere i nomi delle bambole e l'elenco delle azioni dell'impostore."
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -789,7 +789,7 @@
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-        "str": "Adatto ai professionisti, inizia alle 08:00 e hai solo 3 indizi utili, non ci sono foto o aiuti, alcuni dati sono nascosti, l'accesso alla mappa è limitato."
+        "str": "Adatto ai professionisti, inizia alle 08:00 e ci sono solo 3 indizi utili, non ci sono le foto delle bambole o aiuti, alcune informazioni sulle bambole sono nascoste, l'accesso alla mappa è limitato."
     },
     {
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
@@ -1023,7 +1023,7 @@
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but in race mode with medals",
-        "str": "Modalità casuale ma in modalità gara con medaglie"
+        "str": "Modalità casuale, corsa contro il tempo con medaglie"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
