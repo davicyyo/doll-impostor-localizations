@@ -489,7 +489,7 @@
         "key": "49EE0D0C418246C21899368F2615D0DE",
         "location": "/Game/enums/actions.actions.DisplayNameMap(26 - Value).DisplayNameMap",
         "id": "Trains",
-        "str": "Petits Trains"
+        "str": "Petits trains"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -1347,7 +1347,7 @@
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
-        "str": "Traduis par: {people}"
+        "str": "Traduis par : {people}"
     },
     {
         "key": "D5C4F05D4A571EC53FDCBFA36976035A",
@@ -1365,7 +1365,7 @@
         "key": "D627A24C4957566043D3F0ADF0F70B9E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
         "id": "Playgrounds",
-        "str": "Aire de Jeux"
+        "str": "Aire de jeux"
     },
     {
         "key": "D675865B4BDBCFCA800BB498976F9CA3",
@@ -1611,7 +1611,7 @@
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ringmaster",
-        "str": "La Maître de Cérémonie"
+        "str": "Maîtresse de Cérémonie"
     },
     {
         "key": "F76B117249DC58E73F25D38547349519",
