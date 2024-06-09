@@ -129,7 +129,7 @@
         "key": "0CC5F8694CE6C6DEA29A219EA3A5B801",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_49.Text",
         "id": "Global Illumination Quality",
-        "str": "Качество глобального освещения"
+        "str": "Глобальное освещение"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
@@ -321,7 +321,7 @@
         "key": "2F3FBBCE4FDBC6D670CB188A9F33CF4B",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_24.Text",
         "id": "Shading Quality",
-        "str": "Качество теней"
+        "str": "Шейдеры"
     },
     {
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
@@ -831,7 +831,7 @@
         "key": "861BC3334DA37AC86541D3A027AF0196",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_4.Text",
         "id": "Post Processing Quality",
-        "str": "Качество постобработки"
+        "str": "Постобработка"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -873,7 +873,7 @@
         "key": "8AD4AF9144723D23B2F4FF840A109AE4",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_34.Text",
         "id": "View Distance Quality",
-        "str": "Качество на дистанции"
+        "str": "Изображение на дистанции"
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -1035,7 +1035,7 @@
         "key": "A31E36FD49232B770DC7A19D191B2CD2",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_14.Text",
         "id": "Texture Quality",
-        "str": "Качество текстур"
+        "str": "Текстуры"
     },
     {
         "key": "A3D62121433289A73DEDBBB88ACD038C",
@@ -1251,7 +1251,7 @@
         "key": "C4293D874AEB12AAC1AD32B45232D916",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Foliage Quality",
-        "str": "Качество листвы"
+        "str": "Листва"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -1293,7 +1293,7 @@
         "key": "CE51CF0E45E7C77AAF2014B784C79BAF",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_1.Text",
         "id": "Anti Aliasing Quality",
-        "str": "Качество сглаживания"
+        "str": "Сглаживание"
     },
     {
         "key": "CE5521734152BB8FDF36949D84AA7F39",
@@ -1377,7 +1377,7 @@
         "key": "D74411DA44C682BCC2A3C6A703550D34",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_139.Text",
         "id": "Reflection Quality",
-        "str": "Качество отражения"
+        "str": "Отражения"
     },
     {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
@@ -1455,7 +1455,7 @@
         "key": "E2CB7139460B057EE03A6CB218504477",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "Shadow Quality",
-        "str": "Качество теней"
+        "str": "Тени"
     },
     {
         "key": "E2D484854A1C9DB14835A6AD457B6207",
@@ -1479,7 +1479,7 @@
         "key": "E4EB2DCA415335BFF53C5EA064A15617",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_44.Text",
         "id": "Volumetric Fog Quality",
-        "str": "Качество объемного тумана"
+        "str": "Объемный туман"
     },
     {
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
@@ -1551,7 +1551,7 @@
         "key": "EFA9D69B4D4772938CC6CF9CBA9CEE11",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_29.Text",
         "id": "Visual Effects Quality",
-        "str": "Качество эффектов"
+        "str": "Визуальные эффекты"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
