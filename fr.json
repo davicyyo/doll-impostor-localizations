@@ -501,7 +501,7 @@
         "key": "4A5C2D4943F1DCB07E9919B822A67067",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in the main menu",
-        "str": "Vous pouvez essayer dès maintenant dans le menu principal !"
+        "str": "Vous pouvez l'essayer dès maintenant dans le menu principal !"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -525,7 +525,7 @@
         "key": "522781374DAEE121A2170885FDA53B63",
         "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_129.Text",
         "id": "Master Volume",
-        "str": "Volume Principal"
+        "str": "Volume Général"
     },
     {
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
@@ -567,7 +567,7 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Aléatoire et sans fin, vous avez un chronomètre de 3 minutes pour résoudre l'affaire et il y a un classement des leaders."
+        "str": "Un mélange entre le mode aléatoire et le mode course, vous avez 3 minutes pour résoudre chaque affaire et si vous vous trompez vous recommencez à zéro. Il y a un classement des meilleurs joueurs."
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
@@ -1023,7 +1023,7 @@
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but in race mode with medals",
-        "str": "Mode Aléatoire mais en course avec des médailles."
+        "str": "Mode Aléatoire mais en course contre le temps avec des médailles."
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
