@@ -276,12 +276,6 @@
         "str": "Roumain"
     },
     {
-        "key": "2A73A1A04BCF740241E4C3A29DA019E1",
-        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
-        "id": "Playgrounds",
-        "str": "Aire de jeux"
-    },
-    {
         "key": "2B1AABE94263FF89EC34AFB311957544",
         "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(0 - Value).languages_Value",
         "id": "English",
