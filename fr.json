@@ -39,7 +39,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Il semble que l'imposteur ait fait quelques actions. Celles-ci seront affichés sur votre tableau de gauche. Passez-les en revue, puis accédez de nouveau à la salle."
+        "str": "Il semble que l'imposteur ait fait quelques actions. Celles-ci seront affichées sur votre tableau de gauche. Passez-les en revue, puis accédez de nouveau à la salle."
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -123,7 +123,7 @@
         "key": "0CA5844D4070A29607D91D9C17419FCD",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Skip all hours",
-        "str": "Passer toutes les heures"
+        "str": "Passer jusqu'à la dernière heure"
     },
     {
         "key": "0CC5F8694CE6C6DEA29A219EA3A5B801",
@@ -225,7 +225,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "Vous avez trouvez toutes les preuves et les informations à propos des poupées, mais elles sont complètement aléatoire pour chaque poupée."
+        "str": "Vous avez trouvé toutes les preuves et les informations à propos des poupées, mais elles sont complètement aléatoire pour chaque poupée."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -297,7 +297,7 @@
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Demon",
-        "str": "Le Démon "
+        "str": "Le Démon"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -339,7 +339,7 @@
         "key": "31AE9D6F49C281739FC52A9BDFD80478",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the gear icon on your desktop!",
-        "str": "Bienvenue au refuge ! C'est votre zone sure. Ici, vous pouvez commencer une nouvelle partie sur l'ordinateur, voir votre collection de poupées et de trophées, et aussi personnaliser votre endroit en cliquant sur l'icône d'engrenage sur le bureau !"
+        "str": "Bienvenue au refuge ! C'est votre zone sure. Vous pouvez la personaliser en cliquant sur l'engrenage sur le bureau. Pour commencer une nouvelle partie, aller sur l'ordinateur. Vous pouvez également aller voir votre collection de poupées dans le couloir."
     },
     {
         "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -717,7 +717,7 @@
         "key": "740E2993476C6AB0DEDC3BA514B0FF5F",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Comedian",
-        "str": "Le Comedien"
+        "str": "Le Comédien"
     },
     {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
@@ -813,7 +813,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Vous avez battu votre nouveau record avec {new} nuits ! Comparé aux {old} nuits précédentes !"
+        "str": "Vous avez battu votre ancien record de {old} nuits ! Votre nouveau record est de {new} nuits !"
     },
     {
         "key": "815797D840D1A6AEC45401A9A3996DE0",
@@ -1065,7 +1065,7 @@
         "key": "AA8520BE4876828E544192BFA8F98EE7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Move Self",
-        "str": "Bouger"
+        "str": "Se déplacer"
     },
     {
         "key": "AB6B64D64932C68A8743709693AF267B",
@@ -1443,7 +1443,7 @@
         "key": "DFC327DA4616540509FBF6AA40D0458B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
         "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-        "str": "Mode pour les experts, vous commencez à 6h00, il n'y a pas de preuves supplémentaires ni de photos."
+        "str": "Mode pour les experts, vous commencez à 6h00, il n'y a pas de preuves supplémentaires ni les photos des poupées au tableau."
     },
     {
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
