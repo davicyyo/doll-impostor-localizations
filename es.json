@@ -638,7 +638,7 @@
 {"key": "6A1B28C14FD17FB8222E60837327DA35",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Object",
-"str": "__SAMPLE__"
+"str": "Objeto"
 },
 {"key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_84.Text",
@@ -1113,7 +1113,7 @@
 {"key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Color",
-"str": "__SAMPLE__"
+"str": "Color"
 },
 {"key": "B4559452445FD99D5366B68268BCFC9E",
 "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
@@ -1473,7 +1473,7 @@
 {"key": "E7D75C9A40FB9B41721A46B5B7198EF1",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Sticker",
-"str": "__SAMPLE__"
+"str": "Pegatina"
 },
 {"key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
@@ -1483,7 +1483,7 @@
 {"key": "E93B4EC241D67CCBA288EAB44234C576",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Material",
-"str": "__SAMPLE__"
+"str": "Material"
 },
 {"key": "E96A210546B4B0647B0763843052BBF8",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
