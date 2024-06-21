@@ -93,7 +93,7 @@
 {"key": "0B88630D44BEE72FF2A76095115344A8",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Doll Object",
-"str": ""
+"str": "Puppenobjekt"
 },
 {"key": "0BE1B9C54499AA9F3A64BBBDD1482D26",
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -133,7 +133,7 @@
 {"key": "109D973D484D997685448980DCB79533",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_2.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Floor",
-"str": ""
+"str": "Boden"
 },
 {"key": "11739C0E41A20499E9C760B853C45A40",
 "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
@@ -153,12 +153,12 @@
 {"key": "164060454E5796D5711012B8A720788E",
 "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(3).Options.Label",
 "id": "Extreme",
-"str": ""
+"str": "Extrem"
 },
 {"key": "164553EC4B6A9D265430F3B6A25830E5",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Van Bed",
-"str": ""
+"str": "Lieferwagen Bett"
 },
 {"key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
 "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
@@ -168,7 +168,7 @@
 {"key": "16A84C9B486F4A520142D791EC349B4F",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
 "id": "Shading Quality",
-"str": ""
+"str": "Schattierungsqualität"
 },
 {"key": "175FDB6245E5ED987CC62684AC5049E4",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_83.Text",
@@ -183,7 +183,7 @@
 {"key": "1AEE02D7485216A7EBEC93AD95D81A25",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "PC Right Side",
-"str": ""
+"str": "PC Rechte Seite"
 },
 {"key": "1D5965BE4639794BCFFC6BA942EC1A62",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -263,7 +263,7 @@
 {"key": "2D10309A4AE3A7B38D67BC894C9A5B97",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
 "id": "View Distance Quality",
-"str": ""
+"str": "Sichtweite Qualität"
 },
 {"key": "2D485E384A7ABE47FD44F58A954301B6",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
@@ -273,7 +273,7 @@
 {"key": "2DE4F4264AEB90D45B2363B38034FA9E",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_48.Text",
 "id": "Music Volume",
-"str": ""
+"str": "Musiklautstärke"
 },
 {"key": "2DEA68154A30209AA0698497E47F9DA9",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
@@ -293,7 +293,7 @@
 {"key": "2F29E9E841620DC6B54893A7BE60FE77",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Desktop",
-"str": ""
+"str": "Desktop"
 },
 {"key": "2F3FBBCE4FDBC6D670CB188A9F33CF4B",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_24.Text",
@@ -313,7 +313,7 @@
 {"key": "31D983AD40E7D0F0976B7CAC11BD3D12",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_1.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Roof",
-"str": ""
+"str": "Dach"
 },
 {"key": "34568E7B486905A5400643A88FA2E8A8",
 "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
@@ -358,22 +358,22 @@
 {"key": "3BF4F9F24361A6C9205652911A0DA864",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_42.Text",
 "id": "Reflection Quality",
-"str": ""
+"str": "Reflexionsqualität"
 },
 {"key": "3D3092E04B30FAE9F91970831F869B44",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Wall",
-"str": ""
+"str": "Wand"
 },
 {"key": "3E1BC428435A0C653E4D7185A4847A91",
 "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(3).Options.Label",
 "id": "Input Settings",
-"str": ""
+"str": "Eingabeeinstellungen"
 },
 {"key": "3E3E53D64E987B22AD5967A23BB5AC57",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text",
 "id": "Extras",
-"str": ""
+"str": "Extras"
 },
 {"key": "3E796087492560DF199BD58F4D3A3731",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_62.Text",
@@ -398,7 +398,7 @@
 {"key": "419FBA55411C37613B78B895FC47434E",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_15.Text",
 "id": "Auto settings",
-"str": ""
+"str": "Automatische Einstellungen"
 },
 {"key": "420F5BCA40413C0383C7AA9583EEC5C0",
 "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
@@ -408,7 +408,7 @@
 {"key": "433A6CE84E4955044C7FB38105FA63BF",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
 "id": "Footsteps Volume",
-"str": ""
+"str": "Schritte Lautstärke"
 },
 {"key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_21.Text",
@@ -423,7 +423,7 @@
 {"key": "45C632DB4CE38CCF91E0E89A3C83E11B",
 "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
 "id": "Video Settings",
-"str": ""
+"str": "Videoeinstellungen"
 },
 {"key": "45DB611B482D35EE05ADE98331F2EC20",
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -443,7 +443,7 @@
 {"key": "467D9B7144D32E320B1C6AA6D55B95B5",
 "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
 "id": "Most won map",
-"str": ""
+"str": "Meistgewonnene Karte"
 },
 {"key": "47254BE24A91487FA9DB08918BAFEBED",
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
@@ -473,7 +473,7 @@
 {"key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Van Hanging doll",
-"str": ""
+"str": "Lieferwagen Hängende Puppe"
 },
 {"key": "4F13E4CD4029EC13370EF7B54BCF3D90",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -488,7 +488,7 @@
 {"key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
 "id": "Turn Left",
-"str": ""
+"str": "Nach links drehen"
 },
 {"key": "5220ED3742AAD20F53D18B86F110B811",
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
@@ -508,7 +508,7 @@
 {"key": "54DD43104162D7A89F5B2ABADBA7F0A6",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Van Lights",
-"str": ""
+"str": "Lieferwagen Lichter"
 },
 {"key": "554BB9D046155183D4DCF7A14F96171E",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -528,7 +528,7 @@
 {"key": "597D11E1471FC52613B9DD81AF3F6BE1",
 "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
 "id": "Most Earned Doll",
-"str": ""
+"str": "Meistverdiente Puppe"
 },
 {"key": "5981A77041F835414316E0BEA0C3C8F8",
 "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
@@ -583,7 +583,7 @@
 {"key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_52.Text",
 "id": "Low",
-"str": ""
+"str": "Niedrig"
 },
 {"key": "63063D214706E5FBBE2227836F1BE194",
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.name_18_82096130492E34A890A0138C4910D929",
@@ -593,7 +593,7 @@
 {"key": "636E48DB4F79961C0BCDDF9C74A51062",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
 "id": "Look Up",
-"str": ""
+"str": "Nach oben schauen"
 },
 {"key": "63D67BF743D308E3537D9794B417B76A",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_5.Text",
@@ -623,7 +623,7 @@
 {"key": "66BFF9344FC2075B88F05E80034A7ECC",
 "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_1.Text",
 "id": "Exit",
-"str": ""
+"str": "Beenden"
 },
 {"key": "67E721CC4E280A5A435BA1B141936D38",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_76.Text",
@@ -638,7 +638,7 @@
 {"key": "6A1B28C14FD17FB8222E60837327DA35",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Object",
-"str": ""
+"str": "__SAMPLE__"
 },
 {"key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_84.Text",
@@ -663,7 +663,7 @@
 {"key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
 "id": "Effects Volume",
-"str": ""
+"str": "Effektlautstärke"
 },
 {"key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
 "location": "/Game/UI/paperInterface.paperInterface_C:GetText_4 [Script Bytecode]",
@@ -673,12 +673,12 @@
 {"key": "7095C09D4014D1FB9E4C1D9529586155",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_7.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "PC Left Side",
-"str": ""
+"str": "PC Linke Seite"
 },
 {"key": "71DA9AC944078FAD69976DAAA19A68C0",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
 "id": "Volumetric Fog Quality",
-"str": ""
+"str": "Volumetrischer Nebel Qualität"
 },
 {"key": "7286FEC6469CF65A5584DB896D227680",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_61.Text",
@@ -728,7 +728,7 @@
 {"key": "7826866B435A8EE313772C8979CA261B",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
 "id": "Jumpscares Volume",
-"str": ""
+"str": "Schrecken Lautstärke"
 },
 {"key": "798C9DA54AB7FB8B77443DA0EE442098",
 "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
@@ -768,17 +768,17 @@
 {"key": "7D2E931045A6E1506DEEC6BD2C264ED3",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Van Left Side",
-"str": ""
+"str": "Lieferwagen Linke Seite"
 },
 {"key": "7D39CA6640F288A9002846AE7D7F4041",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Mini Object",
-"str": ""
+"str": "Mini Objekt"
 },
 {"key": "7EBE45E64B8119C2AA017590BE5B8563",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text",
 "id": "Anti Aliasing Quality",
-"str": ""
+"str": "Kantenglättungsqualität"
 },
 {"key": "7F18D69F420F68627730E39CE489A2EC",
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
@@ -793,7 +793,7 @@
 {"key": "805F56F9484DE7ED01BC83B1E3304EE7",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Van floor",
-"str": ""
+"str": "Lieferwagen Boden"
 },
 {"key": "8098B1CA4AED33E029A8D4878EE21A49",
 "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
@@ -808,12 +808,12 @@
 {"key": "839DA89C42E027A3CA515CA3BC5BE204",
 "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
 "id": "You can try it now in PC",
-"str": ""
+"str": "Du kannst es jetzt auf dem PC ausprobieren"
 },
 {"key": "84658DA54182C8A664927696DBF0C2C1",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text",
 "id": "Foliage Quality",
-"str": ""
+"str": "Laubqualität"
 },
 {"key": "8482CDF142B6B8DA6AB0148C9B01430B",
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -873,7 +873,7 @@
 {"key": "8CAC065540B47C971DC8E0B801B69618",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_40.Text",
 "id": "Shadow Quality",
-"str": ""
+"str": "Schattenqualität"
 },
 {"key": "8D62136643D4EAA319AD22BBFD4C8FD1",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.label_17_E97135F84728B1D3E2D91DAE099E4D25",
@@ -898,7 +898,7 @@
 {"key": "8E794D794CCEA0D30D037D8DA2BFD248",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Lights",
-"str": ""
+"str": "Lichter"
 },
 {"key": "8F3E9D0F491C15FF172D6FBC7422E252",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_80.Text",
@@ -928,7 +928,7 @@
 {"key": "9404939C41414F86FA16B8B0C5B74E9D",
 "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(2).Options.Label",
 "id": "High",
-"str": ""
+"str": "Hoch"
 },
 {"key": "9432768D4222957489019C86BD251CA3",
 "location": "/Game/enums/actions.actions.DisplayNameMap(20 - Value).DisplayNameMap",
@@ -938,7 +938,7 @@
 {"key": "9472CB7546EB19A64D00B9B40CF7BC7D",
 "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
 "id": "You've unlocked a new extra mode!",
-"str": ""
+"str": "Du hast einen neuen Extramodus freigeschaltet!"
 },
 {"key": "94C1D362417DAA6789DAC39870AD9352",
 "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(16 - Value).languages_Value",
@@ -963,7 +963,7 @@
 {"key": "9806DB6E4107A01E3979C1BBEF780A91",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_41.Text",
 "id": "Global Illumination Quality",
-"str": ""
+"str": "Globale Beleuchtungsqualität"
 },
 {"key": "996579D246DE71F2608BB5BF8C353DA4",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -973,7 +973,7 @@
 {"key": "99AE0DEC47710525BAF347ABFE8339AB",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_39.Text",
 "id": "Post Processing Quality",
-"str": ""
+"str": "Nachbearbeitungsqualität"
 },
 {"key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
@@ -1013,7 +1013,7 @@
 {"key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_4.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Left Place",
-"str": ""
+"str": "Linker Platz"
 },
 {"key": "A2C08BE6447E2720D3051F8CA460E102",
 "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
@@ -1023,7 +1023,7 @@
 {"key": "A31A353942F325B2C7CB09AA525BB7CF",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
 "id": "Film Grain",
-"str": ""
+"str": "Filmkorn"
 },
 {"key": "A31A514F4934E454FDB9F4BF3A480C84",
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1043,7 +1043,7 @@
 {"key": "A7121AED466C7D8F9486A89DECB2409C",
 "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
 "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-"str": ""
+"str": "Willkommen im Zufluchtsort! Dies ist deine sichere Zone. Hier kannst du ein neues Spiel auf dem Computer starten, deine Sammlung von Puppen und Trophäen ansehen und diesen Ort anpassen, indem du auf das Farbpallett-Symbol auf deinem Desktop klickst!"
 },
 {"key": "A7C36D644573AD30716F4283EBBE53D2",
 "location": "/Game/enums/actions.actions.DisplayNameMap(28 - Value).DisplayNameMap",
@@ -1113,7 +1113,7 @@
 {"key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Color",
-"str": ""
+"str": "__SAMPLE__"
 },
 {"key": "B4559452445FD99D5366B68268BCFC9E",
 "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
@@ -1138,7 +1138,7 @@
 {"key": "B54084CB4A265AC5B0714AB02E26FFEE",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_43.Text",
 "id": "Texture Quality",
-"str": ""
+"str": "Texturqualität"
 },
 {"key": "B56C952645AF8D8E34E6D7AC0CC9F750",
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1173,7 +1173,7 @@
 {"key": "BC06960A474C65DE361B3CB2C89626B3",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
 "id": "Ambient Volume",
-"str": ""
+"str": "Umgebungslautstärke"
 },
 {"key": "BCA4F7E9472918A4030087B0CBCF7608",
 "location": "/Game/functions/interfaceFunctions.interfaceFunctions_C:showPopup [Script Bytecode]",
@@ -1198,17 +1198,17 @@
 {"key": "BE7B6E174A4CE247B21761B7E41F34D3",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_21.Text",
 "id": "Look Down",
-"str": ""
+"str": "Nach unten schauen"
 },
 {"key": "BED88CC84349A7555F6F8F8702DFC716",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_44.Text",
 "id": "Visual Effects Quality",
-"str": ""
+"str": "Visuelle Effekte Qualität"
 },
 {"key": "BEF09CA34BAE3DC7635E8485BB667E28",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Van exterior",
-"str": ""
+"str": "Lieferwagen außen"
 },
 {"key": "BF221642449DB485C8FF39A6198C744B",
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1238,7 +1238,7 @@
 {"key": "C539F07A44FA320908B87FADABCFB0C9",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Van Right Side",
-"str": ""
+"str": "Lieferwagen Rechte Seite"
 },
 {"key": "C6A278F94000AE1F35ED22BF78A7ADE5",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
@@ -1258,7 +1258,7 @@
 {"key": "C8F05C9640A64BDEEDFF738C5E065267",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_22.Text",
 "id": "Crouch",
-"str": ""
+"str": "Ducken"
 },
 {"key": "CA75CAA04ADC71945FDEF1B6843F94B0",
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
@@ -1288,7 +1288,7 @@
 {"key": "CE77947D46EF18A8A49309A22EB6E699",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
 "id": "Stats",
-"str": ""
+"str": "Statistiken"
 },
 {"key": "CF3A6ECB45A9488C10D246A3FD143977",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1323,7 +1323,7 @@
 {"key": "D2EAFC9348E348C7516300BF122B9702",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Right Place",
-"str": ""
+"str": "Rechter Platz"
 },
 {"key": "D43847EE40A03CCE1238E0A4BAB8F812",
 "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
@@ -1333,7 +1333,7 @@
 {"key": "D59D437D4A5623BB300F15B9DEB2DFC9",
 "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(1).Options.Label",
 "id": "Medium",
-"str": ""
+"str": "Mittel"
 },
 {"key": "D5C4F05D4A571EC53FDCBFA36976035A",
 "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(11 - Value).languages_Value",
@@ -1398,7 +1398,7 @@
 {"key": "D9B2458843A82DBB9843FBBB36327D9A",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
 "id": "Turn Right",
-"str": ""
+"str": "Nach rechts drehen"
 },
 {"key": "DA8892FC49F2D3A771BA82989F92E34F",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_3.Text",
@@ -1428,7 +1428,7 @@
 {"key": "E1BED414427264B22F7080B7ED0D0CF9",
 "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
 "id": "Audio Settings",
-"str": ""
+"str": "Audioeinstellungen"
 },
 {"key": "E238A88B4FBC7C4641B8E9A95353B1C0",
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1473,7 +1473,7 @@
 {"key": "E7D75C9A40FB9B41721A46B5B7198EF1",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Sticker",
-"str": ""
+"str": "__SAMPLE__"
 },
 {"key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
@@ -1483,12 +1483,12 @@
 {"key": "E93B4EC241D67CCBA288EAB44234C576",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Material",
-"str": ""
+"str": "__SAMPLE__"
 },
 {"key": "E96A210546B4B0647B0763843052BBF8",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
 "id": "Head Bobbing",
-"str": ""
+"str": "Kopfwackeln"
 },
 {"key": "E9E818494A07397E77DFC8AEBFE671E0",
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
@@ -1498,7 +1498,7 @@
 {"key": "EABE87674E476F817EEF85B6E5E00296",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
 "id": "Log Off",
-"str": ""
+"str": "Abmelden"
 },
 {"key": "EBC92CA44981FDF83EACECB976139FEB",
 "location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(18 - Value).languages_Value",
@@ -1543,7 +1543,7 @@
 {"key": "F1D636544DE5ADC7945E9789ACC63D6C",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Van wall",
-"str": ""
+"str": "Lieferwagen Wand"
 },
 {"key": "F22CBEE0429B4D716137DE9A58D8A371",
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1573,7 +1573,7 @@
 {"key": "F398437D44CE91CF11D919A1208038ED",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.sections_22_4031E9264112E4E86BC48BA9D729A311(2).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
 "id": "Size",
-"str": ""
+"str": "Größe"
 },
 {"key": "F4CB65EF48F9C01CD6AB509912890A36",
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1593,7 +1593,7 @@
 {"key": "FA1C15B1439CEF51682B81AF479F4873",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_26.Text",
 "id": "Main Menu",
-"str": ""
+"str": "Hauptmenü"
 },
 {"key": "FA4E21624A2D966B1B2ED19005131257",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1618,7 +1618,7 @@
 {"key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
 "id": "Graphic Preset",
-"str": ""
+"str": "Grafik-Voreinstellung"
 },
 {"key": "FC67115746EDB65A022A51B4C1176418",
 "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
@@ -1628,7 +1628,7 @@
 {"key": "FCA446264B23A96037F05F8D786E8199",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_5.Text",
 "id": "Master Volume",
-"str": ""
+"str": "Hauptlautstärke"
 },
 {"key": "FD50C07D436B39761D90A28961DE809F",
 "location": "/Game/enums/actions.actions.DisplayNameMap(2 - Value).DisplayNameMap",
