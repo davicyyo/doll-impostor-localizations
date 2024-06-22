@@ -620,11 +620,6 @@
 "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
 "str": "Είναι η τελευταία ώρα. Έχουμε μόνο αυτή την ευκαιρία να το ανακαλύψουμε. Ας πάμε στο δωμάτιο."
 },
-{"key": "66BFF9344FC2075B88F05E80034A7ECC",
-"location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_1.Text",
-"id": "Exit",
-"str": "Έξοδος"
-},
 {"key": "67E721CC4E280A5A435BA1B141936D38",
 "location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_76.Text",
 "id": "Brightness",
