@@ -177,7 +177,7 @@
         "key": "16A84C9B486F4A520142D791EC349B4F",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
         "id": "Shading Quality",
-        "str": "Qualità dell'ombreggiatura"
+        "str": "Qualità dello shading"
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -267,7 +267,7 @@
         "key": "2D10309A4AE3A7B38D67BC894C9A5B97",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
         "id": "View Distance Quality",
-        "str": "Qualità della distanza di visualizzazione"
+        "str": "Qualità della distanza visiva"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -363,7 +363,7 @@
         "key": "3BF4F9F24361A6C9205652911A0DA864",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_42.Text",
         "id": "Reflection Quality",
-        "str": "Qualità della riflessione"
+        "str": "Qualità dei riflessi"
     },
     {
         "key": "3D3092E04B30FAE9F91970831F869B44",
@@ -375,7 +375,7 @@
         "key": "3E1BC428435A0C653E4D7185A4847A91",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(3).Options.Label",
         "id": "Input Settings",
-        "str": "Impostazioni di input"
+        "str": "Impostazioni comandi"
     },
     {
         "key": "3E3E53D64E987B22AD5967A23BB5AC57",
@@ -549,7 +549,7 @@
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
         "id": "Most Earned Doll",
-        "str": "Bambola più guadagnata"
+        "str": "Bambola più indovinata"
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
@@ -609,7 +609,7 @@
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(0).Options.Label",
         "id": "Low",
-        "str": "Basso"
+        "str": "Bassa"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -663,7 +663,7 @@
         "key": "6A1B28C14FD17FB8222E60837327DA35",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Object",
-        "str": "__SAMPLE__"
+        "str": "Oggetto"
     },
     {
         "key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
@@ -753,13 +753,13 @@
         "key": "77DAE76A48EC13E45F2983881F23E808",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Gameplay Settings",
-        "str": "Impostazioni Gameplay"
+        "str": "Impostazioni gameplay"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Volume degli spaventi"
+        "str": "Volume degli scarejump"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -843,7 +843,7 @@
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "Puoi provarlo ora su PC"
+        "str": "Puoi provarla ora sul PC"
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
@@ -951,7 +951,7 @@
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(2).Options.Label",
         "id": "High",
-        "str": "Alto"
+        "str": "Alta"
     },
     {
         "key": "9432768D4222957489019C86BD251CA3",
@@ -1005,7 +1005,7 @@
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
         "id": "Daycare",
-        "str": "Asilo"
+        "str": "Asilo nido"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
@@ -1041,7 +1041,7 @@
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_4.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Left Place",
-        "str": "Posto sinistro"
+        "str": "Spazio a sinistra"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -1053,7 +1053,7 @@
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
         "id": "Film Grain",
-        "str": "Grana del film"
+        "str": "Grana della Pellicola"
     },
     {
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
@@ -1137,7 +1137,7 @@
         "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Color",
-        "str": "__SAMPLE__"
+        "str": "Colore"
     },
     {
         "key": "B4559452445FD99D5366B68268BCFC9E",
@@ -1167,7 +1167,7 @@
         "key": "B54084CB4A265AC5B0714AB02E26FFEE",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_43.Text",
         "id": "Texture Quality",
-        "str": "Qualità della texture"
+        "str": "Qualità delle texture"
     },
     {
         "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
@@ -1365,7 +1365,7 @@
         "key": "D2EAFC9348E348C7516300BF122B9702",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Right Place",
-        "str": "Posto destro"
+        "str": "Spazio a destra"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -1377,7 +1377,7 @@
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(1).Options.Label",
         "id": "Medium",
-        "str": "Medio"
+        "str": "Media"
     },
     {
         "key": "D618A4A346B0EA7CBABE00AA94C80485",
@@ -1491,19 +1491,19 @@
         "key": "E7D75C9A40FB9B41721A46B5B7198EF1",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Sticker",
-        "str": "__SAMPLE__"
+        "str": "Adesivo"
     },
     {
         "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
         "id": "As you unlock new levels, new ones will appear!",
-        "str": "Man mano che si sbloccano nuovi livelli, ne appariranno di nuovi!"
+        "str": "Continua a giocare per sbloccare nuovi livelli!"
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Material",
-        "str": "__SAMPLE__"
+        "str": "Materiale"
     },
     {
         "key": "E96A210546B4B0647B0763843052BBF8",
@@ -1617,7 +1617,7 @@
         "key": "FACAB65943781B084CD803A77E0F7266",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gurl",
-        "str": "Il Ragazzo"
+        "str": "Il Ragazz*"
     },
     {
         "key": "FAD096A047C791A2435446A372491A59",
@@ -1629,7 +1629,7 @@
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
         "id": "Graphic Preset",
-        "str": "Preset grafico"
+        "str": "Grafica preimpostata"
     },
     {
         "key": "FC67115746EDB65A022A51B4C1176418",
