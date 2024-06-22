@@ -3,7 +3,7 @@
 Use this tool for translate
 https://simple-locale.vercel.app/
 
-Use this file for upload in to tool
+Use this file for upload in to tool as base file
 https://github.com/davicyyo/doll-impostor-localizations/blob/main/en.json
 
 FEATURES:
