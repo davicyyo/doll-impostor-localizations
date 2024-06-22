@@ -1,4 +1,4 @@
-name: Format Check
+name: Format Check and Format JSON
 
 on: [pull_request]
 
@@ -12,16 +12,18 @@ jobs:
     - name: Install jq
       run: sudo apt-get install -y jq
     
-    - name: Check JSON format
+    - name: Check and format JSON files
       run: |
         FILES=$(git diff --name-only --diff-filter=d origin/main...HEAD | grep '\.json$' || true)
         if [ -n "$FILES" ]; then
           for FILE in $FILES; do
-            if ! jq . $FILE > /dev/null 2>&1; then
-              echo "JSON file $FILE is not formatted correctly"
-              exit 1
-            fi
+            jq . $FILE > tmp.$$.json && mv tmp.$$.json $FILE
           done
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add $FILES
+          git commit -m "Format JSON files"
+          git push
         else
           echo "No JSON files to check."
         fi
