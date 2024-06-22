@@ -5,11 +5,6 @@
 "id": "Tea with friends",
 "str": "友達とお茶"
 },
-{"key": "009701014DE8ACDFA9279092EA4CA3D3",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_77.Text",
-"id": "Video Settings",
-"str": "ビデオ設定"
-},
 {"key": "01A2125C4F867B60C4E289ACD43FEBF9",
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
 "id": "The Mentor",
@@ -21,7 +16,7 @@
 "str": "お茶"
 },
 {"key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_59.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(1).Options.Label",
 "id": "Borderless",
 "str": "ボーダレス"
 },
@@ -50,16 +45,6 @@
 "id": "You've unlocked a new difficulty!",
 "str": "新しい難易度をアンロックしました！"
 },
-{"key": "08AF4F5F4D1847B044DAC7BF08212C57",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(10 - Value).languages_Value",
-"id": "Dutch",
-"str": "オランダ語"
-},
-{"key": "08D502454BD58980CE9821826F40CC46",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(21 - Value).languages_Value",
-"id": "Czech",
-"str": "チェコ語"
-},
 {"key": "08FC22B7498C0918FE50E0AB274B5889",
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
 "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
@@ -71,7 +56,7 @@
 "str": "これが人形の部屋です。ここで、あなたが寝ている間に彼らが何をしていたかを見ることができます。彼らを見て、それから部屋に戻りましょう。"
 },
 {"key": "09CCC43B450A924B1414CEA6C17A4E5D",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_46.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_137.Text",
 "id": "Language",
 "str": "言語"
 },
@@ -105,13 +90,8 @@
 "id": "Skip all hours",
 "str": "すべての時間をスキップ"
 },
-{"key": "0CC5F8694CE6C6DEA29A219EA3A5B801",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_49.Text",
-"id": "Global Illumination Quality",
-"str": "グローバル照明の質"
-},
 {"key": "0D33F3C64097DC3B481D9DBBE348199B",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_117.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_2.Text",
 "id": "Smooth Camera",
 "str": "スムーズカメラ"
 },
@@ -171,7 +151,7 @@
 "str": "シェーディング品質"
 },
 {"key": "175FDB6245E5ED987CC62684AC5049E4",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_83.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_23.Text",
 "id": "Run",
 "str": "走る"
 },
@@ -191,7 +171,7 @@
 "str": "紳士"
 },
 {"key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_55.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_33.Text",
 "id": "Screen Percentage",
 "str": "画面の割合"
 },
@@ -216,39 +196,19 @@
 "str": "敵とのお茶"
 },
 {"key": "25672B2F428EDE34D8AE9C8193CD05D6",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_100.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_10.Text",
 "id": "Camera Sensivity",
 "str": "カメラ感度"
 },
 {"key": "267DB35B4828F6D27920F0A6E4892E5A",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_135.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_35.Text",
 "id": "Reflection Method",
 "str": "リフレクション方法"
 },
-{"key": "280CCA894BF0E14C4DB4268303AB1101",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(4 - Value).languages_Value",
-"id": "German",
-"str": "ドイツ語"
-},
 {"key": "28953C4E43697949852B609F8D0793FB",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_115.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_154.Options(0).Options.Label",
 "id": "Off",
 "str": "オフ"
-},
-{"key": "28D64D924C4E1CEAA574618C9450E217",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(20 - Value).languages_Value",
-"id": "Ukranian",
-"str": "ウクライナ語"
-},
-{"key": "29F3050C4339ED0EDB9AF3A02F1F9377",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(23 - Value).languages_Value",
-"id": "Romanian",
-"str": "ルーマニア語"
-},
-{"key": "2B1AABE94263FF89EC34AFB311957544",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(0 - Value).languages_Value",
-"id": "English",
-"str": "英語"
 },
 {"key": "2C9826E7491425A6734CEB96CDC60470",
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -280,13 +240,8 @@
 "id": "Leaderboard Endless",
 "str": "無限リーダーボード"
 },
-{"key": "2DF9E60442DE6DF03EF241849D289A55",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_106.Text",
-"id": "Main Menu",
-"str": "メインメニュー"
-},
 {"key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_58.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(2).Options.Label",
 "id": "Fullscreen",
 "str": "フルスクリーン"
 },
@@ -295,18 +250,13 @@
 "id": "Desktop",
 "str": "デスクトップ"
 },
-{"key": "2F3FBBCE4FDBC6D670CB188A9F33CF4B",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_24.Text",
-"id": "Shading Quality",
-"str": "シェーディング品質"
-},
 {"key": "2FEF48E44B224E75C8DE41B0CF76566A",
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
 "id": "The Lie bytes",
 "str": "嘘のバイト"
 },
 {"key": "31D2289342B165F56F2435A9CDCEB36A",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_71.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_30.Text",
 "id": "VSync",
 "str": "VSync"
 },
@@ -335,18 +285,13 @@
 "id": "Continue",
 "str": "続ける"
 },
-{"key": "37DB62854960261E8AF86C82B24C1276",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_16.Text",
-"id": "High",
-"str": "高"
-},
 {"key": "37F6FE7147465126D16EBCAB90C1274D",
 "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
 "id": "Likes",
 "str": "好き"
 },
 {"key": "3837591C42D92A7775C0598726DC6D31",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_63.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_29.Text",
 "id": "FPS Limit",
 "str": "FPS制限"
 },
@@ -376,7 +321,7 @@
 "str": "エクストラ"
 },
 {"key": "3E796087492560DF199BD58F4D3A3731",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_62.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_14.Text",
 "id": "Move Backward",
 "str": "後退する"
 },
@@ -385,13 +330,8 @@
 "id": "Settings",
 "str": "設定"
 },
-{"key": "403316C242142BFE9F809BA3338124D7",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(6 - Value).languages_Value",
-"id": "Hungarian",
-"str": "ハンガリー語"
-},
 {"key": "411476E94611E3ECBFFCB29460596681",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_75.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_17.Text",
 "id": "Move Right",
 "str": "右に移動"
 },
@@ -431,7 +371,7 @@
 "str": "取り憑かれた"
 },
 {"key": "460FFB13421148C8493D69A72A81E93C",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_85.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_24.Text",
 "id": "Use",
 "str": "使用する"
 },
@@ -481,7 +421,7 @@
 "str": "知事"
 },
 {"key": "50CA9C1F443642D2B6B6BE9E5D1E302F",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_50.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_34.Text",
 "id": "Global Illumination Method",
 "str": "グローバル照明方法"
 },
@@ -494,11 +434,6 @@
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
 "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
 "str": "あなたは人形の守護者で、そのうちの一つは生きていて、あなたを殺すつもりです。09:00前にそれがどれかを見つけなければなりません。"
-},
-{"key": "522781374DAEE121A2170885FDA53B63",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_129.Text",
-"id": "Master Volume",
-"str": "マスターボリューム"
 },
 {"key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
@@ -514,11 +449,6 @@
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
 "id": "The Duke",
 "str": "公爵"
-},
-{"key": "576A0B8341B664A252403EBC3BC4DF35",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(22 - Value).languages_Value",
-"id": "Danish",
-"str": "デンマーク語"
 },
 {"key": "591DF6954C2D384CBCCD838B12BD62CA",
 "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
@@ -551,7 +481,7 @@
 "str": "他人を動かす"
 },
 {"key": "5E0DC4AE4575000AC0171F95AD85CADA",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_114.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_1.Text",
 "id": "Depth of Field",
 "str": "被写界深度"
 },
@@ -559,11 +489,6 @@
 "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
 "id": "Swing Others",
 "str": "他人を揺らす"
-},
-{"key": "5FB5FC2446272109CE6E9E89EFD770F5",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(7 - Value).languages_Value",
-"id": "Bulgarian",
-"str": "ブルガリア語"
 },
 {"key": "60747A674F244C50BD7C42986DD084AD",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -581,7 +506,7 @@
 "str": "他人を拘束する"
 },
 {"key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_52.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(0).Options.Label",
 "id": "Low",
 "str": "低"
 },
@@ -600,11 +525,6 @@
 "id": "Nightmare",
 "str": "悪夢"
 },
-{"key": "64E292FF4533BC46C4BE84BD71E93B49",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(1 - Value).languages_Value",
-"id": "Spanish",
-"str": "スペイン語"
-},
 {"key": "6540E66F480EE470D56246880E1AAC02",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
 "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
@@ -621,7 +541,7 @@
 "str": "最後の時間です。これを見つけるチャンスはこれだけです。部屋に行きましょう。"
 },
 {"key": "67E721CC4E280A5A435BA1B141936D38",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_76.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
 "id": "Brightness",
 "str": "明るさ"
 },
@@ -636,7 +556,7 @@
 "str": "オブジェクト"
 },
 {"key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_84.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_25.Text",
 "id": "Focus / Zoom",
 "str": "フォーカス/ズーム"
 },
@@ -649,11 +569,6 @@
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
 "id": "The Macabre",
 "str": "マカブル"
-},
-{"key": "6C1ECE72400B16925C467984CD496238",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_274.Text",
-"id": "Show FPS",
-"str": "FPSを表示"
 },
 {"key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
@@ -676,7 +591,7 @@
 "str": "ボリューメトリックフォグ品質"
 },
 {"key": "7286FEC6469CF65A5584DB896D227680",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_61.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(0).Options.Label",
 "id": "Windowed",
 "str": "ウィンドウモード"
 },
@@ -706,17 +621,12 @@
 "str": "あなたは探偵の役割を持ち、左側のパネルにリストされているインポスターの好みと嫌いに基づいて、彼が何を好きで何を嫌い、誰が彼の敵、友人、愛、または嫌われている人であるかを決定する必要があります。"
 },
 {"key": "773B946148501068D9A5B3A814B81ECD",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_74.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_16.Text",
 "id": "Move Left",
 "str": "左に移動"
 },
-{"key": "77B833D146F6092C36476683B0F018EE",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_66.Text",
-"id": "Apply",
-"str": "適用"
-},
 {"key": "77DAE76A48EC13E45F2983881F23E808",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_133.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
 "id": "Gameplay Settings",
 "str": "ゲームプレイ設定"
 },
@@ -729,16 +639,6 @@
 "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
 "id": "Go to Safe House",
 "str": "セーフハウスに行く"
-},
-{"key": "7A08599C42C900970133A6A784ED359D",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(19 - Value).languages_Value",
-"id": "Greek",
-"str": "ギリシャ語"
-},
-{"key": "7A1B535144D14883FAFEBFBA058F9815",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(26 - Value).languages_Value",
-"id": "Indonesian",
-"str": "インドネシア語"
 },
 {"key": "7A7523B24363943AC1ECCE9A0B2634F5",
 "location": "/Game/enums/actions.actions.DisplayNameMap(12 - Value).DisplayNameMap",
@@ -756,7 +656,7 @@
 "str": "プロフェッショナル向け、08:00に開始し、効果的な手がかりは3つだけで、写真や補助はなく、一部のデータは隠されており、マップへのアクセスも制限されています"
 },
 {"key": "7C75165C49E7D2EBD079048C7F8B471B",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_116.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_154.Options(1).Options.Label",
 "id": "On",
 "str": "オン"
 },
@@ -815,45 +715,20 @@
 "id": "The Tactician",
 "str": "戦術家"
 },
-{"key": "861BC3334DA37AC86541D3A027AF0196",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_4.Text",
-"id": "Post Processing Quality",
-"str": "ポストプロセス品質"
-},
 {"key": "8785C0644A30D7680DD4668FB916A03A",
 "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
 "id": "Hide Others",
 "str": "他人を隠す"
 },
 {"key": "878E24534B885E2AB87EACB0394A0E58",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_40.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_28.Text",
 "id": "Screen Mode",
 "str": "画面モード"
-},
-{"key": "8793689E435B182EC1B9B180AC5F9BE3",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(25 - Value).languages_Value",
-"id": "Vietnamese",
-"str": "ベトナム語"
 },
 {"key": "87FBE09C4BC5718F45CC6F8E716201AE",
 "location": "/Game/enums/actions.actions.DisplayNameMap(25 - Value).DisplayNameMap",
 "id": "Tunnels",
 "str": "トルコ語"
-},
-{"key": "8A83135042983483AD6E609783F2B33F",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(15 - Value).languages_Value",
-"id": "Arabic",
-"str": "アラビア語"
-},
-{"key": "8AA6BC7A4ECFD2DE81947DAFBC338CFF",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_120.Text",
-"id": "Head Bobbing",
-"str": "頭の揺れ"
-},
-{"key": "8AD4AF9144723D23B2F4FF840A109AE4",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_34.Text",
-"id": "View Distance Quality",
-"str": "視距離の品質"
 },
 {"key": "8B7A2813470D5B634D42F1B18FD1C975",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -895,11 +770,6 @@
 "id": "Lights",
 "str": "ライト"
 },
-{"key": "8F3E9D0F491C15FF172D6FBC7422E252",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_80.Text",
-"id": "Film Grain",
-"str": "フィルム粒子"
-},
 {"key": "901E40384D0FE3FAD3508F98408C18C7",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_22.Text",
 "id": "Nights",
@@ -911,7 +781,7 @@
 "str": "名前表示"
 },
 {"key": "928D8B36495F7CA7451ECC8DA2DD1850",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_420.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_13.Text",
 "id": "Move Forward",
 "str": "前進する"
 },
@@ -934,11 +804,6 @@
 "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
 "id": "You've unlocked a new extra mode!",
 "str": "新しいエクストラモードをアンロックしました！"
-},
-{"key": "94C1D362417DAA6789DAC39870AD9352",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(16 - Value).languages_Value",
-"id": "Japanese",
-"str": "日本語"
 },
 {"key": "95E8DAF7441719B3063BE7B84B85AE87",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text",
@@ -995,11 +860,6 @@
 "id": "Cannon",
 "str": "大砲"
 },
-{"key": "A10D3CC54716BA57FF17F9BA5A30C98C",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(17 - Value).languages_Value",
-"id": "Polish",
-"str": "ポーランド語"
-},
 {"key": "A1CB54034B401A0E8BBD049E18CBFADD",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
 "id": "Random mode but in race mode with medals",
@@ -1024,11 +884,6 @@
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
 "id": "The Grim",
 "str": "暗い"
-},
-{"key": "A31E36FD49232B770DC7A19D191B2CD2",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_14.Text",
-"id": "Texture Quality",
-"str": "テクスチャ品質"
 },
 {"key": "A6E8E3B84059F699472F1C8DECDAF09C",
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1055,11 +910,6 @@
 "id": "Position",
 "str": "ポジション"
 },
-{"key": "AFC26E38415F397D92C04EA977140AA4",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(14 - Value).languages_Value",
-"id": "Turkish",
-"str": "恐怖の"
-},
 {"key": "AFC2B2644270E4DDA921A0AA0660BA68",
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
 "id": "To sleep, simply point at the bed and click on it.",
@@ -1074,11 +924,6 @@
 "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
 "id": "The Grump",
 "str": "不機嫌な"
-},
-{"key": "B1EDD61244DE779F674B3B8F073DEC74",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(12 - Value).languages_Value",
-"id": "Chinesse",
-"str": "中国語"
 },
 {"key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
@@ -1099,11 +944,6 @@
 "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
 "id": "Impostor",
 "str": "詐欺師"
-},
-{"key": "B40CBA3A4778871A485023833937F1BC",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(24 - Value).languages_Value",
-"id": "Swedish",
-"str": "スウェーデン語"
 },
 {"key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
@@ -1141,7 +981,7 @@
 "str": "孤独な"
 },
 {"key": "B7A232F04263043B9FEA5F8F6A6CBF61",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_70.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(5).Options.Label",
 "id": "Unlimited",
 "str": "無制限"
 },
@@ -1225,11 +1065,6 @@
 "id": "Dislikes",
 "str": "嫌い"
 },
-{"key": "C4293D874AEB12AAC1AD32B45232D916",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_19.Text",
-"id": "Foliage Quality",
-"str": "葉の質"
-},
 {"key": "C539F07A44FA320908B87FADABCFB0C9",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
 "id": "Van Right Side",
@@ -1244,11 +1079,6 @@
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
 "id": "The Scary",
 "str": "怖い"
-},
-{"key": "C8EFE1E14991B32EA2B4749FB8BDDA2B",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(9 - Value).languages_Value",
-"id": "Russian",
-"str": "ロシア語"
 },
 {"key": "C8F05C9640A64BDEEDFF738C5E065267",
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_22.Text",
@@ -1269,11 +1099,6 @@
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
 "id": "Friends",
 "str": "友達"
-},
-{"key": "CE51CF0E45E7C77AAF2014B784C79BAF",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_1.Text",
-"id": "Anti Aliasing Quality",
-"str": "アンチエイリアシングの質"
 },
 {"key": "CE5521734152BB8FDF36949D84AA7F39",
 "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1305,11 +1130,6 @@
 "id": "The Chilling",
 "str": "冷たい"
 },
-{"key": "D21EB0BD4EFEF4D2C05DC5995C80D19E",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_101.Text",
-"id": "Invert Vertical Camera",
-"str": "垂直カメラを反転"
-},
 {"key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
 "location": "/Game/enums/actions.actions.DisplayNameMap(9 - Value).DisplayNameMap",
 "id": "Light",
@@ -1330,11 +1150,6 @@
 "id": "Medium",
 "str": "中"
 },
-{"key": "D5C4F05D4A571EC53FDCBFA36976035A",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(11 - Value).languages_Value",
-"id": "Finnish",
-"str": "フィンランド語"
-},
 {"key": "D618A4A346B0EA7CBABE00AA94C80485",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
 "id": "The Count",
@@ -1345,30 +1160,10 @@
 "id": "Playgrounds",
 "str": "遊び場"
 },
-{"key": "D675865B4BDBCFCA800BB498976F9CA3",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(2 - Value).languages_Value",
-"id": "French",
-"str": "フランス語"
-},
-{"key": "D6990E6E49842675F17A4992C44B2E98",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_134.Text",
-"id": "Restore Defaults",
-"str": "デフォルトに戻す"
-},
-{"key": "D74411DA44C682BCC2A3C6A703550D34",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_139.Text",
-"id": "Reflection Quality",
-"str": "リフレクションの質"
-},
 {"key": "D8A8DBB34AAD96AC66B54A87365822C9",
 "location": "/Game/enums/actions.actions.DisplayNameMap(16 - Value).DisplayNameMap",
 "id": "Knives",
 "str": "ナイフ"
-},
-{"key": "D8AACAC34D6DBE3AEDA973BB44F79452",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(8 - Value).languages_Value",
-"id": "Norwegian",
-"str": "ノルウェー語"
 },
 {"key": "D8CB256A4FC1286A3BD465B95B7398D6",
 "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -1381,7 +1176,7 @@
 "str": "自分を隠す"
 },
 {"key": "D8F293214EA6402451DED28B75ADA37E",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_39.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_27.Text",
 "id": "Screen Resolution",
 "str": "画面解像度"
 },
@@ -1394,11 +1189,6 @@
 "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
 "id": "Turn Right",
 "str": "右に曲がる"
-},
-{"key": "DA8892FC49F2D3A771BA82989F92E34F",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_3.Text",
-"id": "Extreme",
-"str": "極端"
 },
 {"key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
 "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
@@ -1430,30 +1220,15 @@
 "id": "The Indecent",
 "str": "下品な"
 },
-{"key": "E2CB7139460B057EE03A6CB218504477",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_9.Text",
-"id": "Shadow Quality",
-"str": "シャドウの質"
-},
 {"key": "E2D484854A1C9DB14835A6AD457B6207",
 "location": "/Game/enums/actions.actions.DisplayNameMap(22 - Value).DisplayNameMap",
 "id": "Balloons",
 "str": "風船"
 },
-{"key": "E394613B4B711D939E1FE59DF906D29B",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_390.Text",
-"id": "Input Settings",
-"str": "入力設定"
-},
 {"key": "E447809B421298C1BDA5E4B063D86F49",
 "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
 "id": "Action Dolls",
 "str": "アクションドール"
-},
-{"key": "E4EB2DCA415335BFF53C5EA064A15617",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_44.Text",
-"id": "Volumetric Fog Quality",
-"str": "ボリュームフォグの質"
 },
 {"key": "E60C061E42EEE57516BA1B83B2A64C7E",
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_3.Text",
@@ -1461,7 +1236,7 @@
 "str": "ノーマル"
 },
 {"key": "E75E972A4F2C8D92EC495294816B3C8D",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_56.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_32.Text",
 "id": "Temporal Upsample",
 "str": "時間的アップサンプリング"
 },
@@ -1495,33 +1270,8 @@
 "id": "Log Off",
 "str": "ログオフ"
 },
-{"key": "EBC92CA44981FDF83EACECB976139FEB",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(18 - Value).languages_Value",
-"id": "Korean",
-"str": "韓国語"
-},
-{"key": "EC7F93EC4CB48E186252D6818A3CC280",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(13 - Value).languages_Value",
-"id": "Thai",
-"str": "タイ語"
-},
-{"key": "ECD25AAD47C7B377399945AFABE4A8F4",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(3 - Value).languages_Value",
-"id": "Italian",
-"str": "イタリア語"
-},
-{"key": "EEDF290B45DB5AF30C76E782E339BEB8",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_110.Text",
-"id": "Invert Horizontal Camera",
-"str": "水平カメラを反転"
-},
-{"key": "EFA9D69B4D4772938CC6CF9CBA9CEE11",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_29.Text",
-"id": "Visual Effects Quality",
-"str": "視覚効果の質"
-},
 {"key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_113.Text",
+"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock.Text",
 "id": "Field of View",
 "str": "視野"
 },
@@ -1529,11 +1279,6 @@
 "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text",
 "id": "Endless",
 "str": "無限"
-},
-{"key": "F1A567314CC85A9B4BE63EB07F379A28",
-"location": "/Game/UI/SettingsMenu.SettingsMenu_C:WidgetTree.TextBlock_20.Text",
-"id": "Medium",
-"str": "中"
 },
 {"key": "F1D636544DE5ADC7945E9789ACC63D6C",
 "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
@@ -1639,11 +1384,6 @@
 "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
 "id": "YOU LOSE",
 "str": "あなたの負けです"
-},
-{"key": "FEA544BE47CF13811FC6FAA6D9A0228D",
-"location": "/Game/UI/SettingsMenu.Default__SettingsMenu_C.languages(5 - Value).languages_Value",
-"id": "Portuguese",
-"str": "ポルトガル語"
 },
 {"key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
 "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
