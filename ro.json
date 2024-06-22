@@ -1,1402 +1,1682 @@
 [
-{
-"key": "0078964D495E90CB9C263D86C289F115",
-"location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
-"id": "Tea with friends",
-"str": "Ceai cu prieteni"
-},
-{"key": "01A2125C4F867B60C4E289ACD43FEBF9",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Mentor",
-"str": "Mentorul"
-},
-{"key": "0285258748FED1BC6E542F80A9097CE9",
-"location": "/Game/enums/actions.actions.DisplayNameMap(32 - Value).DisplayNameMap",
-"id": "Tea",
-"str": "Ceai"
-},
-{"key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(1).Options.Label",
-"id": "Borderless",
-"str": "Fără margini"
-},
-{"key": "0375A2D542A72CFAD4E4CA8A30C56CC4",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Duchess",
-"str": "Ducesa"
-},
-{"key": "04119A0C4BAB3896CA5F208DA41F582A",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-"str": "Se pare că impostorul a făcut câteva evenimente. Acestea vor fi afișate pe panoul din stânga. Revizuiește-le și apoi accesează din nou camera."
-},
-{"key": "0593C38042D49BC9D0958EB990324EFA",
-"location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
-"id": "Jail Self",
-"str": "Închide-te"
-},
-{"key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
-"location": "/Game/enums/actions.actions.DisplayNameMap(31 - Value).DisplayNameMap",
-"id": "Seesaws",
-"str": "Balansoare"
-},
-{"key": "073BF882481ECDE57F50FF98957A3C22",
-"location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
-"id": "You've unlocked a new difficulty!",
-"str": "Ați deblocat o nouă dificultate!"
-},
-{"key": "08FC22B7498C0918FE50E0AB274B5889",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-"str": "Amintește-ți să ții ușa încuiată cu zăvorul. Dacă nu o faci, păpușile pot ieși, îți pot schimba testele și chiar te pot ucide."
-},
-{"key": "095285C644BBCF6CF4EA8EBA3F985F9F",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-"str": "Aceasta este camera păpușilor. Aici vei vedea ce au făcut în timp ce dormeai. Aruncă o privire la ele și apoi să ne întoarcem în cameră."
-},
-{"key": "09CCC43B450A924B1414CEA6C17A4E5D",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_137.Text",
-"id": "Language",
-"str": "Limba"
-},
-{"key": "0A3D5EC2435134BB35A189A4B69C4101",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Room",
-"str": "Cameră"
-},
-{"key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
-"location": "/Game/enums/actions.actions.DisplayNameMap(36 - Value).DisplayNameMap",
-"id": "Bouncy castles",
-"str": "Castele gonflabile"
-},
-{"key": "0B2A9AAE439C83F5A59624AAE1C48AAE",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Traps",
-"str": "Capcane"
-},
-{"key": "0B88630D44BEE72FF2A76095115344A8",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
-"id": "Doll Object",
-"str": "Obiect păpușă"
-},
-{"key": "0BE1B9C54499AA9F3A64BBBDD1482D26",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Motivator",
-"str": "Motivatorul"
-},
-{"key": "0CA5844D4070A29607D91D9C17419FCD",
-"location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
-"id": "Skip all hours",
-"str": "Sari peste toate orele"
-},
-{"key": "0D33F3C64097DC3B481D9DBBE348199B",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_2.Text",
-"id": "Smooth Camera",
-"str": "Cameră lină"
-},
-{"key": "0DCDE313473E8A6D40F69ABCD969645B",
-"location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
-"id": "Swing Self",
-"str": "Leagănă-te"
-},
-{"key": "0E888CB843DF92D55BD437BEB42F99EB",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-"str": "Să ne întoarcem la panou și să începem să eliminăm suspecții care nu se potrivesc cu dovezile noastre."
-},
-{"key": "0EBDA17F450C39EF22E70592BF2B4162",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Dreadful",
-"str": "Îngrozitor"
-},
-{"key": "109D973D484D997685448980DCB79533",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_2.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Floor",
-"str": "Podea"
-},
-{"key": "11739C0E41A20499E9C760B853C45A40",
-"location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
-"id": "Back",
-"str": "Înapoi"
-},
-{"key": "143BBE1843E5BD9D98FB8C9B4041B306",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Beautiful",
-"str": "Frumoasa"
-},
-{"key": "15973B6C49CE3AC92431D2B46BE8EEA4",
-"location": "/Game/enums/actions.actions.DisplayNameMap(10 - Value).DisplayNameMap",
-"id": "Fireworks",
-"str": "Artificii"
-},
-{"key": "164060454E5796D5711012B8A720788E",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(3).Options.Label",
-"id": "Extreme",
-"str": "Extrem"
-},
-{"key": "164553EC4B6A9D265430F3B6A25830E5",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Van Bed",
-"str": "Patul dubei"
-},
-{"key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-"location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
-"id": "Exit",
-"str": "Ieșire"
-},
-{"key": "16A84C9B486F4A520142D791EC349B4F",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
-"id": "Shading Quality",
-"str": "Calitate umbrire"
-},
-{"key": "175FDB6245E5ED987CC62684AC5049E4",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_23.Text",
-"id": "Run",
-"str": "Fugi"
-},
-{"key": "19750FC24F8A0B2279246B801F612D34",
-"location": "/Game/enums/actions.actions.DisplayNameMap(5 - Value).DisplayNameMap",
-"id": "Blood",
-"str": "Sânge"
-},
-{"key": "1AEE02D7485216A7EBEC93AD95D81A25",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "PC Right Side",
-"str": "Partea dreaptă a PC-ului"
-},
-{"key": "1D5965BE4639794BCFFC6BA942EC1A62",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Gentleman",
-"str": "Gentlemanul"
-},
-{"key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_33.Text",
-"id": "Screen Percentage",
-"str": "Procentajul ecranului"
-},
-{"key": "1F51194C47FBB1A80E8868BDC35CC619",
-"location": "/Game/enums/actions.actions.DisplayNameMap(35 - Value).DisplayNameMap",
-"id": "Sandbox",
-"str": "Lada de nisip"
-},
-{"key": "21952B6F489AA6A8308F0591867EAC2B",
-"location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
-"id": "Loves",
-"str": "Iubește"
-},
-{"key": "21FD3D1D43C022720514D89AC43F3A61",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
-"id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-"str": "Ai toate indiciile și toate informațiile despre păpuși, dar acestea sunt complet aleatorii pentru fiecare păpușă."
-},
-{"key": "21FFAF7243B370CCA19D849D0F92E7A4",
-"location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
-"id": "Tea with enemies",
-"str": "Ceai cu dușmani"
-},
-{"key": "25672B2F428EDE34D8AE9C8193CD05D6",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_10.Text",
-"id": "Camera Sensivity",
-"str": "Sensibilitatea camerei"
-},
-{"key": "267DB35B4828F6D27920F0A6E4892E5A",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_35.Text",
-"id": "Reflection Method",
-"str": "Metoda de reflecție"
-},
-{"key": "28953C4E43697949852B609F8D0793FB",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_154.Options(0).Options.Label",
-"id": "Off",
-"str": "Oprit"
-},
-{"key": "2C9826E7491425A6734CEB96CDC60470",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "Ms. Excellence",
-"str": "Doamna Excelență"
-},
-{"key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Demon",
-"str": "Demonul"
-},
-{"key": "2D10309A4AE3A7B38D67BC894C9A5B97",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
-"id": "View Distance Quality",
-"str": "Calitate distanță de vedere"
-},
-{"key": "2D485E384A7ABE47FD44F58A954301B6",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
-"id": "Hard",
-"str": "Greu"
-},
-{"key": "2DE4F4264AEB90D45B2363B38034FA9E",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_48.Text",
-"id": "Music Volume",
-"str": "Volum muzică"
-},
-{"key": "2DEA68154A30209AA0698497E47F9DA9",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
-"id": "Leaderboard Endless",
-"str": "Clasament fără sfârșit"
-},
-{"key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(2).Options.Label",
-"id": "Fullscreen",
-"str": "Ecran complet"
-},
-{"key": "2F29E9E841620DC6B54893A7BE60FE77",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Desktop",
-"str": "Desktop"
-},
-{"key": "2FEF48E44B224E75C8DE41B0CF76566A",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Lie bytes",
-"str": "Byte-urile Minciunii"
-},
-{"key": "31D2289342B165F56F2435A9CDCEB36A",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_30.Text",
-"id": "VSync",
-"str": "VSync"
-},
-{"key": "31D983AD40E7D0F0976B7CAC11BD3D12",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_1.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Roof",
-"str": "Acoperiș"
-},
-{"key": "34568E7B486905A5400643A88FA2E8A8",
-"location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
-"id": "Show list",
-"str": "Afișați lista"
-},
-{"key": "34AFF09749F832F67360E0923F227F4F",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Discards",
-"str": "Renunțări"
-},
-{"key": "367FB31C49B8F835CBA9AAAF25735FD8",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Malicious",
-"str": "Răuvoitor"
-},
-{"key": "36DAFDA641D110060CAB6BBD14FE3722",
-"location": "/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]",
-"id": "Continue",
-"str": "Continuă"
-},
-{"key": "37F6FE7147465126D16EBCAB90C1274D",
-"location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
-"id": "Likes",
-"str": "Îi place"
-},
-{"key": "3837591C42D92A7775C0598726DC6D31",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_29.Text",
-"id": "FPS Limit",
-"str": "Limită FPS"
-},
-{"key": "3A4B9B82453A3C78DD066BBB53AFC867",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-"str": "Mai avem doar 3. Să mergem în cameră să vedem cine s-a mișcat și cine a fost mutat."
-},
-{"key": "3BF4F9F24361A6C9205652911A0DA864",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_42.Text",
-"id": "Reflection Quality",
-"str": "Calitate reflexii"
-},
-{"key": "3D3092E04B30FAE9F91970831F869B44",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Wall",
-"str": "Perete"
-},
-{"key": "3E1BC428435A0C653E4D7185A4847A91",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(3).Options.Label",
-"id": "Input Settings",
-"str": "Setări de intrare"
-},
-{"key": "3E3E53D64E987B22AD5967A23BB5AC57",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text",
-"id": "Extras",
-"str": "Extra"
-},
-{"key": "3E796087492560DF199BD58F4D3A3731",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_14.Text",
-"id": "Move Backward",
-"str": "Mergi înapoi"
-},
-{"key": "3FD3275141C46D8A4E7B0C8B98721113",
-"location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
-"id": "Settings",
-"str": "Setări"
-},
-{"key": "411476E94611E3ECBFFCB29460596681",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_17.Text",
-"id": "Move Right",
-"str": "Mută la dreapta"
-},
-{"key": "419FBA55411C37613B78B895FC47434E",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_15.Text",
-"id": "Auto settings",
-"str": "Setări automate"
-},
-{"key": "420F5BCA40413C0383C7AA9583EEC5C0",
-"location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
-"id": "Mislead",
-"str": "Inducere în eroare"
-},
-{"key": "433A6CE84E4955044C7FB38105FA63BF",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
-"id": "Footsteps Volume",
-"str": "Volum pași"
-},
-{"key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_21.Text",
-"id": "Name",
-"str": "Nume"
-},
-{"key": "455698874FAE4AEB808E15AA36758F84",
-"location": "/Game/enums/actions.actions.DisplayNameMap(30 - Value).DisplayNameMap",
-"id": "Houses",
-"str": "Case"
-},
-{"key": "45C632DB4CE38CCF91E0E89A3C83E11B",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
-"id": "Video Settings",
-"str": "Setări video"
-},
-{"key": "45DB611B482D35EE05ADE98331F2EC20",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Haunting",
-"str": "Bântuit"
-},
-{"key": "460FFB13421148C8493D69A72A81E93C",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_24.Text",
-"id": "Use",
-"str": "Folosește"
-},
-{"key": "4634F1C448A78E03F4AC7B94441281EB",
-"location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
-"id": "Resume Game",
-"str": "Reia jocul"
-},
-{"key": "467D9B7144D32E320B1C6AA6D55B95B5",
-"location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
-"id": "Most won map",
-"str": "Cea mai câștigată hartă"
-},
-{"key": "47254BE24A91487FA9DB08918BAFEBED",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-"str": "Ai trecut prin tutorial, cunoști elementele de bază! Pentru a finaliza tutorialul, du-te la pat și dormi. Vei merge în zona ta de siguranță. Folosește computerul pentru a începe un joc!"
-},
-{"key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Ominous",
-"str": "Prevestitor"
-},
-{"key": "49B315454A07028DFEC0AD8B9D05C3FA",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
-"id": "Global",
-"str": "Global"
-},
-{"key": "49EE0D0C418246C21899368F2615D0DE",
-"location": "/Game/enums/actions.actions.DisplayNameMap(26 - Value).DisplayNameMap",
-"id": "Trains",
-"str": "Trenuri"
-},
-{"key": "4A4EFF4C40A276033B050495CB6E5179",
-"location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
-"id": "World",
-"str": "Lume"
-},
-{"key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Van Hanging doll",
-"str": "Păpușă atârnată în dubă"
-},
-{"key": "4F13E4CD4029EC13370EF7B54BCF3D90",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Governor",
-"str": "Guvernatorul"
-},
-{"key": "50CA9C1F443642D2B6B6BE9E5D1E302F",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_34.Text",
-"id": "Global Illumination Method",
-"str": "Metoda de iluminare globală"
-},
-{"key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
-"id": "Turn Left",
-"str": "Întoarce-te la stânga"
-},
-{"key": "5220ED3742AAD20F53D18B86F110B811",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-"str": "Ești gardianul păpușilor, una dintre ele este vie și intenționează să te omoare. Trebuie să descoperi care este aceasta înainte de ora 09:00."
-},
-{"key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-"str": "Perfect, mai avem 5 suspecți. Să mergem să dormim din nou."
-},
-{"key": "54DD43104162D7A89F5B2ABADBA7F0A6",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Van Lights",
-"str": "Lumini dubă"
-},
-{"key": "554BB9D046155183D4DCF7A14F96171E",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Duke",
-"str": "Ducele"
-},
-{"key": "591DF6954C2D384CBCCD838B12BD62CA",
-"location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
-"id": "Camp with enemies",
-"str": "Tabără cu dușmani"
-},
-{"key": "597D11E1471FC52613B9DD81AF3F6BE1",
-"location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
-"id": "Most Earned Doll",
-"str": "Cea mai câștigată păpușă"
-},
-{"key": "5981A77041F835414316E0BEA0C3C8F8",
-"location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
-"id": "YOU WIN",
-"str": "Ai câștigat"
-},
-{"key": "5A6092F448BE77B01756FFA578E7435A",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
-"id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-"str": "Mod aleatoriu, dar fără sfârșit, ai un cronometru de 3 minute pentru a rezolva cazul și există un clasament"
-},
-{"key": "5AC930984185A24BC84F5EB1E734B80E",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Tubesocks",
-"str": "Șosetele Tub"
-},
-{"key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
-"location": "/Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap",
-"id": "Move Others",
-"str": "Mută alții"
-},
-{"key": "5E0DC4AE4575000AC0171F95AD85CADA",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_1.Text",
-"id": "Depth of Field",
-"str": "Adâncimea câmpului"
-},
-{"key": "5E1C23674444BB331554B39281C7EA20",
-"location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
-"id": "Swing Others",
-"str": "Leagănă-i pe alții"
-},
-{"key": "60747A674F244C50BD7C42986DD084AD",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Widow",
-"str": "Văduva"
-},
-{"key": "611C7265455A03D1E36711A53C897A09",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Detective",
-"str": "Detectiv"
-},
-{"key": "61579A7B4A7A797C38911980E669DE96",
-"location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
-"id": "Jail Others",
-"str": "Închide-i pe alții"
-},
-{"key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(0).Options.Label",
-"id": "Low",
-"str": "Scăzut"
-},
-{"key": "63063D214706E5FBBE2227836F1BE194",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.name_18_82096130492E34A890A0138C4910D929",
-"id": "Circus",
-"str": "Circ"
-},
-{"key": "636E48DB4F79961C0BCDDF9C74A51062",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
-"id": "Look Up",
-"str": "Privește în sus"
-},
-{"key": "63D67BF743D308E3537D9794B417B76A",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_5.Text",
-"id": "Nightmare",
-"str": "Coșmar"
-},
-{"key": "6540E66F480EE470D56246880E1AAC02",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
-"id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-"str": "Dificultatea standard pentru fiecare jucător, toate indiciile vor fi date la 08:00, ai opțiunea de a vedea numele păpușilor și lista acțiunilor impostorului"
-},
-{"key": "6599647B49FD6A15932490B717FE66F3",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Lover",
-"str": "Iubitul"
-},
-{"key": "6621BA854D50DB36041E58AFE9A250D5",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-"str": "Este ultima oră. Avem doar această șansă să aflăm. Să mergem în cameră."
-},
-{"key": "67E721CC4E280A5A435BA1B141936D38",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
-"id": "Brightness",
-"str": "luminozitate"
-},
-{"key": "694809A74B440CDD18D181A8C6BA0434",
-"location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
-"id": "Enemies",
-"str": "Dușmani"
-},
-{"key": "6A1B28C14FD17FB8222E60837327DA35",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
-"id": "Object",
-"str": "Obiect"
-},
-{"key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_25.Text",
-"id": "Focus / Zoom",
-"str": "Focalizare / Zoom"
-},
-{"key": "6AFC77BB43DCD66B4099688FF725AB13",
-"location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
-"id": "Play tutorial",
-"str": "Joacă tutorialul"
-},
-{"key": "6B78310947BA56A4D0322EAFBC650458",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Macabre",
-"str": "Macabru"
-},
-{"key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
-"id": "Effects Volume",
-"str": "Volum efecte"
-},
-{"key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
-"location": "/Game/UI/paperInterface.paperInterface_C:GetText_4 [Script Bytecode]",
-"id": "Partner",
-"str": "Partener"
-},
-{"key": "7095C09D4014D1FB9E4C1D9529586155",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_7.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "PC Left Side",
-"str": "Partea stângă a PC-ului"
-},
-{"key": "71DA9AC944078FAD69976DAAA19A68C0",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
-"id": "Volumetric Fog Quality",
-"str": "Calitate ceață volumetrică"
-},
-{"key": "7286FEC6469CF65A5584DB896D227680",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(0).Options.Label",
-"id": "Windowed",
-"str": "Fereastră"
-},
-{"key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Traitor",
-"str": "Trădătorul"
-},
-{"key": "740E2993476C6AB0DEDC3BA514B0FF5F",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Comedian",
-"str": "Comedianul"
-},
-{"key": "7461839E43289FBE953BE6A6CD4D28D8",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Deadly",
-"str": "Mortal"
-},
-{"key": "75A0760B4CF756F7572751980578A7E4",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Single",
-"str": "Singurul"
-},
-{"key": "75DB907D4C3E80ED887ACDA2AADF602C",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-"str": "Vei avea un rol de detectiv în care va trebui să determini, pe baza preferințelor și aversiunilor impostorului enumerate pe panoul din stânga ta, ce îi place și ce nu îi place, cine sunt dușmanii, prietenii, iubirile sau persoanele urâte."
-},
-{"key": "773B946148501068D9A5B3A814B81ECD",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_16.Text",
-"id": "Move Left",
-"str": "Mută la stânga"
-},
-{"key": "77DAE76A48EC13E45F2983881F23E808",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
-"id": "Gameplay Settings",
-"str": "Setări gameplay"
-},
-{"key": "7826866B435A8EE313772C8979CA261B",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
-"id": "Jumpscares Volume",
-"str": "Volum sperieturi"
-},
-{"key": "798C9DA54AB7FB8B77443DA0EE442098",
-"location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
-"id": "Go to Safe House",
-"str": "Mergi la Casa Sigură"
-},
-{"key": "7A7523B24363943AC1ECCE9A0B2634F5",
-"location": "/Game/enums/actions.actions.DisplayNameMap(12 - Value).DisplayNameMap",
-"id": "Balls",
-"str": "Mingi"
-},
-{"key": "7B6CC6BA4D259033F5B946A472D9AB10",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Menacing",
-"str": "Amenințător"
-},
-{"key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
-"id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-"str": "Potrivit doar pentru profesioniști, începe la 08:00 și are doar 3 indicii eficiente, nu există fotografii sau ajutoare, unele date sunt ascunse, ai acces limitat la hartă"
-},
-{"key": "7C75165C49E7D2EBD079048C7F8B471B",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_154.Options(1).Options.Label",
-"id": "On",
-"str": "Pornit"
-},
-{"key": "7D2E931045A6E1506DEEC6BD2C264ED3",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Van Left Side",
-"str": "Partea stângă a dubei"
-},
-{"key": "7D39CA6640F288A9002846AE7D7F4041",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
-"id": "Mini Object",
-"str": "Mini obiect"
-},
-{"key": "7EBE45E64B8119C2AA017590BE5B8563",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text",
-"id": "Anti Aliasing Quality",
-"str": "Calitate anti-aliasing"
-},
-{"key": "7F18D69F420F68627730E39CE489A2EC",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-"str": "Să întindem o capcană pentru impostor. Știm deja că îi place televizorul și muzica. Aprinde luminile."
-},
-{"key": "8048C27C4B137230FE4708ADFD1AD7F4",
-"location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
-"id": "Show jumpscares",
-"str": "Afișați sperieturile"
-},
-{"key": "805F56F9484DE7ED01BC83B1E3304EE7",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Van floor",
-"str": "Podea dubă"
-},
-{"key": "8098B1CA4AED33E029A8D4878EE21A49",
-"location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-"id": "You've broken your new record with {new} nights! of the {old} nights before!",
-"str": "Ați depășit noul dvs. record cu {new} nopți! Față de {old} nopți anterior!"
-},
-{"key": "815797D840D1A6AEC45401A9A3996DE0",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Don't trust",
-"str": "Nu te încrede"
-},
-{"key": "839DA89C42E027A3CA515CA3BC5BE204",
-"location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
-"id": "You can try it now in PC",
-"str": "Poți încerca acum pe PC"
-},
-{"key": "84658DA54182C8A664927696DBF0C2C1",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text",
-"id": "Foliage Quality",
-"str": "Calitate frunziș"
-},
-{"key": "8482CDF142B6B8DA6AB0148C9B01430B",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Tactician",
-"str": "Tacticianul"
-},
-{"key": "8785C0644A30D7680DD4668FB916A03A",
-"location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
-"id": "Hide Others",
-"str": "Ascunde-i pe alții"
-},
-{"key": "878E24534B885E2AB87EACB0394A0E58",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_28.Text",
-"id": "Screen Mode",
-"str": "Modul ecran"
-},
-{"key": "87FBE09C4BC5718F45CC6F8E716201AE",
-"location": "/Game/enums/actions.actions.DisplayNameMap(25 - Value).DisplayNameMap",
-"id": "Tunnels",
-"str": "Tuneluri"
-},
-{"key": "8B7A2813470D5B634D42F1B18FD1C975",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Acrobat",
-"str": "Acrobatul"
-},
-{"key": "8C5FD61743DD0F208E4EC58CE1706DB2",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Well done!",
-"str": "Bravo!"
-},
-{"key": "8CAC065540B47C971DC8E0B801B69618",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_40.Text",
-"id": "Shadow Quality",
-"str": "Calitate umbre"
-},
-{"key": "8D62136643D4EAA319AD22BBFD4C8FD1",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Statue",
-"str": "Statuie"
-},
-{"key": "8DDD1FD04F1754E2F728208EBEF897FC",
-"location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
-"id": "Camp with friends",
-"str": "Tabără cu prieteni"
-},
-{"key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
-"location": "/Game/enums/actions.actions.DisplayNameMap(27 - Value).DisplayNameMap",
-"id": "Cars",
-"str": "Mașini"
-},
-{"key": "8E5AFE684A85E803C6F5ADAD24BB2C1D",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Events",
-"str": "Evenimente"
-},
-{"key": "8E794D794CCEA0D30D037D8DA2BFD248",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Lights",
-"str": "Lumini"
-},
-{"key": "901E40384D0FE3FAD3508F98408C18C7",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_22.Text",
-"id": "Nights",
-"str": "Nopți"
-},
-{"key": "91B3AF44465FA4D4F6976EA74F572B41",
-"location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
-"id": "Show names",
-"str": "Afișați numele"
-},
-{"key": "928D8B36495F7CA7451ECC8DA2DD1850",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_13.Text",
-"id": "Move Forward",
-"str": "Înaintează"
-},
-{"key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_8.Text",
-"id": "Easy",
-"str": "Ușor"
-},
-{"key": "9404939C41414F86FA16B8B0C5B74E9D",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(2).Options.Label",
-"id": "High",
-"str": "Înalt"
-},
-{"key": "9432768D4222957489019C86BD251CA3",
-"location": "/Game/enums/actions.actions.DisplayNameMap(20 - Value).DisplayNameMap",
-"id": "Carousel with enemies",
-"str": "Carusel cu inamici"
-},
-{"key": "9472CB7546EB19A64D00B9B40CF7BC7D",
-"location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
-"id": "You've unlocked a new extra mode!",
-"str": "Ai deblocat un nou mod extra!"
-},
-{"key": "95E8DAF7441719B3063BE7B84B85AE87",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text",
-"id": "Random",
-"str": "Aleatoriu"
-},
-{"key": "966BA2A948A2BC025A15EBA7AD8767E0",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Diabolic",
-"str": "Diabolic"
-},
-{"key": "96BE28504D901245DE1115BF00D47E10",
-"location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
-"id": "Action Details",
-"str": "Detalii despre acțiune"
-},
-{"key": "9806DB6E4107A01E3979C1BBEF780A91",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_41.Text",
-"id": "Global Illumination Quality",
-"str": "Calitate iluminare globală"
-},
-{"key": "996579D246DE71F2608BB5BF8C353DA4",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Kid",
-"str": "Copilul"
-},
-{"key": "99AE0DEC47710525BAF347ABFE8339AB",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_39.Text",
-"id": "Post Processing Quality",
-"str": "Calitate postprocesare"
-},
-{"key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
-"id": "Daycare",
-"str": "Grădiniță"
-},
-{"key": "9B0C4F0544EED1171CEEF59539778188",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Unlucky",
-"str": "Ghinionistul"
-},
-{"key": "9CDEB80D4E621DB2CC0B839965697925",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Awkward",
-"str": "Stângaciul"
-},
-{"key": "9CE4FD774DFBE4C84DC711A634666FA7",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Bot",
-"str": "Robotul"
-},
-{"key": "9D7CA8BB4D12421F2093AB823A8EAC45",
-"location": "/Game/enums/actions.actions.DisplayNameMap(15 - Value).DisplayNameMap",
-"id": "Cannon",
-"str": "Tun"
-},
-{"key": "A1CB54034B401A0E8BBD049E18CBFADD",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
-"id": "Random mode but in race mode with medals",
-"str": "Mod aleatoriu, dar în modul cursă cu medalii"
-},
-{"key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_4.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Left Place",
-"str": "Loc stânga"
-},
-{"key": "A2C08BE6447E2720D3051F8CA460E102",
-"location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
-"id": "Can you help me with a positive review?",
-"str": "Mă poți ajuta cu o recenzie pozitivă?"
-},
-{"key": "A31A353942F325B2C7CB09AA525BB7CF",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
-"id": "Film Grain",
-"str": "Granulație film"
-},
-{"key": "A31A514F4934E454FDB9F4BF3A480C84",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Grim",
-"str": "Sumbru"
-},
-{"key": "A6E8E3B84059F699472F1C8DECDAF09C",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Star",
-"str": "Steaua"
-},
-{"key": "A7121AED466C7D8F9486A89DECB2409C",
-"location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
-"id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-"str": "Bine ai venit la refugiu! Aceasta este zona ta sigură. Aici poți începe un joc nou pe computer, vizualiza colecția ta de păpuși și trofee și personaliza acest loc făcând clic pe pictograma paletei de culori de pe desktopul tău!"
-},
-{"key": "A7C36D644573AD30716F4283EBBE53D2",
-"location": "/Game/enums/actions.actions.DisplayNameMap(28 - Value).DisplayNameMap",
-"id": "Swings",
-"str": "Leagăne"
-},
-{"key": "AA8520BE4876828E544192BFA8F98EE7",
-"location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
-"id": "Move Self",
-"str": "Mișcă-te singur"
-},
-{"key": "AB6B64D64932C68A8743709693AF267B",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
-"id": "Position",
-"str": "Poziție"
-},
-{"key": "AFC2B2644270E4DDA921A0AA0660BA68",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "To sleep, simply point at the bed and click on it.",
-"str": "Pentru a dormi, pur și simplu îndreaptă-te spre pat și fă clic pe el."
-},
-{"key": "B084116A4B080238B7AB2A89F60A598E",
-"location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
-"id": "Replay",
-"str": "Redă"
-},
-{"key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Grump",
-"str": "Morocănosul"
-},
-{"key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
-"id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-"str": "Încă un pas de dificultate, nu există indicii suplimentare, nu poți vedea numele sau lista"
-},
-{"key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
-"id": "Race",
-"str": "Cursă"
-},
-{"key": "B300BE9147F822906E54C7A227BF23BA",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Welcome to Doll Impostor!",
-"str": "Bine ai venit la \nImpostorul Păpușilor\n!"
-},
-{"key": "B383AEBA444328B5A71FF88EF36A0DBB",
-"location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
-"id": "Impostor",
-"str": "Impostor"
-},
-{"key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
-"id": "Color",
-"str": "Culoare"
-},
-{"key": "B4559452445FD99D5366B68268BCFC9E",
-"location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-"id": "Congratulations!",
-"str": "Felicitări!"
-},
-{"key": "B46005B1494B233FC63D6C92DB922873",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Doorman",
-"str": "Portarul"
-},
-{"key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Terrifying",
-"str": "Terifiant"
-},
-{"key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Unnoticed",
-"str": "Neobservatul"
-},
-{"key": "B54084CB4A265AC5B0714AB02E26FFEE",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_43.Text",
-"id": "Texture Quality",
-"str": "Calitate textură"
-},
-{"key": "B56C952645AF8D8E34E6D7AC0CC9F750",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Loner",
-"str": "Singuraticul"
-},
-{"key": "B7A232F04263043B9FEA5F8F6A6CBF61",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(5).Options.Label",
-"id": "Unlimited",
-"str": "Nelimitat"
-},
-{"key": "B8952A3841AAE9C0034514AC607965D8",
-"location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
-"id": "Refuge",
-"str": "Refugiu"
-},
-{"key": "B98D2AB7447B5DBEA44D1D8E675432D3",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Ghoster",
-"str": "Fantomatic"
-},
-{"key": "B9B809EC40076554656E1A8C91157931",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Patriot",
-"str": "Patriotul"
-},
-{"key": "BAD425AD48B5C8A24B0663948D13EA94",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Planner",
-"str": "Planificatorul"
-},
-{"key": "BC06960A474C65DE361B3CB2C89626B3",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
-"id": "Ambient Volume",
-"str": "Volum ambiental"
-},
-{"key": "BCA4F7E9472918A4030087B0CBCF7608",
-"location": "/Game/functions/interfaceFunctions.interfaceFunctions_C:showPopup [Script Bytecode]",
-"id": "OK",
-"str": "OK"
-},
-{"key": "BCB8724F4D70F43E391D0FB8984329C6",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Diva",
-"str": "Diva"
-},
-{"key": "BD7ABF40452E652BF9FDDDB2B311BA06",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-"str": "Pentru început, sunt 20 de păpuși. Verifică-le pe tablă și când ești gata, mergi în cameră pentru a le întâlni."
-},
-{"key": "BDC3A1864427A6240202ACAFA646188C",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Go to sleep and let's see if the clue is solved in the next hour.",
-"str": "Du-te la culcare și să vedem dacă indiciul se rezolvă în ora următoare."
-},
-{"key": "BE7B6E174A4CE247B21761B7E41F34D3",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_21.Text",
-"id": "Look Down",
-"str": "Privește în jos"
-},
-{"key": "BED88CC84349A7555F6F8F8702DFC716",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_44.Text",
-"id": "Visual Effects Quality",
-"str": "Calitate efecte vizuale"
-},
-{"key": "BEF09CA34BAE3DC7635E8485BB667E28",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Van exterior",
-"str": "Exterior dubă"
-},
-{"key": "BF221642449DB485C8FF39A6198C744B",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Sinister",
-"str": "Sinistru"
-},
-{"key": "BF4FA5364C39224BE93EC080C21FF285",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock.Text",
-"id": "Mixed dolls",
-"str": "Păpuși mixte"
-},
-{"key": "BF587B62432840655EC059BE5054E289",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-"str": "Este clar că îi place sângele. Ar putea fi oricare dintre cei doi, dar verifică cutiile. Freddy lipsește și cutia lui este plină de sânge. El a lăsat acest verdict pentru tine. Când ești sigur, renunță la candidat."
-},
-{"key": "C0FE25964E732C097D287AB368FB54A4",
-"location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
-"id": "Dislikes",
-"str": "Nu îi place"
-},
-{"key": "C539F07A44FA320908B87FADABCFB0C9",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Van Right Side",
-"str": "Partea dreaptă a dubei"
-},
-{"key": "C6A278F94000AE1F35ED22BF78A7ADE5",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
-"id": "New Game",
-"str": "Joc Nou"
-},
-{"key": "C8A00764485261B746BFEE94C58D6ECA",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Scary",
-"str": "Înfricoșător"
-},
-{"key": "C8F05C9640A64BDEEDFF738C5E065267",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_22.Text",
-"id": "Crouch",
-"str": "Aplecare"
-},
-{"key": "CA75CAA04ADC71945FDEF1B6843F94B0",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-"str": "A căzut în capcana noastră și a stins luminile. Acum putem renunța la toți cei cărora le place lumina."
-},
-{"key": "CAECC15549067E173F931888596593F1",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Sweet",
-"str": "Dulcele"
-},
-{"key": "CB775D1F41F692F4946D738AA83BB23E",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
-"id": "Friends",
-"str": "Prieteni"
-},
-{"key": "CE5521734152BB8FDF36949D84AA7F39",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Ghastly",
-"str": "Groaznic"
-},
-{"key": "CE77947D46EF18A8A49309A22EB6E699",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
-"id": "Stats",
-"str": "Statistici"
-},
-{"key": "CF3A6ECB45A9488C10D246A3FD143977",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Weasel",
-"str": "Nevăstuica"
-},
-{"key": "D03A184741DBDC2985FBC9A454F19494",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Nervous",
-"str": "Nervosul"
-},
-{"key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Spooky",
-"str": "Înfricoșător"
-},
-{"key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Chilling",
-"str": "Rece"
-},
-{"key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
-"location": "/Game/enums/actions.actions.DisplayNameMap(9 - Value).DisplayNameMap",
-"id": "Light",
-"str": "Lumină"
-},
-{"key": "D2EAFC9348E348C7516300BF122B9702",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Right Place",
-"str": "Loc dreapta"
-},
-{"key": "D43847EE40A03CCE1238E0A4BAB8F812",
-"location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
-"id": "Translated by: {people}",
-"str": "Tradus de: {people}"
-},
-{"key": "D59D437D4A5623BB300F15B9DEB2DFC9",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(1).Options.Label",
-"id": "Medium",
-"str": "Mediu"
-},
-{"key": "D618A4A346B0EA7CBABE00AA94C80485",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Count",
-"str": "Contele"
-},
-{"key": "D627A24C4957566043D3F0ADF0F70B9E",
-"location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
-"id": "Playgrounds",
-"str": "Loc de joacă"
-},
-{"key": "D8A8DBB34AAD96AC66B54A87365822C9",
-"location": "/Game/enums/actions.actions.DisplayNameMap(16 - Value).DisplayNameMap",
-"id": "Knives",
-"str": "Cuțite"
-},
-{"key": "D8CB256A4FC1286A3BD465B95B7398D6",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Flirt",
-"str": "Cochetul"
-},
-{"key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
-"location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
-"id": "Hide Self",
-"str": "Ascunde-te"
-},
-{"key": "D8F293214EA6402451DED28B75ADA37E",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_27.Text",
-"id": "Screen Resolution",
-"str": "Rezoluția ecranului"
-},
-{"key": "D955FAE74433E108EB3C078EF42B2DC8",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Quiet",
-"str": "Tăcutul"
-},
-{"key": "D9B2458843A82DBB9843FBBB36327D9A",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
-"id": "Turn Right",
-"str": "Întoarce-te la dreapta"
-},
-{"key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Door",
-"str": "Ușă"
-},
-{"key": "DAFC2C134E48E1FBE3399C9D15E37173",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Unsettling",
-"str": "Deranjant"
-},
-{"key": "DFC327DA4616540509FBF6AA40D0458B",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
-"id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-"str": "Mod expert, începi de la 06:00, nu există indicii suplimentare și nici fotografii"
-},
-{"key": "DFCF9FFA438E6B63C7745586401C14BA",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The New",
-"str": "Noul"
-},
-{"key": "E1BED414427264B22F7080B7ED0D0CF9",
-"location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
-"id": "Audio Settings",
-"str": "Setări audio"
-},
-{"key": "E238A88B4FBC7C4641B8E9A95353B1C0",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Indecent",
-"str": "Indecentul"
-},
-{"key": "E2D484854A1C9DB14835A6AD457B6207",
-"location": "/Game/enums/actions.actions.DisplayNameMap(22 - Value).DisplayNameMap",
-"id": "Balloons",
-"str": "Baloane"
-},
-{"key": "E447809B421298C1BDA5E4B063D86F49",
-"location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
-"id": "Action Dolls",
-"str": "Păpuși de Acțiune"
-},
-{"key": "E60C061E42EEE57516BA1B83B2A64C7E",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_3.Text",
-"id": "Normal",
-"str": "Normal"
-},
-{"key": "E75E972A4F2C8D92EC495294816B3C8D",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_32.Text",
-"id": "Temporal Upsample",
-"str": "Eșantionare temporală"
-},
-{"key": "E7D75C9A40FB9B41721A46B5B7198EF1",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
-"id": "Sticker",
-"str": "Autocolant"
-},
-{"key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
-"id": "As you unlock new levels, new ones will appear!",
-"str": "Pe măsură ce deblochezi noi niveluri, vor apărea altele noi!"
-},
-{"key": "E93B4EC241D67CCBA288EAB44234C576",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
-"id": "Material",
-"str": "Material"
-},
-{"key": "E96A210546B4B0647B0763843052BBF8",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
-"id": "Head Bobbing",
-"str": "Mișcare cap"
-},
-{"key": "E9E818494A07397E77DFC8AEBFE671E0",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Dolls",
-"str": "Păpuși"
-},
-{"key": "EABE87674E476F817EEF85B6E5E00296",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
-"id": "Log Off",
-"str": "Deconectare"
-},
-{"key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock.Text",
-"id": "Field of View",
-"str": "Câmp vizual"
-},
-{"key": "F167859643FD37B593110B9A866E9EB3",
-"location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text",
-"id": "Endless",
-"str": "Fără sfârșit"
-},
-{"key": "F1D636544DE5ADC7945E9789ACC63D6C",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
-"id": "Van wall",
-"str": "Perete dubă"
-},
-{"key": "F22CBEE0429B4D716137DE9A58D8A371",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Frightening",
-"str": "Înfricoșător"
-},
-{"key": "F28247BF4A488DEE853285BA1EBC6188",
-"location": "/Game/data-tables/mapList.mapList.NewRow_0.name_18_82096130492E34A890A0138C4910D929",
-"id": "House",
-"str": "Casă"
-},
-{"key": "F2BC9C064F532236387F0ABC86BA8078",
-"location": "/Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap",
-"id": "Organization",
-"str": "Organizație"
-},
-{"key": "F328405344EB2B4CB4D34EA75D918FD1",
-"location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
-"id": "Hates",
-"str": "Urăște"
-},
-{"key": "F343C45143C6D6F84AC69C85B3A85B2F",
-"location": "/Game/enums/actions.actions.DisplayNameMap(7 - Value).DisplayNameMap",
-"id": "Tv",
-"str": "Televizor"
-},
-{"key": "F398437D44CE91CF11D919A1208038ED",
-"location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.sections_22_4031E9264112E4E86BC48BA9D729A311(2).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
-"id": "Size",
-"str": "Dimensiune"
-},
-{"key": "F4CB65EF48F9C01CD6AB509912890A36",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Ringmaster",
-"str": "Maestrul de ceremonii"
-},
-{"key": "F7F54678404761EAEB33B4B508EC97D1",
-"location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Hope",
-"str": "Speranța"
-},
-{"key": "F83E76BC49FC84244322C382556B6E5F",
-"location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-"id": "Oh no...",
-"str": "Oh nu..."
-},
-{"key": "FA1C15B1439CEF51682B81AF479F4873",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_26.Text",
-"id": "Main Menu",
-"str": "Meniu principal"
-},
-{"key": "FA4E21624A2D966B1B2ED19005131257",
-"location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Traditional",
-"str": "Tradiționalul"
-},
-{"key": "FA89ED204F28013D22A23CAE49ADAC61",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "Sleep",
-"str": "Somn"
-},
-{"key": "FACAB65943781B084CD803A77E0F7266",
-"location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-"id": "The Gurl",
-"str": "Fata"
-},
-{"key": "FAD096A047C791A2435446A372491A59",
-"location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-"id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-"str": "Avem pe Ricky pe canapea și pe Monty la pian, așa că deja avem 2 posibili candidați. Totuși, nu vom risca 50%. Să ne întoarcem în cameră pentru a elimina pe cel care nu poate fi și să așteptăm următorul său eveniment."
-},
-{"key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
-"id": "Graphic Preset",
-"str": "Presetare grafică"
-},
-{"key": "FC67115746EDB65A022A51B4C1176418",
-"location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-"id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-"str": "Aveți {new} nopți, nu ați reușit să vă depășiți recordul de {old} nopți"
-},
-{"key": "FCA446264B23A96037F05F8D786E8199",
-"location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_5.Text",
-"id": "Master Volume",
-"str": "Volum principal"
-},
-{"key": "FD50C07D436B39761D90A28961DE809F",
-"location": "/Game/enums/actions.actions.DisplayNameMap(2 - Value).DisplayNameMap",
-"id": "Open Boxes",
-"str": "Deschide cutii"
-},
-{"key": "FE11E6ED4FA63C5B12631383E56A20B5",
-"location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
-"id": "You've unlocked the {map} Map!",
-"str": "Ai deblocat harta {map}!"
-},
-{"key": "FE160B74470133E4B513D18D4566D063",
-"location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
-"id": "YOU LOSE",
-"str": "Ai pierdut"
-},
-{"key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
-"location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
-"id": "Play",
-"str": "Joacă"
-},
-{"key": "FF277FA44BB3DB99FB3F4393911D9B6D",
-"location": "/Game/enums/actions.actions.DisplayNameMap(4 - Value).DisplayNameMap",
-"id": "Music",
-"str": "Muzică"
-},
-{"key": "FF934248449771227CA5E6BAC5FBE7AF",
-"location": "/Game/enums/actions.actions.DisplayNameMap(19 - Value).DisplayNameMap",
-"id": "Carousel with friends",
-"str": "Carusel cu prieteni"
-}]
+    {
+        "key": "0078964D495E90CB9C263D86C289F115",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
+        "id": "Tea with friends",
+        "str": "Ceai cu prieteni"
+    },
+    {
+        "key": "01A2125C4F867B60C4E289ACD43FEBF9",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Mentor",
+        "str": "Mentorul"
+    },
+    {
+        "key": "0285258748FED1BC6E542F80A9097CE9",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(32 - Value).DisplayNameMap",
+        "id": "Tea",
+        "str": "Ceai"
+    },
+    {
+        "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(1).Options.Label",
+        "id": "Borderless",
+        "str": "Fără margini"
+    },
+    {
+        "key": "0375A2D542A72CFAD4E4CA8A30C56CC4",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Duchess",
+        "str": "Ducesa"
+    },
+    {
+        "key": "04119A0C4BAB3896CA5F208DA41F582A",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
+        "str": "Se pare că impostorul a făcut câteva evenimente. Acestea vor fi afișate pe panoul din stânga. Revizuiește-le și apoi accesează din nou camera."
+    },
+    {
+        "key": "0593C38042D49BC9D0958EB990324EFA",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
+        "id": "Jail Self",
+        "str": "Închide-te"
+    },
+    {
+        "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(31 - Value).DisplayNameMap",
+        "id": "Seesaws",
+        "str": "Balansoare"
+    },
+    {
+        "key": "073BF882481ECDE57F50FF98957A3C22",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "You've unlocked a new difficulty!",
+        "str": "Ați deblocat o nouă dificultate!"
+    },
+    {
+        "key": "08FC22B7498C0918FE50E0AB274B5889",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
+        "str": "Amintește-ți să ții ușa încuiată cu zăvorul. Dacă nu o faci, păpușile pot ieși, îți pot schimba testele și chiar te pot ucide."
+    },
+    {
+        "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
+        "str": "Aceasta este camera păpușilor. Aici vei vedea ce au făcut în timp ce dormeai. Aruncă o privire la ele și apoi să ne întoarcem în cameră."
+    },
+    {
+        "key": "09CCC43B450A924B1414CEA6C17A4E5D",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_137.Text",
+        "id": "Language",
+        "str": "Limba"
+    },
+    {
+        "key": "0A3D5EC2435134BB35A189A4B69C4101",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Room",
+        "str": "Cameră"
+    },
+    {
+        "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(36 - Value).DisplayNameMap",
+        "id": "Bouncy castles",
+        "str": "Castele gonflabile"
+    },
+    {
+        "key": "0B2A9AAE439C83F5A59624AAE1C48AAE",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Traps",
+        "str": "Capcane"
+    },
+    {
+        "key": "0B88630D44BEE72FF2A76095115344A8",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Doll Object",
+        "str": "Obiect păpușă"
+    },
+    {
+        "key": "0BE1B9C54499AA9F3A64BBBDD1482D26",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Motivator",
+        "str": "Motivatorul"
+    },
+    {
+        "key": "0CA5844D4070A29607D91D9C17419FCD",
+        "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
+        "id": "Skip all hours",
+        "str": "Sari peste toate orele"
+    },
+    {
+        "key": "0D33F3C64097DC3B481D9DBBE348199B",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_2.Text",
+        "id": "Smooth Camera",
+        "str": "Cameră lină"
+    },
+    {
+        "key": "0DCDE313473E8A6D40F69ABCD969645B",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
+        "id": "Swing Self",
+        "str": "Leagănă-te"
+    },
+    {
+        "key": "0E888CB843DF92D55BD437BEB42F99EB",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
+        "str": "Să ne întoarcem la panou și să începem să eliminăm suspecții care nu se potrivesc cu dovezile noastre."
+    },
+    {
+        "key": "0EBDA17F450C39EF22E70592BF2B4162",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Dreadful",
+        "str": "Îngrozitor"
+    },
+    {
+        "key": "109D973D484D997685448980DCB79533",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_2.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Floor",
+        "str": "Podea"
+    },
+    {
+        "key": "11739C0E41A20499E9C760B853C45A40",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+        "id": "Back",
+        "str": "Înapoi"
+    },
+    {
+        "key": "143BBE1843E5BD9D98FB8C9B4041B306",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Beautiful",
+        "str": "Frumoasa"
+    },
+    {
+        "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(10 - Value).DisplayNameMap",
+        "id": "Fireworks",
+        "str": "Artificii"
+    },
+    {
+        "key": "164060454E5796D5711012B8A720788E",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(3).Options.Label",
+        "id": "Extreme",
+        "str": "Extrem"
+    },
+    {
+        "key": "164553EC4B6A9D265430F3B6A25830E5",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Van Bed",
+        "str": "Patul dubei"
+    },
+    {
+        "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
+        "id": "Exit",
+        "str": "Ieșire"
+    },
+    {
+        "key": "16A84C9B486F4A520142D791EC349B4F",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
+        "id": "Shading Quality",
+        "str": "Calitate umbrire"
+    },
+    {
+        "key": "175FDB6245E5ED987CC62684AC5049E4",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_23.Text",
+        "id": "Run",
+        "str": "Fugi"
+    },
+    {
+        "key": "19750FC24F8A0B2279246B801F612D34",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(5 - Value).DisplayNameMap",
+        "id": "Blood",
+        "str": "Sânge"
+    },
+    {
+        "key": "1AEE02D7485216A7EBEC93AD95D81A25",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "PC Right Side",
+        "str": "Partea dreaptă a PC-ului"
+    },
+    {
+        "key": "1D5965BE4639794BCFFC6BA942EC1A62",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Gentleman",
+        "str": "Gentlemanul"
+    },
+    {
+        "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_33.Text",
+        "id": "Screen Percentage",
+        "str": "Procentajul ecranului"
+    },
+    {
+        "key": "1F51194C47FBB1A80E8868BDC35CC619",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(35 - Value).DisplayNameMap",
+        "id": "Sandbox",
+        "str": "Lada de nisip"
+    },
+    {
+        "key": "21952B6F489AA6A8308F0591867EAC2B",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
+        "id": "Loves",
+        "str": "Iubește"
+    },
+    {
+        "key": "21FD3D1D43C022720514D89AC43F3A61",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
+        "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
+        "str": "Ai toate indiciile și toate informațiile despre păpuși, dar acestea sunt complet aleatorii pentru fiecare păpușă."
+    },
+    {
+        "key": "21FFAF7243B370CCA19D849D0F92E7A4",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
+        "id": "Tea with enemies",
+        "str": "Ceai cu dușmani"
+    },
+    {
+        "key": "25672B2F428EDE34D8AE9C8193CD05D6",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_10.Text",
+        "id": "Camera Sensivity",
+        "str": "Sensibilitatea camerei"
+    },
+    {
+        "key": "267DB35B4828F6D27920F0A6E4892E5A",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_35.Text",
+        "id": "Reflection Method",
+        "str": "Metoda de reflecție"
+    },
+    {
+        "key": "28953C4E43697949852B609F8D0793FB",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_154.Options(0).Options.Label",
+        "id": "Off",
+        "str": "Oprit"
+    },
+    {
+        "key": "2C9826E7491425A6734CEB96CDC60470",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "Ms. Excellence",
+        "str": "Doamna Excelență"
+    },
+    {
+        "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Demon",
+        "str": "Demonul"
+    },
+    {
+        "key": "2D10309A4AE3A7B38D67BC894C9A5B97",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
+        "id": "View Distance Quality",
+        "str": "Calitate distanță de vedere"
+    },
+    {
+        "key": "2D485E384A7ABE47FD44F58A954301B6",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
+        "id": "Hard",
+        "str": "Greu"
+    },
+    {
+        "key": "2DE4F4264AEB90D45B2363B38034FA9E",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_48.Text",
+        "id": "Music Volume",
+        "str": "Volum muzică"
+    },
+    {
+        "key": "2DEA68154A30209AA0698497E47F9DA9",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
+        "id": "Leaderboard Endless",
+        "str": "Clasament fără sfârșit"
+    },
+    {
+        "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(2).Options.Label",
+        "id": "Fullscreen",
+        "str": "Ecran complet"
+    },
+    {
+        "key": "2F29E9E841620DC6B54893A7BE60FE77",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Desktop",
+        "str": "Desktop"
+    },
+    {
+        "key": "2FEF48E44B224E75C8DE41B0CF76566A",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Lie bytes",
+        "str": "Byte-urile Minciunii"
+    },
+    {
+        "key": "31D2289342B165F56F2435A9CDCEB36A",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_30.Text",
+        "id": "VSync",
+        "str": "VSync"
+    },
+    {
+        "key": "31D983AD40E7D0F0976B7CAC11BD3D12",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_1.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Roof",
+        "str": "Acoperiș"
+    },
+    {
+        "key": "34568E7B486905A5400643A88FA2E8A8",
+        "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
+        "id": "Show list",
+        "str": "Afișați lista"
+    },
+    {
+        "key": "34AFF09749F832F67360E0923F227F4F",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Discards",
+        "str": "Renunțări"
+    },
+    {
+        "key": "367FB31C49B8F835CBA9AAAF25735FD8",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Malicious",
+        "str": "Răuvoitor"
+    },
+    {
+        "key": "36DAFDA641D110060CAB6BBD14FE3722",
+        "location": "/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]",
+        "id": "Continue",
+        "str": "Continuă"
+    },
+    {
+        "key": "37F6FE7147465126D16EBCAB90C1274D",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
+        "id": "Likes",
+        "str": "Îi place"
+    },
+    {
+        "key": "3837591C42D92A7775C0598726DC6D31",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_29.Text",
+        "id": "FPS Limit",
+        "str": "Limită FPS"
+    },
+    {
+        "key": "3A4B9B82453A3C78DD066BBB53AFC867",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
+        "str": "Mai avem doar 3. Să mergem în cameră să vedem cine s-a mișcat și cine a fost mutat."
+    },
+    {
+        "key": "3BF4F9F24361A6C9205652911A0DA864",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_42.Text",
+        "id": "Reflection Quality",
+        "str": "Calitate reflexii"
+    },
+    {
+        "key": "3D3092E04B30FAE9F91970831F869B44",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Wall",
+        "str": "Perete"
+    },
+    {
+        "key": "3E1BC428435A0C653E4D7185A4847A91",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(3).Options.Label",
+        "id": "Input Settings",
+        "str": "Setări de intrare"
+    },
+    {
+        "key": "3E3E53D64E987B22AD5967A23BB5AC57",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text",
+        "id": "Extras",
+        "str": "Extra"
+    },
+    {
+        "key": "3E796087492560DF199BD58F4D3A3731",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_14.Text",
+        "id": "Move Backward",
+        "str": "Mergi înapoi"
+    },
+    {
+        "key": "3FD3275141C46D8A4E7B0C8B98721113",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "id": "Settings",
+        "str": "Setări"
+    },
+    {
+        "key": "411476E94611E3ECBFFCB29460596681",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_17.Text",
+        "id": "Move Right",
+        "str": "Mută la dreapta"
+    },
+    {
+        "key": "419FBA55411C37613B78B895FC47434E",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_15.Text",
+        "id": "Auto settings",
+        "str": "Setări automate"
+    },
+    {
+        "key": "420F5BCA40413C0383C7AA9583EEC5C0",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
+        "id": "Mislead",
+        "str": "Inducere în eroare"
+    },
+    {
+        "key": "433A6CE84E4955044C7FB38105FA63BF",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
+        "id": "Footsteps Volume",
+        "str": "Volum pași"
+    },
+    {
+        "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_21.Text",
+        "id": "Name",
+        "str": "Nume"
+    },
+    {
+        "key": "455698874FAE4AEB808E15AA36758F84",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(30 - Value).DisplayNameMap",
+        "id": "Houses",
+        "str": "Case"
+    },
+    {
+        "key": "45C632DB4CE38CCF91E0E89A3C83E11B",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
+        "id": "Video Settings",
+        "str": "Setări video"
+    },
+    {
+        "key": "45DB611B482D35EE05ADE98331F2EC20",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Haunting",
+        "str": "Bântuit"
+    },
+    {
+        "key": "460FFB13421148C8493D69A72A81E93C",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_24.Text",
+        "id": "Use",
+        "str": "Folosește"
+    },
+    {
+        "key": "4634F1C448A78E03F4AC7B94441281EB",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
+        "id": "Resume Game",
+        "str": "Reia jocul"
+    },
+    {
+        "key": "467D9B7144D32E320B1C6AA6D55B95B5",
+        "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
+        "id": "Most won map",
+        "str": "Cea mai câștigată hartă"
+    },
+    {
+        "key": "47254BE24A91487FA9DB08918BAFEBED",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
+        "str": "Ai trecut prin tutorial, cunoști elementele de bază! Pentru a finaliza tutorialul, du-te la pat și dormi. Vei merge în zona ta de siguranță. Folosește computerul pentru a începe un joc!"
+    },
+    {
+        "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Ominous",
+        "str": "Prevestitor"
+    },
+    {
+        "key": "49B315454A07028DFEC0AD8B9D05C3FA",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
+        "id": "Global",
+        "str": "Global"
+    },
+    {
+        "key": "49EE0D0C418246C21899368F2615D0DE",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(26 - Value).DisplayNameMap",
+        "id": "Trains",
+        "str": "Trenuri"
+    },
+    {
+        "key": "4A4EFF4C40A276033B050495CB6E5179",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
+        "id": "World",
+        "str": "Lume"
+    },
+    {
+        "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Van Hanging doll",
+        "str": "Păpușă atârnată în dubă"
+    },
+    {
+        "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Governor",
+        "str": "Guvernatorul"
+    },
+    {
+        "key": "50CA9C1F443642D2B6B6BE9E5D1E302F",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_34.Text",
+        "id": "Global Illumination Method",
+        "str": "Metoda de iluminare globală"
+    },
+    {
+        "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
+        "id": "Turn Left",
+        "str": "Întoarce-te la stânga"
+    },
+    {
+        "key": "5220ED3742AAD20F53D18B86F110B811",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
+        "str": "Ești gardianul păpușilor, una dintre ele este vie și intenționează să te omoare. Trebuie să descoperi care este aceasta înainte de ora 09:00."
+    },
+    {
+        "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
+        "str": "Perfect, mai avem 5 suspecți. Să mergem să dormim din nou."
+    },
+    {
+        "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Van Lights",
+        "str": "Lumini dubă"
+    },
+    {
+        "key": "554BB9D046155183D4DCF7A14F96171E",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Duke",
+        "str": "Ducele"
+    },
+    {
+        "key": "591DF6954C2D384CBCCD838B12BD62CA",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
+        "id": "Camp with enemies",
+        "str": "Tabără cu dușmani"
+    },
+    {
+        "key": "597D11E1471FC52613B9DD81AF3F6BE1",
+        "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
+        "id": "Most Earned Doll",
+        "str": "Cea mai câștigată păpușă"
+    },
+    {
+        "key": "5981A77041F835414316E0BEA0C3C8F8",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "id": "YOU WIN",
+        "str": "Ai câștigat"
+    },
+    {
+        "key": "5A6092F448BE77B01756FFA578E7435A",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
+        "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
+        "str": "Mod aleatoriu, dar fără sfârșit, ai un cronometru de 3 minute pentru a rezolva cazul și există un clasament"
+    },
+    {
+        "key": "5AC930984185A24BC84F5EB1E734B80E",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Tubesocks",
+        "str": "Șosetele Tub"
+    },
+    {
+        "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap",
+        "id": "Move Others",
+        "str": "Mută alții"
+    },
+    {
+        "key": "5E0DC4AE4575000AC0171F95AD85CADA",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_1.Text",
+        "id": "Depth of Field",
+        "str": "Adâncimea câmpului"
+    },
+    {
+        "key": "5E1C23674444BB331554B39281C7EA20",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
+        "id": "Swing Others",
+        "str": "Leagănă-i pe alții"
+    },
+    {
+        "key": "60747A674F244C50BD7C42986DD084AD",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Widow",
+        "str": "Văduva"
+    },
+    {
+        "key": "611C7265455A03D1E36711A53C897A09",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Detective",
+        "str": "Detectiv"
+    },
+    {
+        "key": "61579A7B4A7A797C38911980E669DE96",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
+        "id": "Jail Others",
+        "str": "Închide-i pe alții"
+    },
+    {
+        "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(0).Options.Label",
+        "id": "Low",
+        "str": "Scăzut"
+    },
+    {
+        "key": "63063D214706E5FBBE2227836F1BE194",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.name_18_82096130492E34A890A0138C4910D929",
+        "id": "Circus",
+        "str": "Circ"
+    },
+    {
+        "key": "636E48DB4F79961C0BCDDF9C74A51062",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
+        "id": "Look Up",
+        "str": "Privește în sus"
+    },
+    {
+        "key": "63D67BF743D308E3537D9794B417B76A",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_5.Text",
+        "id": "Nightmare",
+        "str": "Coșmar"
+    },
+    {
+        "key": "6540E66F480EE470D56246880E1AAC02",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
+        "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
+        "str": "Dificultatea standard pentru fiecare jucător, toate indiciile vor fi date la 08:00, ai opțiunea de a vedea numele păpușilor și lista acțiunilor impostorului"
+    },
+    {
+        "key": "6599647B49FD6A15932490B717FE66F3",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Lover",
+        "str": "Iubitul"
+    },
+    {
+        "key": "6621BA854D50DB36041E58AFE9A250D5",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
+        "str": "Este ultima oră. Avem doar această șansă să aflăm. Să mergem în cameră."
+    },
+    {
+        "key": "67E721CC4E280A5A435BA1B141936D38",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
+        "id": "Brightness",
+        "str": "luminozitate"
+    },
+    {
+        "key": "694809A74B440CDD18D181A8C6BA0434",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
+        "id": "Enemies",
+        "str": "Dușmani"
+    },
+    {
+        "key": "6A1B28C14FD17FB8222E60837327DA35",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Object",
+        "str": "Obiect"
+    },
+    {
+        "key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_25.Text",
+        "id": "Focus / Zoom",
+        "str": "Focalizare / Zoom"
+    },
+    {
+        "key": "6AFC77BB43DCD66B4099688FF725AB13",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
+        "id": "Play tutorial",
+        "str": "Joacă tutorialul"
+    },
+    {
+        "key": "6B78310947BA56A4D0322EAFBC650458",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Macabre",
+        "str": "Macabru"
+    },
+    {
+        "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
+        "id": "Effects Volume",
+        "str": "Volum efecte"
+    },
+    {
+        "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_4 [Script Bytecode]",
+        "id": "Partner",
+        "str": "Partener"
+    },
+    {
+        "key": "7095C09D4014D1FB9E4C1D9529586155",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_7.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "PC Left Side",
+        "str": "Partea stângă a PC-ului"
+    },
+    {
+        "key": "71DA9AC944078FAD69976DAAA19A68C0",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
+        "id": "Volumetric Fog Quality",
+        "str": "Calitate ceață volumetrică"
+    },
+    {
+        "key": "7286FEC6469CF65A5584DB896D227680",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(0).Options.Label",
+        "id": "Windowed",
+        "str": "Fereastră"
+    },
+    {
+        "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Traitor",
+        "str": "Trădătorul"
+    },
+    {
+        "key": "740E2993476C6AB0DEDC3BA514B0FF5F",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Comedian",
+        "str": "Comedianul"
+    },
+    {
+        "key": "7461839E43289FBE953BE6A6CD4D28D8",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Deadly",
+        "str": "Mortal"
+    },
+    {
+        "key": "75A0760B4CF756F7572751980578A7E4",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Single",
+        "str": "Singurul"
+    },
+    {
+        "key": "75DB907D4C3E80ED887ACDA2AADF602C",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
+        "str": "Vei avea un rol de detectiv în care va trebui să determini, pe baza preferințelor și aversiunilor impostorului enumerate pe panoul din stânga ta, ce îi place și ce nu îi place, cine sunt dușmanii, prietenii, iubirile sau persoanele urâte."
+    },
+    {
+        "key": "773B946148501068D9A5B3A814B81ECD",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_16.Text",
+        "id": "Move Left",
+        "str": "Mută la stânga"
+    },
+    {
+        "key": "77DAE76A48EC13E45F2983881F23E808",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
+        "id": "Gameplay Settings",
+        "str": "Setări gameplay"
+    },
+    {
+        "key": "7826866B435A8EE313772C8979CA261B",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
+        "id": "Jumpscares Volume",
+        "str": "Volum sperieturi"
+    },
+    {
+        "key": "798C9DA54AB7FB8B77443DA0EE442098",
+        "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
+        "id": "Go to Safe House",
+        "str": "Mergi la Casa Sigură"
+    },
+    {
+        "key": "7A7523B24363943AC1ECCE9A0B2634F5",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(12 - Value).DisplayNameMap",
+        "id": "Balls",
+        "str": "Mingi"
+    },
+    {
+        "key": "7B6CC6BA4D259033F5B946A472D9AB10",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Menacing",
+        "str": "Amenințător"
+    },
+    {
+        "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
+        "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
+        "str": "Potrivit doar pentru profesioniști, începe la 08:00 și are doar 3 indicii eficiente, nu există fotografii sau ajutoare, unele date sunt ascunse, ai acces limitat la hartă"
+    },
+    {
+        "key": "7C75165C49E7D2EBD079048C7F8B471B",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_154.Options(1).Options.Label",
+        "id": "On",
+        "str": "Pornit"
+    },
+    {
+        "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Van Left Side",
+        "str": "Partea stângă a dubei"
+    },
+    {
+        "key": "7D39CA6640F288A9002846AE7D7F4041",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Mini Object",
+        "str": "Mini obiect"
+    },
+    {
+        "key": "7EBE45E64B8119C2AA017590BE5B8563",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text",
+        "id": "Anti Aliasing Quality",
+        "str": "Calitate anti-aliasing"
+    },
+    {
+        "key": "7F18D69F420F68627730E39CE489A2EC",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
+        "str": "Să întindem o capcană pentru impostor. Știm deja că îi place televizorul și muzica. Aprinde luminile."
+    },
+    {
+        "key": "8048C27C4B137230FE4708ADFD1AD7F4",
+        "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
+        "id": "Show jumpscares",
+        "str": "Afișați sperieturile"
+    },
+    {
+        "key": "805F56F9484DE7ED01BC83B1E3304EE7",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Van floor",
+        "str": "Podea dubă"
+    },
+    {
+        "key": "8098B1CA4AED33E029A8D4878EE21A49",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "You've broken your new record with {new} nights! of the {old} nights before!",
+        "str": "Ați depășit noul dvs. record cu {new} nopți! Față de {old} nopți anterior!"
+    },
+    {
+        "key": "815797D840D1A6AEC45401A9A3996DE0",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Don't trust",
+        "str": "Nu te încrede"
+    },
+    {
+        "key": "839DA89C42E027A3CA515CA3BC5BE204",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "You can try it now in PC",
+        "str": "Poți încerca acum pe PC"
+    },
+    {
+        "key": "84658DA54182C8A664927696DBF0C2C1",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text",
+        "id": "Foliage Quality",
+        "str": "Calitate frunziș"
+    },
+    {
+        "key": "8482CDF142B6B8DA6AB0148C9B01430B",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Tactician",
+        "str": "Tacticianul"
+    },
+    {
+        "key": "8785C0644A30D7680DD4668FB916A03A",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
+        "id": "Hide Others",
+        "str": "Ascunde-i pe alții"
+    },
+    {
+        "key": "878E24534B885E2AB87EACB0394A0E58",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_28.Text",
+        "id": "Screen Mode",
+        "str": "Modul ecran"
+    },
+    {
+        "key": "87FBE09C4BC5718F45CC6F8E716201AE",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(25 - Value).DisplayNameMap",
+        "id": "Tunnels",
+        "str": "Tuneluri"
+    },
+    {
+        "key": "8B7A2813470D5B634D42F1B18FD1C975",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Acrobat",
+        "str": "Acrobatul"
+    },
+    {
+        "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Well done!",
+        "str": "Bravo!"
+    },
+    {
+        "key": "8CAC065540B47C971DC8E0B801B69618",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_40.Text",
+        "id": "Shadow Quality",
+        "str": "Calitate umbre"
+    },
+    {
+        "key": "8D62136643D4EAA319AD22BBFD4C8FD1",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Statue",
+        "str": "Statuie"
+    },
+    {
+        "key": "8DDD1FD04F1754E2F728208EBEF897FC",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
+        "id": "Camp with friends",
+        "str": "Tabără cu prieteni"
+    },
+    {
+        "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(27 - Value).DisplayNameMap",
+        "id": "Cars",
+        "str": "Mașini"
+    },
+    {
+        "key": "8E5AFE684A85E803C6F5ADAD24BB2C1D",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Events",
+        "str": "Evenimente"
+    },
+    {
+        "key": "8E794D794CCEA0D30D037D8DA2BFD248",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Lights",
+        "str": "Lumini"
+    },
+    {
+        "key": "901E40384D0FE3FAD3508F98408C18C7",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_22.Text",
+        "id": "Nights",
+        "str": "Nopți"
+    },
+    {
+        "key": "91B3AF44465FA4D4F6976EA74F572B41",
+        "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
+        "id": "Show names",
+        "str": "Afișați numele"
+    },
+    {
+        "key": "928D8B36495F7CA7451ECC8DA2DD1850",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_13.Text",
+        "id": "Move Forward",
+        "str": "Înaintează"
+    },
+    {
+        "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_8.Text",
+        "id": "Easy",
+        "str": "Ușor"
+    },
+    {
+        "key": "9404939C41414F86FA16B8B0C5B74E9D",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(2).Options.Label",
+        "id": "High",
+        "str": "Înalt"
+    },
+    {
+        "key": "9432768D4222957489019C86BD251CA3",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(20 - Value).DisplayNameMap",
+        "id": "Carousel with enemies",
+        "str": "Carusel cu inamici"
+    },
+    {
+        "key": "9472CB7546EB19A64D00B9B40CF7BC7D",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "You've unlocked a new extra mode!",
+        "str": "Ai deblocat un nou mod extra!"
+    },
+    {
+        "key": "95E8DAF7441719B3063BE7B84B85AE87",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text",
+        "id": "Random",
+        "str": "Aleatoriu"
+    },
+    {
+        "key": "966BA2A948A2BC025A15EBA7AD8767E0",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Diabolic",
+        "str": "Diabolic"
+    },
+    {
+        "key": "96BE28504D901245DE1115BF00D47E10",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
+        "id": "Action Details",
+        "str": "Detalii despre acțiune"
+    },
+    {
+        "key": "9806DB6E4107A01E3979C1BBEF780A91",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_41.Text",
+        "id": "Global Illumination Quality",
+        "str": "Calitate iluminare globală"
+    },
+    {
+        "key": "996579D246DE71F2608BB5BF8C353DA4",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Kid",
+        "str": "Copilul"
+    },
+    {
+        "key": "99AE0DEC47710525BAF347ABFE8339AB",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_39.Text",
+        "id": "Post Processing Quality",
+        "str": "Calitate postprocesare"
+    },
+    {
+        "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
+        "id": "Daycare",
+        "str": "Grădiniță"
+    },
+    {
+        "key": "9B0C4F0544EED1171CEEF59539778188",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Unlucky",
+        "str": "Ghinionistul"
+    },
+    {
+        "key": "9CDEB80D4E621DB2CC0B839965697925",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Awkward",
+        "str": "Stângaciul"
+    },
+    {
+        "key": "9CE4FD774DFBE4C84DC711A634666FA7",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Bot",
+        "str": "Robotul"
+    },
+    {
+        "key": "9D7CA8BB4D12421F2093AB823A8EAC45",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(15 - Value).DisplayNameMap",
+        "id": "Cannon",
+        "str": "Tun"
+    },
+    {
+        "key": "A1CB54034B401A0E8BBD049E18CBFADD",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
+        "id": "Random mode but in race mode with medals",
+        "str": "Mod aleatoriu, dar în modul cursă cu medalii"
+    },
+    {
+        "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_4.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Left Place",
+        "str": "Loc stânga"
+    },
+    {
+        "key": "A2C08BE6447E2720D3051F8CA460E102",
+        "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
+        "id": "Can you help me with a positive review?",
+        "str": "Mă poți ajuta cu o recenzie pozitivă?"
+    },
+    {
+        "key": "A31A353942F325B2C7CB09AA525BB7CF",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
+        "id": "Film Grain",
+        "str": "Granulație film"
+    },
+    {
+        "key": "A31A514F4934E454FDB9F4BF3A480C84",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Grim",
+        "str": "Sumbru"
+    },
+    {
+        "key": "A6E8E3B84059F699472F1C8DECDAF09C",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Star",
+        "str": "Steaua"
+    },
+    {
+        "key": "A7121AED466C7D8F9486A89DECB2409C",
+        "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
+        "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
+        "str": "Bine ai venit la refugiu! Aceasta este zona ta sigură. Aici poți începe un joc nou pe computer, vizualiza colecția ta de păpuși și trofee și personaliza acest loc făcând clic pe pictograma paletei de culori de pe desktopul tău!"
+    },
+    {
+        "key": "A7C36D644573AD30716F4283EBBE53D2",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(28 - Value).DisplayNameMap",
+        "id": "Swings",
+        "str": "Leagăne"
+    },
+    {
+        "key": "AA8520BE4876828E544192BFA8F98EE7",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
+        "id": "Move Self",
+        "str": "Mișcă-te singur"
+    },
+    {
+        "key": "AB6B64D64932C68A8743709693AF267B",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
+        "id": "Position",
+        "str": "Poziție"
+    },
+    {
+        "key": "AFC2B2644270E4DDA921A0AA0660BA68",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "To sleep, simply point at the bed and click on it.",
+        "str": "Pentru a dormi, pur și simplu îndreaptă-te spre pat și fă clic pe el."
+    },
+    {
+        "key": "B084116A4B080238B7AB2A89F60A598E",
+        "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
+        "id": "Replay",
+        "str": "Redă"
+    },
+    {
+        "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Grump",
+        "str": "Morocănosul"
+    },
+    {
+        "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
+        "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
+        "str": "Încă un pas de dificultate, nu există indicii suplimentare, nu poți vedea numele sau lista"
+    },
+    {
+        "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
+        "id": "Race",
+        "str": "Cursă"
+    },
+    {
+        "key": "B300BE9147F822906E54C7A227BF23BA",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Welcome to Doll Impostor!",
+        "str": "Bine ai venit la \nImpostorul Păpușilor\n!"
+    },
+    {
+        "key": "B383AEBA444328B5A71FF88EF36A0DBB",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
+        "id": "Impostor",
+        "str": "Impostor"
+    },
+    {
+        "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Color",
+        "str": "Culoare"
+    },
+    {
+        "key": "B4559452445FD99D5366B68268BCFC9E",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "Congratulations!",
+        "str": "Felicitări!"
+    },
+    {
+        "key": "B46005B1494B233FC63D6C92DB922873",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Doorman",
+        "str": "Portarul"
+    },
+    {
+        "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Terrifying",
+        "str": "Terifiant"
+    },
+    {
+        "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Unnoticed",
+        "str": "Neobservatul"
+    },
+    {
+        "key": "B54084CB4A265AC5B0714AB02E26FFEE",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_43.Text",
+        "id": "Texture Quality",
+        "str": "Calitate textură"
+    },
+    {
+        "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Loner",
+        "str": "Singuraticul"
+    },
+    {
+        "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(5).Options.Label",
+        "id": "Unlimited",
+        "str": "Nelimitat"
+    },
+    {
+        "key": "B8952A3841AAE9C0034514AC607965D8",
+        "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
+        "id": "Refuge",
+        "str": "Refugiu"
+    },
+    {
+        "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Ghoster",
+        "str": "Fantomatic"
+    },
+    {
+        "key": "B9B809EC40076554656E1A8C91157931",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Patriot",
+        "str": "Patriotul"
+    },
+    {
+        "key": "BAD425AD48B5C8A24B0663948D13EA94",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Planner",
+        "str": "Planificatorul"
+    },
+    {
+        "key": "BC06960A474C65DE361B3CB2C89626B3",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
+        "id": "Ambient Volume",
+        "str": "Volum ambiental"
+    },
+    {
+        "key": "BCA4F7E9472918A4030087B0CBCF7608",
+        "location": "/Game/functions/interfaceFunctions.interfaceFunctions_C:showPopup [Script Bytecode]",
+        "id": "OK",
+        "str": "OK"
+    },
+    {
+        "key": "BCB8724F4D70F43E391D0FB8984329C6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Diva",
+        "str": "Diva"
+    },
+    {
+        "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
+        "str": "Pentru început, sunt 20 de păpuși. Verifică-le pe tablă și când ești gata, mergi în cameră pentru a le întâlni."
+    },
+    {
+        "key": "BDC3A1864427A6240202ACAFA646188C",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Go to sleep and let's see if the clue is solved in the next hour.",
+        "str": "Du-te la culcare și să vedem dacă indiciul se rezolvă în ora următoare."
+    },
+    {
+        "key": "BE7B6E174A4CE247B21761B7E41F34D3",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_21.Text",
+        "id": "Look Down",
+        "str": "Privește în jos"
+    },
+    {
+        "key": "BED88CC84349A7555F6F8F8702DFC716",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_44.Text",
+        "id": "Visual Effects Quality",
+        "str": "Calitate efecte vizuale"
+    },
+    {
+        "key": "BEF09CA34BAE3DC7635E8485BB667E28",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Van exterior",
+        "str": "Exterior dubă"
+    },
+    {
+        "key": "BF221642449DB485C8FF39A6198C744B",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Sinister",
+        "str": "Sinistru"
+    },
+    {
+        "key": "BF4FA5364C39224BE93EC080C21FF285",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock.Text",
+        "id": "Mixed dolls",
+        "str": "Păpuși mixte"
+    },
+    {
+        "key": "BF587B62432840655EC059BE5054E289",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
+        "str": "Este clar că îi place sângele. Ar putea fi oricare dintre cei doi, dar verifică cutiile. Freddy lipsește și cutia lui este plină de sânge. El a lăsat acest verdict pentru tine. Când ești sigur, renunță la candidat."
+    },
+    {
+        "key": "C0FE25964E732C097D287AB368FB54A4",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
+        "id": "Dislikes",
+        "str": "Nu îi place"
+    },
+    {
+        "key": "C539F07A44FA320908B87FADABCFB0C9",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Van Right Side",
+        "str": "Partea dreaptă a dubei"
+    },
+    {
+        "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
+        "id": "New Game",
+        "str": "Joc Nou"
+    },
+    {
+        "key": "C8A00764485261B746BFEE94C58D6ECA",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Scary",
+        "str": "Înfricoșător"
+    },
+    {
+        "key": "C8F05C9640A64BDEEDFF738C5E065267",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_22.Text",
+        "id": "Crouch",
+        "str": "Aplecare"
+    },
+    {
+        "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
+        "str": "A căzut în capcana noastră și a stins luminile. Acum putem renunța la toți cei cărora le place lumina."
+    },
+    {
+        "key": "CAECC15549067E173F931888596593F1",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Sweet",
+        "str": "Dulcele"
+    },
+    {
+        "key": "CB775D1F41F692F4946D738AA83BB23E",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
+        "id": "Friends",
+        "str": "Prieteni"
+    },
+    {
+        "key": "CE5521734152BB8FDF36949D84AA7F39",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Ghastly",
+        "str": "Groaznic"
+    },
+    {
+        "key": "CE77947D46EF18A8A49309A22EB6E699",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
+        "id": "Stats",
+        "str": "Statistici"
+    },
+    {
+        "key": "CF3A6ECB45A9488C10D246A3FD143977",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Weasel",
+        "str": "Nevăstuica"
+    },
+    {
+        "key": "D03A184741DBDC2985FBC9A454F19494",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Nervous",
+        "str": "Nervosul"
+    },
+    {
+        "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Spooky",
+        "str": "Înfricoșător"
+    },
+    {
+        "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Chilling",
+        "str": "Rece"
+    },
+    {
+        "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(9 - Value).DisplayNameMap",
+        "id": "Light",
+        "str": "Lumină"
+    },
+    {
+        "key": "D2EAFC9348E348C7516300BF122B9702",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Right Place",
+        "str": "Loc dreapta"
+    },
+    {
+        "key": "D43847EE40A03CCE1238E0A4BAB8F812",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "Translated by: {people}",
+        "str": "Tradus de: {people}"
+    },
+    {
+        "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(1).Options.Label",
+        "id": "Medium",
+        "str": "Mediu"
+    },
+    {
+        "key": "D618A4A346B0EA7CBABE00AA94C80485",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Count",
+        "str": "Contele"
+    },
+    {
+        "key": "D627A24C4957566043D3F0ADF0F70B9E",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
+        "id": "Playgrounds",
+        "str": "Loc de joacă"
+    },
+    {
+        "key": "D8A8DBB34AAD96AC66B54A87365822C9",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(16 - Value).DisplayNameMap",
+        "id": "Knives",
+        "str": "Cuțite"
+    },
+    {
+        "key": "D8CB256A4FC1286A3BD465B95B7398D6",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Flirt",
+        "str": "Cochetul"
+    },
+    {
+        "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
+        "id": "Hide Self",
+        "str": "Ascunde-te"
+    },
+    {
+        "key": "D8F293214EA6402451DED28B75ADA37E",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_27.Text",
+        "id": "Screen Resolution",
+        "str": "Rezoluția ecranului"
+    },
+    {
+        "key": "D955FAE74433E108EB3C078EF42B2DC8",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Quiet",
+        "str": "Tăcutul"
+    },
+    {
+        "key": "D9B2458843A82DBB9843FBBB36327D9A",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
+        "id": "Turn Right",
+        "str": "Întoarce-te la dreapta"
+    },
+    {
+        "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Door",
+        "str": "Ușă"
+    },
+    {
+        "key": "DAFC2C134E48E1FBE3399C9D15E37173",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Unsettling",
+        "str": "Deranjant"
+    },
+    {
+        "key": "DFC327DA4616540509FBF6AA40D0458B",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
+        "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
+        "str": "Mod expert, începi de la 06:00, nu există indicii suplimentare și nici fotografii"
+    },
+    {
+        "key": "DFCF9FFA438E6B63C7745586401C14BA",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The New",
+        "str": "Noul"
+    },
+    {
+        "key": "E1BED414427264B22F7080B7ED0D0CF9",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
+        "id": "Audio Settings",
+        "str": "Setări audio"
+    },
+    {
+        "key": "E238A88B4FBC7C4641B8E9A95353B1C0",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Indecent",
+        "str": "Indecentul"
+    },
+    {
+        "key": "E2D484854A1C9DB14835A6AD457B6207",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(22 - Value).DisplayNameMap",
+        "id": "Balloons",
+        "str": "Baloane"
+    },
+    {
+        "key": "E447809B421298C1BDA5E4B063D86F49",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
+        "id": "Action Dolls",
+        "str": "Păpuși de Acțiune"
+    },
+    {
+        "key": "E60C061E42EEE57516BA1B83B2A64C7E",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_3.Text",
+        "id": "Normal",
+        "str": "Normal"
+    },
+    {
+        "key": "E75E972A4F2C8D92EC495294816B3C8D",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_32.Text",
+        "id": "Temporal Upsample",
+        "str": "Eșantionare temporală"
+    },
+    {
+        "key": "E7D75C9A40FB9B41721A46B5B7198EF1",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Sticker",
+        "str": "Autocolant"
+    },
+    {
+        "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
+        "id": "As you unlock new levels, new ones will appear!",
+        "str": "Pe măsură ce deblochezi noi niveluri, vor apărea altele noi!"
+    },
+    {
+        "key": "E93B4EC241D67CCBA288EAB44234C576",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Material",
+        "str": "Material"
+    },
+    {
+        "key": "E96A210546B4B0647B0763843052BBF8",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
+        "id": "Head Bobbing",
+        "str": "Mișcare cap"
+    },
+    {
+        "key": "E9E818494A07397E77DFC8AEBFE671E0",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Dolls",
+        "str": "Păpuși"
+    },
+    {
+        "key": "EABE87674E476F817EEF85B6E5E00296",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
+        "id": "Log Off",
+        "str": "Deconectare"
+    },
+    {
+        "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock.Text",
+        "id": "Field of View",
+        "str": "Câmp vizual"
+    },
+    {
+        "key": "F167859643FD37B593110B9A866E9EB3",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text",
+        "id": "Endless",
+        "str": "Fără sfârșit"
+    },
+    {
+        "key": "F1D636544DE5ADC7945E9789ACC63D6C",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
+        "id": "Van wall",
+        "str": "Perete dubă"
+    },
+    {
+        "key": "F22CBEE0429B4D716137DE9A58D8A371",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Frightening",
+        "str": "Înfricoșător"
+    },
+    {
+        "key": "F28247BF4A488DEE853285BA1EBC6188",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_0.name_18_82096130492E34A890A0138C4910D929",
+        "id": "House",
+        "str": "Casă"
+    },
+    {
+        "key": "F2BC9C064F532236387F0ABC86BA8078",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap",
+        "id": "Organization",
+        "str": "Organizație"
+    },
+    {
+        "key": "F328405344EB2B4CB4D34EA75D918FD1",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
+        "id": "Hates",
+        "str": "Urăște"
+    },
+    {
+        "key": "F343C45143C6D6F84AC69C85B3A85B2F",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(7 - Value).DisplayNameMap",
+        "id": "Tv",
+        "str": "Televizor"
+    },
+    {
+        "key": "F398437D44CE91CF11D919A1208038ED",
+        "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.sections_22_4031E9264112E4E86BC48BA9D729A311(2).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
+        "id": "Size",
+        "str": "Dimensiune"
+    },
+    {
+        "key": "F4CB65EF48F9C01CD6AB509912890A36",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Ringmaster",
+        "str": "Maestrul de ceremonii"
+    },
+    {
+        "key": "F7F54678404761EAEB33B4B508EC97D1",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Hope",
+        "str": "Speranța"
+    },
+    {
+        "key": "F83E76BC49FC84244322C382556B6E5F",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "Oh no...",
+        "str": "Oh nu..."
+    },
+    {
+        "key": "FA1C15B1439CEF51682B81AF479F4873",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_26.Text",
+        "id": "Main Menu",
+        "str": "Meniu principal"
+    },
+    {
+        "key": "FA4E21624A2D966B1B2ED19005131257",
+        "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Traditional",
+        "str": "Tradiționalul"
+    },
+    {
+        "key": "FA89ED204F28013D22A23CAE49ADAC61",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "Sleep",
+        "str": "Somn"
+    },
+    {
+        "key": "FACAB65943781B084CD803A77E0F7266",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Gurl",
+        "str": "Fata"
+    },
+    {
+        "key": "FAD096A047C791A2435446A372491A59",
+        "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
+        "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
+        "str": "Avem pe Ricky pe canapea și pe Monty la pian, așa că deja avem 2 posibili candidați. Totuși, nu vom risca 50%. Să ne întoarcem în cameră pentru a elimina pe cel care nu poate fi și să așteptăm următorul său eveniment."
+    },
+    {
+        "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
+        "id": "Graphic Preset",
+        "str": "Presetare grafică"
+    },
+    {
+        "key": "FC67115746EDB65A022A51B4C1176418",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
+        "str": "Aveți {new} nopți, nu ați reușit să vă depășiți recordul de {old} nopți"
+    },
+    {
+        "key": "FCA446264B23A96037F05F8D786E8199",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_5.Text",
+        "id": "Master Volume",
+        "str": "Volum principal"
+    },
+    {
+        "key": "FD50C07D436B39761D90A28961DE809F",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(2 - Value).DisplayNameMap",
+        "id": "Open Boxes",
+        "str": "Deschide cutii"
+    },
+    {
+        "key": "FE11E6ED4FA63C5B12631383E56A20B5",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "You've unlocked the {map} Map!",
+        "str": "Ai deblocat harta {map}!"
+    },
+    {
+        "key": "FE160B74470133E4B513D18D4566D063",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "id": "YOU LOSE",
+        "str": "Ai pierdut"
+    },
+    {
+        "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
+        "id": "Play",
+        "str": "Joacă"
+    },
+    {
+        "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(4 - Value).DisplayNameMap",
+        "id": "Music",
+        "str": "Muzică"
+    },
+    {
+        "key": "FF934248449771227CA5E6BAC5FBE7AF",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(19 - Value).DisplayNameMap",
+        "id": "Carousel with friends",
+        "str": "Carusel cu prieteni"
+    }
+]
