@@ -93,7 +93,7 @@
         "key": "0B88630D44BEE72FF2A76095115344A8",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Doll Object",
-        "str": "Объект куклы"
+        "str": "Куклы"
     },
     {
         "key": "0BE1B9C54499AA9F3A64BBBDD1482D26",
@@ -159,7 +159,7 @@
         "key": "164060454E5796D5711012B8A720788E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(3).Options.Label",
         "id": "Extreme",
-        "str": "Экстремальный"
+        "str": "Ультра"
     },
     {
         "key": "164553EC4B6A9D265430F3B6A25830E5",
@@ -177,7 +177,7 @@
         "key": "16A84C9B486F4A520142D791EC349B4F",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
         "id": "Shading Quality",
-        "str": "Качество затенения"
+        "str": "Качество шейдеров"
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -381,7 +381,7 @@
         "key": "3E3E53D64E987B22AD5967A23BB5AC57",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text",
         "id": "Extras",
-        "str": "Дополнительно"
+        "str": "Экстры"
     },
     {
         "key": "3E796087492560DF199BD58F4D3A3731",
@@ -435,7 +435,7 @@
         "key": "45C632DB4CE38CCF91E0E89A3C83E11B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Video Settings",
-        "str": "Настройки видео"
+        "str": "Видео настройки"
     },
     {
         "key": "45DB611B482D35EE05ADE98331F2EC20",
@@ -459,7 +459,7 @@
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
-        "str": "Самая выигранная карта"
+        "str": "Наибольшее количество побед"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -495,7 +495,7 @@
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "Подвешенная кукла в фургоне"
+        "str": "Весящая кукла"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -549,7 +549,7 @@
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
         "id": "Most Earned Doll",
-        "str": "Самая заработанная кукла"
+        "str": "Наиболее пойманная кукла"
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
@@ -663,7 +663,7 @@
         "key": "6A1B28C14FD17FB8222E60837327DA35",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Object",
-        "str": "Объект"
+        "str": "Объекты"
     },
     {
         "key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
@@ -759,7 +759,7 @@
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Громкость пугалок"
+        "str": "Громкость скримеров"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -795,13 +795,13 @@
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "Левая сторона фургона"
+        "str": "Верх фургона"
     },
     {
         "key": "7D39CA6640F288A9002846AE7D7F4041",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Mini Object",
-        "str": "Мини-объект"
+        "str": "Строения"
     },
     {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
@@ -1041,7 +1041,7 @@
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_4.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Left Place",
-        "str": "Левое место"
+        "str": "Правый угол"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -1053,7 +1053,7 @@
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
         "id": "Film Grain",
-        "str": "Зернистость фильма"
+        "str": "Зернистость"
     },
     {
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
@@ -1251,7 +1251,7 @@
         "key": "BEF09CA34BAE3DC7635E8485BB667E28",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van exterior",
-        "str": "Внешняя сторона фургона"
+        "str": "Цвет фургона"
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
@@ -1365,7 +1365,7 @@
         "key": "D2EAFC9348E348C7516300BF122B9702",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Right Place",
-        "str": "Правое место"
+        "str": "Левый угол"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -1491,7 +1491,7 @@
         "key": "E7D75C9A40FB9B41721A46B5B7198EF1",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Sticker",
-        "str": "Стикер"
+        "str": "Стикеры"
     },
     {
         "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
@@ -1521,7 +1521,7 @@
         "key": "EABE87674E476F817EEF85B6E5E00296",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
         "id": "Log Off",
-        "str": "Выйти из системы"
+        "str": "В лобби"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -1629,7 +1629,7 @@
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
         "id": "Graphic Preset",
-        "str": "Графические настройки"
+        "str": "Настройки графики"
     },
     {
         "key": "FC67115746EDB65A022A51B4C1176418",
