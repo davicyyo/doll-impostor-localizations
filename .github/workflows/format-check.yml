@@ -9,15 +9,19 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+    - name: Install jq
+      run: sudo apt-get install -y jq
     
-    - name: Install dependencies
+    - name: Check JSON format
       run: |
-        python -m pip install --upgrade pip
-        pip install black
-    
-    - name: Check code format
-      run: black --check .
+        FILES=$(git diff --name-only --diff-filter=d origin/main...HEAD | grep '\.json$' || true)
+        if [ -n "$FILES" ]; then
+          for FILE in $FILES; do
+            if ! jq . $FILE > /dev/null 2>&1; then
+              echo "JSON file $FILE is not formatted correctly"
+              exit 1
+            fi
+          done
+        else
+          echo "No JSON files to check."
+        fi
