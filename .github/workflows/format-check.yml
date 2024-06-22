@@ -1,4 +1,4 @@
-name: Format Check and Format JSON
+name: JSON Validation
 
 on:
   pull_request:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  format-check:
+  json-validation:
     runs-on: ubuntu-latest
 
     steps:
@@ -15,18 +15,27 @@ jobs:
     - name: Install jq
       run: sudo apt-get install -y jq
     
-    - name: Check and format JSON files
+    - name: List changed files
+      run: git diff --name-only --diff-filter=d origin/main...HEAD
+    
+    - name: Validate JSON files
       run: |
         FILES=$(git diff --name-only --diff-filter=d origin/main...HEAD | grep '\.json$' || true)
+        echo "JSON files to validate: $FILES"
         if [ -n "$FILES" ]; then
           for FILE in $FILES; do
-            jq . $FILE > tmp.$$.json && mv tmp.$$.json $FILE
+            echo "Validating $FILE"
+            # Check if the file is a valid JSON
+            if ! jq empty $FILE > /dev/null 2>&1; then
+              echo "Error: $FILE is not a valid JSON file"
+              exit 1
+            fi
+            # Check for duplicate keys
+            if jq 'walk(if type == "object" then with_entries(select(.key as $k | .key | index($k) | length > 1)) else . end)' $FILE | grep . > /dev/null 2>&1; then
+              echo "Error: $FILE contains duplicate keys"
+              exit 1
+            fi
           done
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add $FILES
-          git commit -m "Format JSON files"
-          git push
         else
-          echo "No JSON files to check."
+          echo "No JSON files to validate."
         fi
