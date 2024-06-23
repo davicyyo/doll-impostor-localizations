@@ -247,7 +247,7 @@
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
-        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_154.Options(0).Options.Label",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(0).Options.Label",
         "id": "Off",
         "str": "Uit"
     },
@@ -787,7 +787,7 @@
     },
     {
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
-        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_154.Options(1).Options.Label",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(1).Options.Label",
         "id": "On",
         "str": "Aan"
     },
@@ -1276,6 +1276,12 @@
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
         "id": "Dislikes",
         "str": "Houdt niet van"
+    },
+    {
+        "key": "C217326D42A0B8DA097ECEAC0760BAF7",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
+        "id": "Focus FOV",
+        "str": "Focus gezichtsveld"
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
