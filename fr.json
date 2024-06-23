@@ -93,7 +93,7 @@
         "key": "0B88630D44BEE72FF2A76095115344A8",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Doll Object",
-        "str": "Objet de poupée"
+        "str": "Statuette de Poupée"
     },
     {
         "key": "0BE1B9C54499AA9F3A64BBBDD1482D26",
@@ -165,7 +165,7 @@
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Lit du van"
+        "str": "Lit du Van"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
@@ -177,7 +177,7 @@
         "key": "16A84C9B486F4A520142D791EC349B4F",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
         "id": "Shading Quality",
-        "str": "Qualité de l'ombrage"
+        "str": "Qualité de l'Ombrage"
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -195,7 +195,7 @@
         "key": "1AEE02D7485216A7EBEC93AD95D81A25",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Right Side",
-        "str": "Côté droit du PC"
+        "str": "Côté Droit du PC"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -267,7 +267,7 @@
         "key": "2D10309A4AE3A7B38D67BC894C9A5B97",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
         "id": "View Distance Quality",
-        "str": "Qualité de la distance de vue"
+        "str": "Qualité de la Vue à Distance"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -279,7 +279,7 @@
         "key": "2DE4F4264AEB90D45B2363B38034FA9E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_48.Text",
         "id": "Music Volume",
-        "str": "Volume de la musique"
+        "str": "Volume de la Musique"
     },
     {
         "key": "2DEA68154A30209AA0698497E47F9DA9",
@@ -363,7 +363,7 @@
         "key": "3BF4F9F24361A6C9205652911A0DA864",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_42.Text",
         "id": "Reflection Quality",
-        "str": "Qualité des réflexions"
+        "str": "Qualité des Réflexions"
     },
     {
         "key": "3D3092E04B30FAE9F91970831F869B44",
@@ -375,7 +375,7 @@
         "key": "3E1BC428435A0C653E4D7185A4847A91",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(3).Options.Label",
         "id": "Input Settings",
-        "str": "Paramètres d'entrée"
+        "str": "Paramètres des Contrôles"
     },
     {
         "key": "3E3E53D64E987B22AD5967A23BB5AC57",
@@ -399,13 +399,13 @@
         "key": "411476E94611E3ECBFFCB29460596681",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_17.Text",
         "id": "Move Right",
-        "str": "Aller à droite"
+        "str": "Aller à Droite"
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_15.Text",
         "id": "Auto settings",
-        "str": "Paramètres automatiques"
+        "str": "Paramètres Automatiques"
     },
     {
         "key": "420F5BCA40413C0383C7AA9583EEC5C0",
@@ -417,7 +417,7 @@
         "key": "433A6CE84E4955044C7FB38105FA63BF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
         "id": "Footsteps Volume",
-        "str": "Volume des pas"
+        "str": "Volume des Pas"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -435,7 +435,7 @@
         "key": "45C632DB4CE38CCF91E0E89A3C83E11B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Video Settings",
-        "str": "Paramètres vidéo"
+        "str": "Paramètres Vidéo"
     },
     {
         "key": "45DB611B482D35EE05ADE98331F2EC20",
@@ -495,7 +495,7 @@
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "Poupée suspendue dans le van"
+        "str": "Poupée Suspendue dans le Van"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -513,7 +513,7 @@
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
         "id": "Turn Left",
-        "str": "Tourner à gauche"
+        "str": "Tourner à Gauche"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
@@ -531,7 +531,7 @@
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Lights",
-        "str": "Lumières du van"
+        "str": "Lumières du Van"
     },
     {
         "key": "554BB9D046155183D4DCF7A14F96171E",
@@ -579,7 +579,7 @@
         "key": "5E0DC4AE4575000AC0171F95AD85CADA",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_1.Text",
         "id": "Depth of Field",
-        "str": "Profondeur de champ"
+        "str": "Profondeur de Champ"
     },
     {
         "key": "5E1C23674444BB331554B39281C7EA20",
@@ -621,7 +621,7 @@
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
         "id": "Look Up",
-        "str": "Regarder en haut"
+        "str": "Regarder en Haut"
     },
     {
         "key": "63D67BF743D308E3537D9794B417B76A",
@@ -687,7 +687,7 @@
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
         "id": "Effects Volume",
-        "str": "Volume des effets"
+        "str": "Volume des Effets"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -699,13 +699,13 @@
         "key": "7095C09D4014D1FB9E4C1D9529586155",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_7.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Left Side",
-        "str": "Côté gauche du PC"
+        "str": "Côté Gauche du PC"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
         "id": "Volumetric Fog Quality",
-        "str": "Qualité du brouillard volumétrique"
+        "str": "Qualité du Brouillard Volumétrique"
     },
     {
         "key": "7286FEC6469CF65A5584DB896D227680",
@@ -759,7 +759,7 @@
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Volume des sursauts"
+        "str": "Volume des Jumpscares"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -795,19 +795,19 @@
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "Côté gauche du van"
+        "str": "Côté Gauche du Van"
     },
     {
         "key": "7D39CA6640F288A9002846AE7D7F4041",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Mini Object",
-        "str": "Mini objet"
+        "str": "Mini Objet"
     },
     {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text",
         "id": "Anti Aliasing Quality",
-        "str": "Qualité de l'anti-aliasing"
+        "str": "Qualité de l'Anti-Aliasing"
     },
     {
         "key": "7F18D69F420F68627730E39CE489A2EC",
@@ -825,7 +825,7 @@
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van floor",
-        "str": "Sol du van"
+        "str": "Sol du Van"
     },
     {
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
@@ -849,7 +849,7 @@
         "key": "84658DA54182C8A664927696DBF0C2C1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text",
         "id": "Foliage Quality",
-        "str": "Qualité du feuillage"
+        "str": "Qualité du Feuillage"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -891,7 +891,7 @@
         "key": "8CAC065540B47C971DC8E0B801B69618",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_40.Text",
         "id": "Shadow Quality",
-        "str": "Qualité des ombres"
+        "str": "Qualité des Ombres"
     },
     {
         "key": "8D62136643D4EAA319AD22BBFD4C8FD1",
@@ -987,7 +987,7 @@
         "key": "9806DB6E4107A01E3979C1BBEF780A91",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_41.Text",
         "id": "Global Illumination Quality",
-        "str": "Qualité de l'éclairage global"
+        "str": "Qualité de l'Éclairage Global"
     },
     {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
@@ -999,7 +999,7 @@
         "key": "99AE0DEC47710525BAF347ABFE8339AB",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_39.Text",
         "id": "Post Processing Quality",
-        "str": "Qualité du post-traitement"
+        "str": "Qualité du Post-traitement"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
@@ -1041,7 +1041,7 @@
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_4.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Left Place",
-        "str": "Emplacement gauche"
+        "str": "Emplacement Gauche"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -1053,7 +1053,7 @@
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
         "id": "Film Grain",
-        "str": "Grain de film"
+        "str": "Grain de Film"
     },
     {
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
@@ -1167,7 +1167,7 @@
         "key": "B54084CB4A265AC5B0714AB02E26FFEE",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_43.Text",
         "id": "Texture Quality",
-        "str": "Qualité de la texture"
+        "str": "Qualité de la Texture"
     },
     {
         "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
@@ -1209,7 +1209,7 @@
         "key": "BC06960A474C65DE361B3CB2C89626B3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
         "id": "Ambient Volume",
-        "str": "Volume ambiant"
+        "str": "Volume Ambiant"
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -1239,19 +1239,19 @@
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_21.Text",
         "id": "Look Down",
-        "str": "Regarder en bas"
+        "str": "Regarder en Bas"
     },
     {
         "key": "BED88CC84349A7555F6F8F8702DFC716",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_44.Text",
         "id": "Visual Effects Quality",
-        "str": "Qualité des effets visuels"
+        "str": "Qualité des Effets Visuels"
     },
     {
         "key": "BEF09CA34BAE3DC7635E8485BB667E28",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van exterior",
-        "str": "Extérieur du van"
+        "str": "Extérieur du Van"
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
@@ -1281,13 +1281,13 @@
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
-        "str": "Mise au point champ de vision"
+        "str": "Mise au point du Champ de Vision"
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
-        "str": "Côté droit du van"
+        "str": "Côté Droit du Van"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -1371,7 +1371,7 @@
         "key": "D2EAFC9348E348C7516300BF122B9702",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Right Place",
-        "str": "Emplacement droit"
+        "str": "Emplacement Droit"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -1431,7 +1431,7 @@
         "key": "D9B2458843A82DBB9843FBBB36327D9A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
         "id": "Turn Right",
-        "str": "Tourner à droite"
+        "str": "Tourner à Droite"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -1461,7 +1461,7 @@
         "key": "E1BED414427264B22F7080B7ED0D0CF9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Audio Settings",
-        "str": "Paramètres audio"
+        "str": "Paramètres Audio"
     },
     {
         "key": "E238A88B4FBC7C4641B8E9A95353B1C0",
@@ -1545,7 +1545,7 @@
         "key": "F1D636544DE5ADC7945E9789ACC63D6C",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van wall",
-        "str": "Mur du van"
+        "str": "Mur du Van"
     },
     {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
@@ -1605,7 +1605,7 @@
         "key": "FA1C15B1439CEF51682B81AF479F4873",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_26.Text",
         "id": "Main Menu",
-        "str": "Menu principal"
+        "str": "Menu Principal"
     },
     {
         "key": "FA4E21624A2D966B1B2ED19005131257",
@@ -1635,7 +1635,7 @@
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
         "id": "Graphic Preset",
-        "str": "Préréglage graphique"
+        "str": "Préréglage Graphique"
     },
     {
         "key": "FC67115746EDB65A022A51B4C1176418",
@@ -1647,7 +1647,7 @@
         "key": "FCA446264B23A96037F05F8D786E8199",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_5.Text",
         "id": "Master Volume",
-        "str": "Volume principal"
+        "str": "Volume Général"
     },
     {
         "key": "FD50C07D436B39761D90A28961DE809F",
