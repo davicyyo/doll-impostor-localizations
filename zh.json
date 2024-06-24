@@ -96,12 +96,6 @@
         "str": "娃娃物体"
     },
     {
-        "key": "0BE1B9C54499AA9F3A64BBBDD1482D26",
-        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
-        "id": "The Motivator",
-        "str": "激励者"
-    },
-    {
         "key": "0CA5844D4070A29607D91D9C17419FCD",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Skip all hours",
@@ -1486,6 +1480,12 @@
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_3.Text",
         "id": "Normal",
         "str": "正常"
+    },
+    {
+        "key": "E672CE194312B524EAE5218F788B97F4",
+        "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+        "id": "The Stiff",
+        "str": "僵硬者"
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
