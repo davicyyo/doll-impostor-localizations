@@ -15,7 +15,7 @@
         "key": "0285258748FED1BC6E542F80A9097CE9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(32 - Value).DisplayNameMap",
         "id": "Tea",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "茶"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
@@ -27,13 +27,13 @@
         "key": "0375A2D542A72CFAD4E4CA8A30C56CC4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Duchess",
-        "str": "公爵夫人"
+        "str": "女公爵"
     },
     {
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "看起来冒名顶替者做了一些事件。这些会显示在你的左侧面板上。查看它们，然后再次进入房间。"
+        "str": "看起来卧底做了一些事情。这显示在左侧面板上。请在检查后再次进入房间。"
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -45,25 +45,25 @@
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(31 - Value).DisplayNameMap",
         "id": "Seesaws",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "跷跷板"
     },
     {
         "key": "073BF882481ECDE57F50FF98957A3C22",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new difficulty!",
-        "str": "您已解锁新难度！"
+        "str": "你已解锁新难度！"
     },
     {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "记住要用插销锁好门。如果不这样做，玩偶可能会出来，改变你的测试，甚至杀了你。"
+        "str": "记住要用插销锁好门。如果不这样做，人偶可能会出逃，改变测试结果，甚至杀死你。"
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "这是玩偶的房间。在这里你可以看到他们在你睡觉时做了什么。看看他们，然后让我们回到房间。"
+        "str": "这是人偶的房间。在这里，你可以看到他们在你睡觉时做了什么。看一眼他们，然后回到房间。"
     },
     {
         "key": "09CCC43B450A924B1414CEA6C17A4E5D",
@@ -81,7 +81,7 @@
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(36 - Value).DisplayNameMap",
         "id": "Bouncy castles",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "充气城堡"
     },
     {
         "key": "0B2A9AAE439C83F5A59624AAE1C48AAE",
@@ -117,13 +117,13 @@
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "让我们回到面板并开始剔除不符合我们证据的嫌疑人。"
+        "str": "回到白板并剔除不符合证据的嫌疑人。"
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Dreadful",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "恐惧者"
     },
     {
         "key": "109D973D484D997685448980DCB79533",
@@ -141,7 +141,7 @@
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
-        "str": "美丽的"
+        "str": "美丽者"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -153,7 +153,7 @@
         "key": "164060454E5796D5711012B8A720788E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(3).Options.Label",
         "id": "Extreme",
-        "str": "极端"
+        "str": "极高"
     },
     {
         "key": "164553EC4B6A9D265430F3B6A25830E5",
@@ -207,19 +207,19 @@
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
         "location": "/Game/enums/actions.actions.DisplayNameMap(35 - Value).DisplayNameMap",
         "id": "Sandbox",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "沙盒"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
         "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
         "id": "Loves",
-        "str": "爱好"
+        "str": "爱慕"
     },
     {
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "你有所有线索和关于娃娃的所有信息，但这是每个娃娃完全随机的。"
+        "str": "你拥有所有线索和人偶的所有信息，但每个人偶都是完全随机的。"
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -297,7 +297,7 @@
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lie bytes",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "谎言字节"
     },
     {
         "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -321,13 +321,13 @@
         "key": "34AFF09749F832F67360E0923F227F4F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Discards",
-        "str": "丢弃"
+        "str": "排除"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Malicious",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "恶毒者"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
@@ -345,13 +345,13 @@
         "key": "3837591C42D92A7775C0598726DC6D31",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_29.Text",
         "id": "FPS Limit",
-        "str": "FPS 限制"
+        "str": "帧数限制"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "我们只剩下3个了。让我们去房间看看谁移动了，谁被移动了。"
+        "str": "只剩下3个了。去房间看看有谁动了。"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -375,7 +375,7 @@
         "key": "3E3E53D64E987B22AD5967A23BB5AC57",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text",
         "id": "Extras",
-        "str": "额外"
+        "str": "额外内容"
     },
     {
         "key": "3E796087492560DF199BD58F4D3A3731",
@@ -423,7 +423,7 @@
         "key": "455698874FAE4AEB808E15AA36758F84",
         "location": "/Game/enums/actions.actions.DisplayNameMap(30 - Value).DisplayNameMap",
         "id": "Houses",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "房屋"
     },
     {
         "key": "45C632DB4CE38CCF91E0E89A3C83E11B",
@@ -435,7 +435,7 @@
         "key": "45DB611B482D35EE05ADE98331F2EC20",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Haunting",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "阴魂不散"
     },
     {
         "key": "460FFB13421148C8493D69A72A81E93C",
@@ -453,31 +453,31 @@
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
-        "str": "赢得最多的地图"
+        "str": "获胜最多的地图"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-        "str": "你已经完成了教程，知道了基本知识！要完成教程，去床上睡觉。你将进入你的安全区。使用计算机开始游戏！"
+        "str": "你已完成教程，了解了游戏基础！前往床上睡觉结束教程，你将进入安全区。使用电脑即可开始游戏！"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ominous",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "不祥之兆"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Global",
-        "str": "全球"
+        "str": "全局"
     },
     {
         "key": "49EE0D0C418246C21899368F2615D0DE",
         "location": "/Game/enums/actions.actions.DisplayNameMap(26 - Value).DisplayNameMap",
         "id": "Trains",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "列车"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -489,13 +489,13 @@
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "面包车挂娃娃"
+        "str": "面包车吊挂人偶"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Governor",
-        "str": "总督"
+        "str": "支配者"
     },
     {
         "key": "50CA9C1F443642D2B6B6BE9E5D1E302F",
@@ -507,19 +507,19 @@
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
         "id": "Turn Left",
-        "str": "向左转"
+        "str": "左转"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "你是玩偶的守护者，其中一个是活的并打算杀死你。你必须在09:00之前发现它是谁。"
+        "str": "你是人偶的守护者，其中有一个人偶是活着的，他打算杀死你。你必须在09:00之前找出它是谁。"
     },
     {
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "完美，我们还剩下5个嫌疑人。再去睡觉吧。"
+        "str": "很好，还剩下5位嫌疑人。再去睡觉吧。"
     },
     {
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
@@ -537,7 +537,7 @@
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
         "id": "Camp with enemies",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "和敌人露营"
     },
     {
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
@@ -555,7 +555,7 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "随机但无尽模式，你有3分钟计时器来解决案件，并有排行榜"
+        "str": "随机但无尽模式，你有3分钟来解决案件。该模式有排行榜"
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
@@ -579,7 +579,7 @@
         "key": "5E1C23674444BB331554B39281C7EA20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
-        "str": "摇摆他人"
+        "str": "摇晃他人"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -609,7 +609,7 @@
         "key": "63063D214706E5FBBE2227836F1BE194",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.name_18_82096130492E34A890A0138C4910D929",
         "id": "Circus",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "马戏团"
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -621,13 +621,13 @@
         "key": "63D67BF743D308E3537D9794B417B76A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_5.Text",
         "id": "Nightmare",
-        "str": "噩梦"
+        "str": "梦魇"
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "每个玩家的标准难度，所有线索将在08:00进行，你可以选择查看娃娃的名字和冒名顶替者的行动列表"
+        "str": "标准的难度，所有线索出现在08:00，你可以选择查看人偶的名字和卧底的行动列表"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -639,7 +639,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "这是最后一个小时。我们只有这次机会去发现。让我们去房间。"
+        "str": "这是最后一小时。只剩这次机会能找出卧底了。前往房间吧。"
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -669,13 +669,13 @@
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
         "id": "Play tutorial",
-        "str": "播放教程"
+        "str": "游玩教程"
     },
     {
         "key": "6B78310947BA56A4D0322EAFBC650458",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Macabre",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "阴森恐怖"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
@@ -723,19 +723,19 @@
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Deadly",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "致命者"
     },
     {
         "key": "75A0760B4CF756F7572751980578A7E4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Single",
-        "str": "单身的"
+        "str": "单身者"
     },
     {
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "你将扮演侦探的角色，基于左侧面板上列出的冒名顶替者的喜欢和不喜欢，确定他喜欢和不喜欢什么，谁是他的敌人、朋友、爱人或恨的人。"
+        "str": "你将扮演侦探，基于左侧面板上列出的卧底的喜欢和讨厌内容，确定人偶的偏好，谁是他的敌人、朋友、爱人或仇人。"
     },
     {
         "key": "773B946148501068D9A5B3A814B81ECD",
@@ -759,7 +759,7 @@
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
         "id": "Go to Safe House",
-        "str": "去安全屋"
+        "str": "前往安全屋"
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -771,13 +771,13 @@
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Menacing",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "险恶者"
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-        "str": "仅适用于专业人士，开始于08:00，只有3个有效线索，没有照片或帮助，一些数据被隐藏，你对地图的访问受限"
+        "str": "适合专家游玩的难度，开始于08:00，只有3条有效线索，没有照片或帮助，隐藏一些数据，能探索的地图空间有限"
     },
     {
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
@@ -807,37 +807,37 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "让我们给冒名顶替者设个陷阱。我们已经知道他喜欢电视和音乐。打开灯。"
+        "str": "让我们给卧底设个陷阱。我们知道他喜欢电视和音乐。打开灯吧。"
     },
     {
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show jumpscares",
-        "str": "显示跳吓"
+        "str": "显示惊吓"
     },
     {
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van floor",
-        "str": "面包车地板"
+        "str": "面包车底板"
     },
     {
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "您已打破新的记录，有 {new} 晚! 之前的记录是 {old} 晚!"
+        "str": "你以{new}夜的成绩，打破了先前{old}夜的记录！"
     },
     {
         "key": "815797D840D1A6AEC45401A9A3996DE0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Don't trust",
-        "str": "不要信任"
+        "str": "切勿轻信"
     },
     {
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "你现在可以在电脑上试试"
+        "str": "你现在可以用电脑进行尝试"
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
@@ -855,7 +855,7 @@
         "key": "8785C0644A30D7680DD4668FB916A03A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
         "id": "Hide Others",
-        "str": "隐藏他人"
+        "str": "隐藏其他"
     },
     {
         "key": "878E24534B885E2AB87EACB0394A0E58",
@@ -867,7 +867,7 @@
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
         "location": "/Game/enums/actions.actions.DisplayNameMap(25 - Value).DisplayNameMap",
         "id": "Tunnels",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "隧道"
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -897,13 +897,13 @@
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "和朋友一起露营"
     },
     {
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(27 - Value).DisplayNameMap",
         "id": "Cars",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "汽车"
     },
     {
         "key": "8E5AFE684A85E803C6F5ADAD24BB2C1D",
@@ -951,13 +951,13 @@
         "key": "9432768D4222957489019C86BD251CA3",
         "location": "/Game/enums/actions.actions.DisplayNameMap(20 - Value).DisplayNameMap",
         "id": "Carousel with enemies",
-        "str": "有敌人的旋转木马"
+        "str": "和敌人共乘旋转木马"
     },
     {
         "key": "9472CB7546EB19A64D00B9B40CF7BC7D",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new extra mode!",
-        "str": "你解锁了一个新的额外模式！"
+        "str": "你解锁了新的额外模式！"
     },
     {
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -969,7 +969,7 @@
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diabolic",
-        "str": "恶魔般的"
+        "str": "魔鬼"
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
@@ -987,7 +987,7 @@
         "key": "996579D246DE71F2608BB5BF8C353DA4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Kid",
-        "str": "孩子"
+        "str": "小孩"
     },
     {
         "key": "99AE0DEC47710525BAF347ABFE8339AB",
@@ -999,19 +999,19 @@
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
         "id": "Daycare",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "托儿所"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unlucky",
-        "str": "不幸的"
+        "str": "倒霉蛋"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Awkward",
-        "str": "尴尬的"
+        "str": "尴尬者"
     },
     {
         "key": "9CE4FD774DFBE4C84DC711A634666FA7",
@@ -1029,7 +1029,7 @@
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but in race mode with medals",
-        "str": "随机模式，但有奖牌的比赛模式"
+        "str": "随机模式，但可以竞速获得奖牌"
     },
     {
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
@@ -1041,19 +1041,19 @@
         "key": "A2C08BE6447E2720D3051F8CA460E102",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
         "id": "Can you help me with a positive review?",
-        "str": "你能帮我写一篇好评吗？"
+        "str": "能写一篇好评吗？"
     },
     {
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
         "id": "Film Grain",
-        "str": "电影颗粒"
+        "str": "胶片颗粒"
     },
     {
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grim",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "残酷者"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
@@ -1065,13 +1065,13 @@
         "key": "A7121AED466C7D8F9486A89DECB2409C",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的娃娃和奖杯收藏，并通过点击桌面上的调色板图标来自定义这个地方！"
+        "str": "欢迎来到避难所！这是你的安全区。你可以在电脑上开始新游戏，查看人偶和奖杯收藏，并点击桌面上的调色板图标来自定义这地方！"
     },
     {
         "key": "A7C36D644573AD30716F4283EBBE53D2",
         "location": "/Game/enums/actions.actions.DisplayNameMap(28 - Value).DisplayNameMap",
         "id": "Swings",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "摇摆"
     },
     {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
@@ -1089,25 +1089,25 @@
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To sleep, simply point at the bed and click on it.",
-        "str": "要睡觉，只需指向床并点击它。"
+        "str": "指向并点击床即可睡觉。"
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
-        "str": "重播"
+        "str": "重玩"
     },
     {
         "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grump",
-        "str": "脾气暴躁的"
+        "str": "暴躁者"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
         "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-        "str": "再增加一个难度，没有额外的线索，你看不到名字或列表"
+        "str": "更上一层的难度，没有额外线索，你看不到名字或列表"
     },
     {
         "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
@@ -1119,13 +1119,13 @@
         "key": "B300BE9147F822906E54C7A227BF23BA",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Welcome to Doll Impostor!",
-        "str": "欢迎来到“玩偶冒名顶替者”！"
+        "str": "欢迎来到《人偶卧底》！"
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "冒名顶替者"
+        "str": "卧底"
     },
     {
         "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
@@ -1137,25 +1137,25 @@
         "key": "B4559452445FD99D5366B68268BCFC9E",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Congratulations!",
-        "str": "恭喜!"
+        "str": "恭喜！"
     },
     {
         "key": "B46005B1494B233FC63D6C92DB922873",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Doorman",
-        "str": "门卫"
+        "str": "守门人"
     },
     {
         "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Terrifying",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "恐怖者"
     },
     {
         "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unnoticed",
-        "str": "不显眼的"
+        "str": "无形者"
     },
     {
         "key": "B54084CB4A265AC5B0714AB02E26FFEE",
@@ -1167,25 +1167,25 @@
         "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Loner",
-        "str": "孤独的"
+        "str": "孤独者"
     },
     {
         "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(5).Options.Label",
         "id": "Unlimited",
-        "str": "无限的"
+        "str": "无限"
     },
     {
         "key": "B8952A3841AAE9C0034514AC607965D8",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "避难所"
     },
     {
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghoster",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "幽灵"
     },
     {
         "key": "B9B809EC40076554656E1A8C91157931",
@@ -1215,19 +1215,19 @@
         "key": "BCB8724F4D70F43E391D0FB8984329C6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diva",
-        "str": "歌后"
+        "str": "名媛"
     },
     {
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "一开始，有20个玩偶。检查他们在板子上，当你准备好时，去房间见他们。"
+        "str": "一开始有20个人偶。先在白板上查看它们，准备好之后，就去房间与它们见面。"
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "去睡觉吧，让我们看看线索是否在下一个小时内解决。"
+        "str": "去睡觉吧，看看在下一个小时能否找到线索。"
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -1251,37 +1251,37 @@
         "key": "BF221642449DB485C8FF39A6198C744B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sinister",
-        "str": "阴险的"
+        "str": "阴险之徒"
     },
     {
         "key": "BF4FA5364C39224BE93EC080C21FF285",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock.Text",
         "id": "Mixed dolls",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "混合人偶"
     },
     {
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "很明显他喜欢血。可能是两个人中的一个，但请检查箱子。弗雷迪失踪了，他的箱子里满是血。他为你留下了这个判决。当你确定时，排除候选人。"
+        "str": "很明显他喜欢血。可能是两者中的任何一个，但你得检查那些盒子。弗莱迪不见了，而他的盒子里满是血。当你确定后，就可以排除这个嫌疑人了。"
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
         "id": "Dislikes",
-        "str": "不喜欢"
-    },
-    {
-        "key": "C217326D42A0B8DA097ECEAC0760BAF7",
-        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
-        "id": "Focus FOV",
-        "str": "焦点视野"
+        "str": "讨厌"
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
         "str": "面包车右侧"
+    },
+    {
+        "key": "C217326D42A0B8DA097ECEAC0760BAF7",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
+        "id": "Focus FOV",
+        "str": "焦点视野"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -1293,7 +1293,7 @@
         "key": "C8A00764485261B746BFEE94C58D6ECA",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Scary",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "惊悚人偶"
     },
     {
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
@@ -1305,61 +1305,61 @@
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "他已经掉进我们的陷阱并关掉了灯。现在我们可以排除所有喜欢光的人。"
+        "str": "他中了我们的圈套，把灯关掉了。我们现在可以排除所有喜欢光明的人。"
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sweet",
-        "str": "甜美的"
+        "str": "甜蜜者"
     },
     {
         "key": "CB775D1F41F692F4946D738AA83BB23E",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Friends",
-        "str": "朋友"
+        "str": "好友"
     },
     {
         "key": "CE5521734152BB8FDF36949D84AA7F39",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghastly",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "惨白幽魂"
     },
     {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
         "id": "Stats",
-        "str": "统计"
+        "str": "统计数据"
     },
     {
         "key": "CF3A6ECB45A9488C10D246A3FD143977",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Weasel",
-        "str": "黄鼠狼"
+        "str": "狡猾者"
     },
     {
         "key": "D03A184741DBDC2985FBC9A454F19494",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Nervous",
-        "str": "紧张的"
+        "str": "焦躁者"
     },
     {
         "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Spooky",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "阴森者"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "颤栗者"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
         "location": "/Game/enums/actions.actions.DisplayNameMap(9 - Value).DisplayNameMap",
         "id": "Light",
-        "str": "轻"
+        "str": "光明"
     },
     {
         "key": "D2EAFC9348E348C7516300BF122B9702",
@@ -1371,7 +1371,7 @@
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "翻译：{people}"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -1389,7 +1389,7 @@
         "key": "D627A24C4957566043D3F0ADF0F70B9E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
         "id": "Playgrounds",
-        "str": "操场"
+        "str": "游乐场"
     },
     {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
@@ -1419,13 +1419,13 @@
         "key": "D955FAE74433E108EB3C078EF42B2DC8",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Quiet",
-        "str": "安静的"
+        "str": "沉寂者"
     },
     {
         "key": "D9B2458843A82DBB9843FBBB36327D9A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
         "id": "Turn Right",
-        "str": "向右转"
+        "str": "右转"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -1437,19 +1437,19 @@
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unsettling",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "战栗之源"
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
         "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-        "str": "专家模式，从06:00开始，没有额外的线索也没有照片"
+        "str": "专家模式，从06:00开始，没有额外线索，也没有照片"
     },
     {
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The New",
-        "str": "新来的"
+        "str": "新人"
     },
     {
         "key": "E1BED414427264B22F7080B7ED0D0CF9",
@@ -1461,7 +1461,7 @@
         "key": "E238A88B4FBC7C4641B8E9A95353B1C0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Indecent",
-        "str": "不正经的"
+        "str": "下流者"
     },
     {
         "key": "E2D484854A1C9DB14835A6AD457B6207",
@@ -1473,7 +1473,7 @@
         "key": "E447809B421298C1BDA5E4B063D86F49",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
-        "str": "动作娃娃"
+        "str": "动作人偶"
     },
     {
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
@@ -1503,7 +1503,7 @@
         "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
         "id": "As you unlock new levels, new ones will appear!",
-        "str": "当您解锁新级别时，新的级别将出现！"
+        "str": "解锁新关卡后，会出现新的人偶！"
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -1515,13 +1515,13 @@
         "key": "E96A210546B4B0647B0763843052BBF8",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
         "id": "Head Bobbing",
-        "str": "头部摆动"
+        "str": "镜头晃动"
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Dolls",
-        "str": "玩偶"
+        "str": "人偶"
     },
     {
         "key": "EABE87674E476F817EEF85B6E5E00296",
@@ -1551,13 +1551,13 @@
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Frightening",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "骇人者"
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_0.name_18_82096130492E34A890A0138C4910D929",
         "id": "House",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "房屋"
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -1569,7 +1569,7 @@
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
         "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
         "id": "Hates",
-        "str": "恨"
+        "str": "讨厌"
     },
     {
         "key": "F343C45143C6D6F84AC69C85B3A85B2F",
@@ -1593,13 +1593,13 @@
         "key": "F7F54678404761EAEB33B4B508EC97D1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Hope",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "希望"
     },
     {
         "key": "F83E76BC49FC84244322C382556B6E5F",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
-        "str": "哦不..."
+        "str": "哦不……"
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
@@ -1611,7 +1611,7 @@
         "key": "FA4E21624A2D966B1B2ED19005131257",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traditional",
-        "str": "传统的"
+        "str": "传统派"
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -1629,7 +1629,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "我们有瑞奇在沙发上，蒙蒂在钢琴旁，所以我们已经有了两个可能的候选人。然而，我们不会冒50%的风险。让我们回到房间，排除那个不可能的，等待他的下一个事件。"
+        "str": "Ricky在沙发上，Monty在钢琴旁，所以我们有了两个可能的人选。不过我们不会去冒那50%的风险。回到房间，排除那个不可能的人选，然后等待他的下一次行动，从而确认人选。"
     },
     {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
@@ -1641,7 +1641,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "您有 {new} 晚，还没能打破之前的 {old} 晚记录"
+        "str": "你度过了{new}晚，没能打破之前的{old}晚记录"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
@@ -1659,7 +1659,7 @@
         "key": "FE11E6ED4FA63C5B12631383E56A20B5",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the {map} Map!",
-        "str": "阿拉伯语\nn弹跳城堡\nn保加利亚语\nn敌人的营地\nn朋友的营地\nn汽车\nn中文\nn马戏团\nn日托\nn荷兰语\nn英语\nn芬兰语\nn法语\nn德语\nn房子\nn房屋\nn匈牙利语\nn意大利语\nn日语\nn混合玩偶\nn多种游戏\nn挪威语\nn波兰语\nn葡萄牙语\nn避难所\nn俄语\nn沙盒\nn跷跷板\nn西班牙语\nn秋千\nn茶\nn泰语\nn冷静的\nn致命的\nn恶魔般的\nn恶魔般的\nn可怕的\nn惊悚的\nn可怕的\nn鬼魅\nn严峻的\nn闹鬼的\nn希望\nn谎言字节\nn可怕的\nn恶意的\nn威胁的\nn不祥的\nn吓人的\nn吓人的\nn恐怖的\nn令人不安的\nn火车\nn翻译者: {people}\nn隧道\nn土耳其语\nn欢迎来到避难所！这是你的安全区。在这里，你可以在电脑上开始新游戏，查看你的玩偶和奖杯收藏，并且还可以通过点击桌面上的齿轮图标来定制这个地方！\nn你已经解锁了{map}地图!"
+        "str": "你解锁了{map}地图！"
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
@@ -1671,7 +1671,7 @@
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
         "id": "Play",
-        "str": "玩"
+        "str": "游玩"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
@@ -1683,6 +1683,6 @@
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
         "location": "/Game/enums/actions.actions.DisplayNameMap(19 - Value).DisplayNameMap",
         "id": "Carousel with friends",
-        "str": "有朋友的旋转木马"
+        "str": "和朋友一起玩旋转木马"
     }
 ]
