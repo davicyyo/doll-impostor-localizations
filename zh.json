@@ -141,7 +141,7 @@
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
-        "str": "美丽者"
+        "str": "美丽佳人"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -177,7 +177,7 @@
         "key": "175FDB6245E5ED987CC62684AC5049E4",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_23.Text",
         "id": "Run",
-        "str": "运行"
+        "str": "奔跑"
     },
     {
         "key": "19750FC24F8A0B2279246B801F612D34",
@@ -225,7 +225,7 @@
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
         "id": "Tea with enemies",
-        "str": "与敌人共茶"
+        "str": "与敌人喝茶"
     },
     {
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
@@ -249,7 +249,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "卓越女士"
+        "str": "非凡女士"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -513,7 +513,7 @@
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "你是人偶的守护者，其中有一个人偶是活着的，他打算杀死你。你必须在09:00之前找出它是谁。"
+        "str": "你是人偶的看守者，其中有个人偶被恶灵附身，打算杀死你。你必须在09:00之前找出它是谁。"
     },
     {
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
@@ -543,7 +543,7 @@
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
         "id": "Most Earned Doll",
-        "str": "最赚的娃娃"
+        "str": "找出次数最多的人偶"
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
@@ -555,7 +555,7 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "随机但无尽模式，你有3分钟来解决案件。该模式有排行榜"
+        "str": "随机的无尽模式，你有3分钟来解决案件。该模式有排行榜"
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
@@ -735,7 +735,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "你将扮演侦探，基于左侧面板上列出的卧底的喜欢和讨厌内容，确定人偶的偏好，谁是他的敌人、朋友、爱人或仇人。"
+        "str": "你将扮演侦探，根据左侧面板上列出的卧底信息，确定人偶的偏好，谁是他的敌人、朋友、爱人或仇人。"
     },
     {
         "key": "773B946148501068D9A5B3A814B81ECD",
