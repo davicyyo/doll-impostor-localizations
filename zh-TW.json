@@ -1209,7 +1209,7 @@
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
         "location": "/Game/functions/interfaceFunctions.interfaceFunctions_C:showPopup [Script Bytecode]",
         "id": "OK",
-        "str": "OK"
+        "str": "好"
     },
     {
         "key": "BCB8724F4D70F43E391D0FB8984329C6",
@@ -1371,7 +1371,7 @@
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
-        "str": "Translated by: {people}"
+        "str": "由 {people} 翻譯"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -1665,7 +1665,7 @@
         "key": "FE160B74470133E4B513D18D4566D063",
         "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
-        "str": "YOU LOSE"
+        "str": "你輸了"
     },
     {
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
