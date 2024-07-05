@@ -12,7 +12,7 @@ https://github.com/davicyyo/doll-impostor-localizations/blob/main/en.json
 3. Go to the file to upload
 4. Press dot (.)
 5. Paste your new translate
-6. Press SHIFT + ALT + F (For format de file)
+6. Press SHIFT + ALT + F (For format the file)
 7. Go to left side (Icon below search)
 8. There should be a 1 at least, if not to if you save the file
 9. Tap + on the file
