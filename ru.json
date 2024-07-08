@@ -3,7 +3,7 @@
         "key": "0078964D495E90CB9C263D86C289F115",
         "location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Tea with friends",
-        "str": "Чаептие с друзьями"
+        "str": "Чаепитие с друзьями"
     },
     {
         "key": "01A2125C4F867B60C4E289ACD43FEBF9",
@@ -225,7 +225,7 @@
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
         "id": "Tea with enemies",
-        "str": "Чаептие с врагами"
+        "str": "Чаепитие с врагами"
     },
     {
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
@@ -735,7 +735,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Ты - детектив, которому нужно найти одержимую куклу, исходя из того, что ей нравится и не нравится, кто её враги, друзья, любимые или ненавистные люди."
+        "str": "Ты - детектив, которому нужно определить одержимую куклу, исходя из того, что ей нравится и не нравится, кто её враги, друзья, любимые и ненавистные куклы."
     },
     {
         "key": "773B946148501068D9A5B3A814B81ECD",
