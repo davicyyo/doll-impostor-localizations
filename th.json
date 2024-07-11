@@ -1372,7 +1372,7 @@
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
-        "str": "แปลโดย: {people} "
+        "str": "แปลโดย: {people}"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
