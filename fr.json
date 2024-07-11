@@ -837,7 +837,7 @@
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "Vous pouvez l'essayer maintenant sur PC"
+        "str": "Vous pouvez l'essayer dès maintenant sur le PC"
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
@@ -1275,7 +1275,7 @@
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
-        "str": "Mise au point du Champ de Vision"
+        "str": "Mise au Point du Champ de Vision"
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -1515,7 +1515,7 @@
         "key": "E96A210546B4B0647B0763843052BBF8",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
         "id": "Head Bobbing",
-        "str": "Balancement de la tête"
+        "str": "Balancement de la Tête"
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
