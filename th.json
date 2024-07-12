@@ -76,7 +76,7 @@
         "key": "0A3D5EC2435134BB35A189A4B69C4101",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Room",
-        "str": "ห้อง"
+        "str": "ห้องตุ๊กตา"
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -220,7 +220,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "คุณมีเบาะแสและข้อมูลของตุ๊กตาทุกตัวแล้ว แต่ข้อมูลดังกล่าวจะเป็นแบบสุ่ม"
+        "str": "คุณมีเบาะแสและข้อมูลของตุ๊กตาทุกตัวแล้ว แต่ข้อมูลดังกล่าวจะเป็นแบบสุ่มทั้งหมด"
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -808,7 +808,7 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "เรามาวางกับดักให้ผู้ต้องสงสัยกันเถอะ เรารู้แล้วว่าเขาชอบ ทีวี ดนตรี และแสงไฟ"
+        "str": "เรามาวางกับดักให้ผู้ต้องสงสัยกันเถอะ เรารู้แล้วว่าเขาชอบ ทีวี และ ดนตรี เรามาลองเปิดไฟเพื่อเป็นกับดักไว้กันเถอะ"
     },
     {
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
@@ -1126,7 +1126,7 @@
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "คนหลอกลวง"
+        "str": "อิมพอสเตอร์"
     },
     {
         "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
