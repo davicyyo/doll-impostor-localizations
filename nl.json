@@ -33,13 +33,13 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Het lijkt erop dat de bedrieger enkele gebeurtenissen heeft uitgevoerd. Deze worden weergegeven op je linker paneel. Bekijk ze en ga dan weer de kamer in."
+        "str": "Het lijkt erop dat de bedrieger enkele acties heeft uitgevoerd. Deze worden weergegeven op het linker paneel. Bekijk het paneel en ga dan weer de kamer in."
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
         "id": "Jail Self",
-        "str": "Sluit jezelf op"
+        "str": "Zichzelf opsluiten"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -57,13 +57,13 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Vergeet niet de deur op slot te houden met de grendel. Als je dat niet doet, kunnen de poppen eruit komen, je tests veranderen en je zelfs doden."
+        "str": "Vergeet niet de deur op slot te doen met de grendel. Als je dat niet doet, kunnen de poppen de bus binnen komen, je tests veranderen en je zelfs doden."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "Dit is de poppenkamer. Hier zie je wat ze hebben gedaan terwijl je sliep. Bekijk ze en laten we dan teruggaan naar de kamer."
+        "str": "Dit is de poppenkamer. Hier zie je wat ze hebben gedaan terwijl je sliep. Kijk goed rond en laten we dan teruggaan naar de kamer."
     },
     {
         "key": "09CCC43B450A924B1414CEA6C17A4E5D",
@@ -93,7 +93,7 @@
         "key": "0B88630D44BEE72FF2A76095115344A8",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Doll Object",
-        "str": "Popobject"
+        "str": "Pop"
     },
     {
         "key": "0CA5844D4070A29607D91D9C17419FCD",
@@ -105,19 +105,19 @@
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_2.Text",
         "id": "Smooth Camera",
-        "str": "Vloeiende camera"
+        "str": "Soepele camera"
     },
     {
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Zwaai jezelf"
+        "str": "Zelf schommelen"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "Laten we teruggaan naar het paneel en beginnen met het verwijderen van verdachten die niet overeenkomen met ons bewijs."
+        "str": "Laten we teruggaan naar het paneel en beginnen met het uitsluiten van verdachten die niet overeenkomen met het bewijs."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
@@ -141,7 +141,7 @@
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
-        "str": "De mooie"
+        "str": "De prachtige"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -159,7 +159,7 @@
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Bed in busje"
+        "str": "Bus bed"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
@@ -171,7 +171,7 @@
         "key": "16A84C9B486F4A520142D791EC349B4F",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
         "id": "Shading Quality",
-        "str": "Schaduwkleur Kwaliteit"
+        "str": "Shading Kwaliteit"
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -189,7 +189,7 @@
         "key": "1AEE02D7485216A7EBEC93AD95D81A25",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Right Side",
-        "str": "Rechterkant van de pc"
+        "str": "Computer rechtermuur"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -219,7 +219,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "Je hebt alle aanwijzingen en alle informatie over de poppen, maar dit is volledig willekeurig voor elke pop."
+        "str": "Je hebt alle aanwijzingen en alle informatie over de poppen, maar de informatie is volledig willekeurig voor iedere pop."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -255,13 +255,13 @@
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Demon",
-        "str": "De Demon"
+        "str": "De Demoon"
     },
     {
         "key": "2D10309A4AE3A7B38D67BC894C9A5B97",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
         "id": "View Distance Quality",
-        "str": "Kwaliteit van kijkafstand"
+        "str": "Kijkafstand kwaliteit"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -297,7 +297,7 @@
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lie bytes",
-        "str": "De Leugen bytes"
+        "str": "De leugen bytes"
     },
     {
         "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -351,7 +351,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "We hebben er nog maar 3 over. Laten we naar de kamer gaan om te zien wie er is verplaatst en wie is verplaatst."
+        "str": "We hebben er nog 3 over. Laten we naar de kamer gaan om te zien wie zich verplaatst heeft en wie er verplaatst is."
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -399,7 +399,7 @@
         "key": "419FBA55411C37613B78B895FC47434E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_15.Text",
         "id": "Auto settings",
-        "str": "Automatische instellingen"
+        "str": "Automatisch instellen"
     },
     {
         "key": "420F5BCA40413C0383C7AA9583EEC5C0",
@@ -453,13 +453,13 @@
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
-        "str": "Meest gewonnen kaart"
+        "str": "Meest gewonnen level"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-        "str": "Je hebt de tutorial doorlopen, je kent de basis! Om de tutorial te voltooien, ga naar bed en slaap. Je gaat naar je veilige zone. Gebruik de computer om een spel te starten!"
+        "str": "Je hebt de tutorial doorlopen en bent nu bekend met de basis! Ga naar bed en ga slapen om de tutorial te voltooien. Je gaat daarna naar je safe house. Gebruik de computer in je safe house om een nieuw spel te starten!"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
@@ -483,13 +483,13 @@
         "key": "4A4EFF4C40A276033B050495CB6E5179",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "World",
-        "str": "Wereld"
+        "str": "Globaal"
     },
     {
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "Hangende pop in busje"
+        "str": "Hangende pop in cabine"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -513,7 +513,7 @@
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Je bent de bewaker van de poppen, een van hen is levend en wil je vermoorden. Je moet ontdekken wie het is voor 09:00 uur."
+        "str": "Je bent de bewaker van de poppen. Een van hen is levend en wil je vermoorden. Je moet voor 09:00 uur ontdekken wie het is."
     },
     {
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
@@ -525,7 +525,7 @@
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Lights",
-        "str": "Lichten in busje"
+        "str": "Busverlichting"
     },
     {
         "key": "554BB9D046155183D4DCF7A14F96171E",
@@ -537,25 +537,25 @@
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
         "id": "Camp with enemies",
-        "str": "Kamp met vijanden"
+        "str": "Kamperen met vijanden"
     },
     {
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
         "id": "Most Earned Doll",
-        "str": "Meest verdiende pop"
+        "str": "Meest gevonden pop"
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
         "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
-        "str": "Je wint"
+        "str": "Gewonnen"
     },
     {
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Willekeurig maar eindeloze modus, je hebt een timer van 3 minuten om de zaak op te lossen en er is een ranglijst van leiders"
+        "str": "Willekeurige, maar eindeloze modus. Je hebt een timer van 3 minuten om de bedrieger te vinden en er is een ranglijst van leiders"
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
@@ -579,7 +579,7 @@
         "key": "5E1C23674444BB331554B39281C7EA20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
-        "str": "Zwaai anderen"
+        "str": "Anderen schommelen"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -597,7 +597,7 @@
         "key": "61579A7B4A7A797C38911980E669DE96",
         "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
         "id": "Jail Others",
-        "str": "Sluit anderen op"
+        "str": "Anderen opsluiten"
     },
     {
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
@@ -615,7 +615,7 @@
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
         "id": "Look Up",
-        "str": "Kijk naar boven"
+        "str": "Naar boven kijken"
     },
     {
         "key": "63D67BF743D308E3537D9794B417B76A",
@@ -627,7 +627,7 @@
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "De standaard moeilijkheidsgraad voor elke speler, alle aanwijzingen worden om 08:00 gemaakt, je hebt de mogelijkheid om de namen van de poppen en de lijst met acties van de bedrieger te zien"
+        "str": "De standaard moeilijkheidsgraad. Alle aanwijzingen zijn om 08:00 beschikbaar. Je hebt de mogelijkheid om de namen van de poppen en de lijst met acties van de bedrieger te zien."
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -639,13 +639,13 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Het is het laatste uur. We hebben alleen deze kans om erachter te komen. Laten we naar de kamer gaan."
+        "str": "De tijd is bijna om. We hebben alleen deze kans nog om de bedrieger te vinden. Laten we naar de kamer gaan."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
         "id": "Brightness",
-        "str": "helderheid"
+        "str": "Helderheid"
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -693,7 +693,7 @@
         "key": "7095C09D4014D1FB9E4C1D9529586155",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_7.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Left Side",
-        "str": "Linkerkant van de pc"
+        "str": "Computer linkermuur"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -705,7 +705,7 @@
         "key": "7286FEC6469CF65A5584DB896D227680",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(0).Options.Label",
         "id": "Windowed",
-        "str": "Geventileerd"
+        "str": "Venster"
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -735,7 +735,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Je zult de rol van detective hebben waarin je moet bepalen, gebaseerd op de voorkeuren en afkeuren van de bedrieger die op het paneel aan je linkerzijde staan, wat hij leuk vindt en niet leuk vindt, wie zijn vijanden, vrienden, liefdes of gehate personen zijn."
+        "str": "Je zult de rol van detective aannemen waarin je moet bepalen, gebaseerd op de voorkeuren van de bedrieger die op het paneel aan je linkerzijde staan, wat hij leuk vindt en niet leuk vindt, wie zijn vijanden, vrienden, liefdes of gehate personen zijn."
     },
     {
         "key": "773B946148501068D9A5B3A814B81ECD",
@@ -753,13 +753,13 @@
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Schrikgeluid volume"
+        "str": "Jumpscares volume"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
         "id": "Go to Safe House",
-        "str": "Ga naar het veilige huis"
+        "str": "Ga naar je Safe house"
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -777,7 +777,7 @@
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-        "str": "Alleen geschikt voor professionals, het begint om 08:00 en heeft slechts 3 effectieve aanwijzingen, er zijn geen foto's of hulpmiddelen, sommige gegevens zijn verborgen, je hebt beperkte toegang tot de kaart"
+        "str": "Alleen geschikt voor professionals. Je begint om 08:00 en hebt slechts 3 aanwijzingen. Er zijn geen foto's of hulpmiddelen. Sommige gegevens zijn verborgen. Je hebt beperkte toegang tot de omgeving"
     },
     {
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
@@ -789,7 +789,7 @@
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "Linkerkant van het busje"
+        "str": "Bus linksboven"
     },
     {
         "key": "7D39CA6640F288A9002846AE7D7F4041",
@@ -813,31 +813,31 @@
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show jumpscares",
-        "str": "Toon schrikmomenten"
+        "str": "Toon jumpscares"
     },
     {
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van floor",
-        "str": "Vloer van het busje"
+        "str": "Bus vloerbedekking"
     },
     {
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Je hebt je nieuwe record verbroken met {new} nachten! Van de eerdere {old} nachten!"
+        "str": "Je hebt je record verbroken met {new} nachten! Het oude record stond op {old} nachten!"
     },
     {
         "key": "815797D840D1A6AEC45401A9A3996DE0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Don't trust",
-        "str": "Vertrouw niet"
+        "str": "Vertrouw niemand"
     },
     {
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "Je kunt het nu proberen op de pc"
+        "str": "Je kunt het nu proberen op de computer in je Safe house"
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
@@ -855,7 +855,7 @@
         "key": "8785C0644A30D7680DD4668FB916A03A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
         "id": "Hide Others",
-        "str": "Verberg anderen"
+        "str": "Anderen verbergen"
     },
     {
         "key": "878E24534B885E2AB87EACB0394A0E58",
@@ -897,7 +897,7 @@
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
-        "str": "Kamp met vrienden"
+        "str": "Kamperen met vrienden"
     },
     {
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
@@ -975,7 +975,7 @@
         "key": "96BE28504D901245DE1115BF00D47E10",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
-        "str": "Details van de actie"
+        "str": "Gebeurtenissen overzicht"
     },
     {
         "key": "9806DB6E4107A01E3979C1BBEF780A91",
@@ -1029,13 +1029,13 @@
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but in race mode with medals",
-        "str": "Willekeurige modus maar in racemodus met medailles"
+        "str": "Willekeurige modus, maar in racemodus met medailles"
     },
     {
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_4.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Left Place",
-        "str": "Linker plek"
+        "str": "Linkermuur"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -1065,7 +1065,7 @@
         "key": "A7121AED466C7D8F9486A89DECB2409C",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "Welkom in de schuilplaats! Dit is je veilige zone. Hier kun je een nieuw spel starten op de computer, je collectie poppen en trofeeën bekijken en ook deze plek aanpassen door op het kleurpaletpictogram op je bureaublad te klikken!"
+        "str": "Welkom in je schuilplaats! Dit is je safe house. Hier kun je een nieuw spel starten op de computer, je collectie poppen en trofeeën bekijken en ook deze plek aanpassen door op het kleurpaletpictogram op je bureaublad te klikken!"
     },
     {
         "key": "A7C36D644573AD30716F4283EBBE53D2",
@@ -1077,7 +1077,7 @@
         "key": "AA8520BE4876828E544192BFA8F98EE7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Move Self",
-        "str": "Zelf verplaatsen"
+        "str": "Zichzelf verplaatsen"
     },
     {
         "key": "AB6B64D64932C68A8743709693AF267B",
@@ -1089,13 +1089,13 @@
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To sleep, simply point at the bed and click on it.",
-        "str": "Om te slapen, richt je gewoon op het bed en klik erop."
+        "str": "Om te slapen loop je naar het bed en klik je erop."
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
-        "str": "Opnieuw afspelen"
+        "str": "Opnieuw spelen"
     },
     {
         "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
@@ -1107,7 +1107,7 @@
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
         "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-        "str": "Nog een stap in moeilijkheid, er zijn geen extra aanwijzingen, je kunt de namen of lijst niet zien"
+        "str": "Een hogere moeilijkheidsgraad. Er zijn geen extra aanwijzingen. De namen van de poppen en de lijst met acties zijn niet beschikbaar."
     },
     {
         "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
@@ -1119,7 +1119,7 @@
         "key": "B300BE9147F822906E54C7A227BF23BA",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Welcome to Doll Impostor!",
-        "str": "Welkom bij \nPoppenspion\n!"
+        "str": "Welkom bij Doll Impostor!"
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
@@ -1179,7 +1179,7 @@
         "key": "B8952A3841AAE9C0034514AC607965D8",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
-        "str": "Toevluchtsoord"
+        "str": "Schuilplaats"
     },
     {
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
@@ -1221,19 +1221,19 @@
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "Om te beginnen zijn er 20 poppen. Controleer ze op het bord en ga naar de kamer om ze te ontmoeten wanneer je klaar bent."
+        "str": "Aan het begin van het spel zijn er 20 poppen. Bekijk ze op het bord en ga naar de kamer om ze te ontmoeten wanneer je zover bent."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "Ga slapen en laten we kijken of de aanwijzing binnen het volgende uur is opgelost."
+        "str": "Ga slapen en laten we kijken of het komende uur uitsluitsel biedt."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_21.Text",
         "id": "Look Down",
-        "str": "Kijk naar beneden"
+        "str": "Naar beneden kijken"
     },
     {
         "key": "BED88CC84349A7555F6F8F8702DFC716",
@@ -1245,7 +1245,7 @@
         "key": "BEF09CA34BAE3DC7635E8485BB667E28",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van exterior",
-        "str": "Buitenkant van het busje"
+        "str": "Bus buitenkant"
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
@@ -1257,13 +1257,13 @@
         "key": "BF4FA5364C39224BE93EC080C21FF285",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock.Text",
         "id": "Mixed dolls",
-        "str": "Gemengde poppen"
+        "str": "Willekeurige poppen"
     },
     {
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Het is duidelijk dat hij van bloed houdt. Het kan een van de twee zijn, maar controleer de dozen. Freddy is vermist en zijn doos zit vol bloed. Hij heeft dit oordeel voor jou achtergelaten. Als je zeker bent, verwerp de kandidaat."
+        "str": "Het is duidelijk dat de bedrieger van bloed houdt. Het is een van de twee, maar controleer de dozen: Freddy is vermist en zijn doos zit vol met bloed. Je kan hier je conclusies uit trekken. Zodra je het zeker weet sluit je de laatste kandidaat uit."
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
@@ -1281,7 +1281,7 @@
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
-        "str": "Rechterkant van het busje"
+        "str": "Bus rechtsboven"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -1293,7 +1293,7 @@
         "key": "C8A00764485261B746BFEE94C58D6ECA",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Scary",
-        "str": "De Engste"
+        "str": "De Enge"
     },
     {
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
@@ -1305,7 +1305,7 @@
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "Hij is in onze val gelopen en heeft de lichten uitgedaan. We kunnen nu iedereen verwerpen die van licht houdt."
+        "str": "Hij is in onze val gelopen en heeft de lichten uitgedaan. We kunnen nu iedereen uitsluiten die van licht houdt."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -1323,7 +1323,7 @@
         "key": "CE5521734152BB8FDF36949D84AA7F39",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghastly",
-        "str": "De Vreselijke"
+        "str": "De vreselijke"
     },
     {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -1347,13 +1347,13 @@
         "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Spooky",
-        "str": "De Spookachtige"
+        "str": "De spookachtige"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
-        "str": "De Chillende"
+        "str": "De chillende"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -1365,7 +1365,7 @@
         "key": "D2EAFC9348E348C7516300BF122B9702",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Right Place",
-        "str": "Rechter plek"
+        "str": "Rechtermuur"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -1407,7 +1407,7 @@
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
         "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
         "id": "Hide Self",
-        "str": "Verberg jezelf"
+        "str": "Zichzelf verbergen"
     },
     {
         "key": "D8F293214EA6402451DED28B75ADA37E",
@@ -1443,7 +1443,7 @@
         "key": "DFC327DA4616540509FBF6AA40D0458B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
         "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-        "str": "Expert modus, je begint om 06:00, er zijn geen extra aanwijzingen en geen foto's"
+        "str": "Expert modus. Je begint om 06:00. Er zijn geen extra aanwijzingen en geen foto's."
     },
     {
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
@@ -1473,7 +1473,7 @@
         "key": "E447809B421298C1BDA5E4B063D86F49",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
-        "str": "Actiepoppen"
+        "str": "Relatie tot andere poppen"
     },
     {
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
@@ -1491,7 +1491,7 @@
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_32.Text",
         "id": "Temporal Upsample",
-        "str": "Temporele upsample"
+        "str": "Temporal Upsample"
     },
     {
         "key": "E7D75C9A40FB9B41721A46B5B7198EF1",
@@ -1503,7 +1503,7 @@
         "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
         "id": "As you unlock new levels, new ones will appear!",
-        "str": "Als u nieuwe niveaus ontgrendelt, zullen er nieuwe verschijnen!"
+        "str": "Nieuwe moeilijkheidsgraden worden bij winst beschikbaar gemaakt."
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -1545,7 +1545,7 @@
         "key": "F1D636544DE5ADC7945E9789ACC63D6C",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van wall",
-        "str": "Muur van het busje"
+        "str": "Bus binnenkant"
     },
     {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
@@ -1629,7 +1629,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "We hebben Ricky op de bank en Monty bij de piano, dus we hebben al twee mogelijke kandidaten. We nemen echter geen risico van 50%. Laten we teruggaan naar de kamer om degene die het niet kan zijn uit te sluiten en te wachten op zijn volgende gebeurtenis."
+        "str": "We hebben Ricky op de bank en Monty bij de piano, dus we hebben al twee mogelijke kandidaten. We gaan echter de gok niet wagen. Laten we teruggaan naar de kamer om degene die het niet kan zijn uit te sluiten en te wachten op zijn volgende actie."
     },
     {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
@@ -1641,7 +1641,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "Je hebt {new} nachten, je hebt je record van {old} nachten niet kunnen verbreken"
+        "str": "Je hebt {new} nachten behaald. Je hebt je record van {old} nachten niet kunnen verbeteren"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
@@ -1665,7 +1665,7 @@
         "key": "FE160B74470133E4B513D18D4566D063",
         "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
-        "str": "Je verliest"
+        "str": "Verloren"
     },
     {
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
