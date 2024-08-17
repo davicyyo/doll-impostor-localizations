@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "骨头"
+        "str": "阴森之物"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -21,14 +21,13 @@
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "恐怖"
+        "str": "黑暗之子"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
         "location": "/Game/enums/actions.actions.DisplayNameMap(54 - Value).DisplayNameMap",
         "id": "Blackboard",
         "str": "黑板"
-    },
     {
         "key": "01A2125C4F867B60C4E289ACD43FEBF9",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -51,7 +50,7 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "黄昏"
+        "str": "回响"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
@@ -75,7 +74,7 @@
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "鬼脸"
+        "str": "病态之人"
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -93,13 +92,13 @@
         "key": "0600D2134F5944FF6E3102866C348F23",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigma",
-        "str": "神秘的"
+        "str": "谜团"
     },
     {
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "鬼魂28号"
+        "str": "喘息者"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -117,7 +116,7 @@
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_7.ToolTipText",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "成本将反映在商店物品的价格中"
+        "str": "成本将体现在商品价格上。"
     },
     {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
@@ -135,7 +134,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "您现在已接受此案件。在教程之外，您可以随时放弃此案件，但接受后将无法找到新案件。安排好之后，当您准备好时前往现场。"
+        "str": "你现已接手此案。除非是在教程之外，否则你随时都可以放弃，但接受后就不能再找新案件了。一切就绪后，准备好就前往目的地吧。"
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -165,7 +164,7 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "芳香的香草荚。"
+        "str": "一颗散发着香气的香草豆。"
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -183,19 +182,19 @@
         "key": "0B88630D44BEE72FF2A76095115344A8",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Doll Object",
-        "str": "娃娃物体"
+        "str": "人偶物体"
     },
     {
         "key": "0CA5844D4070A29607D91D9C17419FCD",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Skip all hours",
-        "str": "跳过所有小时"
+        "str": "跳过所有时分"
     },
     {
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "黑暗灵魂纸"
+        "str": "商店"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
@@ -207,7 +206,7 @@
         "key": "0D7E18B14371021AF672E392EB48BEA1",
         "location": "/Game/enums/actions.actions.DisplayNameMap(40 - Value).DisplayNameMap",
         "id": "Fireplace",
-        "str": "壁炉"
+        "str": "火炉"
     },
     {
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
@@ -240,6 +239,12 @@
         "str": "返回"
     },
     {
+        "key": "1419DDE940F5794B8AB0149F62CE51C0",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Ghost 9",
+        "str": "9号幽灵"
+    },
+    {
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
@@ -255,25 +260,25 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "带有柔软花瓣的白色花朵。"
+        "str": "一朵花瓣柔软的白花。"
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigmatic",
-        "str": "闪烁"
+        "str": "神秘莫测"
     },
     {
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "阴影低语"
+        "str": "低声呢喃"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantasm",
-        "str": "低语声"
+        "str": "幻象"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -315,19 +320,19 @@
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "颤抖"
+        "str": "The Obscura"
     },
     {
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "扭曲而阴险的根。"
+        "str": "扭曲狰狞的树根。"
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
         "location": "/Game/enums/actions.actions.DisplayNameMap(48 - Value).DisplayNameMap",
         "id": "Magic trick",
-        "str": "魔术技"
+        "str": "魔术把戏"
     },
     {
         "key": "19750FC24F8A0B2279246B801F612D34",
@@ -357,13 +362,13 @@
         "key": "1AF5392F481406F80C566FB0740D5D3D",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shady",
-        "str": "阴暗的"
+        "str": "乘凉者"
     },
     {
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "鬼魂37号"
+        "str": "恶魂"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
@@ -381,7 +386,7 @@
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "这个娃娃正在生效，请等待效果结束后再应用另一个"
+        "str": "这个人偶正受到某种效果的影响，等待效果结束才能施加另一个。"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -393,7 +398,7 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "大而灰色的羽毛。"
+        "str": "浅灰色的大羽毛。"
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
@@ -411,13 +416,13 @@
         "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Howl",
-        "str": "阴森"
+        "str": "嚎叫者"
     },
     {
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "微笑"
+        "str": "熠熠生辉"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
@@ -429,13 +434,13 @@
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "低语声"
+        "str": "低语者"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "嚎叫"
+        "str": "怪相"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -447,7 +452,7 @@
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cackle",
-        "str": "记录娃娃的行为"
+        "str": "窃笑者"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
@@ -471,49 +476,50 @@
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silhouette",
-        "str": "轮廓"
+        "str": "幽影"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
         "id": "Case Number",
-        "str": "案件编号"
+        "str": "案件数"
     },
     {
         "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Haunting",
-        "str": "潜伏"
+        "str": "不散幽魂"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
         "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_31.Text",
         "id": "Doll List",
-        "str": "玩偶列表"
+        "str": "人偶列表"
     },
     {
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "照片中出现了多个目标；请靠近并仅关注你想要的目标。"
+        "str": "照片中出现了多个目标；试着靠近目标，只关注可疑的目标。"
+
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
         "location": "/Game/enums/gamemodes.gamemodes.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Career",
-        "str": "职业"
+        "str": "生涯"
     },
     {
         "key": "24B7D6584C3AF4730B3365BB46DDA130",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and toxic leaves.",
-        "str": "黑暗而有毒的叶子。"
+        "str": "有毒的暗色叶子。"
     },
     {
         "key": "24FA60AC4C99AD7D35B45C8F7E6C1279",
         "location": "/Game/enums/actions.actions.DisplayNameMap(45 - Value).DisplayNameMap",
         "id": "Chess",
-        "str": "象棋"
+        "str": "棋"
     },
     {
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
@@ -531,19 +537,19 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "目标未被检测到，请尝试更专注并保持在特定距离，以便可以看到整个目标"
+        "str": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
         "id": "Results",
-        "str": "装备保险丝并前往房子的后面进行激活。"
+        "str": "结果"
     },
     {
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "跟踪者"
+        "str": "跟踪狂"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
@@ -555,19 +561,19 @@
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "寂静"
+        "str": "嬉笑者"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "低语风"
+        "str": "风言风语"
     },
     {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
-        "str": "昏暗"
+        "str": "食尸鬼"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -609,7 +615,7 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "蛇血"
+        "str": "灵魂暗纸"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -651,31 +657,31 @@
         "key": "31F30B9A42A2AFBDA2E46A82CAD31875",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_43.Text",
         "id": "Total Actions",
-        "str": "总动作"
+        "str": "总行动次数"
     },
     {
         "key": "32053A4646B4374EA4DBD3BC64CB936C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spirit",
-        "str": "灵魂"
+        "str": "魂魄"
     },
     {
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "摇动"
+        "str": "蝎毒"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twilight",
-        "str": "黄昏"
+        "str": "暮光"
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
-        "str": "石英水晶"
+        "str": "石英晶体"
     },
     {
         "key": "34568E7B486905A5400643A88FA2E8A8",
@@ -693,7 +699,7 @@
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "分数"
+        "str": "蛇血"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
@@ -717,19 +723,19 @@
         "key": "37B6780C449B80C581D1478BD1CB6A4A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veiled",
-        "str": "被遮蔽的"
+        "str": "蒙面者"
     },
     {
         "key": "37DA48C441B25CD0CEC7AFA4F75F6914",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Sinister",
-        "str": "邪恶的"
+        "str": "邪恶之魂"
     },
     {
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "谜题"
+        "str": "哀悼者"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
@@ -742,12 +748,6 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_29.Text",
         "id": "FPS Limit",
         "str": "帧数限制"
-    },
-    {
-        "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
-        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
-        "id": "The items you equip will be lost!",
-        "str": "你装备的物品将会丢失！"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
@@ -765,19 +765,19 @@
         "key": "3AEB5BB747D3C431D54680AEFDB7D404",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silent",
-        "str": "沉默的"
+        "str": "无言者"
     },
     {
         "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An ancient piece of paper.",
-        "str": "一张古老的纸。"
+        "str": "古老的纸张。"
     },
     {
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Spacious bag",
-        "str": "灵魂之书"
+        "str": "宽敞的袋子"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -795,7 +795,7 @@
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "尖叫"
+        "str": "悲痛者"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -825,7 +825,7 @@
         "key": "3F845D654ED6C33DC540F4BC414F7994",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ebon",
-        "str": "恐惧"
+        "str": "乌黑"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -843,7 +843,7 @@
         "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Bone",
-        "str": "拿起手电筒"
+        "str": "骨头"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
@@ -861,7 +861,7 @@
         "key": "41A4BD564E59F19BEF73778A7250E40E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_45.Text",
         "id": "Actions completed",
-        "str": "操作完成"
+        "str": "行动完成"
     },
     {
         "key": "420F5BCA40413C0383C7AA9583EEC5C0",
@@ -879,7 +879,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "潜伏者"
+        "str": "萦绕幼魂"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -891,7 +891,7 @@
         "key": "4512207B47CE117247765CBA14FC9108",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Inimicitia",
-        "str": "敌意"
+        "str": "怀恨在心"
     },
     {
         "key": "455698874FAE4AEB808E15AA36758F84",
@@ -924,6 +924,12 @@
         "str": "继续游戏"
     },
     {
+        "key": "46421E9641B5F955B42AE08289276E7A",
+        "location": "/Game/TMSportPack/Level/Overview.Overview:PersistentLevel.TMSportPackText.NewTextRenderComponent.Text",
+        "id": "Twinmotion Sport Pack",
+        "str": "三维渲染运动包"
+    },
+    {
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
@@ -945,7 +951,7 @@
         "key": "4798B1E54C73C4932878B1A4630376ED",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering",
-        "str": "低语"
+        "str": "耳语者"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
@@ -975,7 +981,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "裹尸布"
+        "str": "夜幕降临"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -993,7 +999,7 @@
         "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(2).texts",
         "id": "Everything is falling apart",
-        "str": "一切都在崩溃"
+        "str": "一切正在分崩离析"
     },
     {
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
@@ -1005,7 +1011,7 @@
         "key": "4E8841A242B9882466D2B88B44A43CC6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veil",
-        "str": "面纱"
+        "str": "恐怖面纱"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -1023,13 +1029,13 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "神秘的"
+        "str": "怪诞"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getNeedText [Script Bytecode]",
         "id": "You need {name}",
-        "str": "你需要 {name}"
+        "str": "你需要{name}"
     },
     {
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
@@ -1059,7 +1065,7 @@
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "商店"
+        "str": "拿取手电筒"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
@@ -1089,7 +1095,7 @@
         "key": "58DD772D4ABE943A14B03D9A569701B6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals love",
-        "str": "揭示爱的药剂"
+        "str": "揭示爱情的灵丹妙药"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
@@ -1105,7 +1111,7 @@
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
-        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
         "str": "你赢了"
     },
@@ -1137,7 +1143,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "在保存冒名顶替者娃娃之前，您需要使用灵魂之书"
+        "str": "你得先用灵魂之书才能收集卧底人偶"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1161,13 +1167,13 @@
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Umbral",
-        "str": "阴暗的"
+        "str": "深黯幽影"
     },
     {
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "结果"
+        "str": "摇摆"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -1185,7 +1191,7 @@
         "key": "60E9BFBD4D9BFF7D7952CA9115FFAA10",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadow",
-        "str": "阴影"
+        "str": "暗影"
     },
     {
         "key": "611C7265455A03D1E36711A53C897A09",
@@ -1197,7 +1203,7 @@
         "key": "612C02664338E6F05B4191AC77E63DA9",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_23.Text",
         "id": "Recipe List",
-        "str": "配方清单"
+        "str": "配方表"
     },
     {
         "key": "61579A7B4A7A797C38911980E669DE96",
@@ -1215,7 +1221,7 @@
         "key": "62E75F3344325D96C309BFB52949F95A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
         "id": "Stuffed Animals",
-        "str": "灵魂纸"
+        "str": "毛绒动物"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -1227,7 +1233,8 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
-        "str": "我给了你一些可用的物品。访问你身后的箱子来取出物品和武器。装备所有物品，要使用它们，请使用向前或向后的武器切换按钮。"
+        "str": "我为你准备了一些物品和武器。请前往你背后的箱子拿取。把所有物品都装备上，使用时可以通过前进或后退的武器切换按钮更换武器。"
+
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1245,7 +1252,7 @@
         "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
-        "str": "幽灵"
+        "str": "魅影"
     },
     {
         "key": "64560D0D45E7BCC7553F16A4D1CC9723",
@@ -1257,7 +1264,7 @@
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "黑暗而刺鼻的球茎。"
+        "str": "气味浓厚的暗灯泡。"
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
@@ -1269,7 +1276,7 @@
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Riddle",
-        "str": "谜题"
+        "str": "谜"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -1284,16 +1291,22 @@
         "str": "这是最后一小时。只剩这次机会能找出卧底了。前往房间吧。"
     },
     {
+        "key": "663521DE48EC97BC28D795B365648BE9",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Ghost 28",
+        "str": "28号幽灵"
+    },
+    {
         "key": "66D14BB44970D4F17A0184929B3FE083",
         "location": "/Game/enums/actions.actions.DisplayNameMap(58 - Value).DisplayNameMap",
         "id": "Animated Stuffed animal",
-        "str": "动画毛绒玩具"
+        "str": "栩栩如生的毛绒动物"
     },
     {
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twisted",
-        "str": "扭曲的"
+        "str": "扭曲之魂"
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1311,7 +1324,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "好吧，让我们了解一下其中一个玩偶。我们会选择莉尔来进行这个实验。将所有的药剂和卡牌都应用在她身上。打开你的笔记本，记录下你观察到的一切。例如，在你应用药剂后，你有10秒钟的时间来检查她与另一个玩偶的关系，因此请记录所有的观察。确保拍摄每个玩偶的照片；不这样做会让你失去90%的最终奖励。160秒后见！"
+        "str": "让我们来了解一些关于这些人偶的信息。我们就选择Lil吧。把所有的灵药和卡牌都用在她身上。打开你的笔记本，记录下你观察到的一切。例如，当你使用一种灵药的时候，你有10秒的时间查看她与其他人偶的关系，所以要把所有的观察都记下来。记得要给每个人偶拍照；如果做不到的话，最终奖励会减少90%。160秒后见！"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1323,7 +1336,7 @@
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "呻吟"
+        "str": "挽歌"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
@@ -1341,7 +1354,7 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "神秘"
+        "str": "极端恐惧"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1356,10 +1369,16 @@
         "str": "阴森恐怖"
     },
     {
+        "key": "6B92E0B24CD6F431CC954DA69AF2CE3F",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shadow 47",
+        "str": "47号暗影"
+    },
+    {
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "幽灵"
+        "str": "午夜"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
@@ -1377,7 +1396,7 @@
         "key": "6E900D00499A2A657789138FBA3BD69E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_49.Text",
         "id": "Previous Equipment",
-        "str": "上一个装备"
+        "str": "上一件装备"
     },
     {
         "key": "6F62E8EE4D6306627A7D92B69CABCC13",
@@ -1389,31 +1408,31 @@
         "key": "6F67459B4DC4207373A435A440CADE53",
         "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_4.Text",
         "id": "Dislikes",
-        "str": "不喜欢"
+        "str": "讨厌"
     },
     {
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "哀叹"
+        "str": "神圣之魂"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "玫瑰花瓣"
+        "str": "多汁的小型水果。"
     },
     {
         "key": "7031AD7A4DA6E52A478205B8558A9C5A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a Soul Book. If you haven't finished the tasks, you can do so now. This book will awaken the impostor, and you have 180 seconds to find the impostor once you use it. If you don't succeed, the impostor will kill you. When you're sure who the impostor is, use the sports bag to trap them inside. The tutorial ends here—it's now up to you to continue and uncover the truth. Good luck!",
-        "str": "我给了你一本灵魂书。如果你还没有完成任务，现在可以完成。这本书将唤醒冒名顶替者，使用后你有180秒的时间找到冒名顶替者。如果你失败了，冒名顶替者会杀死你。当你确定冒名顶替者是谁时，使用运动包将其困在里面。教程到此结束——现在由你继续揭开真相。祝你好运！"
+        "str": "我给了你一本灵魂之书。如果你还没完成任务，现在就可以开始了。这本书会唤醒卧底，使用后，你有180秒的时间来找出他。如果你没有成功找到，卧底就会杀了你。当你确定了卧底的身份时，用运动包将其困住。教程到此为止，剩下的就靠你自己去揭开真相了。祝你好运！"
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "微光"
+        "str": "恐怖幽灵"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -1431,7 +1450,7 @@
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "鬼脸"
+        "str": "怒目而视"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -1461,7 +1480,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "欢迎来到职业模式。在这种游戏模式中，您需要揭开有关娃娃的信息，并正确解决每个案件。"
+        "str": "欢迎来到生涯模式。在此模式中，你需要揭示人偶的信息，并正确地解开每个案件。."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1488,12 +1507,6 @@
         "str": "喜剧演员"
     },
     {
-        "key": "743C50254A73CE29F7B3D7858FFBA46F",
-        "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
-        "id": "Dark and thick liquid.",
-        "str": "黑暗而浓稠的液体。"
-    },
-    {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Deadly",
@@ -1515,7 +1528,7 @@
         "key": "7716C8834922818B3241669F9591DF51",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_16.Text",
         "id": "Costs",
-        "str": "费用"
+        "str": "花费"
     },
     {
         "key": "773B946148501068D9A5B3A814B81ECD",
@@ -1539,7 +1552,7 @@
         "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echosong",
-        "str": "诡异"
+        "str": "回响之歌"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
@@ -1551,19 +1564,19 @@
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(1).texts",
         "id": "Where is the hope?",
-        "str": "希望在哪里？"
+        "str": "希望在何处？"
     },
     {
         "key": "7954AA374982804CD0C829A2D5575131",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_17.Text",
         "id": "Money Earned",
-        "str": "赚取的钱"
+        "str": "赚到的钱"
     },
     {
         "key": "7969D08443D6AB359F1A76AFDC805E0F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmurer",
-        "str": "阴影"
+        "str": "低声埋怨"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -1575,7 +1588,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "您已经使用了所有需要使用的东西"
+        "str": "你用完了这里所需的全部东西。"
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1587,13 +1600,13 @@
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "威胁"
+        "str": "缄默"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "阴郁"
+        "str": "潜伏者"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
@@ -1605,13 +1618,13 @@
         "key": "7B965EEB441BE13C098439BB745C2F25",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You're short of ingredients to make this",
-        "str": "你缺少制作这个的原料"
+        "str": "原料不足"
     },
     {
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
-        "str": "一切都没有意义了"
+        "str": "毫无意义"
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1641,7 +1654,7 @@
         "key": "7EB47B9449369EB3E3F18C972CC18786",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals enmity",
-        "str": "揭示敌意的药剂"
+        "str": "揭示敌意的灵药"
     },
     {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
@@ -1659,7 +1672,7 @@
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(8).texts",
         "id": "The silence is deafening",
-        "str": "寂静令人震耳欲聋"
+        "str": "震耳欲聋的沉默"
     },
     {
         "key": "80178DF845B4F8C8D4B5DABBDC29F983",
@@ -1683,7 +1696,7 @@
         "key": "806D1B0C4EFCAD5D435AD6A24A208010",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(10).texts",
         "id": "Who will listen to us?",
-        "str": "谁会听我们？"
+        "str": "谁会听我们的？"
     },
     {
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
@@ -1695,7 +1708,7 @@
         "key": "80B42CA54800387D3889EDBDBB0E290E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spectral",
-        "str": "幽灵般的"
+        "str": "徘徊幽灵"
     },
     {
         "key": "814D9929402ED9670B11B8A5F77DD89E",
@@ -1713,13 +1726,13 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "灵魂"
+        "str": "苍白幽魂"
     },
     {
         "key": "821C250E485ED0C26041C8830F8E0625",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A durable and flexible material.",
-        "str": "耐用且柔韧的材料。"
+        "str": "耐用的柔韧材料。"
     },
     {
         "key": "834E072547D98D80C120CD87A16FA4D6",
@@ -1743,7 +1756,7 @@
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "预言者"
+        "str": "阴暗之魂"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -1755,7 +1768,7 @@
         "key": "84B3B484489A7A0017B755B62F30FC82",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text",
         "id": "Accept Case",
-        "str": "接受案件"
+        "str": "接下案件"
     },
     {
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
@@ -1767,13 +1780,13 @@
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shroud",
-        "str": "裹尸布"
+        "str": "裹尸"
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
-        "str": "准备好后，点击接受按钮接受此案例。"
+        "str": "得分"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -1791,7 +1804,7 @@
         "key": "87B1E3F54AA52AE964B7BDAF99914042",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering Breeze",
-        "str": "低语的微风"
+        "str": "低语微风"
     },
     {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
@@ -1803,19 +1816,19 @@
         "key": "8841057C4E79D1D004AE35BDDA5930D6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals hatred",
-        "str": "揭示仇恨的药剂"
+        "str": "Elixir that reveals hatred"
     },
     {
         "key": "89B0338340E9602DE85B9797AE55D96F",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
         "id": "Equip Items",
-        "str": "装备物品"
+        "str": "Equip Items"
     },
     {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "绿色刺痛的叶子。"
+        "str": "棘刺绿叶。"
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -1827,7 +1840,7 @@
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "潜伏状态"
+        "str": "空洞灵魂"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
@@ -1839,7 +1852,7 @@
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
-        "str": "返回安全屋"
+        "str": "回到安全屋"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
@@ -1858,6 +1871,12 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Crystal Bottle",
         "str": "水晶瓶"
+    },
+    {
+        "key": "8DB7EF1242B7C5C35ADBF19645741168",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shadow 62",
+        "str": "62号暗影"
     },
     {
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
@@ -1899,7 +1918,7 @@
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "昏暗"
+        "str": "潜伏幽魂"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -1917,13 +1936,13 @@
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals tastes",
-        "str": "揭示喜好的纸张"
+        "str": "揭示品味的纸张"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals distastes",
-        "str": "揭示厌恶的纸张"
+        "str": "揭示反感的纸张"
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -1935,7 +1954,7 @@
         "key": "9412FB8146653EECA5DBB2BD2504B413",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Bag",
-        "str": "包"
+        "str": "袋子"
     },
     {
         "key": "9432768D4222957489019C86BD251CA3",
@@ -1953,7 +1972,7 @@
         "key": "95529FFB4B5C7B8BF0D230810B54E147",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Career Mode",
-        "str": "职业模式"
+        "str": "生涯模式"
     },
     {
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -1989,7 +2008,7 @@
         "key": "986FE18441EBE7BFF160D38E25BEF05E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom Breeze",
-        "str": "幽灵微风"
+        "str": "幻影微风"
     },
     {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
@@ -2007,7 +2026,7 @@
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "尖叫"
+        "str": "尖叫者"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
@@ -2019,7 +2038,7 @@
         "key": "9AA78476434241C7EE4929A6B33EE813",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shifting Shadow",
-        "str": "变幻的阴影"
+        "str": "潜影"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
@@ -2031,25 +2050,25 @@
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "低语"
+        "str": "恐吓者"
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
         "location": "/Game/enums/actions.actions.DisplayNameMap(43 - Value).DisplayNameMap",
         "id": "Clock",
-        "str": "时钟"
+        "str": "钟"
     },
     {
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "透明优雅的容器。"
+        "str": "透明的优雅容器。"
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "追捕"
+        "str": "薄暝"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -2079,25 +2098,25 @@
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
-        "str": "沉默"
+        "str": "潜匿幽魂"
     },
     {
         "key": "9E696588498FFE8F35EE90B3AA88ABCB",
         "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_22.Text",
         "id": "Doll",
-        "str": "玩偶"
+        "str": "人偶"
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_9.Text",
         "id": "Location",
-        "str": "位置"
+        "str": "地点"
     },
     {
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "已选择冒名顶替者"
+        "str": "已选择卧底"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
@@ -2112,16 +2131,10 @@
         "str": "左侧位置"
     },
     {
-        "key": "A25E20BF4E349221F9E980AF8435D2FD",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Wicked",
-        "str": "邪恶的"
-    },
-    {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
         "id": "Can you help me with a positive review?",
-        "str": "能写一篇好评吗？"
+        "str": "能留下一篇好评吗？"
     },
     {
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
@@ -2139,19 +2152,25 @@
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Abyss",
-        "str": "拍摄娃娃照片以获取线索"
+        "str": "深渊"
     },
     {
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
-        "str": "阴影"
+        "str": "昏暗"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
         "id": "Travel",
         "str": "旅行"
+    },
+    {
+        "key": "A664421843480E6F442AB78D3B85C083",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Ghost 37",
+        "str": "37号幽灵"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
@@ -2175,13 +2194,13 @@
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dark",
-        "str": "寒冷"
+        "str": "暗魂"
     },
     {
         "key": "A85FE73E4E95AFA89A84E38F80B87C59",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spooky",
-        "str": "恐怖的"
+        "str": "惊悚幽魂"
     },
     {
         "key": "A97B724146EEB86D384D6A85A4F8931C",
@@ -2217,7 +2236,7 @@
         "key": "AC61D57E4AA1B3D2ED8E35BD60ADA0B2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom",
-        "str": "幽灵"
+        "str": "幻影"
     },
     {
         "key": "AD00137D457BF38AE614FC9EE94D1425",
@@ -2229,19 +2248,19 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "启动最终战斗以揭露冒名顶替者。"
+        "str": "激活最后的战斗，揭穿卧底伪装。"
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "小而黑暗、枯萎的心脏。"
+        "str": "一颗小小的阴暗枯萎之心。"
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Rose Petals",
-        "str": "查看各个选项卡以熟悉它们。"
+        "str": "玫瑰花瓣"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
@@ -2253,7 +2272,7 @@
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "由于缺少照片，你损失了整个奖励的90%"
+        "str": "由于缺失照片，你损失了90%的奖励。"
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2271,13 +2290,13 @@
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "喘息"
+        "str": "闪烁幽魂"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "遮蔽的低语"
+        "str": "暗影低语者"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -2301,7 +2320,7 @@
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals friendship",
-        "str": "揭示友谊的药剂"
+        "str": "揭示友谊的灵药"
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
@@ -2355,25 +2374,25 @@
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "低声的"
+        "str": "窃窃私语"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "需要能量"
+        "str": "浏览各个标签了解内容。准备好后，点击接受按钮接手案件。"
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Scowl",
-        "str": "怒目"
+        "str": "愁容满面"
     },
     {
         "key": "B7532CB642D1303CB57FF89D855B8189",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_14.Text",
         "id": "Days elapsed",
-        "str": "天数流逝"
+        "str": "逝去天数"
     },
     {
         "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
@@ -2385,7 +2404,7 @@
         "key": "B83348AE4D0F332AFE32DA9CCA2BB2FF",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_4.Text",
         "id": "Only visible items that you can equip",
-        "str": "只有可以装备的可见物品"
+        "str": "只有你可以装备的可见物品"
     },
     {
         "key": "B8952A3841AAE9C0034514AC607965D8",
@@ -2397,7 +2416,7 @@
         "key": "B8F169E14DBF7CFF567A468DBF711F46",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]",
         "id": "{count} days",
-        "str": "{count} 天"
+        "str": "{count}天"
     },
     {
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
@@ -2487,13 +2506,13 @@
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "谜团"
+        "str": "古灵精怪"
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
         "location": "/Game/data-tables/itemList.itemList.NewRow_4.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Fuse to activate electrical circuits",
-        "str": "保险丝用于激活电路"
+        "str": "启动电路的保险丝"
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
@@ -2505,31 +2524,31 @@
         "key": "C12E045B48D3B1A859F1D5AFD11628E5",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Amicitia",
-        "str": "阿米奇提亚"
+        "str": "友谊"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
-        "str": "现在，让我们打开电源。"
+        "str": "需要能量"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
-        "str": "焦点视野"
+        "str": "专注视野"
     },
     {
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "洁白而精致的羽毛。"
+        "str": "脆弱的白色羽毛。"
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
         "id": "God, Save Us",
-        "str": "天啊，救救我们"
+        "str": "上帝，救救我们"
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2538,10 +2557,10 @@
         "str": "面包车右侧"
     },
     {
-        "key": "C6298185486DF0A5C64519AD8B518D4C",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Shadowling",
-        "str": "小阴影"
+        "key": "C217326D42A0B8DA097ECEAC0760BAF7",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
+        "id": "Focus FOV",
+        "str": "焦点视野"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2553,13 +2572,13 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "用于点火的便携设备"
+        "str": "可以产生火焰的便携点火装置。"
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
         "id": "The pain is overwhelming",
-        "str": "疼痛难忍"
+        "str": "痛彻心扉"
     },
     {
         "key": "C8A00764485261B746BFEE94C58D6ECA",
@@ -2583,7 +2602,7 @@
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "小而多汁的水果"
+        "str": "灵魂之书"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
@@ -2607,13 +2626,13 @@
         "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "Dropped",
-        "str": "已放弃"
+        "str": "已丢弃"
     },
     {
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_19.Text",
         "id": "Ratio",
-        "str": "比例"
+        "str": "比率"
     },
     {
         "key": "CE5521734152BB8FDF36949D84AA7F39",
@@ -2652,12 +2671,6 @@
         "str": "阴森者"
     },
     {
-        "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Cryptic",
-        "str": "咯咯笑"
-    },
-    {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
@@ -2667,13 +2680,13 @@
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
-        "str": "回声"
+        "str": "余音缭绕"
     },
     {
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "宽敞的包"
+        "str": "拍摄人偶照片填补线索"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2697,7 +2710,7 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "空洞"
+        "str": "愁容满面"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2709,37 +2722,37 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room. Use the flashlight to see better.",
-        "str": "进入房子，找到玩偶的房间。使用手电筒以更好地观察。"
+        "str": "进入房屋，找到人偶的房间。用手电筒能看得更清楚。"
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "深渊"
+        "str": "爬行者"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "颤抖"
+        "str": "颤栗之魂"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "悲伤"
+        "str": "潜伏之魂"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
         "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take notes on the behavior of the dolls",
-        "str": "填充玩具"
+        "str": "记下人偶的行为"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(1).Options.Label",
         "id": "Medium",
-        "str": "中等"
+        "str": "中"
     },
     {
         "key": "D618A4A346B0EA7CBABE00AA94C80485",
@@ -2757,7 +2770,7 @@
         "key": "D637C70741EFAAB1C70592A3E73D29E3",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_48.Text",
         "id": "Actions left",
-        "str": "剩余的操作"
+        "str": "剩余行动"
     },
     {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
@@ -2775,7 +2788,7 @@
         "key": "D8CE402B452C5A79DCE582A6ADC2F93B",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Odium",
-        "str": "仇恨"
+        "str": "憎恶"
     },
     {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
@@ -2805,7 +2818,7 @@
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wisp",
-        "str": "微光"
+        "str": "鬼火"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -2823,7 +2836,7 @@
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "你不能做这个，它不符合任何配方"
+        "str": "没有配方，不能这么做"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -2841,7 +2854,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "请记住，现在你无法与任何东西互动，因为这是教程。"
+        "str": "记得这只是教程，你还不能真正操作任何东西。现在，让我们开始通电吧。装上保险丝，然后去房子后面启动电源。"
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -2859,7 +2872,7 @@
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "如果你返回安全屋，房子会恢复原状，你将失去装备的物品。"
+        "str": "如果你回到安全屋，房子将恢复原状，你将失去装备"
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -2913,7 +2926,7 @@
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "清爽的绿叶"
+        "str": "清新的绿叶。"
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
@@ -2937,13 +2950,13 @@
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "阴险"
+        "str": "噩兆"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisper",
-        "str": "低语"
+        "str": "轻声低语"
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -2967,7 +2980,7 @@
         "key": "E9F12A4243E6AE323515DE8E9AA0162B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Specter",
-        "str": "鬼魂"
+        "str": "鬼影"
     },
     {
         "key": "EABE87674E476F817EEF85B6E5E00296",
@@ -2979,13 +2992,13 @@
         "key": "EB61DE2843D60E7D5AF23EB48A67DE8B",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_21.Text",
         "id": "Rank",
-        "str": "等级"
+        "str": "排名"
     },
     {
         "key": "ECA7B6BD4DC5448D5BC007A0A56EFE97",
         "location": "/Game/enums/actions.actions.DisplayNameMap(53 - Value).DisplayNameMap",
         "id": "Dollhouse",
-        "str": "玩偶之家"
+        "str": "人偶屋"
     },
     {
         "key": "ED2F4CB1487E0D6D9070899567BB98B0",
@@ -2997,25 +3010,25 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "由于未能发现冒名顶替者，你损失了75%的奖励"
+        "str": "未能找出卧底，损失75%的奖励"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_12.Text",
         "id": "Next Equipment",
-        "str": "下一个装备"
+        "str": "下一件装备"
     },
     {
         "key": "EE4D8F97450682A6D1DF0D88D6A4FFC6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Amans",
-        "str": "阿曼斯"
+        "str": "爱"
     },
     {
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "潜水"
+        "str": "黄昏"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3039,7 +3052,7 @@
         "key": "F21C143F425251C3614B29BD90BD710D",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_9.ToolTipText",
         "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
-        "str": "比率越低，最初揭示的关于娃娃的信息就越多（从2到10）"
+        "str": "比率越低，初始公开的人偶信息越多（范围2-10）。"
     },
     {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
@@ -3051,13 +3064,13 @@
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "占卜板"
+        "str": "通灵板"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "苦涩且黏稠的液体。"
+        "str": "味苦的粘稠液体。"
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3069,13 +3082,13 @@
         "key": "F28B41324F202FA2E02A0DB59579D291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wretched",
-        "str": "可怜的"
+        "str": "卑劣之魂"
     },
     {
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "金色甜美的液体。"
+        "str": "味甜的金色液体。"
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3111,7 +3124,7 @@
         "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Inventory",
-        "str": "库存"
+        "str": "物品栏"
     },
     {
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
@@ -3123,13 +3136,13 @@
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperer",
-        "str": "低语者"
+        "str": "告密者"
     },
     {
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "阴森"
+        "str": "恐惧之魂"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
@@ -3141,7 +3154,7 @@
         "key": "F63BB439446A93B294D5789005AB927F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Crow's Heart",
-        "str": "乌鸦的心脏"
+        "str": "乌鸦之心"
     },
     {
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
@@ -3153,31 +3166,31 @@
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "黑暗"
+        "str": "深潜者"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "您将有一个包含各种动态参数的案件可用。它将显示与当前案件类似的信息，如果您不喜欢，您可以用钱搜索新案件。目前，在教程模式下，我们限制了您的互动；您将无法购买、制作、退出案件或搜索新案件。"
+        "str": "您将获得一个案件，其中包含多种动态参数。它会显示类似当前案件的信息，如果不满意，您可以用钱换取新的案件。现在，在教程模式中，我们对您的操作进行了限制；您暂时无法购买、制作、退出或者寻找新案件。"
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_7.Text",
         "id": "You don't have enough money",
-        "str": "你的钱不够"
+        "str": "金钱不足"
     },
     {
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "蝎子毒液"
+        "str": "柔软芬芳的玫瑰花瓣。"
     },
     {
         "key": "F7E0F0DC47429C7F044DA5B68C122215",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Macabre",
-        "str": "朦胧"
+        "str": "阴森恐怖"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3195,7 +3208,7 @@
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "清澈而致命的液体。"
+        "str": "致命的透明液体。"
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
@@ -3231,7 +3244,7 @@
         "key": "FB77087A4862A67B758D529F87748C2F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
         "id": "Chaos consumes us",
-        "str": "混乱吞噬我们"
+        "str": "混沌吞噬我们"
     },
     {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
@@ -3277,7 +3290,7 @@
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
-        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
         "str": "你输了"
     },
@@ -3291,7 +3304,7 @@
         "key": "FEEFC0A44A89E6CC7163CEB1F9C3F1B8",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_15.Text",
         "id": "XP Earned",
-        "str": "获得的经验值"
+        "str": "获得经验"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
@@ -3303,7 +3316,7 @@
         "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Paper",
-        "str": "柔软且芳香的玫瑰花瓣"
+        "str": "灵魂纸"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
