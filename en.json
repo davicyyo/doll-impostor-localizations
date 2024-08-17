@@ -240,12 +240,6 @@
         "str": "Back"
     },
     {
-        "key": "1419DDE940F5794B8AB0149F62CE51C0",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Ghost 9",
-        "str": "The Ghost 9"
-    },
-    {
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
@@ -930,12 +924,6 @@
         "str": "Resume Game"
     },
     {
-        "key": "46421E9641B5F955B42AE08289276E7A",
-        "location": "/Game/TMSportPack/Level/Overview.Overview:PersistentLevel.TMSportPackText.NewTextRenderComponent.Text",
-        "id": "Twinmotion Sport Pack",
-        "str": "Twinmotion Sport Pack"
-    },
-    {
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
@@ -1296,12 +1284,6 @@
         "str": "It's the last hour. We only have this chance to find out. Let's go to the room."
     },
     {
-        "key": "663521DE48EC97BC28D795B365648BE9",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Ghost 28",
-        "str": "The Ghost 28"
-    },
-    {
         "key": "66D14BB44970D4F17A0184929B3FE083",
         "location": "/Game/enums/actions.actions.DisplayNameMap(58 - Value).DisplayNameMap",
         "id": "Animated Stuffed animal",
@@ -1372,12 +1354,6 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Macabre",
         "str": "The Macabre"
-    },
-    {
-        "key": "6B92E0B24CD6F431CC954DA69AF2CE3F",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Shadow 47",
-        "str": "The Shadow 47"
     },
     {
         "key": "6CBA009E433B551763CA96B31AF8596B",
@@ -1884,12 +1860,6 @@
         "str": "Crystal Bottle"
     },
     {
-        "key": "8DB7EF1242B7C5C35ADBF19645741168",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Shadow 62",
-        "str": "The Shadow 62"
-    },
-    {
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
@@ -2182,12 +2152,6 @@
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
         "id": "Travel",
         "str": "Travel"
-    },
-    {
-        "key": "A664421843480E6F442AB78D3B85C083",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Ghost 37",
-        "str": "The Ghost 37"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
