@@ -1,9 +1,33 @@
 [
     {
+        "key": "003123EB4E325C82B8C7E192D319CF55",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Creepy",
+        "str": "뼈"
+    },
+    {
         "key": "0078964D495E90CB9C263D86C289F115",
         "location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Tea with friends",
         "str": "친구들과 차"
+    },
+    {
+        "key": "008C17DA426E713F7F3A418B4FDE1BE4",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_18.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Leather",
+        "str": "가죽"
+    },
+    {
+        "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Darkling",
+        "str": "소름 끼치는"
+    },
+    {
+        "key": "0177D62B4B9CBCAFEE5A968A55483181",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(54 - Value).DisplayNameMap",
+        "id": "Blackboard",
+        "str": "칠판"
     },
     {
         "key": "01A2125C4F867B60C4E289ACD43FEBF9",
@@ -12,10 +36,22 @@
         "str": "멘토"
     },
     {
+        "key": "01C8EACC48F42AB3BC9A26B9A45C3E10",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_27.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Cinnamon",
+        "str": "계피"
+    },
+    {
         "key": "0285258748FED1BC6E542F80A9097CE9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(32 - Value).DisplayNameMap",
         "id": "Tea",
         "str": "차"
+    },
+    {
+        "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Echo",
+        "str": "황혼"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
@@ -36,10 +72,34 @@
         "str": "사기꾼이 몇 가지 이벤트를 한 것 같습니다. 이것들은 왼쪽 패널에 표시됩니다. 검토한 후 다시 방에 들어가십시오."
     },
     {
+        "key": "042571704BB706480B0FDD806AE57897",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Morbid",
+        "str": "찡그림"
+    },
+    {
         "key": "0593C38042D49BC9D0958EB990324EFA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
         "id": "Jail Self",
         "str": "자신 감금하기"
+    },
+    {
+        "key": "05AD525F49BFE5E3D0E076B33A48FCF0",
+        "location": "/Game/UI/confirm.Default__confirm_C.DismissButton",
+        "id": "Deny",
+        "str": "거절"
+    },
+    {
+        "key": "0600D2134F5944FF6E3102866C348F23",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Enigma",
+        "str": "신비로운"
+    },
+    {
+        "key": "0654BE994FA7D802E7973F901694CDD2",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Gasp",
+        "str": "유령 28"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -54,16 +114,40 @@
         "str": "새로운 난이도를 잠금 해제했습니다!"
     },
     {
+        "key": "074C094B4943E77D1E7501B3B9277A09",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_7.ToolTipText",
+        "id": "The costs will be reflected in the prices of the items in the store",
+        "str": "비용은 상점의 상품 가격에 반영됩니다"
+    },
+    {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
         "str": "문을 걸쇠로 잠가 두는 것을 잊지 마십시오. 그렇지 않으면 인형이 나와서 테스트를 변경하고 심지어 당신을 죽일 수도 있습니다."
     },
     {
+        "key": "091617E74F451B4492E4B78A534E9BF3",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_28.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Berries",
+        "str": "베리"
+    },
+    {
+        "key": "09526FC54AA5D1983C1048ACADED01C4",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
+        "str": "이제 사건을 수락했습니다. 튜토리얼 외부에서 언제든지 사건을 포기할 수 있지만, 수락한 후에는 새 사건을 찾을 수 없습니다. 해결되면 준비가 되면 위치로 이동하십시오."
+    },
+    {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
         "str": "이것은 인형의 방입니다. 여기서 당신이 자는 동안 그들이 무엇을 했는지 볼 수 있습니다. 그들을 보고 나서 다시 방으로 돌아갑시다."
+    },
+    {
+        "key": "09B43DB3406AF2166732B48B577F4E20",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(51 - Value).DisplayNameMap",
+        "id": "Crystal Ball",
+        "str": "수정 구슬"
     },
     {
         "key": "09CCC43B450A924B1414CEA6C17A4E5D",
@@ -76,6 +160,12 @@
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Room",
         "str": "방"
+    },
+    {
+        "key": "0A4EE34344113573CE97F6B1E7151DDE",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A fragrant vanilla pod.",
+        "str": "향기로운 바닐라 빈."
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -102,10 +192,22 @@
         "str": "모든 시간 건너뛰기"
     },
     {
+        "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
+        "id": "Store",
+        "str": "어두운 영혼의 종이"
+    },
+    {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_2.Text",
         "id": "Smooth Camera",
         "str": "부드러운 카메라"
+    },
+    {
+        "key": "0D7E18B14371021AF672E392EB48BEA1",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(40 - Value).DisplayNameMap",
+        "id": "Fireplace",
+        "str": "벽난로"
     },
     {
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
@@ -144,6 +246,36 @@
         "str": "아름다운 사람"
     },
     {
+        "key": "14427A08459289522231F5B3835D2594",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Seer",
+        "str": "예언자"
+    },
+    {
+        "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A white flower with soft petals.",
+        "str": "부드러운 꽃잎을 가진 흰 꽃."
+    },
+    {
+        "key": "14BCFAF24A161704AE43A69E6EB83452",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Enigmatic",
+        "str": "깜박임"
+    },
+    {
+        "key": "156635BF49E1B3C111682A92C49899D7",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Murmur",
+        "str": "그림자의 속삭임"
+    },
+    {
+        "key": "158063504E027E4AF2D595A2CE468770",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Phantasm",
+        "str": "속삭임"
+    },
+    {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(10 - Value).DisplayNameMap",
         "id": "Fireworks",
@@ -180,10 +312,40 @@
         "str": "달리기"
     },
     {
+        "key": "176C171C443DFFFD974A32BB32959193",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Obscura",
+        "str": "떨림"
+    },
+    {
+        "key": "17BF9A32484E32062DAF9F8542DD97A7",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A gnarled and sinister root.",
+        "str": "울퉁불퉁하고 불길한 뿌리."
+    },
+    {
+        "key": "18D93C0E4280B2D8733C3B9098852779",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(48 - Value).DisplayNameMap",
+        "id": "Magic trick",
+        "str": "마술 묘기"
+    },
+    {
         "key": "19750FC24F8A0B2279246B801F612D34",
         "location": "/Game/enums/actions.actions.DisplayNameMap(5 - Value).DisplayNameMap",
         "id": "Blood",
         "str": "피"
+    },
+    {
+        "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
+        "id": "Drop Case",
+        "str": "사건 포기"
+    },
+    {
+        "key": "1AEBF7804411904275F320B5DB9BB455",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(41 - Value).DisplayNameMap",
+        "id": "Candles",
+        "str": "양초"
     },
     {
         "key": "1AEE02D7485216A7EBEC93AD95D81A25",
@@ -192,10 +354,46 @@
         "str": "PC 오른쪽 면"
     },
     {
+        "key": "1AF5392F481406F80C566FB0740D5D3D",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shady",
+        "str": "어두운"
+    },
+    {
+        "key": "1B0B52154F304355C2F9DFBA6325F8BB",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Ghast",
+        "str": "유령 37"
+    },
+    {
+        "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(7).texts",
+        "id": "There seems to be no way out",
+        "str": "출구가 없는 것 같습니다"
+    },
+    {
+        "key": "1C4788334C67D107A7BE1F931C0A749E",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_24.Text",
+        "id": "Your election",
+        "str": "당신의 선택"
+    },
+    {
+        "key": "1C4A0DD846CCF542A5D75C843FB42C43",
+        "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
+        "id": "This doll is under effects, wait for the effect to finish to apply another one",
+        "str": "이 인형은 효과를 받고 있습니다. 다른 것을 적용하기 전에 효과가 끝날 때까지 기다리십시오"
+    },
+    {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gentleman",
         "str": "신사"
+    },
+    {
+        "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Large and grayish feather.",
+        "str": "크고 회색을 띤 깃털."
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
@@ -204,10 +402,52 @@
         "str": "화면 비율"
     },
     {
+        "key": "1DFB0F2649F857BCBC918D9215167D9B",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
+        "id": "Case",
+        "str": "사건"
+    },
+    {
+        "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Howl",
+        "str": "불길한"
+    },
+    {
+        "key": "1EB2085245408A6B326DDF9AA9214E0A",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Glint",
+        "str": "미소"
+    },
+    {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
         "location": "/Game/enums/actions.actions.DisplayNameMap(35 - Value).DisplayNameMap",
         "id": "Sandbox",
         "str": "모래상자"
+    },
+    {
+        "key": "1F7140B7494998788B096E85BEA451B4",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Whispers",
+        "str": "속삭임"
+    },
+    {
+        "key": "20522EAA4B93A60CC0A3D19D27066678",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Grimace",
+        "str": "울부짖음"
+    },
+    {
+        "key": "20C95AA345D28767010999ADA95FBAE7",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_23.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Black Garlic",
+        "str": "블랙 갈릭"
+    },
+    {
+        "key": "212CE2FB4F7C398C125B5C8C8915BB95",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Cackle",
+        "str": "인형의 행동을 기록하세요"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
@@ -228,6 +468,54 @@
         "str": "적과의 차"
     },
     {
+        "key": "22BFA453461BA510FCB07C9231AA8F6C",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Silhouette",
+        "str": "실루엣"
+    },
+    {
+        "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
+        "id": "Case Number",
+        "str": "사건 번호"
+    },
+    {
+        "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Haunting",
+        "str": "잠복"
+    },
+    {
+        "key": "2349798E480EE5B45348C4B753C4BCB8",
+        "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_31.Text",
+        "id": "Doll List",
+        "str": "인형 목록"
+    },
+    {
+        "key": "2355C0C345515E1D7874728AF33121DC",
+        "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
+        "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
+        "str": "사진에 여러 개의 목표물이 나타났습니다. 원하는 목표에만 집중해보세요."
+    },
+    {
+        "key": "249DE7534CD1567EA10B7F971D9C0BF1",
+        "location": "/Game/enums/gamemodes.gamemodes.DisplayNameMap(1 - Value).DisplayNameMap",
+        "id": "Career",
+        "str": "커리어"
+    },
+    {
+        "key": "24B7D6584C3AF4730B3365BB46DDA130",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_29.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Dark and toxic leaves.",
+        "str": "어둡고 독성이 있는 잎."
+    },
+    {
+        "key": "24FA60AC4C99AD7D35B45C8F7E6C1279",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(45 - Value).DisplayNameMap",
+        "id": "Chess",
+        "str": "체스"
+    },
+    {
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_10.Text",
         "id": "Camera Sensivity",
@@ -240,10 +528,46 @@
         "str": "반사 방법"
     },
     {
+        "key": "26C6D54D41B3F28C6F8033ADBE044F08",
+        "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
+        "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
+        "str": "목표가 감지되지 않았습니다. 더 집중하고 전체 목표가 보이는 특정 거리를 유지하려고 하십시오"
+    },
+    {
+        "key": "273F474146E53E4EF26ED18EF748B092",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
+        "id": "Results",
+        "str": "퓨즈를 장착하고 집 뒤쪽으로 가서 활성화하세요"
+    },
+    {
+        "key": "2777F4DA4703D3AC622572A49EB6A138",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Stalker",
+        "str": "추적자"
+    },
+    {
         "key": "28953C4E43697949852B609F8D0793FB",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(0).Options.Label",
         "id": "Off",
         "str": "끄기"
+    },
+    {
+        "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Grin",
+        "str": "침묵"
+    },
+    {
+        "key": "2A63AABC4C73EF73FB658F9F39376B6B",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Whisperwind",
+        "str": "속삭이는 바람"
+    },
+    {
+        "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Ghoul",
+        "str": "희미한 빛"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -282,6 +606,12 @@
         "str": "무한 리더보드"
     },
     {
+        "key": "2E06BFD64361FE191A01DD86C96EBAEE",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Soul Dark Paper",
+        "str": "뱀의 피"
+    },
+    {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(2).Options.Label",
         "id": "Fullscreen",
@@ -292,6 +622,12 @@
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Desktop",
         "str": "데스크탑"
+    },
+    {
+        "key": "2F564E2B4FB1B7CB88A558A4D73A0B22",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(55 - Value).DisplayNameMap",
+        "id": "Canvas",
+        "str": "캔버스"
     },
     {
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
@@ -312,6 +648,36 @@
         "str": "지붕"
     },
     {
+        "key": "31F30B9A42A2AFBDA2E46A82CAD31875",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_43.Text",
+        "id": "Total Actions",
+        "str": "총 작업"
+    },
+    {
+        "key": "32053A4646B4374EA4DBD3BC64CB936C",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Spirit",
+        "str": "영혼"
+    },
+    {
+        "key": "32F257464B93572E3D0BF293BA036023",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Scorpion Venom",
+        "str": "흔들림"
+    },
+    {
+        "key": "3353AF434D2A72322E22DB981CE05EAA",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Twilight",
+        "str": "황혼"
+    },
+    {
+        "key": "34549E97462027359C04D69FE1AC1E77",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Quartz crystal",
+        "str": "석영 수정"
+    },
+    {
         "key": "34568E7B486905A5400643A88FA2E8A8",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show list",
@@ -322,6 +688,12 @@
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Discards",
         "str": "폐기"
+    },
+    {
+        "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Snake's Blood",
+        "str": "점수"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
@@ -336,6 +708,30 @@
         "str": "계속하기"
     },
     {
+        "key": "3753BCEE46C70EDFBC5171BE7A651CC0",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(46 - Value).DisplayNameMap",
+        "id": "Curtains",
+        "str": "커튼"
+    },
+    {
+        "key": "37B6780C449B80C581D1478BD1CB6A4A",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Veiled",
+        "str": "가려진"
+    },
+    {
+        "key": "37DA48C441B25CD0CEC7AFA4F75F6914",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Sinister",
+        "str": "불길한"
+    },
+    {
+        "key": "37E26C5949E57421072DF6AFA351D3FD",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Moan",
+        "str": "수수께끼"
+    },
+    {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
@@ -348,10 +744,40 @@
         "str": "FPS 제한"
     },
     {
+        "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
+        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
+        "id": "The items you equip will be lost!",
+        "str": "장착한 아이템은 잃게 됩니다!"
+    },
+    {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
         "str": "우리는 단 3명만 남았습니다. 누가 움직였고 누가 움직였는지 보기 위해 방으로 갑시다."
+    },
+    {
+        "key": "3AD41353481D8F51B3C3699171A4CED1",
+        "location": "/Game/enums/gamemodes.gamemodes.DisplayNameMap(0 - Value).DisplayNameMap",
+        "id": "Classic",
+        "str": "클래식"
+    },
+    {
+        "key": "3AEB5BB747D3C431D54680AEFDB7D404",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Silent",
+        "str": "조용한"
+    },
+    {
+        "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_12.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "An ancient piece of paper.",
+        "str": "고대의 종이 조각."
+    },
+    {
+        "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Spacious bag",
+        "str": "영혼의 책"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -364,6 +790,12 @@
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Wall",
         "str": "벽"
+    },
+    {
+        "key": "3DBA3FB1494E536000C8F997B62EA3C1",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Mournful",
+        "str": "비명"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -384,10 +816,34 @@
         "str": "뒤로 이동"
     },
     {
+        "key": "3F370B9043F249CD818C5C9E9D7218CD",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(56 - Value).DisplayNameMap",
+        "id": "Words",
+        "str": "단어"
+    },
+    {
+        "key": "3F845D654ED6C33DC540F4BC414F7994",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Ebon",
+        "str": "공포"
+    },
+    {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
         "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
         "id": "Settings",
         "str": "설정"
+    },
+    {
+        "key": "4020C7B84456D9F178DC488EAB546977",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_1.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Flashlight",
+        "str": "손전등"
+    },
+    {
+        "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Bone",
+        "str": "손전등을 가져가세요"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
@@ -402,6 +858,12 @@
         "str": "자동 설정"
     },
     {
+        "key": "41A4BD564E59F19BEF73778A7250E40E",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_45.Text",
+        "id": "Actions completed",
+        "str": "작업 완료"
+    },
+    {
         "key": "420F5BCA40413C0383C7AA9583EEC5C0",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
         "id": "Mislead",
@@ -414,10 +876,22 @@
         "str": "발자국 소리 볼륨"
     },
     {
+        "key": "446183A644D53693C3BF6E947D141A43",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Hauntling",
+        "str": "숨어있는 사람"
+    },
+    {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_21.Text",
         "id": "Name",
         "str": "이름"
+    },
+    {
+        "key": "4512207B47CE117247765CBA14FC9108",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_7.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Inimicitia",
+        "str": "적대감"
     },
     {
         "key": "455698874FAE4AEB808E15AA36758F84",
@@ -456,10 +930,28 @@
         "str": "가장 많이 승리한 지도"
     },
     {
+        "key": "46CE50D24305DF8EE5E3069A686AD62E",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(4).texts",
+        "id": "What do we have left?",
+        "str": "우리에게 남은 것은 무엇입니까?"
+    },
+    {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
         "str": "당신은 튜토리얼을 완료했습니다, 기본을 알고 있습니다! 튜토리얼을 완료하려면 침대로 가서 자십시오. 안전한 구역으로 이동합니다. 컴퓨터를 사용하여 게임을 시작하십시오!"
+    },
+    {
+        "key": "4798B1E54C73C4932878B1A4630376ED",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Whispering",
+        "str": "속삭임"
+    },
+    {
+        "key": "4852DFEF4B35409C425DA1B5468B83D9",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_29.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Belladonna leaves",
+        "str": "벨라돈나 잎"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
@@ -480,6 +972,12 @@
         "str": "기차"
     },
     {
+        "key": "4A335723409BCF0895C868A63CFBA1DB",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Nightfall",
+        "str": "수의"
+    },
+    {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "World",
@@ -490,6 +988,24 @@
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
         "str": "밴에 매달린 인형"
+    },
+    {
+        "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(2).texts",
+        "id": "Everything is falling apart",
+        "str": "모든 것이 무너지고 있다"
+    },
+    {
+        "key": "4E005C71470C8416B3B419B0E3E4CD6E",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A clear and pure crystal.",
+        "str": "맑고 순수한 수정."
+    },
+    {
+        "key": "4E8841A242B9882466D2B88B44A43CC6",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Veil",
+        "str": "베일"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -504,6 +1020,18 @@
         "str": "글로벌 조명 방법"
     },
     {
+        "key": "51205E6D45797595CB5B90B13FC6BF54",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Uncanny",
+        "str": "이상한"
+    },
+    {
+        "key": "5154AFE04B70A5D272398C80C9353C25",
+        "location": "/Game/functions/messageFunctions.messageFunctions_C:getNeedText [Script Bytecode]",
+        "id": "You need {name}",
+        "str": "{name}이 필요합니다"
+    },
+    {
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
         "id": "Turn Left",
@@ -516,10 +1044,28 @@
         "str": "당신은 인형의 수호자이며, 그 중 하나가 살아 있고 당신을 죽이려고 합니다. 당신은 09:00 전에 그것이 누구인지 알아내야 합니다."
     },
     {
+        "key": "522202404C57B5F403ECFCA2EAAFE5A9",
+        "location": "/Game/UI/confirm.Default__confirm_C.AcceptButton",
+        "id": "Accept",
+        "str": "수락"
+    },
+    {
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
         "str": "완벽합니다, 용의자가 5명 남았습니다. 다시 자러 갑시다."
+    },
+    {
+        "key": "5471B2664F74874D8556F9B63E352A84",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Take flashlight",
+        "str": "상점"
+    },
+    {
+        "key": "54CD20444D2BAF2E0A417794EE4D21F9",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(50 - Value).DisplayNameMap",
+        "id": "Carousel",
+        "str": "회전목마"
     },
     {
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
@@ -532,6 +1078,18 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Duke",
         "str": "공작"
+    },
+    {
+        "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
+        "id": "Back",
+        "str": "뒤로"
+    },
+    {
+        "key": "58DD772D4ABE943A14B03D9A569701B6",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_8.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Elixir that reveals love",
+        "str": "사랑을 드러내는 엘릭서"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
@@ -547,9 +1105,15 @@
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
         "str": "당신이 이겼습니다"
+    },
+    {
+        "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_5.Text",
+        "id": "Buy All",
+        "str": "모두 구매"
     },
     {
         "key": "5A6092F448BE77B01756FFA578E7435A",
@@ -562,6 +1126,18 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
         "str": "튜브 양말"
+    },
+    {
+        "key": "5ADE18414BAB065DE0184E9E706B5D3B",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
+        "id": "Enemies",
+        "str": "적"
+    },
+    {
+        "key": "5DAA61584F29C51BE364D59FAF17F7CB",
+        "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
+        "id": "You need to use the book of souls before you save the imposter doll",
+        "str": "사기꾼 인형을 저장하기 전에 영혼의 책을 사용해야 합니다"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -582,16 +1158,46 @@
         "str": "다른 사람 흔들기"
     },
     {
+        "key": "5E6EA38E411F23949A2E5D828B409DDF",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Umbral",
+        "str": "어둠"
+    },
+    {
+        "key": "5F6925D947AE92C9AC54DEA293653C03",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
+        "id": "Rocking",
+        "str": "결과"
+    },
+    {
         "key": "60747A674F244C50BD7C42986DD084AD",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Widow",
         "str": "미망인"
     },
     {
+        "key": "60929102471030286F6536A92C1EC5C8",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(44 - Value).DisplayNameMap",
+        "id": "Book",
+        "str": "책"
+    },
+    {
+        "key": "60E9BFBD4D9BFF7D7952CA9115FFAA10",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shadow",
+        "str": "그림자"
+    },
+    {
         "key": "611C7265455A03D1E36711A53C897A09",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Detective",
         "str": "탐정"
+    },
+    {
+        "key": "612C02664338E6F05B4191AC77E63DA9",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_23.Text",
+        "id": "Recipe List",
+        "str": "레시피 목록"
     },
     {
         "key": "61579A7B4A7A797C38911980E669DE96",
@@ -606,10 +1212,22 @@
         "str": "낮음"
     },
     {
+        "key": "62E75F3344325D96C309BFB52949F95A",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
+        "id": "Stuffed Animals",
+        "str": "영혼의 종이"
+    },
+    {
         "key": "63063D214706E5FBBE2227836F1BE194",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.name_18_82096130492E34A890A0138C4910D929",
         "id": "Circus",
         "str": "서커스"
+    },
+    {
+        "key": "6342E3B646E7260C285568B47D8CEA82",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
+        "str": "사용할 몇 가지 아이템을 주었습니다. 뒤의 상자를 열어 물건과 무기를 가져가세요. 모든 아이템을 장착하고 사용하려면 전진 또는 후진 무기 전환 버튼을 사용하세요."
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -624,10 +1242,34 @@
         "str": "악몽"
     },
     {
+        "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Wraith",
+        "str": "유령"
+    },
+    {
+        "key": "64560D0D45E7BCC7553F16A4D1CC9723",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
+        "id": "History Cases",
+        "str": "역사적인 사건"
+    },
+    {
+        "key": "653072BC4D6CCFF0D204B6B4887A557F",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Dark and pungent bulb.",
+        "str": "어둡고 자극적인 구근."
+    },
+    {
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
         "str": "모든 플레이어를 위한 표준 난이도, 모든 힌트는 08:00에 제공되며 인형의 이름과 사기꾼의 행동 목록을 볼 수 있는 옵션이 있습니다."
+    },
+    {
+        "key": "6583C6EE4A8FDE826EE589BCC51DF291",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Riddle",
+        "str": "수수께끼"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -642,6 +1284,18 @@
         "str": "마지막 시간입니다. 이것을 알아낼 기회는 이번뿐입니다. 방으로 갑시다."
     },
     {
+        "key": "66D14BB44970D4F17A0184929B3FE083",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(58 - Value).DisplayNameMap",
+        "id": "Animated Stuffed animal",
+        "str": "애니메이션 봉제 인형"
+    },
+    {
+        "key": "67B677CF4F7F5F5336B2A5A78A824E51",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Twisted",
+        "str": "뒤틀린"
+    },
+    {
         "key": "67E721CC4E280A5A435BA1B141936D38",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
         "id": "Brightness",
@@ -652,6 +1306,24 @@
         "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
         "id": "Enemies",
         "str": "적"
+    },
+    {
+        "key": "69E108EB47016FEFAFF123ACC82F5F25",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
+        "str": "좋아요, 인형 중 하나에 대해 몇 가지를 알아봅시다. 이를 위해 릴을 선택하겠습니다. 모든 엘릭서와 카드를 그녀에게 적용하세요. 노트를 열고 관찰한 모든 것을 기록하세요. 예를 들어, 엘릭서를 바르면 다른 인형과의 관계를 확인할 수 있는 10초가 있으므로 모든 관찰 내용을 기록하세요. 또한 각 인형의 사진을 찍는 것도 잊지 마세요. 그렇지 않으면 최종 보상의 90%를 잃게 됩니다. 160초 후에 뵙겠습니다!"
+    },
+    {
+        "key": "69F832714D668740651DED8EBBD4EBB8",
+        "location": "/Game/data-tables/itemList.itemList.NewRow.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Camera",
+        "str": "카메라"
+    },
+    {
+        "key": "6A0CBE8D405C375978D82F96CC069A3F",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Lament",
+        "str": "신음 소리"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
@@ -666,6 +1338,12 @@
         "str": "포커스 / 줌"
     },
     {
+        "key": "6AE175A04F5F286311D601922779AEE5",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Dire",
+        "str": "수수께끼의"
+    },
+    {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
         "id": "Play tutorial",
@@ -678,10 +1356,64 @@
         "str": "섬뜩한"
     },
     {
+        "key": "6CBA009E433B551763CA96B31AF8596B",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Midnight",
+        "str": "영혼"
+    },
+    {
+        "key": "6CC9B0464D976A210322DEBEA26DF03A",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_18.Text",
+        "id": "Find a new case",
+        "str": "새로운 사건 찾기"
+    },
+    {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
         "id": "Effects Volume",
         "str": "효과 볼륨"
+    },
+    {
+        "key": "6E900D00499A2A657789138FBA3BD69E",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_49.Text",
+        "id": "Previous Equipment",
+        "str": "이전 장비"
+    },
+    {
+        "key": "6F62E8EE4D6306627A7D92B69CABCC13",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_15.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Lily flower",
+        "str": "백합꽃"
+    },
+    {
+        "key": "6F67459B4DC4207373A435A440CADE53",
+        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_4.Text",
+        "id": "Dislikes",
+        "str": "싫어함"
+    },
+    {
+        "key": "6FA03C18423CD639AF92D892EA7A83E3",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Hallowed",
+        "str": "탄식"
+    },
+    {
+        "key": "6FDA4FB448EF65CB05B874842143CD74",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Small and juicy fruits.",
+        "str": "장미 꽃잎"
+    },
+    {
+        "key": "7031AD7A4DA6E52A478205B8558A9C5A",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've given you a Soul Book. If you haven't finished the tasks, you can do so now. This book will awaken the impostor, and you have 180 seconds to find the impostor once you use it. If you don't succeed, the impostor will kill you. When you're sure who the impostor is, use the sports bag to trap them inside. The tutorial ends here—it's now up to you to continue and uncover the truth. Good luck!",
+        "str": "영혼의 책을 주었습니다. 작업을 완료하지 않았다면 지금 할 수 있습니다. 이 책은 사기꾼을 깨울 것이며, 사용 후 180초 안에 사기꾼을 찾아야 합니다. 실패하면 사기꾼이 당신을 죽일 것입니다. 사기꾼이 누구인지 확신하면 스포츠 가방을 사용해 그들을 안에 가두세요. 튜토리얼은 여기서 끝입니다—이제 계속해서 진실을 밝히는 것은 당신의 몫입니다. 행운을 빕니다!"
+    },
+    {
+        "key": "706E8DB14C70C3DE52A34BA3930A04B1",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Ghostly",
+        "str": "반짝임"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -696,10 +1428,22 @@
         "str": "PC 왼쪽 면"
     },
     {
+        "key": "70EEFB58402BFE6D2679A59821BAFB3F",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Glare",
+        "str": "찡그림"
+    },
+    {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
         "id": "Volumetric Fog Quality",
         "str": "볼륨 안개 품질"
+    },
+    {
+        "key": "72400A564910846D7B2ECEAD2631331D",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_20.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Honey",
+        "str": "꿀"
     },
     {
         "key": "7286FEC6469CF65A5584DB896D227680",
@@ -708,16 +1452,46 @@
         "str": "창 모드"
     },
     {
+        "key": "733845AE414C327753B93094F83BF162",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(49 - Value).DisplayNameMap",
+        "id": "Balloon",
+        "str": "풍선"
+    },
+    {
+        "key": "73A9B2C843821751DC8E15949E11E92D",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
+        "str": "경력 모드에 오신 것을 환영합니다. 이 게임 모드에서는 인형에 대한 정보를 공개하고 각 사례를 올바르게 해결해야 합니다."
+    },
+    {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traitor",
         "str": "배신자"
     },
     {
+        "key": "73D31FDE441CC82C2ADFE9B2A3A7A293",
+        "location": "/Game/enums/costs.costs.DisplayNameMap(1 - Value).DisplayNameMap",
+        "id": "Cheap",
+        "str": "저렴한"
+    },
+    {
+        "key": "73DE0E3F42416AE9AEC92394617B89B6",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
+        "id": "Hates",
+        "str": "증오"
+    },
+    {
         "key": "740E2993476C6AB0DEDC3BA514B0FF5F",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Comedian",
         "str": "코미디언"
+    },
+    {
+        "key": "743C50254A73CE29F7B3D7858FFBA46F",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Dark and thick liquid.",
+        "str": "어둡고 걸쭉한 액체."
     },
     {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
@@ -738,10 +1512,22 @@
         "str": "당신은 탐정 역할을 하게 되며, 왼쪽 패널에 나열된 사기꾼의 좋아하고 싫어하는 것에 기반하여 그가 좋아하고 싫어하는 것, 그의 적, 친구, 사랑, 또는 미워하는 사람이 누구인지 결정해야 합니다."
     },
     {
+        "key": "7716C8834922818B3241669F9591DF51",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_16.Text",
+        "id": "Costs",
+        "str": "비용"
+    },
+    {
         "key": "773B946148501068D9A5B3A814B81ECD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_16.Text",
         "id": "Move Left",
         "str": "왼쪽으로 이동"
+    },
+    {
+        "key": "77597C9F40C4017557D06AA387E711B0",
+        "location": "/Game/enums/costs.costs.DisplayNameMap(3 - Value).DisplayNameMap",
+        "id": "Very Expensive",
+        "str": "매우 비싼"
     },
     {
         "key": "77DAE76A48EC13E45F2983881F23E808",
@@ -750,10 +1536,34 @@
         "str": "게임 플레이 설정"
     },
     {
+        "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Echosong",
+        "str": "기이한"
+    },
+    {
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
         "str": "놀라운 소리 볼륨"
+    },
+    {
+        "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(1).texts",
+        "id": "Where is the hope?",
+        "str": "희망은 어디에 있습니까?"
+    },
+    {
+        "key": "7954AA374982804CD0C829A2D5575131",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_17.Text",
+        "id": "Money Earned",
+        "str": "획득한 돈"
+    },
+    {
+        "key": "7969D08443D6AB359F1A76AFDC805E0F",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Murmurer",
+        "str": "그림자"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -762,16 +1572,46 @@
         "str": "안전 가옥으로 가기"
     },
     {
+        "key": "79B48418402866A435B0658D650C041D",
+        "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
+        "id": "You've used everything you needed to use here.",
+        "str": "여기서 사용해야 할 모든 것을 사용했습니다"
+    },
+    {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
         "location": "/Game/enums/actions.actions.DisplayNameMap(12 - Value).DisplayNameMap",
         "id": "Balls",
         "str": "공"
     },
     {
+        "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Hush",
+        "str": "위협"
+    },
+    {
+        "key": "7B5021F44C29F7525F8D74A05BB722CC",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Lurk",
+        "str": "음울한"
+    },
+    {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Menacing",
         "str": "위협적인"
+    },
+    {
+        "key": "7B965EEB441BE13C098439BB745C2F25",
+        "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
+        "id": "You're short of ingredients to make this",
+        "str": "이것을 만들 재료가 부족합니다"
+    },
+    {
+        "key": "7C103CB840F8E092D02937A8D8ACCCCF",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
+        "id": "Nothing makes sense anymore",
+        "str": "더 이상 아무것도 의미가 없다"
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -798,6 +1638,12 @@
         "str": "미니 객체"
     },
     {
+        "key": "7EB47B9449369EB3E3F18C972CC18786",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Elixir that reveals enmity",
+        "str": "적의를 드러내는 엘릭서"
+    },
+    {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text",
         "id": "Anti Aliasing Quality",
@@ -808,6 +1654,18 @@
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
         "str": "사기꾼을 위해 함정을 설치합시다. 우리는 이미 그가 TV와 음악을 좋아한다는 것을 알고 있습니다. 불을 켜십시오."
+    },
+    {
+        "key": "8013788A45FE0968E12AA3BAF0AE5233",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(8).texts",
+        "id": "The silence is deafening",
+        "str": "침묵이 귀를 멍하게 한다"
+    },
+    {
+        "key": "80178DF845B4F8C8D4B5DABBDC29F983",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(52 - Value).DisplayNameMap",
+        "id": "Firecrackers",
+        "str": "폭죽"
     },
     {
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
@@ -822,16 +1680,52 @@
         "str": "밴 바닥"
     },
     {
+        "key": "806D1B0C4EFCAD5D435AD6A24A208010",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(10).texts",
+        "id": "Who will listen to us?",
+        "str": "누가 우리를 들어줄까요?"
+    },
+    {
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
         "str": "당신은 {new} 밤으로 새로운 기록을 세웠습니다! 이전 {old} 밤에서!"
     },
     {
+        "key": "80B42CA54800387D3889EDBDBB0E290E",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Spectral",
+        "str": "스펙트럴"
+    },
+    {
+        "key": "814D9929402ED9670B11B8A5F77DD89E",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_16.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Dove's feather",
+        "str": "비둘기 깃털"
+    },
+    {
         "key": "815797D840D1A6AEC45401A9A3996DE0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Don't trust",
         "str": "신뢰하지 마십시오"
+    },
+    {
+        "key": "81F23CF240C4A672B1AC05A6895DF582",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Pale",
+        "str": "영혼"
+    },
+    {
+        "key": "821C250E485ED0C26041C8830F8E0625",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A durable and flexible material.",
+        "str": "내구성이 좋고 유연한 재료."
+    },
+    {
+        "key": "834E072547D98D80C120CD87A16FA4D6",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_22.Text",
+        "id": "Friends",
+        "str": "친구들"
     },
     {
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
@@ -846,10 +1740,40 @@
         "str": "풀 퀄리티"
     },
     {
+        "key": "84743C7D412BD85DD93CC092751C89E7",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Murk",
+        "str": "예언자"
+    },
+    {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tactician",
         "str": "전술가"
+    },
+    {
+        "key": "84B3B484489A7A0017B755B62F30FC82",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text",
+        "id": "Accept Case",
+        "str": "사건 수락"
+    },
+    {
+        "key": "84EDA79E484E05EF27934DBA2708C4CD",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Electricity On! Head back to the house.",
+        "str": "전기가 켜졌습니다! 집으로 돌아가세요."
+    },
+    {
+        "key": "861398CE4A33BD25FB23BE95A3EC66C6",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shroud",
+        "str": "수의"
+    },
+    {
+        "key": "871328BF4DE67CD410188ABF20504C05",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
+        "id": "Score",
+        "str": "준비가 되면 이 사건을 수락하려면 수락 버튼을 클릭하세요"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -864,10 +1788,34 @@
         "str": "스크린 모드"
     },
     {
+        "key": "87B1E3F54AA52AE964B7BDAF99914042",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Whispering Breeze",
+        "str": "속삭이는 바람"
+    },
+    {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
         "location": "/Game/enums/actions.actions.DisplayNameMap(25 - Value).DisplayNameMap",
         "id": "Tunnels",
         "str": "터널"
+    },
+    {
+        "key": "8841057C4E79D1D004AE35BDDA5930D6",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Elixir that reveals hatred",
+        "str": "증오를 드러내는 엘릭서"
+    },
+    {
+        "key": "89B0338340E9602DE85B9797AE55D96F",
+        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
+        "id": "Equip Items",
+        "str": "아이템 장착"
+    },
+    {
+        "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Green and stinging leaves.",
+        "str": "초록색 쏘는 잎."
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -876,10 +1824,22 @@
         "str": "곡예사"
     },
     {
+        "key": "8B7BEED04A64FDBA38C388891DF8F479",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Hollow",
+        "str": "잠복"
+    },
+    {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Well done!",
         "str": "잘 했습니다!"
+    },
+    {
+        "key": "8C6EFCE649B93D5275B158901F4CAB7A",
+        "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
+        "id": "Back to the safehouse",
+        "str": "안전가옥으로 돌아가기"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
@@ -892,6 +1852,12 @@
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Statue",
         "str": "조각상"
+    },
+    {
+        "key": "8D70CD774E635393573985830A5099B8",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_22.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Crystal Bottle",
+        "str": "수정 병"
     },
     {
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
@@ -930,6 +1896,12 @@
         "str": "이름 표시"
     },
     {
+        "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Lurking",
+        "str": "어두운"
+    },
+    {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_13.Text",
         "id": "Move Forward",
@@ -942,10 +1914,28 @@
         "str": "쉬움"
     },
     {
+        "key": "92CDFBB847F726D64FF6169E8B2A6631",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Paper that reveals tastes",
+        "str": "선호를 드러내는 종이"
+    },
+    {
+        "key": "93917B7240A1743F582D7E9208B16F62",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Paper that reveals distastes",
+        "str": "혐오를 드러내는 종이"
+    },
+    {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(2).Options.Label",
         "id": "High",
         "str": "높음"
+    },
+    {
+        "key": "9412FB8146653EECA5DBB2BD2504B413",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_33.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Bag",
+        "str": "가방"
     },
     {
         "key": "9432768D4222957489019C86BD251CA3",
@@ -960,10 +1950,22 @@
         "str": "새로운 추가 모드를 잠금 해제했습니다!"
     },
     {
+        "key": "95529FFB4B5C7B8BF0D230810B54E147",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "Career Mode",
+        "str": "커리어 모드"
+    },
+    {
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text",
         "id": "Random",
         "str": "랜덤"
+    },
+    {
+        "key": "9639E2074CB67CEC4666A4AF3A4FC559",
+        "location": "/Game/enums/costs.costs.DisplayNameMap(0 - Value).DisplayNameMap",
+        "id": "Very Cheap",
+        "str": "매우 저렴한"
     },
     {
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
@@ -984,6 +1986,12 @@
         "str": "글로벌 조명 품질"
     },
     {
+        "key": "986FE18441EBE7BFF160D38E25BEF05E",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Phantom Breeze",
+        "str": "유령의 산들바람"
+    },
+    {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Kid",
@@ -996,16 +2004,52 @@
         "str": "후처리 품질"
     },
     {
+        "key": "99BCFC05431F42E7A29B539406D75C0B",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Screech",
+        "str": "비명"
+    },
+    {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
         "id": "Daycare",
         "str": "데이케어"
     },
     {
+        "key": "9AA78476434241C7EE4929A6B33EE813",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shifting Shadow",
+        "str": "변하는 그림자"
+    },
+    {
         "key": "9B0C4F0544EED1171CEEF59539778188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unlucky",
         "str": "불운한"
+    },
+    {
+        "key": "9B283B084E6D48B26573D0A0CD07A07E",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Menace",
+        "str": "속삭임"
+    },
+    {
+        "key": "9C3A179A4105F07AF02DAF9565B1CB02",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(43 - Value).DisplayNameMap",
+        "id": "Clock",
+        "str": "시계"
+    },
+    {
+        "key": "9CAB638548874B5E9D71628F2EE226D1",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A transparent and elegant container.",
+        "str": "투명하고 우아한 용기."
+    },
+    {
+        "key": "9CD486614893E83F1AC2D3AA683226F0",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Gloaming",
+        "str": "귀신 들린"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -1020,10 +2064,40 @@
         "str": "봇"
     },
     {
+        "key": "9CF4BD434FB00A0E98BE348036F66B3F",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shade",
+        "str": "그림자"
+    },
+    {
         "key": "9D7CA8BB4D12421F2093AB823A8EAC45",
         "location": "/Game/enums/actions.actions.DisplayNameMap(15 - Value).DisplayNameMap",
         "id": "Cannon",
         "str": "대포"
+    },
+    {
+        "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Obscure",
+        "str": "침묵"
+    },
+    {
+        "key": "9E696588498FFE8F35EE90B3AA88ABCB",
+        "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_22.Text",
+        "id": "Doll",
+        "str": "인형"
+    },
+    {
+        "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_9.Text",
+        "id": "Location",
+        "str": "위치"
+    },
+    {
+        "key": "A0C0892943CF5FC4B208879116F465F0",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
+        "id": "Impostor Selected",
+        "str": "선택된 사기꾼"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
@@ -1036,6 +2110,12 @@
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_4.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Left Place",
         "str": "왼쪽 장소"
+    },
+    {
+        "key": "A25E20BF4E349221F9E980AF8435D2FD",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Wicked",
+        "str": "사악한"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -1056,6 +2136,24 @@
         "str": "으스스한"
     },
     {
+        "key": "A43C17F940FC87439BFB25A6FAC1FC63",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Abyss",
+        "str": "단서를 채우기 위해 인형 사진을 찍으세요"
+    },
+    {
+        "key": "A5B8E42E465FF909827ACBAEAFD09986",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Murky",
+        "str": "그림자"
+    },
+    {
+        "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
+        "id": "Travel",
+        "str": "여행"
+    },
+    {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Star",
@@ -1074,10 +2172,34 @@
         "str": "그네"
     },
     {
+        "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Dark",
+        "str": "오한"
+    },
+    {
+        "key": "A85FE73E4E95AFA89A84E38F80B87C59",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Spooky",
+        "str": "무서운"
+    },
+    {
+        "key": "A97B724146EEB86D384D6A85A4F8931C",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
+        "id": "Craft",
+        "str": "제작"
+    },
+    {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Move Self",
         "str": "자신을 이동하다"
+    },
+    {
+        "key": "AB25CB294CD7BEF8559DFA89B96B8F9B",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_32.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Lighter",
+        "str": "라이터"
     },
     {
         "key": "AB6B64D64932C68A8743709693AF267B",
@@ -1086,10 +2208,52 @@
         "str": "위치"
     },
     {
+        "key": "AC46E8C5498572C242CBADA69A94A0A7",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_26.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Mint",
+        "str": "민트"
+    },
+    {
+        "key": "AC61D57E4AA1B3D2ED8E35BD60ADA0B2",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Phantom",
+        "str": "유령"
+    },
+    {
+        "key": "AD00137D457BF38AE614FC9EE94D1425",
+        "location": "/Game/enums/costs.costs.DisplayNameMap(2 - Value).DisplayNameMap",
+        "id": "Expensive",
+        "str": "비싼"
+    },
+    {
+        "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Activate the final battle to uncover the impostor.",
+        "str": "사기꾼을 밝혀내기 위해 마지막 전투를 시작하십시오."
+    },
+    {
+        "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A small, dark, and shriveled heart.",
+        "str": "작고 어둡고 시든 심장."
+    },
+    {
+        "key": "AF3764E04E32829AB3E75FBD938BF9C1",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Rose Petals",
+        "str": "다양한 탭을 검토하여 익숙해지세요"
+    },
+    {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To sleep, simply point at the bed and click on it.",
         "str": "잠자기 위해 침대를 가리키고 클릭하기만 하면 됩니다."
+    },
+    {
+        "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
+        "id": "You have lost 90% of the entire reward due to missing photos.",
+        "str": "누락된 사진으로 인해 전체 보상의 90%를 잃었습니다"
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -1102,6 +2266,18 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grump",
         "str": "투덜이"
+    },
+    {
+        "key": "B16BD65740B9A94C398B138BCEEA9678",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Flicker",
+        "str": "헐떡임"
+    },
+    {
+        "key": "B190DC8C4B38B72150B586B737F83910",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shadowed Whisper",
+        "str": "그림자 속 속삭임"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -1120,6 +2296,12 @@
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Welcome to Doll Impostor!",
         "str": "\n인형 사기꾼\n에 오신 것을 환영합니다!"
+    },
+    {
+        "key": "B377188C494F5DA03FE7E8A6C86AB940",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_6.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Elixir that reveals friendship",
+        "str": "우정을 드러내는 엘릭서"
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
@@ -1170,16 +2352,52 @@
         "str": "외로운 사람"
     },
     {
+        "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Whispered",
+        "str": "속삭임"
+    },
+    {
+        "key": "B6B8AB3240DFFCDFFC11278ACB172188",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
+        "str": "에너지가 필요합니다"
+    },
+    {
+        "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Scowl",
+        "str": "찡그림"
+    },
+    {
+        "key": "B7532CB642D1303CB57FF89D855B8189",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_14.Text",
+        "id": "Days elapsed",
+        "str": "경과된 일수"
+    },
+    {
         "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(5).Options.Label",
         "id": "Unlimited",
         "str": "무제한"
     },
     {
+        "key": "B83348AE4D0F332AFE32DA9CCA2BB2FF",
+        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_4.Text",
+        "id": "Only visible items that you can equip",
+        "str": "장착할 수 있는 항목만 표시"
+    },
+    {
         "key": "B8952A3841AAE9C0034514AC607965D8",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
         "str": "피난처"
+    },
+    {
+        "key": "B8F169E14DBF7CFF567A468DBF711F46",
+        "location": "/Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]",
+        "id": "{count} days",
+        "str": "{count}일"
     },
     {
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
@@ -1266,10 +2484,34 @@
         "str": "그가 피를 좋아하는 것은 분명합니다. 두 사람 중 하나일 수 있지만 상자를 확인하십시오. 프레디가 사라졌고 그의 상자는 피로 가득 차 있습니다. 그는 이 판결을 당신에게 남겼습니다. 확신이 들면 후보를 폐기하십시오."
     },
     {
+        "key": "C0D16AB6449869CB93491684F3F5D44C",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Eerie",
+        "str": "수수께끼"
+    },
+    {
+        "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_4.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Fuse to activate electrical circuits",
+        "str": "전기 회로를 활성화하는 퓨즈"
+    },
+    {
         "key": "C0FE25964E732C097D287AB368FB54A4",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
         "id": "Dislikes",
         "str": "싫어함"
+    },
+    {
+        "key": "C12E045B48D3B1A859F1D5AFD11628E5",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_6.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Amicitia",
+        "str": "아미키티아"
+    },
+    {
+        "key": "C158D252413F592114D488BB11C8055E",
+        "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
+        "id": "Require Energy",
+        "str": "이제 전기를 켜봅시다"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
@@ -1278,16 +2520,46 @@
         "str": "포커스 시야"
     },
     {
+        "key": "C28723EC476B280B7C783CAAD9FE2784",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A white and delicate feather.",
+        "str": "하얗고 섬세한 깃털."
+    },
+    {
+        "key": "C312729245B39D3E05385886891922CF",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
+        "id": "God, Save Us",
+        "str": "하느님, 우리를 구하소서"
+    },
+    {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
         "str": "밴 오른쪽 면"
     },
     {
+        "key": "C6298185486DF0A5C64519AD8B518D4C",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shadowling",
+        "str": "작은 그림자"
+    },
+    {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
         "id": "New Game",
         "str": "새 게임"
+    },
+    {
+        "key": "C6C0EE3547F1545A84D8268AC0025132",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Portable device that produces a flame to start a fire.",
+        "str": "불을 붙이기 위한 휴대용 장치"
+    },
+    {
+        "key": "C868184542C8CF8CE45E35881EB2FB7F",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
+        "id": "The pain is overwhelming",
+        "str": "고통이 압도적이다"
     },
     {
         "key": "C8A00764485261B746BFEE94C58D6ECA",
@@ -1300,6 +2572,18 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_22.Text",
         "id": "Crouch",
         "str": "웅크리기"
+    },
+    {
+        "key": "C9DD78084F647953E55A8196CE872921",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(47 - Value).DisplayNameMap",
+        "id": "Gramophone",
+        "str": "축음기"
+    },
+    {
+        "key": "CA5357694E9708D4AC84699C2DC77CBD",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Soul Book",
+        "str": "작고 즙이 많은 과일"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
@@ -1320,6 +2604,18 @@
         "str": "친구들"
     },
     {
+        "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
+        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
+        "id": "Dropped",
+        "str": "포기됨"
+    },
+    {
+        "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_19.Text",
+        "id": "Ratio",
+        "str": "비율"
+    },
+    {
         "key": "CE5521734152BB8FDF36949D84AA7F39",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghastly",
@@ -1330,6 +2626,12 @@
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
         "id": "Stats",
         "str": "통계"
+    },
+    {
+        "key": "CEB55E1E480248C3E1553AB0E3E06BA3",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_12.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Parchment",
+        "str": "양피지"
     },
     {
         "key": "CF3A6ECB45A9488C10D246A3FD143977",
@@ -1350,10 +2652,28 @@
         "str": "으스스한"
     },
     {
+        "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Cryptic",
+        "str": "킥킥 웃음"
+    },
+    {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
         "str": "냉각"
+    },
+    {
+        "key": "D20B4CF442582F2B1E945BA082899AD3",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Echoing",
+        "str": "메아리"
+    },
+    {
+        "key": "D249146742516BB46178BA859A421873",
+        "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Take doll photos for fill the clues",
+        "str": "넓은 가방"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -1368,10 +2688,52 @@
         "str": "오른쪽 장소"
     },
     {
+        "key": "D3B042044111E5CC7AE8239FB511F147",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(3).texts",
+        "id": "Darkness surrounds us",
+        "str": "어둠이 우리를 둘러싸고 있다"
+    },
+    {
+        "key": "D400DBFE4DD655EF2BD09C888BD1C988",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Gloom",
+        "str": "공허"
+    },
+    {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
         "str": "번역: {people}"
+    },
+    {
+        "key": "D4415F9B4956C597DB9E6A83027B1BA5",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Enter the house and find the dolls' room. Use the flashlight to see better.",
+        "str": "집에 들어가 인형의 방을 찾으세요. 더 잘 보이게 하기 위해 손전등을 사용하세요."
+    },
+    {
+        "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Creep",
+        "str": "심연"
+    },
+    {
+        "key": "D4F0469A4306A9237BF0858B3B2541EF",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shudder",
+        "str": "전율"
+    },
+    {
+        "key": "D54AD32246C068D95A3BF5911FDC1807",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Lurker",
+        "str": "슬픈"
+    },
+    {
+        "key": "D597FBE342A7B8B23676A3BB4B81D863",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Take notes on the behavior of the dolls",
+        "str": "봉제인형"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -1392,6 +2754,12 @@
         "str": "놀이터"
     },
     {
+        "key": "D637C70741EFAAB1C70592A3E73D29E3",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_48.Text",
+        "id": "Actions left",
+        "str": "남은 작업"
+    },
+    {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(16 - Value).DisplayNameMap",
         "id": "Knives",
@@ -1402,6 +2770,12 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Flirt",
         "str": "플러팅하는 사람"
+    },
+    {
+        "key": "D8CE402B452C5A79DCE582A6ADC2F93B",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_5.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Odium",
+        "str": "증오"
     },
     {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
@@ -1428,6 +2802,12 @@
         "str": "오른쪽으로 돌기"
     },
     {
+        "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Wisp",
+        "str": "반짝임"
+    },
+    {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Door",
@@ -1440,6 +2820,30 @@
         "str": "불안한"
     },
     {
+        "key": "DCBD9A3F418F5F127DABDD996614C5B0",
+        "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
+        "id": "You can't make this, it doesn't fit any recipe",
+        "str": "이것을 만들 수 없습니다. 어떤 레시피에도 맞지 않습니다"
+    },
+    {
+        "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_21.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Vanilla",
+        "str": "바닐라"
+    },
+    {
+        "key": "DE011C1944710509D6330C8C62491DBA",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_4.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Fuse",
+        "str": "퓨즈"
+    },
+    {
+        "key": "DE5FC3C747F16F46862210AB8687B02C",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
+        "str": "현재는 아무것도 상호작용할 수 없음을 기억하세요. 이건 튜토리얼입니다."
+    },
+    {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
         "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
@@ -1450,6 +2854,18 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The New",
         "str": "새로운 사람"
+    },
+    {
+        "key": "E0A26C2A477073293C2A5093569FFE5E",
+        "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
+        "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
+        "str": "안전가옥으로 돌아가면 집이 원래 상태로 복원되고 장착한 아이템을 잃게 됩니다."
+    },
+    {
+        "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(38 - Value).DisplayNameMap",
+        "id": "Radio",
+        "str": "라디오"
     },
     {
         "key": "E1BED414427264B22F7080B7ED0D0CF9",
@@ -1470,6 +2886,12 @@
         "str": "풍선"
     },
     {
+        "key": "E321649D4AF8734E473FEDB0404E1B2E",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(42 - Value).DisplayNameMap",
+        "id": "Move frames",
+        "str": "프레임 이동"
+    },
+    {
         "key": "E447809B421298C1BDA5E4B063D86F49",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
@@ -1486,6 +2908,12 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Stiff",
         "str": "뻣뻣한 자"
+    },
+    {
+        "key": "E67B208049756CC3B5F16089AC41B470",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Refreshing green leaves.",
+        "str": "상쾌한 녹색 잎"
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
@@ -1506,6 +2934,18 @@
         "str": "새로운 레벨을 잠금 해제하면 새로운 레벨이 나타납니다!"
     },
     {
+        "key": "E83CDA864E3FD82D333504A00D6E24D4",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Omen",
+        "str": "사악한"
+    },
+    {
+        "key": "E85D23F14D7C46E45DA387A747928F07",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Whisper",
+        "str": "속삭임"
+    },
+    {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Material",
@@ -1524,10 +2964,58 @@
         "str": "인형"
     },
     {
+        "key": "E9F12A4243E6AE323515DE8E9AA0162B",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Specter",
+        "str": "유령"
+    },
+    {
         "key": "EABE87674E476F817EEF85B6E5E00296",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
         "id": "Log Off",
         "str": "로그오프"
+    },
+    {
+        "key": "EB61DE2843D60E7D5AF23EB48A67DE8B",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_21.Text",
+        "id": "Rank",
+        "str": "등급"
+    },
+    {
+        "key": "ECA7B6BD4DC5448D5BC007A0A56EFE97",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(53 - Value).DisplayNameMap",
+        "id": "Dollhouse",
+        "str": "인형의 집"
+    },
+    {
+        "key": "ED2F4CB1487E0D6D9070899567BB98B0",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_3.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Notebook",
+        "str": "노트북"
+    },
+    {
+        "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
+        "id": "You have lost 75% for not discovering the impostor",
+        "str": "사기꾼을 발견하지 못해 75%의 보상을 잃었습니다"
+    },
+    {
+        "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_12.Text",
+        "id": "Next Equipment",
+        "str": "다음 장비"
+    },
+    {
+        "key": "EE4D8F97450682A6D1DF0D88D6A4FFC6",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_8.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Amans",
+        "str": "아만스"
+    },
+    {
+        "key": "EEEE750B4277BD6C5835BD901B924179",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Dusk",
+        "str": "잠수"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -1548,16 +3036,46 @@
         "str": "밴 벽"
     },
     {
+        "key": "F21C143F425251C3614B29BD90BD710D",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_9.ToolTipText",
+        "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
+        "str": "비율이 낮을수록 처음에 공개되는 인형에 대한 정보가 많아집니다 (2에서 10까지)"
+    },
+    {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Frightening",
         "str": "무서운"
     },
     {
+        "key": "F234C7F94700549E267ADA87AC492287",
+        "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
+        "id": "Ouija",
+        "str": "위자보드"
+    },
+    {
+        "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A bitter and viscous liquid.",
+        "str": "쓴맛이 나고 점성이 있는 액체."
+    },
+    {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_0.name_18_82096130492E34A890A0138C4910D929",
         "id": "House",
         "str": "집"
+    },
+    {
+        "key": "F28B41324F202FA2E02A0DB59579D291",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Wretched",
+        "str": "비참한"
+    },
+    {
+        "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A golden and sweet liquid.",
+        "str": "황금색의 달콤한 액체."
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -1578,16 +3096,88 @@
         "str": "티비"
     },
     {
+        "key": "F3539C0B4A4D262BEEADFCBC91E58848",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_24.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Toad Bile",
+        "str": "두꺼비 담즙"
+    },
+    {
         "key": "F398437D44CE91CF11D919A1208038ED",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.sections_22_4031E9264112E4E86BC48BA9D729A311(2).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Size",
         "str": "크기"
     },
     {
+        "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Inventory",
+        "str": "인벤토리"
+    },
+    {
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ringmaster",
         "str": "서커스 단장"
+    },
+    {
+        "key": "F5698F3144BF19F3BDD3D58AA167101F",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Whisperer",
+        "str": "속삭이는 사람"
+    },
+    {
+        "key": "F58DB0B646AB1214A995FD9D228448FD",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Dread",
+        "str": "불길한"
+    },
+    {
+        "key": "F5FA5A154002D6C4EDB30FB45794A50A",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_25.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Nettle",
+        "str": "쐐기풀"
+    },
+    {
+        "key": "F63BB439446A93B294D5789005AB927F",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_11.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Crow's Heart",
+        "str": "까마귀의 심장"
+    },
+    {
+        "key": "F671810346E2F778C0E4E7BA69FE7D9C",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_31.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Mandrake Root",
+        "str": "만드레이크 뿌리"
+    },
+    {
+        "key": "F68B1482480395C0AD66298BBA07A363",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Dive",
+        "str": "어둠"
+    },
+    {
+        "key": "F6BDE5474A3477CD35632DB6FFE0323F",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
+        "str": "다양한 동적 매개변수가 포함된 사례를 사용할 수 있습니다. 현재 사례와 유사한 정보를 표시하며, 마음에 들지 않으면 돈을 주고 새 사례를 검색할 수 있습니다. 현재 튜토리얼 모드에서는 상호작용이 제한되어 있습니다. 사례를 구매, 제작, 포기하거나 새 사례를 검색할 수 없습니다."
+    },
+    {
+        "key": "F703F19542906B2F29A58E83811DB3AD",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_7.Text",
+        "id": "You don't have enough money",
+        "str": "돈이 충분하지 않습니다"
+    },
+    {
+        "key": "F746170F4C38F9AE155525AEA0B83F1C",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Soft and fragrant rose petals.",
+        "str": "전갈 독"
+    },
+    {
+        "key": "F7E0F0DC47429C7F044DA5B68C122215",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Macabre",
+        "str": "모호한"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -1600,6 +3190,12 @@
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
         "str": "오 안돼..."
+    },
+    {
+        "key": "F9560AD34A829952AE5F5498756E174C",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Clear and lethal liquid.",
+        "str": "맑고 치명적인 액체."
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
@@ -1632,6 +3228,12 @@
         "str": "소파에 리키와 피아노에 몬티가 있습니다, 그래서 이미 두 명의 가능한 후보가 있습니다. 그러나 우리는 50%의 위험을 감수하지 않을 것입니다. 방으로 돌아가서 그럴 수 없는 사람을 제외하고 다음 이벤트를 기다립시다."
     },
     {
+        "key": "FB77087A4862A67B758D529F87748C2F",
+        "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
+        "id": "Chaos consumes us",
+        "str": "혼돈이 우리를 집어삼킨다"
+    },
+    {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
         "id": "Graphic Preset",
@@ -1650,10 +3252,22 @@
         "str": "마스터 볼륨"
     },
     {
+        "key": "FD27A6D94DD43A861953BA81606B6B11",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A fragrant cinnamon stick.",
+        "str": "향기로운 계피 막대."
+    },
+    {
         "key": "FD50C07D436B39761D90A28961DE809F",
         "location": "/Game/enums/actions.actions.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Open Boxes",
         "str": "상자 열기"
+    },
+    {
+        "key": "FD5D53AB4A626CFD46CF4E93053F9719",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_14.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Vulture's feather",
+        "str": "독수리 깃털"
     },
     {
         "key": "FE11E6ED4FA63C5B12631383E56A20B5",
@@ -1663,7 +3277,7 @@
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
         "str": "당신이 졌습니다"
     },
@@ -1674,10 +3288,22 @@
         "str": "플레이"
     },
     {
+        "key": "FEEFC0A44A89E6CC7163CEB1F9C3F1B8",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_15.Text",
+        "id": "XP Earned",
+        "str": "획득한 XP"
+    },
+    {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
         "location": "/Game/enums/actions.actions.DisplayNameMap(4 - Value).DisplayNameMap",
         "id": "Music",
         "str": "음악"
+    },
+    {
+        "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Soul Paper",
+        "str": "부드럽고 향기로운 장미 꽃잎"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
