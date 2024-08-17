@@ -69,7 +69,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Het lijkt erop dat de bedrieger enkele acties heeft uitgevoerd. Deze worden weergegeven op het linker paneel. Bekijk het paneel en ga dan weer de kamer in."
+        "str": "Het lijkt erop dat de verdachte enkele acties heeft uitgevoerd. Deze worden weergegeven op het linker paneel. Bekijk het paneel en ga dan weer de kamer in."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
@@ -135,7 +135,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Je hebt de zaak nu aangenomen. Buiten de tutorial kun je de zaak op elk moment opgeven, maar je zult geen nieuwe zaken kunnen vinden nadat je deze hebt geaccepteerd. Met dit achter de rug kan je naar de locatie afreizen zodra je zover bent."
+        "str": "Je hebt de opdracht nu aangenomen. Buiten de tutorial kun je de opdracht op elk moment opgeven, maar je zult geen nieuwe zaken kunnen vinden nadat je deze hebt geaccepteerd. Met dit achter de rug kan je naar de locatie afreizen zodra je zover bent."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -339,7 +339,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Zaak verlaten"
+        "str": "Opdracht verlaten"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -405,7 +405,7 @@
         "key": "1DFB0F2649F857BCBC918D9215167D9B",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Case",
-        "str": "Zaak"
+        "str": "Opdracht"
     },
     {
         "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
@@ -477,7 +477,7 @@
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
         "id": "Case Number",
-        "str": "Zaaknummer"
+        "str": "Opdrachtnummer"
     },
     {
         "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
@@ -909,7 +909,7 @@
         "key": "45DB611B482D35EE05ADE98331F2EC20",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Haunting",
-        "str": "De spookachtige"
+        "str": "De angstaanjagende"
     },
     {
         "key": "460FFB13421148C8493D69A72A81E93C",
@@ -1119,7 +1119,7 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Willekeurige, maar eindeloze modus. Je hebt een timer van 3 minuten om de bedrieger te vinden en er is een ranglijst van leiders"
+        "str": "Willekeurige, maar eindeloze modus. Je hebt een timer van 3 minuten om de verdachte te vinden en er is een ranglijst van leiders"
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
@@ -1137,7 +1137,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Je moet het zielenboek gebruiken voordat je de bedriegerpop opslaat"
+        "str": "Je moet het zielenboek gebruiken voordat je de verdachte pop opslaat"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1263,7 +1263,7 @@
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "De standaard moeilijkheidsgraad. Alle aanwijzingen zijn om 08:00 beschikbaar. Je hebt de mogelijkheid om de namen van de poppen en de lijst met acties van de bedrieger te zien."
+        "str": "De standaard moeilijkheidsgraad. Alle aanwijzingen zijn om 08:00 beschikbaar. Je hebt de mogelijkheid om de namen van de poppen en de lijst met acties van de verdachte te zien."
     },
     {
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
@@ -1281,7 +1281,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "De tijd is bijna om. We hebben alleen deze kans nog om de bedrieger te vinden. Laten we naar de kamer gaan."
+        "str": "De tijd is bijna om. We hebben alleen deze kans nog om de verdachte te vinden. Laten we naar de kamer gaan."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1365,7 +1365,7 @@
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_18.Text",
         "id": "Find a new case",
-        "str": "Neem een nieuwe zaak aan"
+        "str": "Neem een nieuwe opdracht aan"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
@@ -1407,7 +1407,7 @@
         "key": "7031AD7A4DA6E52A478205B8558A9C5A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a Soul Book. If you haven't finished the tasks, you can do so now. This book will awaken the impostor, and you have 180 seconds to find the impostor once you use it. If you don't succeed, the impostor will kill you. When you're sure who the impostor is, use the sports bag to trap them inside. The tutorial ends here—it's now up to you to continue and uncover the truth. Good luck!",
-        "str": "Ik heb je een Zielenboek gegeven. Als je de taken nog niet hebt voltooid, kun je dat nu doen. Dit boek zal de bedrieger wekken, en je hebt vervolgens 180 seconden om de bedrieger te vinden zodra je het gebruikt. Als je niet slaagt, zal de bedrieger je doden. Als je zeker weet wie de bedrieger is, gebruik dan de sporttas om hem erin te vangen. De tutorial eindigt hier – nu is het aan jou om door te gaan en de waarheid te onthullen. Veel succes!"
+        "str": "Ik heb je een Zielenboek gegeven. Als je de taken nog niet hebt voltooid, kun je dat nu doen. Dit boek zal de verdachte wekken, en je hebt vervolgens 180 seconden om de verdachte te vinden zodra je het gebruikt. Als je niet slaagt, zal de verdachte je doden. Als je zeker weet wie de verdachte is, gebruik dan de sporttas om hem erin te vangen. De tutorial eindigt hier – nu is het aan jou om door te gaan en de waarheid te onthullen. Veel succes!"
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
@@ -1461,7 +1461,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Welkom in de carrière modus. In deze spelmodus moet je informatie over de poppen ontdekken en elke zaak correct oplossen."
+        "str": "Welkom in de carrière modus. In deze spelmodus moet je informatie over de poppen ontdekken en elke opdracht correct afhandelen."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1509,7 +1509,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Je zult de rol van detective aannemen waarin je moet bepalen, gebaseerd op de voorkeuren van de bedrieger die op het paneel aan je linkerzijde staan, wat hij leuk vindt en niet leuk vindt, wie zijn vijanden, vrienden, liefdes of gehate personen zijn."
+        "str": "Je zult de rol van detective aannemen waarin je moet bepalen, gebaseerd op de voorkeuren van de verdachte die op het paneel aan je linkerzijde staan, wat hij leuk vindt en niet leuk vindt, wie zijn vijanden, vrienden, liefdes of gehate personen zijn."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1653,7 +1653,7 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Laten we een val zetten voor de bedrieger. We weten al dat hij van tv en muziek houdt. Doe het licht aan."
+        "str": "Laten we een val zetten voor de verdachte. We weten al dat hij van tv en muziek houdt. Doe het licht aan."
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1755,7 +1755,7 @@
         "key": "84B3B484489A7A0017B755B62F30FC82",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text",
         "id": "Accept Case",
-        "str": "Zaak accepteren"
+        "str": "Opdracht accepteren"
     },
     {
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
@@ -1839,7 +1839,7 @@
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
-        "str": "Terug naar de Safe zone"
+        "str": "Terug naar de safe house"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
@@ -2097,7 +2097,7 @@
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "Bedrieger geselecteerd"
+        "str": "Verdachte geselecteerd"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
@@ -2229,7 +2229,7 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "Activeer de laatste strijd om de bedrieger te ontmaskeren."
+        "str": "Activeer de laatste strijd om de verdachte te ontmaskeren."
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
@@ -2307,7 +2307,7 @@
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "Bedrieger"
+        "str": "Verdachte"
     },
     {
         "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
@@ -2481,7 +2481,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Het is duidelijk dat de bedrieger van bloed houdt. Het is een van de twee, maar controleer de dozen: Freddy is vermist en zijn doos zit vol met bloed. Je kan hier je conclusies uit trekken. Zodra je het zeker weet sluit je de laatste kandidaat uit."
+        "str": "Het is duidelijk dat de verdachte van bloed houdt. Het is een van de twee, maar controleer de dozen: Freddy is vermist en zijn doos zit vol met bloed. Je kan hier je conclusies uit trekken. Zodra je het zeker weet sluit je de laatste kandidaat uit."
     },
     {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
@@ -2859,7 +2859,7 @@
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "Als je terugkeert naar het safehouse zal het huis zijn staat herstellen en verlies je de uitgeruste voorwerpen."
+        "str": "Als je terugkeert naar het safe house zal het huis zijn staat herstellen en verlies je de uitgeruste voorwerpen."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -2997,7 +2997,7 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Je bent 75% kwijtgeraakt omdat je de bedrieger niet hebt ontdekt"
+        "str": "Je bent 75% kwijtgeraakt omdat je de verdachte niet hebt ontdekt"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3159,7 +3159,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Je hebt een zaak beschikbaar met verschillende dynamische parameters. Het zal informatie tonen zoals de huidige. Als je het niet leuk vindt, dan kun je tegen betaling naar een nieuwe zaak zoeken. Momenteel hebben we je interacties in de tutorialmodus beperkt; je kunt niets kopen, maken, de zaak verlaten of naar een nieuwe zaak zoeken."
+        "str": "Je hebt een opdracht beschikbaar met verschillende dynamische parameters. Het zal informatie tonen zoals de huidige. Als je het niet leuk vindt, dan kun je tegen betaling naar een nieuwe opdracht zoeken. Momenteel hebben we je interacties in de tutorialmodus beperkt; je kunt niets kopen, maken, de opdracht verlaten of naar een nieuwe opdracht zoeken."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
