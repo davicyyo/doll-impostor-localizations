@@ -240,12 +240,6 @@
         "str": "Indietro"
     },
     {
-        "key": "1419DDE940F5794B8AB0149F62CE51C0",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Ghost 9",
-        "str": "Il Fantasma 9"
-    },
-    {
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
