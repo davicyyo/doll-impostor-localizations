@@ -1860,12 +1860,6 @@
         "str": "Bottiglia di cristallo"
     },
     {
-        "key": "8DB7EF1242B7C5C35ADBF19645741168",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Shadow 62",
-        "str": "L'Ombra 62"
-    },
-    {
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
