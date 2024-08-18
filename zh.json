@@ -744,6 +744,12 @@
         "str": "帧数限制"
     },
     {
+        "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
+        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
+        "id": "The items you equip will be lost!",
+        "str": "你装备的物品将会丢失！"
+    },
+    {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
