@@ -2659,6 +2659,12 @@
         "str": "阴森者"
     },
     {
+        "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Cryptic",
+        "str": "咯咯笑"
+    },
+    {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
