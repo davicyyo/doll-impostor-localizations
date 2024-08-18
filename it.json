@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "Osso"
+        "str": "La Raccapricciante"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -21,7 +21,7 @@
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "Spaventoso"
+        "str": "L'Oscuro"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -51,7 +51,7 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "Crepuscolo"
+        "str": "L'Eco"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
@@ -75,7 +75,7 @@
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "Smorfia"
+        "str": "Il Morboso"
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -87,19 +87,19 @@
         "key": "05AD525F49BFE5E3D0E076B33A48FCF0",
         "location": "/Game/UI/confirm.Default__confirm_C.DismissButton",
         "id": "Deny",
-        "str": "Rifiuta"
+        "str": "Nega"
     },
     {
         "key": "0600D2134F5944FF6E3102866C348F23",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigma",
-        "str": "Misterioso"
+        "str": "L'Enigma"
     },
     {
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "Fantasma 28"
+        "str": "Il Sussulto"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -117,7 +117,7 @@
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_7.ToolTipText",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "I costi saranno riflessi nei prezzi degli articoli nel negozio"
+        "str": "I costi si rifletteranno sui prezzi degli articoli nel negozio."
     },
     {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
@@ -135,7 +135,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Hai ora accettato il caso. Fuori dal tutorial, puoi abbandonare il caso in qualsiasi momento, ma non sarai in grado di trovare nuovi casi una volta accettato. Con questo risolto, viaggia verso la posizione quando sei pronto."
+        "str": "Hai accettato un caso. Al di fuori del tutorial, puoi abbandonare un caso in qualsiasi momento, ma non sarai in grado di trovare nuovi casi una volta ne hai accettato uno. Una volta deciso, vai sul posto quando sei pronto."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -147,7 +147,7 @@
         "key": "09B43DB3406AF2166732B48B577F4E20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(51 - Value).DisplayNameMap",
         "id": "Crystal Ball",
-        "str": "Sfera di cristallo"
+        "str": "Palla di cristallo"
     },
     {
         "key": "09CCC43B450A924B1414CEA6C17A4E5D",
@@ -195,7 +195,7 @@
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "Carta dell'anima oscura"
+        "str": "Negozio"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
@@ -255,25 +255,25 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "Un fiore bianco con petali morbidi."
+        "str": "Un fiore bianco dai petali morbidi."
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigmatic",
-        "str": "Scintilla"
+        "str": "L'Enigmatica"
     },
     {
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "Sussurro ombreggiato"
+        "str": "Il Mormorio"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantasm",
-        "str": "Sussurri"
+        "str": "Il Fantasma"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -315,13 +315,13 @@
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "Tremore"
+        "str": "L'Oscuro"
     },
     {
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "Una radice nodosa e sinistra."
+        "str": "Una radice nodosa e inquietante."
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
@@ -357,31 +357,31 @@
         "key": "1AF5392F481406F80C566FB0740D5D3D",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shady",
-        "str": "Il Cupo"
+        "str": "Il Losco"
     },
     {
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "Fantasma 37"
+        "str": "Lo Spettro"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(7).texts",
         "id": "There seems to be no way out",
-        "str": "Sembra che non ci sia via d'uscita"
+        "str": "Sembra non esserci via d'uscita"
     },
     {
         "key": "1C4788334C67D107A7BE1F931C0A749E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_24.Text",
         "id": "Your election",
-        "str": "La tua scelta"
+        "str": "La tua votazione"
     },
     {
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "Questa bambola è sotto effetti, aspetta che l'effetto finisca per applicarne un altro"
+        "str": "Questa bambola è sotto un effetto, aspetta che l'effetto finisca per applicarne un altro."
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -393,7 +393,7 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "Grande piuma grigiastra."
+        "str": "Piuma grande e grigiastra."
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
@@ -411,13 +411,13 @@
         "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Howl",
-        "str": "Sinistro"
+        "str": "L'Urlo"
     },
     {
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "Sorriso"
+        "str": "Il Bagliore"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
@@ -435,7 +435,7 @@
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "Ululato"
+        "str": "La Smorfia"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -447,7 +447,7 @@
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cackle",
-        "str": "Prendi nota del comportamento delle bambole"
+        "str": "La Chiacchera"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
@@ -471,7 +471,7 @@
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silhouette",
-        "str": "La Silhouette"
+        "str": "L'Ombra"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
@@ -483,19 +483,19 @@
         "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Haunting",
-        "str": "Appostamento"
+        "str": "L'Ossessione"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
         "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_31.Text",
         "id": "Doll List",
-        "str": "Elenco delle bambole"
+        "str": "Lista Bambole"
     },
     {
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "Sono apparsi più obiettivi nella foto; prova ad avvicinarti e concentrati solo sull'obiettivo desiderato."
+        "str": "Nella foto sono apparsi più soggetti; prova ad avvicinarti e metti a fuoco solo il soggetto desiderato."
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -531,19 +531,19 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "L'obiettivo non è stato rilevato, prova a concentrarti di più e mantieni una certa distanza in cui è possibile vedere l'intero obiettivo"
+        "str": "Il soggetto non è stato rilevato, prova a metterlo più a fuoco e a tenere una distanza precisa che ti permetta di vedere l'intero soggetto."
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
         "id": "Results",
-        "str": "Equipaggia il fusibile e vai sul retro della casa per attivarlo"
+        "str": "Risultati"
     },
     {
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "Il Predatore"
+        "str": "La Stalker"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
@@ -555,19 +555,19 @@
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "Silenzio"
+        "str": "La Ghignante"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "Il Vento Sussurrante"
+        "str": "La Sibilante"
     },
     {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
-        "str": "Crepuscolo"
+        "str": "Il Ghoul"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -609,7 +609,7 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "Sangue di serpente"
+        "str": "Carta scura dell'anima"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -663,13 +663,13 @@
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "Dondolio"
+        "str": "Veleno di scorpione"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twilight",
-        "str": "Il Crepuscolo"
+        "str": "Il Tramonto"
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
@@ -693,7 +693,7 @@
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "Punteggio"
+        "str": "Sangue di serpente"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
@@ -717,7 +717,7 @@
         "key": "37B6780C449B80C581D1478BD1CB6A4A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veiled",
-        "str": "Il Velato"
+        "str": "La Velata"
     },
     {
         "key": "37DA48C441B25CD0CEC7AFA4F75F6914",
@@ -729,13 +729,13 @@
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "Enigma"
+        "str": "La Lamentosa"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
-        "str": "Gli piace"
+        "str": "Piace"
     },
     {
         "key": "3837591C42D92A7775C0598726DC6D31",
@@ -747,7 +747,7 @@
         "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
         "id": "The items you equip will be lost!",
-        "str": "Gli oggetti che equipaggi andranno persi!"
+        "str": "Gli oggetti equipaggiati andranno persi!"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
@@ -759,7 +759,7 @@
         "key": "3AD41353481D8F51B3C3699171A4CED1",
         "location": "/Game/enums/gamemodes.gamemodes.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Classic",
-        "str": "Classico"
+        "str": "Classica"
     },
     {
         "key": "3AEB5BB747D3C431D54680AEFDB7D404",
@@ -771,13 +771,13 @@
         "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An ancient piece of paper.",
-        "str": "Un pezzo di carta antico."
+        "str": "Un foglio di carta antico."
     },
     {
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Spacious bag",
-        "str": "Libro delle anime"
+        "str": "Borsa capiente"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -795,7 +795,7 @@
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "Grido"
+        "str": "La Luttuosa"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -825,7 +825,7 @@
         "key": "3F845D654ED6C33DC540F4BC414F7994",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ebon",
-        "str": "Paura"
+        "str": "L'Ebano"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -843,7 +843,7 @@
         "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Bone",
-        "str": "Prendi la torcia"
+        "str": "L'Ossuta"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
@@ -879,7 +879,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "Colui che si apposta"
+        "str": "La Cacciatrice"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -891,7 +891,7 @@
         "key": "4512207B47CE117247765CBA14FC9108",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Inimicitia",
-        "str": "Inimicitia"
+        "str": "Ostilità"
     },
     {
         "key": "455698874FAE4AEB808E15AA36758F84",
@@ -933,7 +933,7 @@
         "key": "46CE50D24305DF8EE5E3069A686AD62E",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(4).texts",
         "id": "What do we have left?",
-        "str": "Cosa ci resta?"
+        "str": "Cosa ci rimane?"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -945,7 +945,7 @@
         "key": "4798B1E54C73C4932878B1A4630376ED",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering",
-        "str": "Il Sussurrare"
+        "str": "La Sussurrante"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
@@ -975,7 +975,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "Sudario"
+        "str": "La Notte"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -999,7 +999,7 @@
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A clear and pure crystal.",
-        "str": "Un cristallo chiaro e puro."
+        "str": "Un cristallo limpido e puro."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1023,13 +1023,13 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "Lo Strano"
+        "str": "La Perturbante"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getNeedText [Script Bytecode]",
         "id": "You need {name}",
-        "str": "Hai bisogno di {name}"
+        "str": "Ti serve {name}"
     },
     {
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
@@ -1059,7 +1059,7 @@
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "Negozio"
+        "str": "Prendi la torcia"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
@@ -1089,7 +1089,7 @@
         "key": "58DD772D4ABE943A14B03D9A569701B6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals love",
-        "str": "Elisir che rivela amore"
+        "str": "Elisir che rivela l'amore"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
@@ -1137,7 +1137,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Devi usare il libro delle anime prima di salvare la bambola impostore"
+        "str": "Devi usare il libro delle anime prima di salvare la bambola impostore."
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1161,13 +1161,13 @@
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Umbral",
-        "str": "Il Buio"
+        "str": "L'Ombroso"
     },
     {
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "Risultati"
+        "str": "Dondolo"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -1215,7 +1215,7 @@
         "key": "62E75F3344325D96C309BFB52949F95A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
         "id": "Stuffed Animals",
-        "str": "Carta dell'anima"
+        "str": "Animali di peluche"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -1227,7 +1227,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
-        "str": "Ti ho dato alcuni oggetti da usare. Accedi al baule dietro di te per recuperare gli oggetti e le armi. Equipaggia tutti gli oggetti e per usarli cambia arma utilizzando il pulsante di cambio arma avanti o indietro."
+        "str": "Ti ho dato alcuni oggetti da usare. Apri il baule dietro di te per prendere oggetti e armi. Equipaggia tutti gli oggetti. Per usarli, cambiali utilizzando il pulsante di cambio arma avanti o dietro."
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1245,13 +1245,13 @@
         "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
-        "str": "Lo Spettro"
+        "str": "La Spettrale"
     },
     {
         "key": "64560D0D45E7BCC7553F16A4D1CC9723",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "History Cases",
-        "str": "Casi storici"
+        "str": "Storia dei casi"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
@@ -1269,7 +1269,7 @@
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Riddle",
-        "str": "L'Enigma"
+        "str": "L'Enigmatica"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -1311,19 +1311,19 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "Bene, scopriamo alcune cose su una delle bambole. Sceglieremo Lil per questo. Applica tutti gli elisir e le carte su di lei. Apri il tuo taccuino e prendi nota di tutto ciò che osservi. Ad esempio, quando applichi un elisir, hai 10 secondi per controllare la sua relazione con un'altra bambola, quindi annota tutte le tue osservazioni. Assicurati anche di fotografare ogni bambola; se non lo fai, perderai il 90% della ricompensa finale. Ci vediamo tra 160 secondi!"
+        "str": "Allora, scopriamo alcune cose su una delle bambole. Sceglieremo Lil per questo scopo. Utilizza tutti gli elisir e le carte su di lei. Apri il taccuino e prendi nota di tutto ciò che vedi. Ad esempio, quando si applica un elisir, si hanno 10 secondi per verificare la sua relazione con un'altra bambola, quindi è bene annotare tutte le osservazioni. Accertati di scattare anche una foto di ogni bambola; se non lo fai, sarai penalizzato al 90% della ricompensa finale. Ci vediamo tra 160 secondi!"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
         "location": "/Game/data-tables/itemList.itemList.NewRow.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Camera",
-        "str": "Macchina fotografica"
+        "str": "Fotocamera"
     },
     {
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "Gemito"
+        "str": "Il Lamento"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
@@ -1341,7 +1341,7 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "Criptico"
+        "str": "La Catastrofe"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1359,7 +1359,7 @@
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "Spirito"
+        "str": "La Mezzanotte"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
@@ -1395,25 +1395,25 @@
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "Lamento"
+        "str": "La Santa"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "Petali di rosa"
+        "str": "Frutti piccoli e succosi."
     },
     {
         "key": "7031AD7A4DA6E52A478205B8558A9C5A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a Soul Book. If you haven't finished the tasks, you can do so now. This book will awaken the impostor, and you have 180 seconds to find the impostor once you use it. If you don't succeed, the impostor will kill you. When you're sure who the impostor is, use the sports bag to trap them inside. The tutorial ends here—it's now up to you to continue and uncover the truth. Good luck!",
-        "str": "Ti ho dato un Libro delle Anime. Se non hai finito i compiti, puoi farlo ora. Questo libro risveglierà l'impostore e hai 180 secondi per trovare l'impostore dopo averlo usato. Se fallisci, l'impostore ti ucciderà. Quando sei sicuro di chi è l'impostore, usa la borsa sportiva per intrappolarlo dentro. Il tutorial finisce qui: ora tocca a te continuare e scoprire la verità. Buona fortuna!"
+        "str": "Ti ho dato il Libro delle Anime. Se non hai ancora finito i compiti, puoi farlo ora. Questo libro risveglierà l'impostore e, una volta usato, avrai 180 secondi per trovare l'impostore. Se non ci riesci, l'impostore ti ucciderà. Quando sei sicuro di chi sia l'impostore, usa la sacca sportiva per intrappolarlo all'interno. Il tutorial termina qui: ora sta a te continuare e scoprire la verità. Buona fortuna!"
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "Luccichio"
+        "str": "La Pallida"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -1431,7 +1431,7 @@
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "Smorfia"
+        "str": "L'Abbaglio"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -1461,7 +1461,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Benvenuto in Modalità Carriera. In questa modalità di gioco, dovrai scoprire informazioni sulle bambole e risolvere correttamente ogni caso."
+        "str": "Benvenuto nella modalità Carriera. In questa modalità di gioco, devi scoprire le informazioni sulle bambole e risolvere correttamente ogni caso."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1515,7 +1515,7 @@
         "key": "7716C8834922818B3241669F9591DF51",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_16.Text",
         "id": "Costs",
-        "str": "Costi"
+        "str": "Costa"
     },
     {
         "key": "773B946148501068D9A5B3A814B81ECD",
@@ -1539,7 +1539,7 @@
         "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echosong",
-        "str": "Strano"
+        "str": "La canzone dell'eco"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
@@ -1563,7 +1563,7 @@
         "key": "7969D08443D6AB359F1A76AFDC805E0F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmurer",
-        "str": "Ombra"
+        "str": "La Mormorante"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -1575,7 +1575,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Hai usato tutto ciò che dovevi usare qui"
+        "str": "Ha utilizzato tutto ciò che era necessario utilizzare qui."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1587,13 +1587,13 @@
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "Minaccia"
+        "str": "Il Silenzio"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "Cupo"
+        "str": "La Nascosta"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
@@ -1605,13 +1605,13 @@
         "key": "7B965EEB441BE13C098439BB745C2F25",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You're short of ingredients to make this",
-        "str": "Ti mancano gli ingredienti per farlo"
+        "str": "Non hai abbastanza ingredienti per prepararlo"
     },
     {
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
-        "str": "Niente ha più senso"
+        "str": "Nulla ha più senso"
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1641,7 +1641,7 @@
         "key": "7EB47B9449369EB3E3F18C972CC18786",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals enmity",
-        "str": "Elisir che rivela inimicizia"
+        "str": "Elisir che rivela l'inimicizia"
     },
     {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
@@ -1695,7 +1695,7 @@
         "key": "80B42CA54800387D3889EDBDBB0E290E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spectral",
-        "str": "Il Spettrale"
+        "str": "Lo Spettrale"
     },
     {
         "key": "814D9929402ED9670B11B8A5F77DD89E",
@@ -1713,13 +1713,13 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "Anima"
+        "str": "Il Pallido"
     },
     {
         "key": "821C250E485ED0C26041C8830F8E0625",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A durable and flexible material.",
-        "str": "Un materiale durevole e flessibile."
+        "str": "Un materiale resistente e flessibile."
     },
     {
         "key": "834E072547D98D80C120CD87A16FA4D6",
@@ -1743,7 +1743,7 @@
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "Veggente"
+        "str": "Il Torbido"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -1755,13 +1755,13 @@
         "key": "84B3B484489A7A0017B755B62F30FC82",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text",
         "id": "Accept Case",
-        "str": "Accetta il caso"
+        "str": "Accetta Caso"
     },
     {
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "Elettricità attiva! Torna a casa."
+        "str": "Elettricità accesa! Torna nella casa."
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
@@ -1773,7 +1773,7 @@
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
-        "str": "Quando sei pronto, fai clic sul pulsante Accetta per prendere in carico questo caso"
+        "str": "Punteggio"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -1791,7 +1791,7 @@
         "key": "87B1E3F54AA52AE964B7BDAF99914042",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering Breeze",
-        "str": "La Brezza Sussurrante"
+        "str": "Il Vento Che Sussurra"
     },
     {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
@@ -1803,7 +1803,7 @@
         "key": "8841057C4E79D1D004AE35BDDA5930D6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals hatred",
-        "str": "Elisir che rivela odio"
+        "str": "Elisir che rivela l'odio"
     },
     {
         "key": "89B0338340E9602DE85B9797AE55D96F",
@@ -1827,7 +1827,7 @@
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "Appostamento"
+        "str": "La Vuota"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
@@ -1899,7 +1899,7 @@
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "Oscuro"
+        "str": "L'Attesa"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -1917,13 +1917,13 @@
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals tastes",
-        "str": "Carta che rivela gusti"
+        "str": "Carta che rivela i gusti"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals distastes",
-        "str": "Carta che rivela antipatie"
+        "str": "Carta che rivela il disgusto"
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -1935,7 +1935,7 @@
         "key": "9412FB8146653EECA5DBB2BD2504B413",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Bag",
-        "str": "Borsa"
+        "str": "Sacca"
     },
     {
         "key": "9432768D4222957489019C86BD251CA3",
@@ -1989,7 +1989,7 @@
         "key": "986FE18441EBE7BFF160D38E25BEF05E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom Breeze",
-        "str": "La Brezza del Fantasma"
+        "str": "La Brezza Fantasma"
     },
     {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
@@ -2007,7 +2007,7 @@
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "L'Urlo"
+        "str": "La Stridente"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
@@ -2019,7 +2019,7 @@
         "key": "9AA78476434241C7EE4929A6B33EE813",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shifting Shadow",
-        "str": "L'Ombra Mutevole"
+        "str": "L'Ombra Che Cambia"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
@@ -2031,7 +2031,7 @@
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "Sussurro"
+        "str": "Il Pericolo"
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
@@ -2049,7 +2049,7 @@
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "Infestato"
+        "str": "Il Tramontante"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -2079,7 +2079,7 @@
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
-        "str": "Silenzio"
+        "str": "L'Oscura"
     },
     {
         "key": "9E696588498FFE8F35EE90B3AA88ABCB",
@@ -2091,7 +2091,7 @@
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_9.Text",
         "id": "Location",
-        "str": "Posizione"
+        "str": "Luogo"
     },
     {
         "key": "A0C0892943CF5FC4B208879116F465F0",
@@ -2115,7 +2115,7 @@
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "Il Malvagio"
+        "str": "La Malvagia"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -2139,13 +2139,13 @@
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Abyss",
-        "str": "Scatta foto delle bambole per riempire gli indizi"
+        "str": "L'Abissale"
     },
     {
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
-        "str": "Ombra"
+        "str": "La Torbida"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2175,19 +2175,19 @@
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dark",
-        "str": "Brivido"
+        "str": "L'Oscurità"
     },
     {
         "key": "A85FE73E4E95AFA89A84E38F80B87C59",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spooky",
-        "str": "Il Spaventoso"
+        "str": "Il Terrificante"
     },
     {
         "key": "A97B724146EEB86D384D6A85A4F8931C",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Craft",
-        "str": "Artigianato"
+        "str": "Costruisci"
     },
     {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
@@ -2211,13 +2211,13 @@
         "key": "AC46E8C5498572C242CBADA69A94A0A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mint",
-        "str": "Menta"
+        "str": "Nuovo"
     },
     {
         "key": "AC61D57E4AA1B3D2ED8E35BD60ADA0B2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom",
-        "str": "Il Fantasma"
+        "str": "Il Phantom"
     },
     {
         "key": "AD00137D457BF38AE614FC9EE94D1425",
@@ -2229,19 +2229,19 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "Attiva la battaglia finale per smascherare l'impostore."
+        "str": "Attiva la battaglia finale per scoprire l'impostore."
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "Un piccolo cuore scuro e avvizzito."
+        "str": "Un cuore piccolo, scuro e raggrinzito."
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Rose Petals",
-        "str": "Rivedi le varie schede per familiarizzare con esse"
+        "str": "Petali di rosa"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
@@ -2253,7 +2253,7 @@
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "Hai perso il 90% dell'intera ricompensa a causa delle foto mancanti"
+        "str": "Hai perso il 90% dell'intera ricompensa a causa delle foto mancanti."
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2271,13 +2271,13 @@
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "Ansimare"
+        "str": "Lo Sfarfallio"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "Il Sussurro Ombreggiato"
+        "str": "Il Sussurro Oscuro"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -2301,7 +2301,7 @@
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals friendship",
-        "str": "Elisir che rivela amicizia"
+        "str": "Elisir che rivela l'amicizia"
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
@@ -2361,19 +2361,19 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Richiede energia"
+        "str": "Esamina le varie schede per familiarizzare con esse. Quando sei pronto, fai clic sul pulsante Accetta per accettare il caso."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Scowl",
-        "str": "Il Cipiglio"
+        "str": "L'Imbronciato"
     },
     {
         "key": "B7532CB642D1303CB57FF89D855B8189",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_14.Text",
         "id": "Days elapsed",
-        "str": "Giorni trascorsi"
+        "str": "Giorni passati"
     },
     {
         "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
@@ -2385,7 +2385,7 @@
         "key": "B83348AE4D0F332AFE32DA9CCA2BB2FF",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_4.Text",
         "id": "Only visible items that you can equip",
-        "str": "Solo oggetti visibili che puoi equipaggiare"
+        "str": "Solo gli oggetti visibili che si possono equipaggiare"
     },
     {
         "key": "B8952A3841AAE9C0034514AC607965D8",
@@ -2403,7 +2403,7 @@
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghoster",
-        "str": "Il Fantasma"
+        "str": "Lo Scomparso"
     },
     {
         "key": "B9B809EC40076554656E1A8C91157931",
@@ -2487,7 +2487,7 @@
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "Enigma"
+        "str": "La Suggestiva"
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
@@ -2499,19 +2499,19 @@
         "key": "C0FE25964E732C097D287AB368FB54A4",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
         "id": "Dislikes",
-        "str": "Non gli piace"
+        "str": "Non piace"
     },
     {
         "key": "C12E045B48D3B1A859F1D5AFD11628E5",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Amicitia",
-        "str": "Amicitia"
+        "str": "Amicizia"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
-        "str": "Ora accendiamo l'elettricità"
+        "str": "Richiede elettricità"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
@@ -2529,7 +2529,7 @@
         "key": "C312729245B39D3E05385886891922CF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
         "id": "God, Save Us",
-        "str": "Dio, salvaci"
+        "str": "Che Dio ci salvi"
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2541,7 +2541,7 @@
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "Il Piccolo Ombra"
+        "str": "Il Signore Delle Ombre"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2553,13 +2553,13 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "Dispositivo portatile che produce una fiamma per accendere un fuoco"
+        "str": "Dispositivo portatile che produce una fiamma per accendere il fuoco."
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
         "id": "The pain is overwhelming",
-        "str": "Il dolore è travolgente"
+        "str": "Il dolore è opprimente"
     },
     {
         "key": "C8A00764485261B746BFEE94C58D6ECA",
@@ -2583,7 +2583,7 @@
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "Frutti piccoli e succosi"
+        "str": "Libro delle anime"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
@@ -2607,7 +2607,7 @@
         "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "Dropped",
-        "str": "Abbandonato"
+        "str": "Lasciato"
     },
     {
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
@@ -2655,7 +2655,7 @@
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "Risatina"
+        "str": "Il Terrificante"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
@@ -2667,13 +2667,13 @@
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
-        "str": "Eco"
+        "str": "La Riecheggiante"
     },
     {
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "Borsa spaziosa"
+        "str": "Scatta le foto alle bambole per trovare gli indizi"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2697,7 +2697,7 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "Vuoto"
+        "str": "Il Triste"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2709,31 +2709,31 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room. Use the flashlight to see better.",
-        "str": "Entra in casa e trova la stanza delle bambole. Usa la torcia per vedere meglio."
+        "str": "Entra nella casa e trova la stanza delle bambole. Usa la torcia per vedere meglio."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "Abisso"
+        "str": "La Viscida"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "Il Brivido"
+        "str": "La Fremente"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "Triste"
+        "str": "L'Appostata"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
         "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take notes on the behavior of the dolls",
-        "str": "Peluche"
+        "str": "Prendi appunti sul comportamento delle bambole"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -2757,7 +2757,7 @@
         "key": "D637C70741EFAAB1C70592A3E73D29E3",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_48.Text",
         "id": "Actions left",
-        "str": "Azioni rimanenti"
+        "str": "Azioni rimaste"
     },
     {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
@@ -2805,7 +2805,7 @@
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wisp",
-        "str": "Il Bagliore"
+        "str": "Il Fuoco Fatuo"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -2823,7 +2823,7 @@
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "Non puoi farlo, non si adatta a nessuna ricetta"
+        "str": "Non puoi crearlo, non è presente in alcuna ricetta."
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -2841,7 +2841,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Ricorda che al momento non puoi interagire con nulla poiché questo è il tutorial"
+        "str": "Ricorda che in questo momento non potrai interagire con nulla, dato che si tratta di un tutorial. Adesso attiviamo l'elettricità. Equipaggia il fusibile e vai nel retro della casa per attivare l'elettricità."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -2859,7 +2859,7 @@
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "Se torni al rifugio, la casa ripristinerà il suo stato e perderai gli oggetti equipaggiati."
+        "str": "Se torni al rifugio, la casa sarà ripristinata e perderai gli oggetti equipaggiati."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -2889,7 +2889,7 @@
         "key": "E321649D4AF8734E473FEDB0404E1B2E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(42 - Value).DisplayNameMap",
         "id": "Move frames",
-        "str": "Sposta cornici"
+        "str": "Sposta i quadri"
     },
     {
         "key": "E447809B421298C1BDA5E4B063D86F49",
@@ -2913,7 +2913,7 @@
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "Foglie verdi rinfrescanti"
+        "str": "Foglie verdi rinfrescanti."
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
@@ -2937,13 +2937,13 @@
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "Malvagio"
+        "str": "Il Presagio"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisper",
-        "str": "Il Sussurro"
+        "str": "La Sibilante"
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -2967,7 +2967,7 @@
         "key": "E9F12A4243E6AE323515DE8E9AA0162B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Specter",
-        "str": "Lo Spettro"
+        "str": "La Spettrale"
     },
     {
         "key": "EABE87674E476F817EEF85B6E5E00296",
@@ -2979,7 +2979,7 @@
         "key": "EB61DE2843D60E7D5AF23EB48A67DE8B",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_21.Text",
         "id": "Rank",
-        "str": "Grado"
+        "str": "Posizione"
     },
     {
         "key": "ECA7B6BD4DC5448D5BC007A0A56EFE97",
@@ -3009,13 +3009,13 @@
         "key": "EE4D8F97450682A6D1DF0D88D6A4FFC6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Amans",
-        "str": "Amans"
+        "str": "Ama"
     },
     {
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "Immersione"
+        "str": "La Crepuscolare"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3039,7 +3039,7 @@
         "key": "F21C143F425251C3614B29BD90BD710D",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_9.ToolTipText",
         "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
-        "str": "Più basso è il rapporto, più informazioni sulle bambole verranno rilasciate inizialmente (da 2 a 10)"
+        "str": "Più basso è il rapporto, più informazioni sulle bambole saranno diffuse inizialmente (da 2 a 10)."
     },
     {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
@@ -3057,7 +3057,7 @@
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "Un liquido amaro e vischioso."
+        "str": "Un liquido amaro e viscoso."
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3069,13 +3069,13 @@
         "key": "F28B41324F202FA2E02A0DB59579D291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wretched",
-        "str": "Il Miserabile"
+        "str": "La Miserabile"
     },
     {
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "Un liquido dorato e dolce."
+        "str": "Un liquido dolce e dorato."
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3129,7 +3129,7 @@
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "Sinistro"
+        "str": "Il Terrore"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
@@ -3147,37 +3147,37 @@
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mandrake Root",
-        "str": "Radice di mandragora"
+        "str": "Radice di mandragola"
     },
     {
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "Oscurità"
+        "str": "La Sommersa"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Avrai un caso disponibile con vari parametri dinamici. Visualizzerà informazioni simili a quelle attuali, e se non ti piace, puoi cercare un nuovo caso in cambio di denaro. Attualmente, in modalità tutorial, abbiamo limitato le tue interazioni; non potrai acquistare, creare, abbandonare il caso o cercare un nuovo caso."
+        "str": "Avrai a disposizione un caso con diversi parametri dinamici. Mostrerà informazioni come quello attuale e, se non ti piace, potrai cercare un nuovo caso in cambio di denaro. Al momento, in modalità tutorial, abbiamo limitato le interazioni: non si potrà acquistare, creare, uscire dal caso o cercare un nuovo caso."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_7.Text",
         "id": "You don't have enough money",
-        "str": "Non hai abbastanza soldi"
+        "str": "Non hai abbastanza denaro"
     },
     {
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "Veleno di scorpione"
+        "str": "Petali di rosa morbidi e profumati."
     },
     {
         "key": "F7E0F0DC47429C7F044DA5B68C122215",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Macabre",
-        "str": "Offuscato"
+        "str": "Il Macabro"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3195,7 +3195,7 @@
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "Liquido chiaro e letale."
+        "str": "Liquido limpido e mortale."
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
@@ -3231,7 +3231,7 @@
         "key": "FB77087A4862A67B758D529F87748C2F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
         "id": "Chaos consumes us",
-        "str": "Il caos ci consuma"
+        "str": "Il caos ci divora"
     },
     {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
@@ -3291,7 +3291,7 @@
         "key": "FEEFC0A44A89E6CC7163CEB1F9C3F1B8",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_15.Text",
         "id": "XP Earned",
-        "str": "XP guadagnato"
+        "str": "XP guadagnati"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
@@ -3303,7 +3303,7 @@
         "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Paper",
-        "str": "Petali di rosa morbidi e profumati"
+        "str": "Carta dell'anima"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
