@@ -212,7 +212,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "摇摆自己"
+        "str": "给自己荡秋千"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -1161,7 +1161,7 @@
         "key": "5E1C23674444BB331554B39281C7EA20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
-        "str": "摇晃他人"
+        "str": "给他人荡秋千"
     },
     {
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
@@ -1792,7 +1792,7 @@
         "key": "8785C0644A30D7680DD4668FB916A03A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
         "id": "Hide Others",
-        "str": "隐藏其他"
+        "str": "隐藏他人"
     },
     {
         "key": "878E24534B885E2AB87EACB0394A0E58",
@@ -1816,7 +1816,7 @@
         "key": "8841057C4E79D1D004AE35BDDA5930D6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals hatred",
-        "str": "揭示厌恶的灵药Elixir that reveals hatred"
+        "str": "揭示厌恶的灵药"
     },
     {
         "key": "89B0338340E9602DE85B9797AE55D96F",
@@ -2188,7 +2188,7 @@
         "key": "A7C36D644573AD30716F4283EBBE53D2",
         "location": "/Game/enums/actions.actions.DisplayNameMap(28 - Value).DisplayNameMap",
         "id": "Swings",
-        "str": "摇摆"
+        "str": "秋千"
     },
     {
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
@@ -3094,7 +3094,7 @@
         "key": "F2BC9C064F532236387F0ABC86BA8078",
         "location": "/Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Organization",
-        "str": "组织"
+        "str": "整理"
     },
     {
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
