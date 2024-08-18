@@ -2539,6 +2539,12 @@
         "str": "面包车右侧"
     },
     {
+        "key": "C6298185486DF0A5C64519AD8B518D4C",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Shadowling",
+        "str": "小阴影"
+    },
+    {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
