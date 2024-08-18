@@ -1363,12 +1363,6 @@
         "str": "阴森恐怖"
     },
     {
-        "key": "6B92E0B24CD6F431CC954DA69AF2CE3F",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Shadow 47",
-        "str": "47号暗影"
-    },
-    {
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
