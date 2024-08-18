@@ -1105,7 +1105,7 @@
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
         "str": "你赢了"
     },
