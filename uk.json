@@ -120,6 +120,12 @@
         "str": "Витрати будуть відображені в цінах на товари в магазині"
     },
     {
+        "key": "0860FF434B759F0DDD299AAD5097224D",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_50.Text",
+        "id": "Reset settings",
+        "str": "Скинути налаштування"
+    },
+    {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
@@ -888,12 +894,6 @@
         "str": "Ім'я"
     },
     {
-        "key": "4512207B47CE117247765CBA14FC9108",
-        "location": "/Game/data-tables/itemList.itemList.NewRow_7.name_12_D217604B46FF9197C7004FBE2050F6FD",
-        "id": "Inimicitia",
-        "str": "Ворожість"
-    },
-    {
         "key": "455698874FAE4AEB808E15AA36758F84",
         "location": "/Game/enums/actions.actions.DisplayNameMap(30 - Value).DisplayNameMap",
         "id": "Houses",
@@ -1122,6 +1122,12 @@
         "str": "Випадковий, але нескінченний режим, у вас є 3-хвилинний таймер для вирішення справи, і є таблиця лідерів"
     },
     {
+        "key": "5A9082C24056C8BFE9DE8EA9069EF292",
+        "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
+        "id": "For the changes to take effect, restart the game",
+        "str": "Щоб зміни набрали чинності, перезапустіть гру"
+    },
+    {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
@@ -1156,6 +1162,12 @@
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
         "str": "Розгойдувати інших"
+    },
+    {
+        "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_52.Text",
+        "id": "Invert Camera",
+        "str": "Інвертувати камеру"
     },
     {
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
@@ -2502,12 +2514,6 @@
         "str": "Не подобається"
     },
     {
-        "key": "C12E045B48D3B1A859F1D5AFD11628E5",
-        "location": "/Game/data-tables/itemList.itemList.NewRow_6.name_12_D217604B46FF9197C7004FBE2050F6FD",
-        "id": "Amicitia",
-        "str": "Аміцитія"
-    },
-    {
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
@@ -2772,12 +2778,6 @@
         "str": "Фліртун"
     },
     {
-        "key": "D8CE402B452C5A79DCE582A6ADC2F93B",
-        "location": "/Game/data-tables/itemList.itemList.NewRow_5.name_12_D217604B46FF9197C7004FBE2050F6FD",
-        "id": "Odium",
-        "str": "Ненависть"
-    },
-    {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
         "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
         "id": "Hide Self",
@@ -3004,12 +3004,6 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_12.Text",
         "id": "Next Equipment",
         "str": "Наступне обладнання"
-    },
-    {
-        "key": "EE4D8F97450682A6D1DF0D88D6A4FFC6",
-        "location": "/Game/data-tables/itemList.itemList.NewRow_8.name_12_D217604B46FF9197C7004FBE2050F6FD",
-        "id": "Amans",
-        "str": "Аманс"
     },
     {
         "key": "EEEE750B4277BD6C5835BD901B924179",
