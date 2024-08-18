@@ -1284,12 +1284,6 @@
         "str": "È l'ultima ora. Questa è l'ultima possibilità per scoprire l'impostore. Andiamo nella stanza delle bambole."
     },
     {
-        "key": "663521DE48EC97BC28D795B365648BE9",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Ghost 28",
-        "str": "Il Fantasma 28"
-    },
-    {
         "key": "66D14BB44970D4F17A0184929B3FE083",
         "location": "/Game/enums/actions.actions.DisplayNameMap(58 - Value).DisplayNameMap",
         "id": "Animated Stuffed animal",
