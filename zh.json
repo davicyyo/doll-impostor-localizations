@@ -2113,6 +2113,12 @@
         "str": "左侧位置"
     },
     {
+        "key": "A25E20BF4E349221F9E980AF8435D2FD",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Wicked",
+        "str": "邪恶的"
+    },
+    {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
         "id": "Can you help me with a positive review?",
