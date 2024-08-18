@@ -21,7 +21,7 @@
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "Le Ténébreux"
+        "str": "L'Être des Ténèbres"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -879,7 +879,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "La Hauntling"
+        "str": "L'Être Tourmenteur"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
