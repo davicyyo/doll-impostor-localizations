@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "กระดูก"
+        "str": "อัปรีย์"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -15,13 +15,13 @@
         "key": "008C17DA426E713F7F3A418B4FDE1BE4",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Leather",
-        "str": "หนัง"
+        "str": "ผ้าหนัง"
     },
     {
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "น่ากลัว"
+        "str": "มืดมน"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -51,7 +51,7 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "พลบค่ำ"
+        "str": "กังวาน"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
@@ -75,7 +75,7 @@
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "หน้าบึ้ง"
+        "str": "บูดบึ้ง"
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -99,7 +99,7 @@
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "ผี 28"
+        "str": "พะงาบ"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -117,7 +117,7 @@
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_7.ToolTipText",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "ค่าใช้จ่ายจะสะท้อนในราคาสินค้าในร้าน"
+        "str": "ต้นทุนจะปรากฏในราคาของสินค้าในร้าน"
     },
     {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
@@ -135,7 +135,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "ตอนนี้คุณยอมรับกรณีนี้แล้ว นอกเหนือจากบทช่วยสอน คุณสามารถละทิ้งเคสได้ตลอดเวลา แต่คุณจะไม่สามารถหากรณีใหม่ได้เมื่อคุณยอมรับ เมื่อทุกอย่างเรียบร้อยแล้ว ให้เดินทางไปยังตำแหน่งที่คุณพร้อม"
+        "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ แต่จะไม่สามารถหาเคสใหม่เมื่อคุณเลือกรับเคสก่อนหน้านี้ได้ เมื่อคุณจัดการเรียบร้อยแล้ว ให้เดินทางไปยังสถานที่นั้นเมื่อคุณพร้อม"
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -165,7 +165,7 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "ฝักวานิลลาที่มีกลิ่นหอม"
+        "str": "ฝักวานิลลาหอม"
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -195,13 +195,13 @@
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "กระดาษวิญญาณมืด"
+        "str": "ร้านค้า"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_2.Text",
         "id": "Smooth Camera",
-        "str": "ความลื่นไหลของกล้อง"
+        "str": "ความลื่นไหลกล้อง"
     },
     {
         "key": "0D7E18B14371021AF672E392EB48BEA1",
@@ -255,25 +255,25 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "ดอกไม้สีขาวที่มีกลีบดอกอ่อนนุ่ม"
+        "str": "ดอกไม้ขาวกลีบนุ่ม"
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigmatic",
-        "str": "แสงวูบวาบ"
+        "str": "เร้นลับ"
     },
     {
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "กระซิบเงา"
+        "str": "พึมพำ"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantasm",
-        "str": "กระซิบ"
+        "str": "ฟุ้งซ่าน"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -315,19 +315,19 @@
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "การสั่นสะเทือน"
+        "str": "ทาบเงา"
     },
     {
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "รากบิดเบี้ยวและน่ากลัว"
+        "str": "รากบิดเบี้ยวน่ากลัว"
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
         "location": "/Game/enums/actions.actions.DisplayNameMap(48 - Value).DisplayNameMap",
         "id": "Magic trick",
-        "str": "กลเม็ด"
+        "str": "เคล็ดลับมายากล"
     },
     {
         "key": "19750FC24F8A0B2279246B801F612D34",
@@ -357,31 +357,31 @@
         "key": "1AF5392F481406F80C566FB0740D5D3D",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shady",
-        "str": "ความมืด"
+        "str": "ตะคุ่ม"
     },
     {
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "ผี 37"
+        "str": "ซีดเผือก"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(7).texts",
         "id": "There seems to be no way out",
-        "str": "ดูเหมือนไม่มีทางออก"
+        "str": "ดูเหมือนว่าจะไม่มีทางออกไปได้"
     },
     {
         "key": "1C4788334C67D107A7BE1F931C0A749E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_24.Text",
         "id": "Your election",
-        "str": "ทางเลือกของคุณ"
+        "str": "คุณได้เลือกแล้ว"
     },
     {
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา รอให้ผลกระทบหมดลงก่อนที่จะใช้ตัวอื่น"
+        "str": "ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา รอให้ฤทธิ์ยาหมดลงก่อนที่จะใช้กับตัวอื่น"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -393,7 +393,7 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "ขนาดใหญ่และขนนกสีเทา"
+        "str": "ขนนกสีเทาใหญ่"
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
@@ -405,19 +405,19 @@
         "key": "1DFB0F2649F857BCBC918D9215167D9B",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Case",
-        "str": "กรณี"
+        "str": "เคส"
     },
     {
         "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Howl",
-        "str": "ชั่วร้าย"
+        "str": "แผดเสียง"
     },
     {
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "รอยยิ้ม"
+        "str": "ยิ้มกระชากใจ"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
@@ -429,13 +429,13 @@
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "กระซิบ"
+        "str": "ดลใจ"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "เสียงหอน"
+        "str": "ขุ่นเคือง"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -447,7 +447,7 @@
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cackle",
-        "str": "จดบันทึกพฤติกรรมของตุ๊กตา"
+        "str": "เหลวไหล"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
@@ -471,7 +471,7 @@
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silhouette",
-        "str": "เงา"
+        "str": "ลวงตา"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
@@ -483,7 +483,7 @@
         "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Haunting",
-        "str": "ซุ่มซ่อน"
+        "str": "หลอกหลอน"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -495,7 +495,7 @@
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "มีเป้าหมายหลายรายการปรากฏในภาพ; พยายามเข้าใกล้และมุ่งเน้นเฉพาะเป้าหมายที่ต้องการ"
+        "str": "มีเป้าหมายปรากฏอยู่ในภาพถ่ายมากเกินไป; พยายามเข้าไปใกล้และโฟกัสเฉพาะเป้าหมายที่คุณต้องการ"
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -507,7 +507,7 @@
         "key": "24B7D6584C3AF4730B3365BB46DDA130",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and toxic leaves.",
-        "str": "ใบมืดและเป็นพิษ"
+        "str": "ใบไม้พิษเข้มข้น"
     },
     {
         "key": "24FA60AC4C99AD7D35B45C8F7E6C1279",
@@ -531,19 +531,19 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "ไม่พบเป้าหมาย พยายามโฟกัสให้มากขึ้นและรักษาระยะห่างที่เฉพาะเจาะจงซึ่งสามารถมองเห็นเป้าหมายทั้งหมดได้"
+        "str": "ตรวจไม่พบเป้าหมาย พยายามโฟกัสให้มากขึ้นและรักษาระยะห่างที่พอเหมาะจึงจะสามารถมองเห็นเป้าหมายทั้งหมดได้"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
         "id": "Results",
-        "str": "ติดตั้งฟิวส์ของคุณและไปที่ด้านหลังของบ้านเพื่อเปิดใช้งาน"
+        "str": "ผลลัพท์"
     },
     {
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "ผู้ติดตาม"
+        "str": "ตามติด"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
@@ -555,19 +555,19 @@
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "ความเงียบ"
+        "str": "ฉีกยิ้ม"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "ลมกระซิบ"
+        "str": "พรายกระซิบ"
     },
     {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
-        "str": "โพล้เพล้"
+        "str": "ผีห่า"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -609,7 +609,7 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "เลือดงู"
+        "str": "กระดาษวิญญาณ"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -651,7 +651,7 @@
         "key": "31F30B9A42A2AFBDA2E46A82CAD31875",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_43.Text",
         "id": "Total Actions",
-        "str": "การดำเนินการทั้งหมด"
+        "str": "การกระทำทั้งหมด"
     },
     {
         "key": "32053A4646B4374EA4DBD3BC64CB936C",
@@ -663,13 +663,13 @@
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "การแกว่ง"
+        "str": "พิษแมงป่อง"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twilight",
-        "str": "พลบค่ำ"
+        "str": "สนธยา"
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
@@ -693,7 +693,7 @@
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "คะแนน"
+        "str": "เลือดงู"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
@@ -729,7 +729,7 @@
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "ปริศนา"
+        "str": "คร่ำครวญ"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
@@ -747,7 +747,7 @@
         "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
         "id": "The items you equip will be lost!",
-        "str": "ไอเท็มที่คุณสวมใส่จะหายไป!"
+        "str": "ระวังไอเท็มที่คุณใส่จะหายไป!"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
@@ -765,7 +765,7 @@
         "key": "3AEB5BB747D3C431D54680AEFDB7D404",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silent",
-        "str": "ผู้เงียบ"
+        "str": "เงียบงัน"
     },
     {
         "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
@@ -777,7 +777,7 @@
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Spacious bag",
-        "str": "หนังสือวิญญาณ"
+        "str": "ถุงขนาดใหญ่"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -795,7 +795,7 @@
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "กรีดร้อง"
+        "str": "โทมนัส"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -825,7 +825,7 @@
         "key": "3F845D654ED6C33DC540F4BC414F7994",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ebon",
-        "str": "ความกลัว"
+        "str": "มืดมน"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -843,7 +843,7 @@
         "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Bone",
-        "str": "หยิบไฟฉาย"
+        "str": "น้าผี"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
@@ -879,7 +879,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "ผู้ซุ่มซ่อน"
+        "str": "หลอกหลอน"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -933,7 +933,7 @@
         "key": "46CE50D24305DF8EE5E3069A686AD62E",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(4).texts",
         "id": "What do we have left?",
-        "str": "เราเหลืออะไรอีก?"
+        "str": "เรายังเหลืออะไรอีกหรือไม่?"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -945,7 +945,7 @@
         "key": "4798B1E54C73C4932878B1A4630376ED",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering",
-        "str": "การกระซิบ"
+        "str": "พรายกระซิบ"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
@@ -975,7 +975,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "ผ้าห่อศพ"
+        "str": "สายัณห์"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -993,19 +993,19 @@
         "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(2).texts",
         "id": "Everything is falling apart",
-        "str": "ทุกอย่างพังทลาย"
+        "str": "ทุกอย่างได้พังทลายลง"
     },
     {
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A clear and pure crystal.",
-        "str": "ผลึกใสและบริสุทธิ์"
+        "str": "คริสตัลบริสุทธิ์"
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veil",
-        "str": "ผ้าคลุมหน้า"
+        "str": "ปิดบัง"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -1023,7 +1023,7 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "แปลก"
+        "str": "ครั่นคร้าม"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -1059,7 +1059,7 @@
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "ร้านค้า"
+        "str": "หยิบไฟฉาย"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
@@ -1077,7 +1077,7 @@
         "key": "554BB9D046155183D4DCF7A14F96171E",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Duke",
-        "str": "ดยุค"
+        "str": "ท่านดยุค"
     },
     {
         "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
@@ -1089,7 +1089,7 @@
         "key": "58DD772D4ABE943A14B03D9A569701B6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals love",
-        "str": "ยาที่เผยให้เห็นความรัก"
+        "str": "น้ำอมฤตแห่งความรัก"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
@@ -1137,7 +1137,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "คุณต้องใช้หนังสือแห่งวิญญาณก่อนที่จะบันทึกตุ๊กตาปลอม"
+        "str": "คุณต้องใช้หนังสือแห่งวิญญาณก่อนจะช่วยตุ๊กตาตัวปลอม"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1161,13 +1161,13 @@
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Umbral",
-        "str": "ความมืด"
+        "str": "ร่มเงา"
     },
     {
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "ผลลัพธ์"
+        "str": "โยก"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -1185,7 +1185,7 @@
         "key": "60E9BFBD4D9BFF7D7952CA9115FFAA10",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadow",
-        "str": "เงา"
+        "str": "ทอดเงา"
     },
     {
         "key": "611C7265455A03D1E36711A53C897A09",
@@ -1197,13 +1197,13 @@
         "key": "612C02664338E6F05B4191AC77E63DA9",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_23.Text",
         "id": "Recipe List",
-        "str": "รายการสูตรอาหาร"
+        "str": "รายการสูตร"
     },
     {
         "key": "61579A7B4A7A797C38911980E669DE96",
         "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
         "id": "Jail Others",
-        "str": "เอาคนอื่นมาขัง"
+        "str": "ขังคนอื่น"
     },
     {
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
@@ -1215,7 +1215,7 @@
         "key": "62E75F3344325D96C309BFB52949F95A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
         "id": "Stuffed Animals",
-        "str": "กระดาษวิญญาณ"
+        "str": "ตุ๊กตาสัตว์"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -1227,7 +1227,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
-        "str": "ฉันให้ไอเท็มบางอย่างแก่คุณเพื่อใช้ เปิดหีบด้านหลังคุณเพื่อดึงไอเท็มและอาวุธออกมา จัดเตรียมไอเท็มทั้งหมดและเพื่อใช้งาน ให้เปลี่ยนอาวุธโดยใช้ปุ่มเปลี่ยนอาวุธไปข้างหน้าหรือข้างหลัง"
+        "str": "ฉันจะมอบไอเทมให้คุณจำนวนหนึ่งสำหรับการใช้ครั้งถัดไป โดยสามารถไปเอาที่กล่องด้านหลังของคุณเพื่อนำสิ่งของและอาวุธออกมา สามารถติดตั้งไอเท็มทั้งหมด และสามารถสลับอาวุธโดยใช้ปุ่มเปลี่ยนอาวุธถัดไปหรือก่อนหน้า"
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1245,19 +1245,19 @@
         "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
-        "str": "วิญญาณ"
+        "str": "เจตภูต"
     },
     {
         "key": "64560D0D45E7BCC7553F16A4D1CC9723",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "History Cases",
-        "str": "ประวัติคดี"
+        "str": "เคสก่อนหน้า"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "หลอดไฟสีเข้มและฉุน"
+        "str": "หลอดไฟฉุนสีเข้ม"
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
@@ -1269,7 +1269,7 @@
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Riddle",
-        "str": "ปริศนา"
+        "str": "สนเท่ห์"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -1311,7 +1311,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "โอเค มาค้นหาบางสิ่งเกี่ยวกับตุ๊กตาตัวหนึ่งกัน เราจะเลือก Lil สำหรับเรื่องนี้ ใช้ยาทั้งหมดและการ์ดกับเธอ เปิดสมุดบันทึกของคุณและจดบันทึกทุกสิ่งที่คุณสังเกตเห็น ตัวอย่างเช่น เมื่อคุณใช้ยา คุณมีเวลา 10 วินาทีในการตรวจสอบความสัมพันธ์ของเธอกับตุ๊กตาตัวอื่น ดังนั้นโปรดจดบันทึกการสังเกตทั้งหมดของคุณ อย่าลืมถ่ายรูปตุ๊กตาแต่ละตัวด้วย การไม่ทำเช่นนั้นจะทำให้คุณเสียค่าตอบแทนสุดท้าย 90% แล้วเจอกันใน 160 วินาที!"
+        "str": "เอาล่ะ เรามาดูบางสิ่งเกี่ยวกับตุ๊กตาตัวหนึ่งกันดีกว่า เราจะเลือก Lil เป็นตัวอย่าง ใช้น้ำอมฤตและการ์ดทั้งหมดกับเธอ เปิดสมุดบันทึกและจดบันทึกทุกสิ่งที่คุณสังเกตได้ เช่น เมื่อคุณใช้น้ำอมฤตแล้ว คุณมีเวลา 10 วินาทีในการตรวจสอบความสัมพันธ์ของเธอกับตุ๊กตาตัวอื่น โดยให้บันทึกสิ่งที่คุณได้เห็นทั้งหมด และอย่าลืมถ่ายรูปตุ๊กตาแต่ละตัวด้วยเช่นกัน ถ้าหากไม่ทำเช่นนั้น คุณจะเสียสิทธิ์ 90% ของรางวัลที่ได้รับ อีก 160 วินาทีเจอกันนะ!"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1323,7 +1323,7 @@
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "เสียงคราง"
+        "str": "รำพึง"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
@@ -1341,7 +1341,7 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "ลึกลับ"
+        "str": "เลวร้าย"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1359,13 +1359,13 @@
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "วิญญาณ"
+        "str": "สองยาม"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_18.Text",
         "id": "Find a new case",
-        "str": "ค้นหากรณีใหม่"
+        "str": "ค้นหาเคสใหม่"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
@@ -1395,25 +1395,25 @@
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "คร่ำครวญ"
+        "str": "บุญมี"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "กลีบกุหลาบ"
+        "str": "ผลชุ่มฉ่ำ"
     },
     {
         "key": "7031AD7A4DA6E52A478205B8558A9C5A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a Soul Book. If you haven't finished the tasks, you can do so now. This book will awaken the impostor, and you have 180 seconds to find the impostor once you use it. If you don't succeed, the impostor will kill you. When you're sure who the impostor is, use the sports bag to trap them inside. The tutorial ends here—it's now up to you to continue and uncover the truth. Good luck!",
-        "str": "ฉันให้หนังสือแห่งวิญญาณแก่คุณแล้ว หากคุณยังไม่เสร็จสิ้นงาน คุณสามารถทำได้ทันที หนังสือเล่มนี้จะปลุกผู้แอบอ้าง และคุณมีเวลา 180 วินาทีในการค้นหาผู้แอบอ้างหลังจากใช้มัน หากคุณล้มเหลว ผู้แอบอ้างจะฆ่าคุณ เมื่อคุณแน่ใจแล้วว่าใครคือผู้แอบอ้าง ให้ใช้กระเป๋ากีฬาเพื่อขังพวกเขาไว้ข้างใน บทช่วยสอนจบลงที่นี่ ขึ้นอยู่กับคุณแล้วที่จะค้นพบความจริง ขอให้โชคดี!"
+        "str": "ฉันมอบหนังสือแห่งวิญญาณแก่คุณแล้ว ถ้างานของคุณยังไม่เสร็จ คุณสามารถทำต่อได้เลย หนังสือเล่มนี้จะปลุกตุ๊กตา และมีเวลา 180 วินาทีในการค้นหาผู้แอบอ้างหลังจากใช้แล้ว ถ้าหากคุณพลาด มันสามารถฆ่าคุณได้ทันที ถ้าคุณแน่ใจแล้วว่าใครคือผู้แอบอ้าง ให้ใช้กระเป๋าเพื่อขังพวกเขาเอาไว้ในนี้ บทช่วยสอนได้จบแล้ว ตอนนี้ขึ้นอยู่กับคุณแล้วว่าคุณสามารถค้นหาความจริงได้หรือไม่ เราขอให้คุณโชคดี!"
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "แสงแวบ"
+        "str": "พิสดาร"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -1431,7 +1431,7 @@
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "หน้าบึ้ง"
+        "str": "เจิดจ้า"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -1461,7 +1461,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "ยินดีต้อนรับสู่โหมดอาชีพ ในโหมดเกมนี้ คุณจะต้องเปิดเผยข้อมูลเกี่ยวกับตุ๊กตาและแก้ไขแต่ละกรณีอย่างถูกต้อง"
+        "str": "ยินดีต้อนรับสู่โหมดอาชีพ ในโหมดเกมนี้ คุณจะต้องค้นคว้าความจริงกับตุ๊กตาและแก้ไขปัญหาในแต่ละเคสอย่างถูกต้อง"
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1491,7 +1491,7 @@
         "key": "743C50254A73CE29F7B3D7858FFBA46F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and thick liquid.",
-        "str": "ของเหลวสีเข้มและข้น"
+        "str": "ของเหลวเข้มข้น"
     },
     {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
@@ -1527,7 +1527,7 @@
         "key": "77597C9F40C4017557D06AA387E711B0",
         "location": "/Game/enums/costs.costs.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Very Expensive",
-        "str": "แพงมาก"
+        "str": "ราคาสูง"
     },
     {
         "key": "77DAE76A48EC13E45F2983881F23E808",
@@ -1539,7 +1539,7 @@
         "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echosong",
-        "str": "น่าขนลุก"
+        "str": "วิฬาร์รักษ์"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
@@ -1551,7 +1551,7 @@
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(1).texts",
         "id": "Where is the hope?",
-        "str": "ความหวังอยู่ที่ไหน?"
+        "str": "เรายังมีความหวังอยู่ไหม?"
     },
     {
         "key": "7954AA374982804CD0C829A2D5575131",
@@ -1563,7 +1563,7 @@
         "key": "7969D08443D6AB359F1A76AFDC805E0F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmurer",
-        "str": "เงา"
+        "str": "ยกเมฆ"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -1575,7 +1575,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "คุณใช้ทุกอย่างที่คุณต้องใช้ที่นี่"
+        "str": "คุณได้ใช้ของทุกอย่างตามที่คุณต้องการได้ที่นี่"
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1587,13 +1587,13 @@
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "ภัยคุกคาม"
+        "str": "อึมครึม"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "มืดมน"
+        "str": "อีแอบ"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
@@ -1605,13 +1605,13 @@
         "key": "7B965EEB441BE13C098439BB745C2F25",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You're short of ingredients to make this",
-        "str": "คุณขาดส่วนผสมในการทำเช่นนี้"
+        "str": "คุณขาดส่วนผสมบางอย่างในการทำ"
     },
     {
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
-        "str": "ไม่มีอะไรที่ดูมีเหตุผลอีกต่อไป"
+        "str": "ไม่มีความสมเหตุสมผลอีกต่อไป"
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1641,7 +1641,7 @@
         "key": "7EB47B9449369EB3E3F18C972CC18786",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals enmity",
-        "str": "ยาที่เผยให้เห็นความเป็นศัตรู"
+        "str": "น้ำอมฤตแห่งศัตรู"
     },
     {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
@@ -1659,7 +1659,7 @@
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(8).texts",
         "id": "The silence is deafening",
-        "str": "ความเงียบทำให้หูหนวก"
+        "str": "ความเงียบงันจนหูอื้อ"
     },
     {
         "key": "80178DF845B4F8C8D4B5DABBDC29F983",
@@ -1683,7 +1683,7 @@
         "key": "806D1B0C4EFCAD5D435AD6A24A208010",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(10).texts",
         "id": "Who will listen to us?",
-        "str": "ใครจะฟังเรา?"
+        "str": "จะมีใครฟังเราบ้างไหม?"
     },
     {
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
@@ -1695,7 +1695,7 @@
         "key": "80B42CA54800387D3889EDBDBB0E290E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spectral",
-        "str": "ผี"
+        "str": "ร้ายกาจ"
     },
     {
         "key": "814D9929402ED9670B11B8A5F77DD89E",
@@ -1713,13 +1713,13 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "วิญญาณ"
+        "str": "ซีดเผือด"
     },
     {
         "key": "821C250E485ED0C26041C8830F8E0625",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A durable and flexible material.",
-        "str": "วัสดุที่ทนทานและยืดหยุ่น"
+        "str": "วัสดุทนทานและยืดหยุ่น"
     },
     {
         "key": "834E072547D98D80C120CD87A16FA4D6",
@@ -1743,7 +1743,7 @@
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "ผู้หยั่งรู้"
+        "str": "มลทิน"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -1755,25 +1755,25 @@
         "key": "84B3B484489A7A0017B755B62F30FC82",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text",
         "id": "Accept Case",
-        "str": "ยอมรับกรณี"
+        "str": "เลือกเคส"
     },
     {
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "ไฟฟ้าเปิดอยู่! กลับไปที่บ้าน"
+        "str": "ไฟฟ้าเปิดแล้ว! กลับไปที่บ้านกัน"
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shroud",
-        "str": "ผ้าห่อศพ"
+        "str": "ซ่อนเร้น"
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
-        "str": "เมื่อคุณพร้อม ให้คลิกปุ่มยอมรับเพื่อรับกรณีนี้"
+        "str": "คะแนน"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -1791,7 +1791,7 @@
         "key": "87B1E3F54AA52AE964B7BDAF99914042",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering Breeze",
-        "str": "ลมกระซิบ"
+        "str": "พรายกระซิบ"
     },
     {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
@@ -1803,19 +1803,19 @@
         "key": "8841057C4E79D1D004AE35BDDA5930D6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals hatred",
-        "str": "ยาที่เผยให้เห็นความเกลียดชัง"
+        "str": "อมฤตแห่งเกลียดชัง"
     },
     {
         "key": "89B0338340E9602DE85B9797AE55D96F",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
         "id": "Equip Items",
-        "str": "จัดเตรียมไอเท็ม"
+        "str": "ติดตั้งไอเท็ม"
     },
     {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "ใบไม้สีเขียวและแสบ"
+        "str": "ใบไม้เขียแหลม"
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -1827,7 +1827,7 @@
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "ซุ่มซ่อน"
+        "str": "ด่างพร้อย"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
@@ -1899,7 +1899,7 @@
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "มืด"
+        "str": "ดักซุ่ม"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -1917,13 +1917,13 @@
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals tastes",
-        "str": "กระดาษที่เปิดเผยความชอบ"
+        "str": "กระดาษแห่งรสนิยม"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals distastes",
-        "str": "กระดาษที่เปิดเผยความไม่ชอบ"
+        "str": "กระดาษแห่งความชัง"
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -1989,7 +1989,7 @@
         "key": "986FE18441EBE7BFF160D38E25BEF05E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom Breeze",
-        "str": "ลมผี"
+        "str": "ผีโขมด"
     },
     {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
@@ -2007,19 +2007,19 @@
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "เสียงกรีดร้อง"
+        "str": "อึกทึก"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
         "id": "Daycare",
-        "str": "สถานรับเลี้ยงเด็กกลางวัน"
+        "str": "สถานรับเลี้ยงเด็ก"
     },
     {
         "key": "9AA78476434241C7EE4929A6B33EE813",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shifting Shadow",
-        "str": "เงาที่เปลี่ยนแปลง"
+        "str": "ล่อกแล่ก"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
@@ -2031,7 +2031,7 @@
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "กระซิบ"
+        "str": "พิษภัย"
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
@@ -2043,13 +2043,13 @@
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "ภาชนะโปร่งใสและสง่างาม"
+        "str": "ภาชนะโปร่งใสหรูหรา"
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "หลอกหลอน"
+        "str": "โพล้เพล้"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -2067,7 +2067,7 @@
         "key": "9CF4BD434FB00A0E98BE348036F66B3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shade",
-        "str": "เงา"
+        "str": "กะบัง"
     },
     {
         "key": "9D7CA8BB4D12421F2093AB823A8EAC45",
@@ -2079,7 +2079,7 @@
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
-        "str": "ความเงียบ"
+        "str": "ไขสือ"
     },
     {
         "key": "9E696588498FFE8F35EE90B3AA88ABCB",
@@ -2097,7 +2097,7 @@
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "เลือกผู้แอบอ้าง"
+        "str": "เลือกผู้แอบอ้างแล้ว"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
@@ -2115,7 +2115,7 @@
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "ชั่วร้าย"
+        "str": "ดูหมิ่น"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -2139,13 +2139,13 @@
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Abyss",
-        "str": "ถ่ายภาพตุ๊กตาเพื่อเติมเต็มเบาะแส"
+        "str": "อเวจี"
     },
     {
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
-        "str": "เงา"
+        "str": "หมองหม่น"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2175,13 +2175,13 @@
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dark",
-        "str": "ความหนาวสั่น"
+        "str": "อับเฉา"
     },
     {
         "key": "A85FE73E4E95AFA89A84E38F80B87C59",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spooky",
-        "str": "น่ากลัว"
+        "str": "อุบาทว์"
     },
     {
         "key": "A97B724146EEB86D384D6A85A4F8931C",
@@ -2211,13 +2211,13 @@
         "key": "AC46E8C5498572C242CBADA69A94A0A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mint",
-        "str": "สะระแหน่"
+        "str": "มิ้นต์"
     },
     {
         "key": "AC61D57E4AA1B3D2ED8E35BD60ADA0B2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom",
-        "str": "ผี"
+        "str": "ลวงตา"
     },
     {
         "key": "AD00137D457BF38AE614FC9EE94D1425",
@@ -2235,13 +2235,13 @@
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "หัวใจเล็ก ๆ ที่มืดและเหี่ยวแห้ง"
+        "str": "หัวใจดวงเล็กอันมืดมนห่อเหี่ยว"
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Rose Petals",
-        "str": "ตรวจสอบแท็บต่างๆ เพื่อทำความคุ้นเคยกับมัน"
+        "str": "กลีบกุหลาบ"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
@@ -2271,13 +2271,13 @@
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "หอบ"
+        "str": "แวววาว"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "เสียงกระซิบในเงามืด"
+        "str": "เสียงกระซิบแห่งเงามืด"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -2301,7 +2301,7 @@
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals friendship",
-        "str": "ยาที่เผยให้เห็นมิตรภาพ"
+        "str": "น้ำอมฤตแห่งมิตรภาพ"
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
@@ -2355,19 +2355,19 @@
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "กระซิบ"
+        "str": "อุบอิบ"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "ต้องใช้พลังงาน"
+        "str": "ตรวจสอบแท็บต่างๆ เพื่อทำความคุ้นเคย เมื่อคุณพร้อมแล้ว ให้คลิกปุ่มยอมรับเพื่อดำเนินการในเคสนี้"
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Scowl",
-        "str": "หน้าบึ้ง"
+        "str": "หน้ามุ่ย"
     },
     {
         "key": "B7532CB642D1303CB57FF89D855B8189",
@@ -2487,7 +2487,7 @@
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "ปริศนา"
+        "str": "ยุ่งเหยิง"
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
@@ -2511,7 +2511,7 @@
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
-        "str": "ตอนนี้มาเปิดไฟกันเถอะ"
+        "str": "ต้องใช้พลังงาน"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
@@ -2523,13 +2523,13 @@
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "ขนนกสีขาวและบอบบาง"
+        "str": "ขนนกสีขาวบอบบาง"
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
         "id": "God, Save Us",
-        "str": "พระเจ้าโปรดช่วยเรา"
+        "str": "พระเจ้าโปรดช่วยเราด้วย"
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2541,7 +2541,7 @@
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "เงาเล็กๆ"
+        "str": "คืบคลาน"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2553,13 +2553,13 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "อุปกรณ์พกพาที่สร้างเปลวไฟเพื่อจุดไฟ"
+        "str": "อุปกรณ์พกพาที่สามารถจุดไฟได้"
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
         "id": "The pain is overwhelming",
-        "str": "ความเจ็บปวดเป็นสิ่งที่ทนไม่ได้"
+        "str": "เป็นความเจ็บปวดที่ยากจะพรรณา"
     },
     {
         "key": "C8A00764485261B746BFEE94C58D6ECA",
@@ -2583,7 +2583,7 @@
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "ผลไม้ขนาดเล็กและฉ่ำ"
+        "str": "หนังสือจิตวิญญาณ"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
@@ -2607,7 +2607,7 @@
         "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "Dropped",
-        "str": "ยกเลิกแล้ว"
+        "str": "ลดลง"
     },
     {
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
@@ -2631,7 +2631,7 @@
         "key": "CEB55E1E480248C3E1553AB0E3E06BA3",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Parchment",
-        "str": "กระดาษหนัง"
+        "str": "แผ่นหนัง"
     },
     {
         "key": "CF3A6ECB45A9488C10D246A3FD143977",
@@ -2655,7 +2655,7 @@
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "เสียงหัวเราะคิกคัก"
+        "str": "อาถรรพ์"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
@@ -2667,13 +2667,13 @@
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
-        "str": "เสียงสะท้อน"
+        "str": "หวนกลับ"
     },
     {
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "กระเป๋ากว้าง"
+        "str": "ถ่ายรูปตุ๊กตาเพื่อเบาะแสเพิ่มเติม"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2691,13 +2691,13 @@
         "key": "D3B042044111E5CC7AE8239FB511F147",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(3).texts",
         "id": "Darkness surrounds us",
-        "str": "ความมืดล้อมรอบเรา"
+        "str": "ความมืดมิดล้อมรอบเรา"
     },
     {
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "ความว่างเปล่า"
+        "str": "ท้อแท้"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2709,7 +2709,7 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room. Use the flashlight to see better.",
-        "str": "เข้าไปในบ้านและหาห้องตุ๊กตา ใช้ไฟฉายเพื่อให้มองเห็นได้ชัดเจนขึ้น"
+        "str": "เข้าไปในบ้านและหาห้องตุ๊กตา ใช้ไฟฉายส่องเพื่อให้มองเห็นได้ชัดขึ้น"
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -2721,19 +2721,19 @@
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "ความสั่นสะท้าน"
+        "str": "สะท้านทรวง"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "เศร้า"
+        "str": "เฝ้ามอง"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
         "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take notes on the behavior of the dolls",
-        "str": "ตุ๊กตาสัตว์"
+        "str": "จดบันทึกพฤติกรรมของตุ๊กตา"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -2745,7 +2745,7 @@
         "key": "D618A4A346B0EA7CBABE00AA94C80485",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Count",
-        "str": "ท่านเคานต์"
+        "str": "ขุนนาง"
     },
     {
         "key": "D627A24C4957566043D3F0ADF0F70B9E",
@@ -2805,7 +2805,7 @@
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wisp",
-        "str": "แสงจ้า"
+        "str": "หน้าย่น"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -2823,7 +2823,7 @@
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "คุณไม่สามารถทำสิ่งนี้ได้ มันไม่เหมาะกับสูตรใด ๆ"
+        "str": "คุณไม่สามารถทำได้ มันไม่ตรงกับสูตรใดๆ เลย"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -2841,7 +2841,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "โปรดจำไว้ว่าตอนนี้คุณไม่สามารถโต้ตอบกับสิ่งใดได้เพราะนี่คือบทแนะนำ"
+        "str": "โปรกจำไว้ว่าคุณจะไม่สามารถโต้ตอบกับสิ่งใดได้ในขณะนี้เนื่องจากนี่คือบทช่วยสอน เอาล่ะ มาเปิดไฟฟ้ากันเถอะ เตรียมฟิวส์ของคุณแล้วไปที่ด้านหลังบ้านเพื่อเปิดใช้งาน"
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -2859,7 +2859,7 @@
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "หากคุณกลับไปที่เซฟเฮาส์ บ้านจะคืนสภาพและคุณจะสูญเสียไอเท็มที่จัดเตรียมไว้"
+        "str": "หากคุณกลับไปที่เซฟเฮาส์ บ้านจะกลับสู่สภาพเดิมและคุณจะสูญเสียไอเท็มที่จัดเตรียมไว้"
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -2937,13 +2937,13 @@
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "ชั่วร้าย"
+        "str": "บุพนิมิต"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisper",
-        "str": "เสียงกระซิบ"
+        "str": "ดลจิตดลใจ"
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -2967,7 +2967,7 @@
         "key": "E9F12A4243E6AE323515DE8E9AA0162B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Specter",
-        "str": "วิญญาณ"
+        "str": "ท้อใจ"
     },
     {
         "key": "EABE87674E476F817EEF85B6E5E00296",
@@ -3009,13 +3009,13 @@
         "key": "EE4D8F97450682A6D1DF0D88D6A4FFC6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Amans",
-        "str": "อมานส์"
+        "str": "ความรัก"
     },
     {
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "ดำน้ำ"
+        "str": "ขมุกขมัว"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3039,7 +3039,7 @@
         "key": "F21C143F425251C3614B29BD90BD710D",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_9.ToolTipText",
         "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
-        "str": "อัตราส่วนที่ต่ำกว่า ข้อมูลเพิ่มเติมเกี่ยวกับตุ๊กตาจะถูกเปิดเผยในขั้นต้น (จาก 2 ถึง 10)"
+        "str": "อัตราส่วนที่ต่ำกว่า ข้อมูลเพิ่มเติมเกี่ยวกับตุ๊กตาจะถูกเปิดเผยในเบื้องต้น (จาก 2 ถึง 10)"
     },
     {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
@@ -3051,13 +3051,13 @@
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "กระดานผีถ้วยแก้ว"
+        "str": "ผีถ้วยแก้ว"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "ของเหลวขมและหนืด"
+        "str": "ของเหลวขมหนืด"
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3069,13 +3069,13 @@
         "key": "F28B41324F202FA2E02A0DB59579D291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wretched",
-        "str": "น่าสังเวช"
+        "str": "สังเวช"
     },
     {
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "ของเหลวสีทองและหวาน"
+        "str": "ของเหลวสีทองหวาน"
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3111,7 +3111,7 @@
         "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Inventory",
-        "str": "สินค้าคงคลัง"
+        "str": "รายการสินค้า"
     },
     {
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
@@ -3123,13 +3123,13 @@
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperer",
-        "str": "ผู้กระซิบ"
+        "str": "ร่ำลือ"
     },
     {
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "ชั่วร้าย"
+        "str": "ยำเกรง"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
@@ -3153,19 +3153,19 @@
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "ความมืด"
+        "str": "ห้วงลึก"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "คุณจะมีเคสที่พร้อมใช้งานพร้อมพารามิเตอร์ไดนามิกต่างๆ จะแสดงข้อมูลเหมือนกับข้อมูลปัจจุบัน และหากคุณไม่ชอบ คุณสามารถค้นหากรณีใหม่เพื่อแลกกับเงินได้ ปัจจุบัน ในโหมดสอน เราได้จำกัดการโต้ตอบของคุณไว้ คุณจะไม่สามารถซื้อ สร้าง ออกจากเคส หรือค้นหาเคสใหม่ได้"
+        "str": "คุณจะมีเคสที่พร้อมใช้งานพร้อมพารามิเตอร์ไดนามิกต่างๆ จะแสดงข้อมูลเหมือนกับข้อมูลปัจจุบัน ถ้าหากคุณไม่ชอบ คุณสามารถค้นหาเคสใหม่เพื่อแลกกับเงินได้ ขณะนี้ในโหมดการฝึกสอน เราได้จำกัดการโต้ตอบของคุณ คุณจะไม่สามารถซื้อ ประดิษฐ์ ยกเลิกเคส หรือค้นหาเคสใหม่ได้"
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_7.Text",
         "id": "You don't have enough money",
-        "str": "คุณไม่มีเงินเพียงพอ"
+        "str": "คุณมีเงินไม่พอ"
     },
     {
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
@@ -3177,7 +3177,7 @@
         "key": "F7E0F0DC47429C7F044DA5B68C122215",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Macabre",
-        "str": "คลุมเครือ"
+        "str": "ยำเกรง"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3195,7 +3195,7 @@
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "ของเหลวใสและอันตราย"
+        "str": "ของเหลวใสอันตราย"
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
@@ -3231,7 +3231,7 @@
         "key": "FB77087A4862A67B758D529F87748C2F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
         "id": "Chaos consumes us",
-        "str": "ความโกลาหลกลืนกินเรา"
+        "str": "ความโกลาหลจะกลืนกินเรา"
     },
     {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
@@ -3255,7 +3255,7 @@
         "key": "FD27A6D94DD43A861953BA81606B6B11",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant cinnamon stick.",
-        "str": "แท่งอบเชยที่มีกลิ่นหอม"
+        "str": "แท่งอบเชยหอม"
     },
     {
         "key": "FD50C07D436B39761D90A28961DE809F",
@@ -3303,7 +3303,7 @@
         "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Paper",
-        "str": "กลีบกุหลาบที่นุ่มและหอม"
+        "str": "กลีบกุหลาบนุ่มหอม"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",

@@ -28,6 +28,7 @@
         "location": "/Game/enums/actions.actions.DisplayNameMap(54 - Value).DisplayNameMap",
         "id": "Blackboard",
         "str": "黑板"
+    },
     {
         "key": "01A2125C4F867B60C4E289ACD43FEBF9",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
@@ -495,7 +496,6 @@
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
         "str": "照片中出现了多个目标；试着靠近目标，只关注可疑的目标。"
-
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -1228,7 +1228,6 @@
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
         "str": "我为你准备了一些物品和武器。请前往你背后的箱子拿取。把所有物品都装备上，使用时可以通过前进或后退的武器切换按钮更换武器。"
-
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
