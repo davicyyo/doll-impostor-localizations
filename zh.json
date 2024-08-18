@@ -924,12 +924,6 @@
         "str": "继续游戏"
     },
     {
-        "key": "46421E9641B5F955B42AE08289276E7A",
-        "location": "/Game/TMSportPack/Level/Overview.Overview:PersistentLevel.TMSportPackText.NewTextRenderComponent.Text",
-        "id": "Twinmotion Sport Pack",
-        "str": "三维渲染运动包"
-    },
-    {
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
