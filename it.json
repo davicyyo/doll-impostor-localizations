@@ -2154,12 +2154,6 @@
         "str": "Viaggio"
     },
     {
-        "key": "A664421843480E6F442AB78D3B85C083",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Ghost 37",
-        "str": "Il Fantasma 37"
-    },
-    {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Star",
