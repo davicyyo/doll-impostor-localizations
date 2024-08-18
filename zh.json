@@ -3284,7 +3284,7 @@
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
         "str": "你输了"
     },
