@@ -924,12 +924,6 @@
         "str": "Riprendi Partita"
     },
     {
-        "key": "46421E9641B5F955B42AE08289276E7A",
-        "location": "/Game/TMSportPack/Level/Overview.Overview:PersistentLevel.TMSportPackText.NewTextRenderComponent.Text",
-        "id": "Twinmotion Sport Pack",
-        "str": "Twinmotion Sport Pack"
-    },
-    {
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
