@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "Bot"
+        "str": "De griezelige"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -21,7 +21,7 @@
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "Eng"
+        "str": "De Duisterling"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -51,7 +51,7 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "Schemering"
+        "str": "De echo"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
@@ -69,13 +69,13 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Het lijkt erop dat de bedrieger enkele acties heeft uitgevoerd. Deze worden weergegeven op het linker paneel. Bekijk het paneel en ga dan weer de kamer in."
+        "str": "Het lijkt erop dat de verdachte enkele acties heeft uitgevoerd. Deze worden weergegeven op het linker paneel. Bekijk het paneel en ga dan weer de kamer in."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "Grimas"
+        "str": "De morbide"
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -93,13 +93,13 @@
         "key": "0600D2134F5944FF6E3102866C348F23",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigma",
-        "str": "Mysterieus"
+        "str": "De mysterieuze"
     },
     {
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "Geest 28"
+        "str": "De gasp"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -117,7 +117,7 @@
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_7.ToolTipText",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "De kosten worden weerspiegeld in de prijzen van de items in de winkel"
+        "str": "De kosten worden weergeven in de prijzen van de items in de winkel"
     },
     {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
@@ -135,7 +135,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Je hebt de zaak nu geaccepteerd. Buiten de tutorial kun je de zaak op elk moment opgeven, maar je zult geen nieuwe zaken kunnen vinden nadat je deze hebt geaccepteerd. Zodra dit is geregeld, reis dan naar de locatie wanneer je klaar bent."
+        "str": "Je hebt de opdracht nu aangenomen. Buiten de tutorial kun je de opdracht op elk moment opgeven, maar je zult geen nieuwe zaken kunnen vinden nadat je deze hebt geaccepteerd. Met dit achter de rug kan je naar de locatie afreizen zodra je zover bent."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -207,7 +207,7 @@
         "key": "0D7E18B14371021AF672E392EB48BEA1",
         "location": "/Game/enums/actions.actions.DisplayNameMap(40 - Value).DisplayNameMap",
         "id": "Fireplace",
-        "str": "Open haard"
+        "str": "Openhaard"
     },
     {
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
@@ -225,7 +225,7 @@
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Dreadful",
-        "str": "De Vreselijke"
+        "str": "De vreselijke"
     },
     {
         "key": "109D973D484D997685448980DCB79533",
@@ -249,7 +249,7 @@
         "key": "14427A08459289522231F5B3835D2594",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Seer",
-        "str": "De Ziener"
+        "str": "De ziener"
     },
     {
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
@@ -261,19 +261,19 @@
         "key": "14BCFAF24A161704AE43A69E6EB83452",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigmatic",
-        "str": "Flikkering"
+        "str": "De raadselachtige"
     },
     {
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "Gedempte fluistering"
+        "str": "De mopelige"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantasm",
-        "str": "Fluisteringen"
+        "str": "De fantoom"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -315,13 +315,13 @@
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "Trillen"
+        "str": "De onduidelijke"
     },
     {
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "Een geknoopt en sinistere wortel."
+        "str": "Een geknoopte en onheilspellende wortel."
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
@@ -339,7 +339,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Zaak laten vallen"
+        "str": "Opdracht verlaten"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -357,13 +357,13 @@
         "key": "1AF5392F481406F80C566FB0740D5D3D",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shady",
-        "str": "De Sombere"
+        "str": "De twijfelachtige"
     },
     {
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "Geest 37"
+        "str": "Het spook"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
@@ -381,7 +381,7 @@
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "Deze pop staat onder invloed, wacht tot het effect is voltooid voordat je een andere toepast"
+        "str": "Deze pop wordt reeds beïnvloed. Wacht tot het effect is voltooid voordat je een andere toepast"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -393,7 +393,7 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "Grote en grijze veer."
+        "str": "Grote grijze veer."
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
@@ -405,19 +405,19 @@
         "key": "1DFB0F2649F857BCBC918D9215167D9B",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Case",
-        "str": "Zaak"
+        "str": "Opdracht"
     },
     {
         "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Howl",
-        "str": "Sinister"
+        "str": "De huiler"
     },
     {
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "Glimlach"
+        "str": "De glinstering"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
@@ -435,7 +435,7 @@
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "Gejank"
+        "str": "De griezel"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -447,7 +447,7 @@
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cackle",
-        "str": "Maak aantekeningen over het gedrag van de poppen"
+        "str": "De kakelaar"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
@@ -477,13 +477,13 @@
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
         "id": "Case Number",
-        "str": "Zaaknummer"
+        "str": "Opdrachtnummer"
     },
     {
         "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Haunting",
-        "str": "Loeren"
+        "str": "De angstaanjagende"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -495,7 +495,7 @@
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "Meerdere doelen zijn in de foto verschenen; probeer dichterbij te komen en je alleen op het gewenste doel te concentreren."
+        "str": "Meerdere doelen zijn in de foto verschenen. Probeer dichterbij te komen en je alleen op het gewenste doel te concentreren."
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -507,13 +507,13 @@
         "key": "24B7D6584C3AF4730B3365BB46DDA130",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and toxic leaves.",
-        "str": "Donkere en giftige bladeren."
+        "str": "Donkere giftige bladeren."
     },
     {
         "key": "24FA60AC4C99AD7D35B45C8F7E6C1279",
         "location": "/Game/enums/actions.actions.DisplayNameMap(45 - Value).DisplayNameMap",
         "id": "Chess",
-        "str": "Schaak"
+        "str": "Schaken"
     },
     {
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
@@ -531,19 +531,19 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "Het doelwit is niet gedetecteerd, probeer je meer te concentreren en blijf op een specifieke afstand waar het hele doelwit zichtbaar is"
+        "str": "Het doel is niet gedetecteerd. Probeer beter scherp te stellen en blijf op een afstand waarop het hele doelwit zichtbaar is"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
         "id": "Results",
-        "str": "Voorzie jezelf van een zekering en ga naar de achterkant van het huis om deze te activeren."
+        "str": "Resultaat"
     },
     {
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "De Achtervolger"
+        "str": "De stalker"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
@@ -555,19 +555,19 @@
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "Stilte"
+        "str": "De grijns"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "De Fluisterwind"
+        "str": "De Fluisterende wind"
     },
     {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
-        "str": "Schemering"
+        "str": "De zombie"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -609,7 +609,7 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "Slangenbloed"
+        "str": "Soul Dark Paper"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -657,25 +657,25 @@
         "key": "32053A4646B4374EA4DBD3BC64CB936C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spirit",
-        "str": "De Ziel"
+        "str": "De geest"
     },
     {
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "Schommelend"
+        "str": "Schorpioenengif"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twilight",
-        "str": "De Schemering"
+        "str": "De schemering"
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
-        "str": "Kwarts kristal"
+        "str": "Quartzkristal"
     },
     {
         "key": "34568E7B486905A5400643A88FA2E8A8",
@@ -693,7 +693,7 @@
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "Score"
+        "str": "Slangenbloed"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
@@ -723,13 +723,13 @@
         "key": "37DA48C441B25CD0CEC7AFA4F75F6914",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Sinister",
-        "str": "De Onheilspellende"
+        "str": "De onheilspellende"
     },
     {
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "Raadsel"
+        "str": "De kreuner"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
@@ -747,7 +747,7 @@
         "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
         "id": "The items you equip will be lost!",
-        "str": "De items die je uitrust, gaan verloren!"
+        "str": "De items die je uitrust gaan verloren!"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
@@ -765,19 +765,19 @@
         "key": "3AEB5BB747D3C431D54680AEFDB7D404",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silent",
-        "str": "De Stilte"
+        "str": "De stille"
     },
     {
         "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An ancient piece of paper.",
-        "str": "Een oud stuk papier."
+        "str": "Een antiek stuk papier."
     },
     {
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Spacious bag",
-        "str": "Zielenboek"
+        "str": "Ruime tas"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -795,7 +795,7 @@
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "Schreeuw"
+        "str": "De treurige"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -825,7 +825,7 @@
         "key": "3F845D654ED6C33DC540F4BC414F7994",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ebon",
-        "str": "Angst"
+        "str": "De ebon"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -843,7 +843,7 @@
         "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Bone",
-        "str": "Pak de zaklamp"
+        "str": "Het bot"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
@@ -873,13 +873,13 @@
         "key": "433A6CE84E4955044C7FB38105FA63BF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
         "id": "Footsteps Volume",
-        "str": "Stappenvolume"
+        "str": "Voetstappenvolume"
     },
     {
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "Lurker"
+        "str": "De spookachtige"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -909,7 +909,7 @@
         "key": "45DB611B482D35EE05ADE98331F2EC20",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Haunting",
-        "str": "De Spookachtige"
+        "str": "De angstaanjagende"
     },
     {
         "key": "460FFB13421148C8493D69A72A81E93C",
@@ -945,19 +945,19 @@
         "key": "4798B1E54C73C4932878B1A4630376ED",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering",
-        "str": "Het Fluisteren"
+        "str": "De fluisterende"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Belladonna leaves",
-        "str": "Belladonna bladeren"
+        "str": "Belladonnabladeren"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ominous",
-        "str": "De Onheilspellende"
+        "str": "De onheilspellende"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -975,7 +975,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "Lijkwade"
+        "str": "De avond"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -999,13 +999,13 @@
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A clear and pure crystal.",
-        "str": "Een heldere en zuivere kristal."
+        "str": "Een helder zuiver kristal."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veil",
-        "str": "De Sluier"
+        "str": "De sluier"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -1023,7 +1023,7 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "De Geheimzinnige"
+        "str": "De griezelige"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -1059,7 +1059,7 @@
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "Winkel"
+        "str": "Pak zaklamp"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
@@ -1119,13 +1119,13 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Willekeurige, maar eindeloze modus. Je hebt een timer van 3 minuten om de bedrieger te vinden en er is een ranglijst van leiders"
+        "str": "Willekeurige, maar eindeloze modus. Je hebt een timer van 3 minuten om de verdachte te vinden en er is een ranglijst van leiders"
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
-        "str": "De Buisokken"
+        "str": "De buisokken"
     },
     {
         "key": "5ADE18414BAB065DE0184E9E706B5D3B",
@@ -1137,7 +1137,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Je moet het zielenboek gebruiken voordat je de bedriegerpop opslaat"
+        "str": "Je moet het zielenboek gebruiken voordat je de verdachte pop opslaat"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1161,7 +1161,7 @@
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Umbral",
-        "str": "De Sombere"
+        "str": "De sombere"
     },
     {
         "key": "5F6925D947AE92C9AC54DEA293653C03",
@@ -1185,7 +1185,7 @@
         "key": "60E9BFBD4D9BFF7D7952CA9115FFAA10",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadow",
-        "str": "De Schaduw"
+        "str": "De schaduw"
     },
     {
         "key": "611C7265455A03D1E36711A53C897A09",
@@ -1215,7 +1215,7 @@
         "key": "62E75F3344325D96C309BFB52949F95A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
         "id": "Stuffed Animals",
-        "str": "Zielenpapier"
+        "str": "Knuffeldieren"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -1257,19 +1257,19 @@
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "Donkere en doordringende bol."
+        "str": "Donkere en doordringende lamp."
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "De standaard moeilijkheidsgraad. Alle aanwijzingen zijn om 08:00 beschikbaar. Je hebt de mogelijkheid om de namen van de poppen en de lijst met acties van de bedrieger te zien."
+        "str": "De standaard moeilijkheidsgraad. Alle aanwijzingen zijn om 08:00 beschikbaar. Je hebt de mogelijkheid om de namen van de poppen en de lijst met acties van de verdachte te zien."
     },
     {
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Riddle",
-        "str": "Het Raadsel"
+        "str": "Het raadsel"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -1281,19 +1281,19 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "De tijd is bijna om. We hebben alleen deze kans nog om de bedrieger te vinden. Laten we naar de kamer gaan."
+        "str": "De tijd is bijna om. We hebben alleen deze kans nog om de verdachte te vinden. Laten we naar de kamer gaan."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
         "location": "/Game/enums/actions.actions.DisplayNameMap(58 - Value).DisplayNameMap",
         "id": "Animated Stuffed animal",
-        "str": "Geanimeerd knuffeldier"
+        "str": "Mechanisch knuffeldier"
     },
     {
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twisted",
-        "str": "De Verwrongen"
+        "str": "De verwrongen"
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1311,7 +1311,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "Goed, laten we wat dingen ontdekken over een van de poppen. We kiezen Lil hiervoor. Breng alle elixers en kaarten op haar aan. Open je notitieboekje en noteer alles wat je observeert. Bijvoorbeeld, wanneer je een elixer aanbrengt, heb je 10 seconden om haar relatie met een andere pop te controleren, dus schrijf al je observaties op. Zorg er ook voor dat je van elke pop een foto maakt; als je dit niet doet, verlies je 90% van de uiteindelijke beloning. Zie je over 160 seconden!"
+        "str": "Goed, laten we wat dingen ontdekken over een van de poppen. We kiezen Lil hiervoor. Pas alle elixers en kaarten op haar toe. Open je notitieboekje en noteer alles wat je observeert. Bijvoorbeeld, wanneer je een elixer aanbrengt, heb je 10 seconden om haar relatie met een andere pop te controleren, dus schrijf je alle observaties op. Zorg er ook voor dat je van elke pop een foto maakt; als je dit niet doet, verlies je 90% van de uiteindelijke beloning. Zie je over 160 seconden!"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1323,7 +1323,7 @@
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "Kreunen"
+        "str": "De klaagzang"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
@@ -1341,7 +1341,7 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "Cryptisch"
+        "str": "De vreselijke"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1353,19 +1353,19 @@
         "key": "6B78310947BA56A4D0322EAFBC650458",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Macabre",
-        "str": "De Macabere"
+        "str": "De macabere"
     },
     {
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "Geest"
+        "str": "Het spookuur"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_18.Text",
         "id": "Find a new case",
-        "str": "Vind een nieuwe zaak"
+        "str": "Neem een nieuwe opdracht aan"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
@@ -1395,25 +1395,25 @@
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "Klaagzang"
+        "str": "De klaagzang"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "Rozenblaadjes"
+        "str": "Kleine en sappige vruchten"
     },
     {
         "key": "7031AD7A4DA6E52A478205B8558A9C5A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a Soul Book. If you haven't finished the tasks, you can do so now. This book will awaken the impostor, and you have 180 seconds to find the impostor once you use it. If you don't succeed, the impostor will kill you. When you're sure who the impostor is, use the sports bag to trap them inside. The tutorial ends here—it's now up to you to continue and uncover the truth. Good luck!",
-        "str": "Ik heb je een Zielenboek gegeven. Als je de taken nog niet hebt voltooid, kun je dat nu doen. Dit boek zal de bedrieger wekken, en je hebt 180 seconden om de bedrieger te vinden zodra je het gebruikt. Als je niet slaagt, zal de bedrieger je doden. Als je zeker weet wie de bedrieger is, gebruik dan de sporttas om hem erin te vangen. De tutorial eindigt hier – nu is het aan jou om door te gaan en de waarheid te onthullen. Veel succes!"
+        "str": "Ik heb je een Zielenboek gegeven. Als je de taken nog niet hebt voltooid, kun je dat nu doen. Dit boek zal de verdachte wekken, en je hebt vervolgens 180 seconden om de verdachte te vinden zodra je het gebruikt. Als je niet slaagt, zal de verdachte je doden. Als je zeker weet wie de verdachte is, gebruik dan de sporttas om hem erin te vangen. De tutorial eindigt hier – nu is het aan jou om door te gaan en de waarheid te onthullen. Veel succes!"
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "Glimp"
+        "str": "De geestachtige"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -1431,7 +1431,7 @@
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "Grimas"
+        "str": "De schittering"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -1461,7 +1461,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Welkom in de carrière modus. In deze spelmodus moet je informatie over de poppen onthullen en elk geval correct oplossen."
+        "str": "Welkom in de carrière modus. In deze spelmodus moet je informatie over de poppen ontdekken en elke opdracht correct afhandelen."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1491,7 +1491,7 @@
         "key": "743C50254A73CE29F7B3D7858FFBA46F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and thick liquid.",
-        "str": "Donkere en dikke vloeistof."
+        "str": "Donkere dikke vloeistof."
     },
     {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
@@ -1509,7 +1509,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Je zult de rol van detective aannemen waarin je moet bepalen, gebaseerd op de voorkeuren van de bedrieger die op het paneel aan je linkerzijde staan, wat hij leuk vindt en niet leuk vindt, wie zijn vijanden, vrienden, liefdes of gehate personen zijn."
+        "str": "Je zult de rol van detective aannemen waarin je moet bepalen, gebaseerd op de voorkeuren van de verdachte die op het paneel aan je linkerzijde staan, wat hij leuk vindt en niet leuk vindt, wie zijn vijanden, vrienden, liefdes of gehate personen zijn."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1539,7 +1539,7 @@
         "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echosong",
-        "str": "Spookachtig"
+        "str": "De spookachtig"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
@@ -1563,7 +1563,7 @@
         "key": "7969D08443D6AB359F1A76AFDC805E0F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmurer",
-        "str": "Schaduw"
+        "str": "De mompelaar"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -1575,7 +1575,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Je hebt hier alles gebruikt wat je moest gebruiken"
+        "str": "Je hebt hier alles gebruikt wat je moest gebruiken."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1587,19 +1587,19 @@
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "Dreiging"
+        "str": "De stille"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "Somber"
+        "str": "De loerer"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Menacing",
-        "str": "De Dreigende"
+        "str": "De dreigende"
     },
     {
         "key": "7B965EEB441BE13C098439BB745C2F25",
@@ -1611,7 +1611,7 @@
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
-        "str": "Niets heeft meer zin"
+        "str": "Het slaat nergens meer op"
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1635,7 +1635,7 @@
         "key": "7D39CA6640F288A9002846AE7D7F4041",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Mini Object",
-        "str": "Mini object"
+        "str": "Mini-object"
     },
     {
         "key": "7EB47B9449369EB3E3F18C972CC18786",
@@ -1653,7 +1653,7 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Laten we een val zetten voor de bedrieger. We weten al dat hij van tv en muziek houdt. Doe het licht aan."
+        "str": "Laten we een val zetten voor de verdachte. We weten al dat hij van tv en muziek houdt. Doe het licht aan."
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1695,7 +1695,7 @@
         "key": "80B42CA54800387D3889EDBDBB0E290E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spectral",
-        "str": "Het Spectrale"
+        "str": "De spectrale"
     },
     {
         "key": "814D9929402ED9670B11B8A5F77DD89E",
@@ -1713,7 +1713,7 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "Ziel"
+        "str": "De bleke"
     },
     {
         "key": "821C250E485ED0C26041C8830F8E0625",
@@ -1743,7 +1743,7 @@
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "Ziener"
+        "str": "De duistere"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -1755,25 +1755,25 @@
         "key": "84B3B484489A7A0017B755B62F30FC82",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text",
         "id": "Accept Case",
-        "str": "Zaak accepteren"
+        "str": "Opdracht accepteren"
     },
     {
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "Stroom aan! Ga terug naar het huis."
+        "str": "Stroom staat aan! Ga terug naar het huis."
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shroud",
-        "str": "Het Doodsgewaad"
+        "str": "De sluier"
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
-        "str": "Wanneer je klaar bent, klik je op de knop Accepteren om deze zaak op te pakken."
+        "str": "Score"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -1791,7 +1791,7 @@
         "key": "87B1E3F54AA52AE964B7BDAF99914042",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering Breeze",
-        "str": "De Fluisterende Bries"
+        "str": "De fluisterende bries"
     },
     {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
@@ -1827,7 +1827,7 @@
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "Lurking"
+        "str": "De holle"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
@@ -1839,7 +1839,7 @@
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
-        "str": "Terug naar het veilige huis"
+        "str": "Terug naar de safe house"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
@@ -1899,7 +1899,7 @@
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "Duisternis"
+        "str": "De loerer"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -1971,7 +1971,7 @@
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diabolic",
-        "str": "De Duivelse"
+        "str": "De duivelse"
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
@@ -1989,7 +1989,7 @@
         "key": "986FE18441EBE7BFF160D38E25BEF05E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom Breeze",
-        "str": "De Fantoombries"
+        "str": "De fantoombries"
     },
     {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
@@ -2007,7 +2007,7 @@
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "De Schreeuw"
+        "str": "De Krijser"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
@@ -2019,19 +2019,19 @@
         "key": "9AA78476434241C7EE4929A6B33EE813",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shifting Shadow",
-        "str": "De Veranderende Schaduw"
+        "str": "De veranderende schaduw"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unlucky",
-        "str": "De Ongelukkige"
+        "str": "De ongelukkige"
     },
     {
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "Fluisteren"
+        "str": "De dreiging"
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
@@ -2049,13 +2049,13 @@
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "Achtervolgend"
+        "str": "De schemering"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Awkward",
-        "str": "Onhandige"
+        "str": "De ongemakkelijke"
     },
     {
         "key": "9CE4FD774DFBE4C84DC711A634666FA7",
@@ -2079,7 +2079,7 @@
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
-        "str": "Stilte"
+        "str": "De obscure"
     },
     {
         "key": "9E696588498FFE8F35EE90B3AA88ABCB",
@@ -2097,7 +2097,7 @@
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "Bedrieger geselecteerd"
+        "str": "Verdachte geselecteerd"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
@@ -2115,7 +2115,7 @@
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "De Wrede"
+        "str": "De wrede"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -2133,7 +2133,7 @@
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grim",
-        "str": "De Grim"
+        "str": "De grim"
     },
     {
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
@@ -2145,7 +2145,7 @@
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
-        "str": "Schaduw"
+        "str": "De troebele"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2175,19 +2175,19 @@
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dark",
-        "str": "Rilling"
+        "str": "De donkere"
     },
     {
         "key": "A85FE73E4E95AFA89A84E38F80B87C59",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spooky",
-        "str": "De Spookachtige"
+        "str": "De spookachtige"
     },
     {
         "key": "A97B724146EEB86D384D6A85A4F8931C",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Craft",
-        "str": "Ambacht"
+        "str": "Craft"
     },
     {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
@@ -2217,7 +2217,7 @@
         "key": "AC61D57E4AA1B3D2ED8E35BD60ADA0B2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom",
-        "str": "De Fantoom"
+        "str": "De fantoom"
     },
     {
         "key": "AD00137D457BF38AE614FC9EE94D1425",
@@ -2229,7 +2229,7 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "Activeer de laatste strijd om de bedrieger te ontmaskeren."
+        "str": "Activeer de laatste strijd om de verdachte te ontmaskeren."
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
@@ -2271,13 +2271,13 @@
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "Gasp"
+        "str": "De flicker"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "De Gesluierde Fluistering"
+        "str": "De gesluierde fluistering"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -2307,7 +2307,7 @@
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "Bedrieger"
+        "str": "Verdachte"
     },
     {
         "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
@@ -2331,7 +2331,7 @@
         "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Terrifying",
-        "str": "De Beangstigende"
+        "str": "De beangstigende"
     },
     {
         "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
@@ -2355,7 +2355,7 @@
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "Het Gefluisterde"
+        "str": "De fluisterende"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
@@ -2367,7 +2367,7 @@
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Scowl",
-        "str": "De Frons"
+        "str": "De frons"
     },
     {
         "key": "B7532CB642D1303CB57FF89D855B8189",
@@ -2403,7 +2403,7 @@
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghoster",
-        "str": "De Geestachtige"
+        "str": "De geestachtige"
     },
     {
         "key": "B9B809EC40076554656E1A8C91157931",
@@ -2469,7 +2469,7 @@
         "key": "BF221642449DB485C8FF39A6198C744B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sinister",
-        "str": "De Duistere"
+        "str": "De duistere"
     },
     {
         "key": "BF4FA5364C39224BE93EC080C21FF285",
@@ -2481,19 +2481,19 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Het is duidelijk dat de bedrieger van bloed houdt. Het is een van de twee, maar controleer de dozen: Freddy is vermist en zijn doos zit vol met bloed. Je kan hier je conclusies uit trekken. Zodra je het zeker weet sluit je de laatste kandidaat uit."
+        "str": "Het is duidelijk dat de verdachte van bloed houdt. Het is een van de twee, maar controleer de dozen: Freddy is vermist en zijn doos zit vol met bloed. Je kan hier je conclusies uit trekken. Zodra je het zeker weet sluit je de laatste kandidaat uit."
     },
     {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "Raadsel"
+        "str": "De angstaanjagende"
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
         "location": "/Game/data-tables/itemList.itemList.NewRow_4.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Fuse to activate electrical circuits",
-        "str": "Zekering om elektrische circuits te activeren"
+        "str": "Zekering om elektrische apparaten te activeren"
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
@@ -2505,13 +2505,13 @@
         "key": "C12E045B48D3B1A859F1D5AFD11628E5",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Amicitia",
-        "str": "Amicitia"
+        "str": "Vriendschap"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
-        "str": "Laten we nu de elektriciteit inschakelen."
+        "str": "Vereist energie"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
@@ -2523,7 +2523,7 @@
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "Een witte en delicate veer."
+        "str": "Een witte delicate veer."
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
@@ -2541,7 +2541,7 @@
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "De Schaduwwacht"
+        "str": "De schaduw"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2565,7 +2565,7 @@
         "key": "C8A00764485261B746BFEE94C58D6ECA",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Scary",
-        "str": "De Enge"
+        "str": "De enge"
     },
     {
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
@@ -2583,7 +2583,7 @@
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "Kleine en sappige vruchten"
+        "str": "Zielenboek"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
@@ -2655,7 +2655,7 @@
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "Giechelen"
+        "str": "De cryptische"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
@@ -2667,7 +2667,7 @@
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
-        "str": "Echo"
+        "str": "De echo"
     },
     {
         "key": "D249146742516BB46178BA859A421873",
@@ -2775,7 +2775,7 @@
         "key": "D8CE402B452C5A79DCE582A6ADC2F93B",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Odium",
-        "str": "Haat"
+        "str": "Odium"
     },
     {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
@@ -2805,7 +2805,7 @@
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wisp",
-        "str": "De Glim"
+        "str": "Het dwaallicht"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -2817,7 +2817,7 @@
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unsettling",
-        "str": "De Verontrustende"
+        "str": "De verontrustende"
     },
     {
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
@@ -2841,7 +2841,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Onthoud dat je nu nergens mee kunt interageren, aangezien dit de tutorial is."
+        "str": "Onthoud dat je nu niks kan beinvloeden, aangezien dit de tutorial is. Laten we de electriciteit aanzetten. Pak de zekering en ga naar de achterkant van het huis om deze te activeren."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -2859,7 +2859,7 @@
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "Als je terugkeert naar het veilige huis, zal het huis zijn staat herstellen en verlies je de uitgeruste voorwerpen."
+        "str": "Als je terugkeert naar het safe house zal het huis zijn staat herstellen en verlies je de uitgeruste voorwerpen."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -2907,7 +2907,7 @@
         "key": "E672CE194312B524EAE5218F788B97F4",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Stiff",
-        "str": "De Stijve"
+        "str": "De stijve"
     },
     {
         "key": "E67B208049756CC3B5F16089AC41B470",
@@ -2937,13 +2937,13 @@
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "Sinister"
+        "str": "Het omen"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisper",
-        "str": "Het Fluisteren"
+        "str": "De fluisteraar"
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -2967,7 +2967,7 @@
         "key": "E9F12A4243E6AE323515DE8E9AA0162B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Specter",
-        "str": "De Geest"
+        "str": "De geest"
     },
     {
         "key": "EABE87674E476F817EEF85B6E5E00296",
@@ -2997,7 +2997,7 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Je bent 75% kwijtgeraakt omdat je de bedrieger niet hebt ontdekt"
+        "str": "Je bent 75% kwijtgeraakt omdat je de verdachte niet hebt ontdekt"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3015,7 +3015,7 @@
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "Duiken"
+        "str": "De schemering"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3045,7 +3045,7 @@
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Frightening",
-        "str": "De Angstaanjagende"
+        "str": "De angstaanjagende"
     },
     {
         "key": "F234C7F94700549E267ADA87AC492287",
@@ -3057,7 +3057,7 @@
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "Een bittere en stroperige vloeistof."
+        "str": "Een bittere stroperige vloeistof."
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3069,13 +3069,13 @@
         "key": "F28B41324F202FA2E02A0DB59579D291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wretched",
-        "str": "De Ellendige"
+        "str": "De ellendige"
     },
     {
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "Een gouden en zoete vloeistof."
+        "str": "Een gouden zoete vloeistof."
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3123,13 +3123,13 @@
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperer",
-        "str": "De Fluisteraar"
+        "str": "De fluisteraar"
     },
     {
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "Sinister"
+        "str": "De gevreesde"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
@@ -3147,19 +3147,19 @@
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mandrake Root",
-        "str": "Mandragora wortel"
+        "str": "Mandragorawortel"
     },
     {
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "Duisternis"
+        "str": "De duikeling"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Je hebt een zaak beschikbaar met verschillende dynamische parameters. Het zal informatie weergeven zoals de huidige, en als je het niet leuk vindt, kun je tegen betaling naar een nieuwe zaak zoeken. Momenteel hebben we je interacties in de tutorialmodus beperkt; je kunt niets kopen, maken, de zaak verlaten of naar een nieuwe zaak zoeken."
+        "str": "Je hebt een opdracht beschikbaar met verschillende dynamische parameters. Het zal informatie tonen zoals de huidige. Als je het niet leuk vindt, dan kun je tegen betaling naar een nieuwe opdracht zoeken. Momenteel hebben we je interacties in de tutorialmodus beperkt; je kunt niets kopen, maken, de opdracht verlaten of naar een nieuwe opdracht zoeken."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3171,19 +3171,19 @@
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "Schorpioenengif"
+        "str": "Zachte en geurige rozenblaadjes"
     },
     {
         "key": "F7E0F0DC47429C7F044DA5B68C122215",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Macabre",
-        "str": "Obscuur"
+        "str": "De macabere"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Hope",
-        "str": "De Hoop"
+        "str": "De hoopvolle"
     },
     {
         "key": "F83E76BC49FC84244322C382556B6E5F",
@@ -3195,7 +3195,7 @@
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "Helder en dodelijke vloeistof."
+        "str": "Helder dodelijke vloeistof."
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
@@ -3219,7 +3219,7 @@
         "key": "FACAB65943781B084CD803A77E0F7266",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gurl",
-        "str": "Het Meisje"
+        "str": "Het meisje"
     },
     {
         "key": "FAD096A047C791A2435446A372491A59",
@@ -3303,7 +3303,7 @@
         "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Paper",
-        "str": "Zachte en geurige rozenblaadjes"
+        "str": "Zielenpapier"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
