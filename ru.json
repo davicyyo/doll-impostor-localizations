@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "Os"
+        "str": "Жуткая"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -21,7 +21,7 @@
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "Înfricoșător"
+        "str": "Темноша"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -51,7 +51,7 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "Amurg"
+        "str": "Эхо"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
@@ -93,13 +93,13 @@
         "key": "0600D2134F5944FF6E3102866C348F23",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigma",
-        "str": "Misterios"
+        "str": "Мистическая"
     },
     {
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "Fantomă 28"
+        "str": "Удушающий"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -117,7 +117,7 @@
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_7.ToolTipText",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "Стоимость будет отражена в ценах на товары в магазине"
+        "str": "Стоимость будет отражена в магазине"
     },
     {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
@@ -135,7 +135,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Вы приняли дело. Вне учебного пособия вы можете отказаться от дела в любое время, но не сможете найти новые дела после его принятия. После этого отправляйтесь на место, когда будете готовы."
+        "str": "Ты принял дело. Вне обучения ты можешь отказаться от дела в любое время. Когда будешь готов, отправляйся на локацию"
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -195,7 +195,7 @@
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "Hârtie întunecată a sufletului"
+        "str": "Магазин"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
@@ -261,19 +261,19 @@
         "key": "14BCFAF24A161704AE43A69E6EB83452",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigmatic",
-        "str": "Licărire"
+        "str": "Загадочная"
     },
     {
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "Șoaptă umbrită"
+        "str": "Непонятная"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantasm",
-        "str": "Șoapte"
+        "str": "Иллюзорный"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -315,7 +315,7 @@
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "Tremur"
+        "str": "Темнистый"
     },
     {
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
@@ -339,7 +339,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Оставить дело"
+        "str": "Отменить дело"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -363,13 +363,13 @@
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "Fantomă 37"
+        "str": "Страшила"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(7).texts",
         "id": "There seems to be no way out",
-        "str": "Кажется, нет выхода"
+        "str": "Кажется, выхода здесь нет"
     },
     {
         "key": "1C4788334C67D107A7BE1F931C0A749E",
@@ -381,7 +381,7 @@
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "Эта кукла под действием, подождите, пока эффект закончится, прежде чем применять другой"
+        "str": "Эта кукла под эффектом, подожди, пока эффект закончится, прежде чем применять другой"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -411,13 +411,13 @@
         "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Howl",
-        "str": "Sinistru"
+        "str": "Воющий"
     },
     {
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "Zâmbet"
+        "str": "Блестящий"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
@@ -429,13 +429,13 @@
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "Шёпоты"
+        "str": "Больная"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "Urlet"
+        "str": "Отчаянная"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -447,7 +447,7 @@
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cackle",
-        "str": "Notează comportamentul păpușilor"
+        "str": "Шутница"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
@@ -483,7 +483,7 @@
         "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Haunting",
-        "str": "Pândire"
+        "str": "Волнующая"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -495,7 +495,7 @@
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "Au apărut mai multe ținte în fotografie; încearcă să te apropii și să te concentrezi doar pe ținta dorită."
+        "str": "На фото появилось множество целей: попробуй подойти поближе и сделать фокус на желанной цели"
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -531,19 +531,19 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "Цель не обнаружена, постарайтесь сосредоточиться больше и сохраняйте определённое расстояние, на котором будет видна вся цель"
+        "str": "Цель не обнаружена, постарайся сделать фокус больше и сохранять дистанцию, на котором будет видна вся цель"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
         "id": "Results",
-        "str": "Echipă siguranța și mergi în spatele casei pentru a o activa"
+        "str": "Результаты"
     },
     {
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "Преследователь"
+        "str": "Шедшая"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
@@ -555,19 +555,19 @@
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "Tăcere"
+        "str": "Весёлая"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "Шепчущий бриз"
+        "str": "Тихая"
     },
     {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
-        "str": "Amurg"
+        "str": "Гуль"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -609,7 +609,7 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "Sânge de șarpe"
+        "str": "Темная бумага души"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -663,19 +663,19 @@
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "Legănare"
+        "str": "Яд скорпиона"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twilight",
-        "str": "Сумерки"
+        "str": "Унылая"
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
-        "str": "Cristal de cuarț"
+        "str": "Кристалл кварц"
     },
     {
         "key": "34568E7B486905A5400643A88FA2E8A8",
@@ -693,7 +693,7 @@
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "Scor"
+        "str": "Кровь змеи"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
@@ -717,7 +717,7 @@
         "key": "37B6780C449B80C581D1478BD1CB6A4A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veiled",
-        "str": "Завуалированный"
+        "str": "Скрытая"
     },
     {
         "key": "37DA48C441B25CD0CEC7AFA4F75F6914",
@@ -729,7 +729,7 @@
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "Enigmă"
+        "str": "Плакса"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
@@ -747,7 +747,7 @@
         "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
         "id": "The items you equip will be lost!",
-        "str": "Предметы, которые вы экипируете, будут потеряны!"
+        "str": "Экипированные предметы будут потеряны!"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
@@ -777,7 +777,7 @@
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Spacious bag",
-        "str": "Cartea sufletelor"
+        "str": "Просторная сумка"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -795,7 +795,7 @@
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "Țipăt"
+        "str": "Печальная"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -825,7 +825,7 @@
         "key": "3F845D654ED6C33DC540F4BC414F7994",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ebon",
-        "str": "Frică"
+        "str": "Эбон"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -843,7 +843,7 @@
         "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Bone",
-        "str": "Ia lanterna"
+        "str": "Костяшка"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
@@ -861,7 +861,7 @@
         "key": "41A4BD564E59F19BEF73778A7250E40E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_45.Text",
         "id": "Actions completed",
-        "str": "Действия завершены"
+        "str": "Совершённые действия"
     },
     {
         "key": "420F5BCA40413C0383C7AA9583EEC5C0",
@@ -879,7 +879,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "Pânditor"
+        "str": "Вызывающая"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -909,7 +909,7 @@
         "key": "45DB611B482D35EE05ADE98331F2EC20",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Haunting",
-        "str": "Навязчивый"
+        "str": "Навязчивая"
     },
     {
         "key": "460FFB13421148C8493D69A72A81E93C",
@@ -945,13 +945,13 @@
         "key": "4798B1E54C73C4932878B1A4630376ED",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering",
-        "str": "Шепчущий"
+        "str": "Шепчущая"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Belladonna leaves",
-        "str": "Листья белладонны"
+        "str": "Листья Белладонны"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
@@ -975,7 +975,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "Giulgiu"
+        "str": "Жалкая"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -1023,7 +1023,7 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "Странный"
+        "str": "Странная"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -1041,7 +1041,7 @@
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Ты - охранник кукол, одна из них одержима. Ты должен выяснить, кто эта кукла, до 09:00."
+        "str": "Ты охранник кукол, одна из них одержима. Ты должен выяснить, кто эта кукла, до 09:00."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1059,7 +1059,7 @@
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "Magazin"
+        "str": "Возьми фонарь"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
@@ -1089,7 +1089,7 @@
         "key": "58DD772D4ABE943A14B03D9A569701B6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals love",
-        "str": "Эликсир, раскрывающий любовь"
+        "str": "Эликсир, раскрывающий любимых"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
@@ -1137,7 +1137,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Вы должны использовать книгу душ, прежде чем сохранить куклу-самозванца"
+        "str": "Ты должны использовать книгу душ, прежде чем сохранить одержимую куклу"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1167,7 +1167,7 @@
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "Rezultate"
+        "str": "Качающийся"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -1197,7 +1197,7 @@
         "key": "612C02664338E6F05B4191AC77E63DA9",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_23.Text",
         "id": "Recipe List",
-        "str": "Listă de rețete"
+        "str": "Список рецептов"
     },
     {
         "key": "61579A7B4A7A797C38911980E669DE96",
@@ -1215,7 +1215,7 @@
         "key": "62E75F3344325D96C309BFB52949F95A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
         "id": "Stuffed Animals",
-        "str": "Hârtie de suflet"
+        "str": "Плюшевые игрушки"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -1227,7 +1227,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
-        "str": "Я дал вам несколько предметов для использования. Откройте сундук позади вас, чтобы забрать предметы и оружие. Экипируйте все предметы, и для их использования переключайте оружие с помощью кнопки смены вперёд или назад."
+        "str": "Я дал несколько предметов для использования. Открой сундук позади, и забери их. Экипируй все предметы, и переключайся между ними используя кнопки смены предметов ."
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1245,19 +1245,19 @@
         "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
-        "str": "Призрак"
+        "str": "Грозная"
     },
     {
         "key": "64560D0D45E7BCC7553F16A4D1CC9723",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "History Cases",
-        "str": "Исторические дела"
+        "str": "История дел"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "Тёмная и резкая луковица."
+        "str": "Темная и острая луковица."
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
@@ -1269,7 +1269,7 @@
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Riddle",
-        "str": "Загадка"
+        "str": "Загадачная"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -1311,7 +1311,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "Хорошо, давайте узнаем что-то о одной из кукол. Для этого выберем Лил. Нанесите на неё все эликсиры и карты. Откройте свой блокнот и запишите всё, что наблюдаете. Например, после нанесения эликсира у вас будет 10 секунд, чтобы проверить её отношения с другой куклой, поэтому записывайте все свои наблюдения. Также обязательно фотографируйте каждую куклу; если этого не сделать, вы потеряете 90% от финального вознаграждения. Увидимся через 160 секунд!"
+        "str": "Хорошо, давайте узнаем что-то об одной из кукол. Для этого выберем Лил. Нанеси на неё все эликсиры и карты. Открой свой блокнот и запиши всё, что видишь. После применения эликсира у тебя будет 10 секунд, чтобы проверить отношения с другой куклой, поэтому записывай все свои наблюдения. Также обязательно фотографируй каждую куклу; если этого не сделать, ты потеряешь 90% от финального вознаграждения. Увидимся через 160 секунд!"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1323,7 +1323,7 @@
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "Geamăt"
+        "str": "Плач"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
@@ -1341,7 +1341,7 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "Criptic"
+        "str": "Суровая"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1359,7 +1359,7 @@
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "Spirit"
+        "str": "Хмурая"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
@@ -1377,7 +1377,7 @@
         "key": "6E900D00499A2A657789138FBA3BD69E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_49.Text",
         "id": "Previous Equipment",
-        "str": "Echipament anterior"
+        "str": "Предыдущее оборудование"
     },
     {
         "key": "6F62E8EE4D6306627A7D92B69CABCC13",
@@ -1395,25 +1395,25 @@
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "Lamentație"
+        "str": "Почитаемая"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "Petale de trandafir"
+        "str": "Маленькие и сочные плоды."
     },
     {
         "key": "7031AD7A4DA6E52A478205B8558A9C5A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a Soul Book. If you haven't finished the tasks, you can do so now. This book will awaken the impostor, and you have 180 seconds to find the impostor once you use it. If you don't succeed, the impostor will kill you. When you're sure who the impostor is, use the sports bag to trap them inside. The tutorial ends here—it's now up to you to continue and uncover the truth. Good luck!",
-        "str": "Я дал вам Книгу Душ. Если вы не закончили задания, можете сделать это сейчас. Эта книга пробудит самозванца, и у вас будет 180 секунд, чтобы найти его после использования. Если не удастся, самозванец убьёт вас. Когда вы уверены, кто самозванец, используйте спортивную сумку, чтобы поймать его внутри. На этом обучение заканчивается – теперь вам предстоит продолжить и раскрыть правду. Удачи!"
+        "str": "У тебя появилась книга душ. Если ты не закончил задания, можешь сделать это сейчас. Эта книга пробудит куклу, и у тебя будет 180 секунд, чтобы найти её. Если не удастся, она убьёт тебя. Когда ты уверен в своём выборе используй сумку, чтобы поймать её. На этом обучение заканчивается – тебе решать, продолжить раскрывать тайное или нет. Удачи!"
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "Sclipire"
+        "str": "Призрачный"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -1431,7 +1431,7 @@
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "Grimasă"
+        "str": "Грубый "
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -1461,7 +1461,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Добро пожаловать в карьерный режим. В этом игровом режиме вам нужно будет раскрыть информацию о куклах и правильно решить каждый случай."
+        "str": "Добро пожаловать в карьерный режим. В этом игровом режиме тебе нужно будет раскрывать тайны о куклах и правильно решать каждый случай."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1509,7 +1509,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Ты - детектив, которому нужно определить одержимую куклу, исходя из того, что ей нравится и не нравится, кто её враги, друзья, любимые и ненавистные куклы."
+        "str": "Ты детектив, которому нужно определить одержимую куклу, исходя из того, что ей нравится и не нравится, кто её враги, друзья, любимые и ненавистные куклы."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1539,7 +1539,7 @@
         "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echosong",
-        "str": "Bizar"
+        "str": "Спокойная"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
@@ -1557,13 +1557,13 @@
         "key": "7954AA374982804CD0C829A2D5575131",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_17.Text",
         "id": "Money Earned",
-        "str": "Bani câștigați"
+        "str": "Денег заработано"
     },
     {
         "key": "7969D08443D6AB359F1A76AFDC805E0F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmurer",
-        "str": "Umbră"
+        "str": "Бормочущая "
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -1575,7 +1575,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Вы использовали всё, что нужно было использовать здесь"
+        "str": "Вы использовали всё, что было нужно"
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1587,13 +1587,13 @@
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "Amenințare"
+        "str": "Глухой"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "Sumbru"
+        "str": "Осторожная"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
@@ -1611,7 +1611,7 @@
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
-        "str": "Nimic nu mai are sens"
+        "str": "Теперь ничего не имеет смысла"
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1713,7 +1713,7 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "Suflet"
+        "str": "Бледный"
     },
     {
         "key": "821C250E485ED0C26041C8830F8E0625",
@@ -1743,7 +1743,7 @@
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "Clarvăzător"
+        "str": "Слепой"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -1761,19 +1761,19 @@
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "Электричество включено! Возвращайтесь в дом."
+        "str": "Электричество включено! Возвращайся в дом."
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shroud",
-        "str": "Плащаница"
+        "str": "Могильщик"
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
-        "str": "Când ești gata, apasă pe butonul Acceptă pentru a prelua acest caz"
+        "str": "Счёт"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -1809,7 +1809,7 @@
         "key": "89B0338340E9602DE85B9797AE55D96F",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
         "id": "Equip Items",
-        "str": "Экипировать предметы"
+        "str": "Взять предметы"
     },
     {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
@@ -1827,7 +1827,7 @@
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "Stare de pândă"
+        "str": "Пустая"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
@@ -1839,7 +1839,7 @@
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
-        "str": "Назад в убежище"
+        "str": "Назад в лобби"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
@@ -1899,7 +1899,7 @@
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "Întunecat"
+        "str": "Скрывающийся"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -1917,13 +1917,13 @@
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals tastes",
-        "str": "Hârtie care dezvăluie preferințe"
+        "str": "Бумага, раскрывающая приязни"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals distastes",
-        "str": "Hârtie care dezvăluie aversiuni"
+        "str": "Бумага, раскрывающая неприязни"
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -1977,7 +1977,7 @@
         "key": "96BE28504D901245DE1115BF00D47E10",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
-        "str": "Детали действия"
+        "str": "Детали действий"
     },
     {
         "key": "9806DB6E4107A01E3979C1BBEF780A91",
@@ -1989,7 +1989,7 @@
         "key": "986FE18441EBE7BFF160D38E25BEF05E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom Breeze",
-        "str": "Призрачный ветер"
+        "str": "Неприметная"
     },
     {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
@@ -2007,7 +2007,7 @@
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "Крик"
+        "str": "Крикунья"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
@@ -2019,7 +2019,7 @@
         "key": "9AA78476434241C7EE4929A6B33EE813",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shifting Shadow",
-        "str": "Меняющаяся тень"
+        "str": "Мечущийся"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
@@ -2031,7 +2031,7 @@
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "Șoaptă"
+        "str": "Свирепый"
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
@@ -2043,13 +2043,13 @@
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "Прозрачный и элегантный сосуд."
+        "str": "Прозрачный и элегантный контейнер."
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "Bântuit"
+        "str": "Невзрачный"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -2079,7 +2079,7 @@
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
-        "str": "Liniște"
+        "str": "Неясная"
     },
     {
         "key": "9E696588498FFE8F35EE90B3AA88ABCB",
@@ -2097,7 +2097,7 @@
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "Самозванец выбран"
+        "str": "Кукла выбрана"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
@@ -2115,7 +2115,7 @@
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "Злой"
+        "str": "Поехавшая"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -2139,13 +2139,13 @@
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Abyss",
-        "str": "Fă poze păpușilor pentru a completa indiciile"
+        "str": "Холодная"
     },
     {
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
-        "str": "Umbră"
+        "str": "Сомнительная"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2163,7 +2163,7 @@
         "key": "A7121AED466C7D8F9486A89DECB2409C",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "Добро пожаловать в убежище! Это ваша безопасная зона. Здесь вы можете начать новую игру на компьютере, просмотреть свою коллекцию кукол и трофеев, а также настроить это место, щелкнув значок палитры цветов на рабочем столе!"
+        "str": "Добро пожаловать в лобби! Это безопасная зона. Здесь можно начать новую игру на компьютере, просмотреть свою коллекцию кукол и трофеев, а также настроить это место, щелкнув значок палитры цветов на рабочем столе!"
     },
     {
         "key": "A7C36D644573AD30716F4283EBBE53D2",
@@ -2175,13 +2175,13 @@
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dark",
-        "str": "Fiori"
+        "str": "Тусклая"
     },
     {
         "key": "A85FE73E4E95AFA89A84E38F80B87C59",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spooky",
-        "str": "Ужасный"
+        "str": "Пугающий"
     },
     {
         "key": "A97B724146EEB86D384D6A85A4F8931C",
@@ -2211,13 +2211,13 @@
         "key": "AC46E8C5498572C242CBADA69A94A0A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mint",
-        "str": "Mentă"
+        "str": "Мята"
     },
     {
         "key": "AC61D57E4AA1B3D2ED8E35BD60ADA0B2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom",
-        "str": "Призрак"
+        "str": "Призрачная"
     },
     {
         "key": "AD00137D457BF38AE614FC9EE94D1425",
@@ -2229,7 +2229,7 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "Активируйте финальную битву, чтобы раскрыть самозванца."
+        "str": "Активируй финальную битву, чтобы раскрыть одержимую куклы."
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
@@ -2241,7 +2241,7 @@
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Rose Petals",
-        "str": "Revizuiește diferitele file pentru a te familiariza cu ele"
+        "str": "Лепестки роз"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
@@ -2271,13 +2271,13 @@
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "Gâfâit"
+        "str": "Проказник"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "Затенённый шёпот"
+        "str": "Теневая бестия"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -2361,7 +2361,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Necesită energie"
+        "str": "Ознакомься с различными вкладками. Когда будешь готов, нажми \\\"Принять\\\" для начала дела"
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2385,7 +2385,7 @@
         "key": "B83348AE4D0F332AFE32DA9CCA2BB2FF",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_4.Text",
         "id": "Only visible items that you can equip",
-        "str": "Doar obiectele vizibile pe care le poți echipa"
+        "str": "Вещи, которые можно экипировать"
     },
     {
         "key": "B8952A3841AAE9C0034514AC607965D8",
@@ -2487,7 +2487,7 @@
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "Enigmă"
+        "str": "Нещадный "
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
@@ -2505,13 +2505,13 @@
         "key": "C12E045B48D3B1A859F1D5AFD11628E5",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Amicitia",
-        "str": "Амицития"
+        "str": "Дружба"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
-        "str": "Acum să pornim electricitatea"
+        "str": "Требуемая энергия"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
@@ -2523,7 +2523,7 @@
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "Белое и нежное перо."
+        "str": "Белое и нежное перо"
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
@@ -2553,13 +2553,13 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "Dispozitiv portabil care produce o flacără pentru a aprinde un foc"
+        "str": "Портативное устройство, создающее пламя для разжигания огня."
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
         "id": "The pain is overwhelming",
-        "str": "Боль ошеломляющая"
+        "str": "Боль ошеломляет"
     },
     {
         "key": "C8A00764485261B746BFEE94C58D6ECA",
@@ -2583,7 +2583,7 @@
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "Fructe mici și suculente"
+        "str": "Книга душ"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
@@ -2613,7 +2613,7 @@
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_19.Text",
         "id": "Ratio",
-        "str": "Proporție"
+        "str": "Пропорции"
     },
     {
         "key": "CE5521734152BB8FDF36949D84AA7F39",
@@ -2631,7 +2631,7 @@
         "key": "CEB55E1E480248C3E1553AB0E3E06BA3",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Parchment",
-        "str": "Pergament"
+        "str": "Пергамент"
     },
     {
         "key": "CF3A6ECB45A9488C10D246A3FD143977",
@@ -2655,7 +2655,7 @@
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "Chicoteală"
+        "str": "Загадочный"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
@@ -2667,13 +2667,13 @@
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
-        "str": "Ecou"
+        "str": "Гулкая"
     },
     {
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "Geantă spațioasă"
+        "str": "Фоткай кукол для зацепок"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2697,7 +2697,7 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "Gol"
+        "str": "Невыносимый"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2709,31 +2709,31 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room. Use the flashlight to see better.",
-        "str": "Войдите в дом и найдите комнату с куклами. Используйте фонарик, чтобы лучше видеть."
+        "str": "Войди в дом и найди комнату с куклами. Используй фонарик, чтобы лучше видеть."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "Abis"
+        "str": "Мерзкий"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "Дрожь"
+        "str": "Дрожащая"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "Trist"
+        "str": "Скрытная"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
         "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take notes on the behavior of the dolls",
-        "str": "Animale de pluș"
+        "str": "Следи за поведением кукол"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -2757,7 +2757,7 @@
         "key": "D637C70741EFAAB1C70592A3E73D29E3",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_48.Text",
         "id": "Actions left",
-        "str": "Осталось действий"
+        "str": "Действий осталось"
     },
     {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
@@ -2775,7 +2775,7 @@
         "key": "D8CE402B452C5A79DCE582A6ADC2F93B",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Odium",
-        "str": "Ură"
+        "str": "Ненависть"
     },
     {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
@@ -2823,7 +2823,7 @@
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "Вы не можете сделать это, это не подходит ни к одному рецепту"
+        "str": "Вы не можете создать это: этого нет ни в одном рецепте"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -2835,13 +2835,13 @@
         "key": "DE011C1944710509D6330C8C62491DBA",
         "location": "/Game/data-tables/itemList.itemList.NewRow_4.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Fuse",
-        "str": "Предохранитель"
+        "str": "Щиток"
     },
     {
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Amintește-ți că nu poți interacționa cu nimic în acest moment, deoarece acesta este tutorialul"
+        "str": "Сейчас обучение, поэтому ты не сможешь взаимодействовать ни с чем на данный момент. Давай включим электричество. Возьми щиток и иди к задней части дома"
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -2859,13 +2859,13 @@
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "Если вы вернётесь в убежище, дом восстановит своё состояние, и вы потеряете экипированные предметы."
+        "str": "Если ты вернёшься в лобби, дом восстановит своё состояние, и ты потеряешь экипированные предметы."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
         "location": "/Game/enums/actions.actions.DisplayNameMap(38 - Value).DisplayNameMap",
         "id": "Radio",
-        "str": "Radio"
+        "str": "Радио"
     },
     {
         "key": "E1BED414427264B22F7080B7ED0D0CF9",
@@ -2889,7 +2889,7 @@
         "key": "E321649D4AF8734E473FEDB0404E1B2E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(42 - Value).DisplayNameMap",
         "id": "Move frames",
-        "str": "Mută cadrele"
+        "str": "Двигать кадры"
     },
     {
         "key": "E447809B421298C1BDA5E4B063D86F49",
@@ -2913,7 +2913,7 @@
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "Frunze verzi revigorante"
+        "str": "Освежающие зеленые листья."
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
@@ -2937,7 +2937,7 @@
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "Rău"
+        "str": "Ведающая"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
@@ -2967,7 +2967,7 @@
         "key": "E9F12A4243E6AE323515DE8E9AA0162B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Specter",
-        "str": "Призрак"
+        "str": "Опасная"
     },
     {
         "key": "EABE87674E476F817EEF85B6E5E00296",
@@ -2979,43 +2979,43 @@
         "key": "EB61DE2843D60E7D5AF23EB48A67DE8B",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_21.Text",
         "id": "Rank",
-        "str": "Rang"
+        "str": "Ранг"
     },
     {
         "key": "ECA7B6BD4DC5448D5BC007A0A56EFE97",
         "location": "/Game/enums/actions.actions.DisplayNameMap(53 - Value).DisplayNameMap",
         "id": "Dollhouse",
-        "str": "Кукольный дом"
+        "str": "Дом кукол"
     },
     {
         "key": "ED2F4CB1487E0D6D9070899567BB98B0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_3.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Notebook",
-        "str": "Caiet"
+        "str": "Блокнот"
     },
     {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Вы потеряли 75% за то, что не раскрыли самозванца"
+        "str": "Вы потеряли 75% за то, что не определили одержимую куклу"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_12.Text",
         "id": "Next Equipment",
-        "str": "Echipament următor"
+        "str": "Следующее оборудование"
     },
     {
         "key": "EE4D8F97450682A6D1DF0D88D6A4FFC6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Amans",
-        "str": "Аманс"
+        "str": "Любимые"
     },
     {
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "Scufundare"
+        "str": "Сумеречная"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3051,7 +3051,7 @@
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "Ouija"
+        "str": "доска Уиджи"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
@@ -3069,7 +3069,7 @@
         "key": "F28B41324F202FA2E02A0DB59579D291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wretched",
-        "str": "Несчастный"
+        "str": "Несчастная"
     },
     {
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
@@ -3129,13 +3129,13 @@
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "Sinistru"
+        "str": "Ужасный"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Nettle",
-        "str": "Urzică"
+        "str": "Крапива "
     },
     {
         "key": "F63BB439446A93B294D5789005AB927F",
@@ -3147,19 +3147,19 @@
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mandrake Root",
-        "str": "Rădăcină de mandragoră"
+        "str": "Корень мандрагоры"
     },
     {
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "Întuneric"
+        "str": "Торопливая"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "У вас будет доступен случай с различными динамическими параметрами. Он покажет информацию, аналогичную текущей, и если вам не понравится, вы можете найти новый случай за деньги. В настоящее время в учебном режиме мы ограничили ваши взаимодействия; вы не сможете купить, создать, выйти из дела или искать новое дело."
+        "str": "У вас будет доступно дело с различными параметрами. Оно покажет информацию, аналогичную текущей, и если вам не понравится, вы сможете обновить дело за деньги. В настоящее время в учебном режиме мы ограничили ваши возможности; вы не сможете покупать, создавать, выходить из дела или искать новые."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3171,13 +3171,13 @@
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "Venin de scorpion"
+        "str": "Мягкие и ароматные лепестки роз."
     },
     {
         "key": "F7E0F0DC47429C7F044DA5B68C122215",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Macabre",
-        "str": "Obscur"
+        "str": "Смертный"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3303,7 +3303,7 @@
         "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Paper",
-        "str": "Petale de trandafir moi și parfumate"
+        "str": "Бумага души"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
