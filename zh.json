@@ -120,6 +120,12 @@
         "str": "成本将体现在商品价格上。"
     },
     {
+        "key": "0860FF434B759F0DDD299AAD5097224D",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_50.Text",
+        "id": "Reset settings",
+        "str": "重置设置"
+    },
+    {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
@@ -570,6 +576,12 @@
         "str": "食尸鬼"
     },
     {
+        "key": "2BB11678432B1B25F353A1A7B4A35E7E",
+        "location": "/Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text",
+        "id": "Reset",
+        "str": "重置"
+    },
+    {
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
@@ -888,12 +900,6 @@
         "str": "名字"
     },
     {
-        "key": "4512207B47CE117247765CBA14FC9108",
-        "location": "/Game/data-tables/itemList.itemList.NewRow_7.name_12_D217604B46FF9197C7004FBE2050F6FD",
-        "id": "Inimicitia",
-        "str": "怀恨在心"
-    },
-    {
         "key": "455698874FAE4AEB808E15AA36758F84",
         "location": "/Game/enums/actions.actions.DisplayNameMap(30 - Value).DisplayNameMap",
         "id": "Houses",
@@ -1122,6 +1128,12 @@
         "str": "随机的无尽模式，你有3分钟来解决案件。该模式有排行榜"
     },
     {
+        "key": "5A9082C24056C8BFE9DE8EA9069EF292",
+        "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
+        "id": "For the changes to take effect, restart the game",
+        "str": "要使更改生效，请重新启动游戏"
+    },
+    {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
@@ -1156,6 +1168,12 @@
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
         "str": "给他人荡秋千"
+    },
+    {
+        "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_52.Text",
+        "id": "Invert Camera",
+        "str": "反转相机"
     },
     {
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
@@ -1282,12 +1300,6 @@
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
         "str": "这是最后一小时。只剩这次机会能找出卧底了。前往房间吧。"
-    },
-    {
-        "key": "663521DE48EC97BC28D795B365648BE9",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Ghost 28",
-        "str": "28号幽灵"
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1492,6 +1504,12 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Comedian",
         "str": "喜剧演员"
+    },
+    {
+        "key": "743C50254A73CE29F7B3D7858FFBA46F",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "Dark and thick liquid.",
+        "str": "黑暗且浓稠的液体"
     },
     {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
@@ -2502,12 +2520,6 @@
         "str": "讨厌"
     },
     {
-        "key": "C12E045B48D3B1A859F1D5AFD11628E5",
-        "location": "/Game/data-tables/itemList.itemList.NewRow_6.name_12_D217604B46FF9197C7004FBE2050F6FD",
-        "id": "Amicitia",
-        "str": "友谊"
-    },
-    {
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
@@ -2542,12 +2554,6 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
         "str": "小阴影"
-    },
-    {
-        "key": "C217326D42A0B8DA097ECEAC0760BAF7",
-        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
-        "id": "Focus FOV",
-        "str": "焦点视野"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2778,12 +2784,6 @@
         "str": "调情者"
     },
     {
-        "key": "D8CE402B452C5A79DCE582A6ADC2F93B",
-        "location": "/Game/data-tables/itemList.itemList.NewRow_5.name_12_D217604B46FF9197C7004FBE2050F6FD",
-        "id": "Odium",
-        "str": "憎恶"
-    },
-    {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
         "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
         "id": "Hide Self",
@@ -3010,12 +3010,6 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_12.Text",
         "id": "Next Equipment",
         "str": "下一件装备"
-    },
-    {
-        "key": "EE4D8F97450682A6D1DF0D88D6A4FFC6",
-        "location": "/Game/data-tables/itemList.itemList.NewRow_8.name_12_D217604B46FF9197C7004FBE2050F6FD",
-        "id": "Amans",
-        "str": "爱"
     },
     {
         "key": "EEEE750B4277BD6C5835BD901B924179",
