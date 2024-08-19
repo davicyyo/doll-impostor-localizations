@@ -3159,7 +3159,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Vous aurez une affaire disponible avec divers paramètres dynamiques. Les informations de l'affaire en cours sera affiché sur le menu principal de la Carrière, et si les paramètres ne pouvez rechercher une nouvelle affaire en échange d'argent. Actuellement, en mode didacticiel, nous avons limité vos interactions ; vous ne pourrez pas acheter, fabriquer, quitter l'affaire en cours ou en rechercher  vous plaisent pas, vousune nouvelle."
+        "str": "Vous aurez une affaire disponible avec divers paramètres dynamiques. Les informations de l'affaire en cours sera affiché sur le menu principal de la Carrière, et si les paramètres ne vous plaisent pas, vous pouvez rechercher une nouvelle affaire en échange d'argent. Actuellement, en mode didacticiel, nous avons limité vos interactions ; vous ne pourrez pas acheter, fabriquer, quitter l'affaire en cours ou en rechercher une nouvelle."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
