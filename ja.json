@@ -576,6 +576,12 @@
         "str": "薄明かり"
     },
     {
+        "key": "2BB11678432B1B25F353A1A7B4A35E7E",
+        "location": "/Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text",
+        "id": "Reset",
+        "str": "リセット"
+    },
+    {
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
