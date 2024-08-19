@@ -129,7 +129,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Vergeet niet de deur op slot te doen met de grendel. Als je dat niet doet, kunnen de poppen de bus binnen komen, je tests veranderen en je zelfs doden."
+        "str": "Vergeet niet de deur op slot te doen met de grendel. Als je dat niet doet, kunnen de poppen naar je toe komen, je onderzoeksresultaten veranderen en je zelfs doden."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -141,7 +141,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Je hebt de opdracht nu aangenomen. Buiten de tutorial kun je de opdracht op elk moment opgeven, maar je zult geen nieuwe zaken kunnen vinden nadat je deze hebt geaccepteerd. Met dit achter de rug kan je naar de locatie afreizen zodra je zover bent."
+        "str": "Je hebt de opdracht nu aangenomen. Buiten deze tutorial kun je de opdracht op elk moment opgeven, maar je zult geen nieuwe zaken kunnen vinden nadat je deze hebt geaccepteerd. Zodra je zover bent kan je naar de locatie afreizen."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -201,7 +201,7 @@
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "Duistere zielenpapier"
+        "str": "Winkel"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
@@ -615,7 +615,7 @@
         "key": "2DEA68154A30209AA0698497E47F9DA9",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
         "id": "Leaderboard Endless",
-        "str": "Eindeloze ranglijst"
+        "str": "Ranglijst Eindeloos"
     },
     {
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
@@ -645,7 +645,7 @@
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lie bytes",
-        "str": "De leugen bytes"
+        "str": "De leugen"
     },
     {
         "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -759,7 +759,7 @@
         "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
         "id": "The items you equip will be lost!",
-        "str": "De items die je uitrust gaan verloren!"
+        "str": "De items die je uitrust gaan verloren aan het einde van het spel!"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
@@ -1131,7 +1131,7 @@
         "key": "5A9082C24056C8BFE9DE8EA9069EF292",
         "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
         "id": "For the changes to take effect, restart the game",
-        "str": "Om de wijzigingen van kracht te laten worden, start het spel opnieuw op"
+        "str": "Start het spel opnieuw op om de wijzigingen actief te maken"
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
@@ -1245,7 +1245,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
-        "str": "Ik heb je een paar items gegeven om te gebruiken. Open de kist achter je om de voorwerpen en wapens op te halen. Rust alle voorwerpen uit en gebruik ze door te schakelen tussen wapens met de knop om vooruit of terug te schakelen."
+        "str": "Ik heb je een paar items gegeven om te gebruiken. Open de kist achter je om de voorwerpen te pakken. Rust alle voorwerpen uit en gebruik ze via de volgende en vorige voorwerp knoppen."
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1269,7 +1269,7 @@
         "key": "64560D0D45E7BCC7553F16A4D1CC9723",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "History Cases",
-        "str": "Geschiedenis van zaken"
+        "str": "Eerdere opdrachten"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
@@ -1329,7 +1329,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "Goed, laten we wat dingen ontdekken over een van de poppen. We kiezen Lil hiervoor. Pas alle elixers en kaarten op haar toe. Open je notitieboekje en noteer alles wat je observeert. Bijvoorbeeld, wanneer je een elixer aanbrengt, heb je 10 seconden om haar relatie met een andere pop te controleren, dus schrijf je alle observaties op. Zorg er ook voor dat je van elke pop een foto maakt; als je dit niet doet, verlies je 90% van de uiteindelijke beloning. Zie je over 160 seconden!"
+        "str": "Laten we wat dingen ontdekken over een van de poppen. We kiezen Lil hiervoor. Pas alle elixers en kaarten op haar toe. Open je notitieboekje en noteer alles wat je observeert. Bijvoorbeeld, wanneer je een elixer aanbrengt, heb je 10 seconden om haar relatie met een andere pop te controleren, dus schrijf je alle observaties op. Zorg er ook voor dat je van elke pop een foto maakt; als je dit niet doet, verlies je 90% van de uiteindelijke beloning. Zie je over 160 seconden!"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1383,7 +1383,7 @@
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_18.Text",
         "id": "Find a new case",
-        "str": "Neem een nieuwe opdracht aan"
+        "str": "Neem een andere opdracht aan"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
@@ -1395,7 +1395,7 @@
         "key": "6E900D00499A2A657789138FBA3BD69E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_49.Text",
         "id": "Previous Equipment",
-        "str": "Vorige uitrusting"
+        "str": "Vorige voorwerp"
     },
     {
         "key": "6F62E8EE4D6306627A7D92B69CABCC13",
@@ -1779,7 +1779,7 @@
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "Stroom staat aan! Ga terug naar het huis."
+        "str": "De stroom staat nu aan. Ga terug naar het huis."
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
@@ -2157,7 +2157,7 @@
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Abyss",
-        "str": "Maak foto's van de poppen om de aanwijzingen in te vullen"
+        "str": "De afgrond"
     },
     {
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
@@ -2169,7 +2169,7 @@
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
         "id": "Travel",
-        "str": "Reizen"
+        "str": "Beginnen"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
@@ -2205,7 +2205,7 @@
         "key": "A97B724146EEB86D384D6A85A4F8931C",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Craft",
-        "str": "Craft"
+        "str": "Samenstellen"
     },
     {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
@@ -2259,7 +2259,7 @@
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Rose Petals",
-        "str": "Bekijk de verschillende tabbladen om er vertrouwd mee te raken."
+        "str": "Rozenblaadjes"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
@@ -2379,7 +2379,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Vereist energie"
+        "str": "Bekijk de verschillende tabbladen om er bekend mee te geraken. Als je zover bent, klik dan op de accepteer knop om deze opdacht aan te nemen."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2685,7 +2685,7 @@
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "Ruime tas"
+        "str": "Neem foto's van de poppen"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2709,7 +2709,7 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "Hol"
+        "str": "De sombere"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2727,19 +2727,19 @@
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "Afgrond"
+        "str": "De griezelige"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "De Rilling"
+        "str": "De rilling"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "Treurig"
+        "str": "De loerder"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
@@ -2829,7 +2829,7 @@
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "Je kunt dit niet maken, het past niet in een recept"
+        "str": "Je kunt dit niet maken, het past in geen enkel recept"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -3009,7 +3009,7 @@
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_12.Text",
         "id": "Next Equipment",
-        "str": "Volgende uitrusting"
+        "str": "Volgende voorwerp"
     },
     {
         "key": "EEEE750B4277BD6C5835BD901B924179",
@@ -3159,7 +3159,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Je hebt een opdracht beschikbaar met verschillende dynamische parameters. Het zal informatie tonen zoals de huidige. Als je het niet leuk vindt, dan kun je tegen betaling naar een nieuwe opdracht zoeken. Momenteel hebben we je interacties in de tutorialmodus beperkt; je kunt niets kopen, maken, de opdracht verlaten of naar een nieuwe opdracht zoeken."
+        "str": "Je hebt een opdracht beschikbaar met verschillende dynamische parameters. Zie hier een voorbeeld. Als je het niet leuk vindt, dan kun je tegen betaling naar een nieuwe opdracht zoeken. Momenteel hebben we je interacties in de tutorialmodus beperkt: Je kunt niets kopen, samenstellen, de opdracht verlaten of naar een nieuwe opdracht zoeken."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3195,7 +3195,7 @@
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "Helder dodelijke vloeistof."
+        "str": "Heldere dodelijke vloeistof."
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
