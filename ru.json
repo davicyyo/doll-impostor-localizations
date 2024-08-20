@@ -1129,7 +1129,7 @@
     },
     {
         "key": "5ADE18414BAB065DE0184E9E706B5D3B",
-       "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock.Text",
+        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock.Text",
         "id": "Enemies",
         "str": "Враги"
     },
@@ -1607,7 +1607,7 @@
         "id": "Nothing makes sense anymore",
         "str": "Теперь ничего не имеет смысла"
     },
-{
+    {
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
