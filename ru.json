@@ -3276,6 +3276,12 @@
         "str": "Получено XP"
     },
     {
+        "key": "FF2636BB4F223BBD00D531A30CF9EB06",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
+        "id": "Case History",
+        "str": "История дел"
+    },
+    {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
         "location": "/Game/enums/actions.actions.DisplayNameMap(4 - Value).DisplayNameMap",
         "id": "Music",
