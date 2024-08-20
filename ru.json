@@ -241,7 +241,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_11.Text",
         "id": "Back",
         "str": "Назад"
     },
