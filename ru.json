@@ -733,7 +733,7 @@
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_35.Text",
         "id": "Likes",
         "str": "Нравится"
     },
