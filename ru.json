@@ -3168,12 +3168,6 @@
         "str": "Мягкие и ароматные лепестки роз."
     },
     {
-        "key": "F7E0F0DC47429C7F044DA5B68C122215",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Macabre",
-        "str": "Смертный"
-    },
-    {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Hope",
