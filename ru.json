@@ -1392,12 +1392,6 @@
         "str": "Цветок лилии"
     },
     {
-        "key": "6F67459B4DC4207373A435A440CADE53",
-        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_4.Text",
-        "id": "Dislikes",
-        "str": "Не нравится"
-    },
-    {
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
