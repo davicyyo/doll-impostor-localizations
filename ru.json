@@ -1309,7 +1309,7 @@
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
-        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
         "id": "Enemies",
         "str": "Враги"
     },
