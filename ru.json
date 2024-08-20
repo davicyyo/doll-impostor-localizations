@@ -457,7 +457,7 @@
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
-        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_29.Text",
         "id": "Loves",
         "str": "Любит"
     },
