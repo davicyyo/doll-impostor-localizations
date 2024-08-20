@@ -2311,7 +2311,7 @@
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_8.Text",
         "id": "Impostor",
         "str": "Одержимая кукла"
     },
