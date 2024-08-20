@@ -1254,12 +1254,6 @@
         "str": "Грозная"
     },
     {
-        "key": "64560D0D45E7BCC7553F16A4D1CC9723",
-        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
-        "id": "History Cases",
-        "str": "История дел"
-    },
-    {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
