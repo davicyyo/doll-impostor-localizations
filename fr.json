@@ -261,7 +261,7 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "Une fleur blanche avec des pétales doux."
+        "str": "Une fleur blanche aux pétales doux."
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
@@ -615,7 +615,7 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "Papier Sombre comme l'Âme"
+        "str": "Papier d'Âme Sombre"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -1455,7 +1455,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Bienvenue dans le Mode Carrière. Dans ce mode de jeu, vous devrez découvrir des informations sur les poupées et résoudre correctement chaque cas."
+        "str": "Bienvenue dans le Mode Carrière. Dans ce mode de jeu, vous devrez le plus d'informations possible sur les poupées et résoudre correctement chaque cas."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -3141,7 +3141,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Vous aurez une affaire disponible avec divers paramètres dynamiques. Il affichera des informations comme celles ci, et si cela ne vous plaît pas, vous pouvez rechercher une nouvelle affaire en échange d'argent. Actuellement, en mode didacticiel, nous avons limité vos interactions ; vous ne pourrez pas acheter, fabriquer, quitter l'affaire en cours ou en rechercher une nouvelle."
+        "str": "Vous aurez une affaire disponible avec divers paramètres dynamiques. Les informations de l'affaire en cours sera affiché sur le menu principal de la Carrière, et si les paramètres ne vous plaisent pas, vous pouvez rechercher une nouvelle affaire en échange d'argent. Actuellement, en mode didacticiel, nous avons limité vos interactions ; vous ne pourrez pas acheter, fabriquer, quitter l'affaire en cours ou en rechercher une nouvelle."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3273,7 +3273,7 @@
         "key": "FF2636BB4F223BBD00D531A30CF9EB06",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "Case History",
-        "str": "Historique des cas"
+        "str": "Historique"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
