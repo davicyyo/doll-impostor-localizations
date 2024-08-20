@@ -726,12 +726,6 @@
         "str": "Скрытая"
     },
     {
-        "key": "37DA48C441B25CD0CEC7AFA4F75F6914",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Sinister",
-        "str": "Зловещий"
-    },
-    {
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
