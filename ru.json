@@ -3079,7 +3079,7 @@
     },
     {
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
-        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
         "id": "Hates",
         "str": "Ненавидит"
     },
