@@ -115,7 +115,7 @@
     },
     {
         "key": "074C094B4943E77D1E7501B3B9277A09",
-        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_7.ToolTipText",
+        "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
         "str": "التكاليف ستنعكس في أسعار العناصر في المتجر"
     },
@@ -241,7 +241,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_11.Text",
         "id": "Back",
         "str": "العودة"
     },
@@ -301,7 +301,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
         "str": "الخروج"
     },
@@ -457,7 +457,7 @@
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
-        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_29.Text",
         "id": "Loves",
         "str": "يحب"
     },
@@ -484,12 +484,6 @@
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
         "id": "Case Number",
         "str": "رقم الحالة"
-    },
-    {
-        "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Haunting",
-        "str": "التربص"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -732,12 +726,6 @@
         "str": "المحجوب"
     },
     {
-        "key": "37DA48C441B25CD0CEC7AFA4F75F6914",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Sinister",
-        "str": "الشرير"
-    },
-    {
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
@@ -745,7 +733,7 @@
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_35.Text",
         "id": "Likes",
         "str": "يعجبه"
     },
@@ -841,7 +829,7 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
         "str": "الإعدادات"
     },
@@ -1141,7 +1129,7 @@
     },
     {
         "key": "5ADE18414BAB065DE0184E9E706B5D3B",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
+        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock.Text",
         "id": "Enemies",
         "str": "أعداء"
     },
@@ -1266,12 +1254,6 @@
         "str": "الطيف"
     },
     {
-        "key": "64560D0D45E7BCC7553F16A4D1CC9723",
-        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
-        "id": "History Cases",
-        "str": "حالات التاريخ"
-    },
-    {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
@@ -1321,7 +1303,7 @@
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
-        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
         "id": "Enemies",
         "str": "الأعداء"
     },
@@ -1402,12 +1384,6 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Lily flower",
         "str": "زهرة زنبق"
-    },
-    {
-        "key": "6F67459B4DC4207373A435A440CADE53",
-        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_4.Text",
-        "id": "Dislikes",
-        "str": "لا يحب"
     },
     {
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
@@ -1495,7 +1471,7 @@
     },
     {
         "key": "73DE0E3F42416AE9AEC92394617B89B6",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
+        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_2.Text",
         "id": "Hates",
         "str": "يكره"
     },
@@ -1632,6 +1608,12 @@
         "str": "لا شيء يبدو منطقيًا بعد الآن"
     },
     {
+        "key": "7C1F780F43047787285C17A26FC3B81B",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
+        "str": "بمجرد الانتهاء من البرنامج التعليمي، قد تواجه صعوبات مالية. لمعالجة ذلك، يمكنك لعب الوضع الكلاسيكي، وبناءً على مستوى الصعوبة، سيمنحك المزيد أو أقل من المال لاستخدامه في الحالات."
+    },
+    {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
@@ -1741,7 +1723,7 @@
     },
     {
         "key": "834E072547D98D80C120CD87A16FA4D6",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_22.Text",
+        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_26.Text",
         "id": "Friends",
         "str": "أصدقاء"
     },
@@ -1993,7 +1975,7 @@
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
         "id": "Action Details",
         "str": "تفاصيل النشاط"
     },
@@ -2098,12 +2080,6 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
         "str": "الصمت"
-    },
-    {
-        "key": "9E696588498FFE8F35EE90B3AA88ABCB",
-        "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_22.Text",
-        "id": "Doll",
-        "str": "دمية"
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2323,7 +2299,7 @@
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_8.Text",
         "id": "Impostor",
         "str": "مُنتَحِل"
     },
@@ -2515,7 +2491,7 @@
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_38.Text",
         "id": "Dislikes",
         "str": "لا يحب"
     },
@@ -2952,6 +2928,12 @@
         "str": "الهمس"
     },
     {
+        "key": "E8BEC2F04785EFD5186984BE67C4B88A",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "Earn Money",
+        "str": "كسب المال"
+    },
+    {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Material",
@@ -3037,7 +3019,7 @@
     },
     {
         "key": "F21C143F425251C3614B29BD90BD710D",
-        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_9.ToolTipText",
+        "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_0 [Script Bytecode]",
         "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
         "str": "كلما انخفضت النسبة، كلما تم الكشف عن المزيد من المعلومات حول الدمى في البداية (من 2 إلى 10)"
     },
@@ -3085,7 +3067,7 @@
     },
     {
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
-        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
         "id": "Hates",
         "str": "يكره"
     },
@@ -3172,12 +3154,6 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
         "str": "سم العقرب"
-    },
-    {
-        "key": "F7E0F0DC47429C7F044DA5B68C122215",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Macabre",
-        "str": "الغامض"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3292,6 +3268,12 @@
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_15.Text",
         "id": "XP Earned",
         "str": "النقاط المكتسبة"
+    },
+    {
+        "key": "FF2636BB4F223BBD00D531A30CF9EB06",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
+        "id": "Case History",
+        "str": "تاريخ الحالة"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
