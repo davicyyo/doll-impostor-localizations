@@ -115,7 +115,7 @@
     },
     {
         "key": "074C094B4943E77D1E7501B3B9277A09",
-        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_7.ToolTipText",
+        "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
         "str": "Стоимость будет отражена в магазине"
     },
