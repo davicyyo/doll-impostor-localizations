@@ -2940,6 +2940,12 @@
         "str": "Шёпот"
     },
     {
+        "key": "E8BEC2F04785EFD5186984BE67C4B88A",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "Earn Money",
+        "str": "Зарабатывать деньги"
+    },
+    {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Material",
