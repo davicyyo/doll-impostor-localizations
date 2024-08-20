@@ -1477,7 +1477,7 @@
     },
     {
         "key": "73DE0E3F42416AE9AEC92394617B89B6",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
+        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_2.Text",
         "id": "Hates",
         "str": "Ненавидит"
     },
