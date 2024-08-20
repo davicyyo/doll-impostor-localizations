@@ -1613,6 +1613,12 @@
         "id": "Nothing makes sense anymore",
         "str": "Теперь ничего не имеет смысла"
     },
+{
+        "key": "7C1F780F43047787285C17A26FC3B81B",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
+        "str": "После завершения обучения вы можете столкнуться с финансовыми трудностями. Чтобы справиться с этим, вы можете играть в классическом режиме, и в зависимости от уровня сложности вам будет предоставлено больше или меньше денег для использования в делах."
+    },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
