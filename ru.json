@@ -2082,12 +2082,6 @@
         "str": "Неясная"
     },
     {
-        "key": "9E696588498FFE8F35EE90B3AA88ABCB",
-        "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_22.Text",
-        "id": "Doll",
-        "str": "Кукла"
-    },
-    {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_9.Text",
         "id": "Location",
