@@ -486,12 +486,6 @@
         "str": "Номер дела"
     },
     {
-        "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Haunting",
-        "str": "Волнующая"
-    },
-    {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
         "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_31.Text",
         "id": "Doll List",
