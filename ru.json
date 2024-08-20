@@ -2503,7 +2503,7 @@
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_38.Text",
         "id": "Dislikes",
         "str": "Не нравится"
     },
