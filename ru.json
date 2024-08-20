@@ -1129,7 +1129,7 @@
     },
     {
         "key": "5ADE18414BAB065DE0184E9E706B5D3B",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
+       "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock.Text",
         "id": "Enemies",
         "str": "Враги"
     },
