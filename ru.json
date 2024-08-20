@@ -75,7 +75,7 @@
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "Grimasă"
+        "str": "Больной"
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -115,7 +115,7 @@
     },
     {
         "key": "074C094B4943E77D1E7501B3B9277A09",
-        "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_7.ToolTipText",
         "id": "The costs will be reflected in the prices of the items in the store",
         "str": "Стоимость будет отражена в магазине"
     },
@@ -241,7 +241,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
         "id": "Back",
         "str": "Назад"
     },
@@ -301,7 +301,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
         "id": "Exit",
         "str": "Выйти"
     },
@@ -387,7 +387,7 @@
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "Эта кукла под эффектом, подожди, пока эффект закончится, прежде чем применять другой"
+        "str": "Эта кукла находится под эффектом, подожди, пока он закончится, прежде чем применять другой"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -457,7 +457,7 @@
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_29.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
         "id": "Loves",
         "str": "Любит"
     },
@@ -484,6 +484,12 @@
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
         "id": "Case Number",
         "str": "Номер дела"
+    },
+    {
+        "key": "2337F87F466D29C7C54BB68AFA5EA1A1",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Haunting",
+        "str": "Волнующая"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -726,6 +732,12 @@
         "str": "Скрытая"
     },
     {
+        "key": "37DA48C441B25CD0CEC7AFA4F75F6914",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Sinister",
+        "str": "Зловещий"
+    },
+    {
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
@@ -733,7 +745,7 @@
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_35.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
         "str": "Нравится"
     },
@@ -829,7 +841,7 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
         "id": "Settings",
         "str": "Настройки"
     },
@@ -933,7 +945,7 @@
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-        "str": "Обучение пройдено, теперь ты знаешь основы! Чтобы завершить обучение, нажми на кровать. Ты попадешь в лобби, в котором нужно нажать на компьютер для начала игры."
+        "str": "Обучение пройдено, теперь ты знаешь основы! Нажми на кровать. Ты попадешь в лобби, в котором нужно нажать на компьютер для начала игры."
     },
     {
         "key": "4798B1E54C73C4932878B1A4630376ED",
@@ -1053,7 +1065,7 @@
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "Возьми фонарь"
+        "str": "Фонарь"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
@@ -1129,7 +1141,7 @@
     },
     {
         "key": "5ADE18414BAB065DE0184E9E706B5D3B",
-        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock.Text",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
         "id": "Enemies",
         "str": "Враги"
     },
@@ -1137,7 +1149,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Ты должны использовать книгу душ, прежде чем сохранить одержимую куклу"
+        "str": "Ты должен использовать книгу душ, прежде чем сохранить одержимую куклу"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1233,7 +1245,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
-        "str": "Я дал несколько предметов для использования. Открой сундук позади, и забери их. Экипируй все предметы, и переключайся между ними используя кнопки смены предметов ."
+        "str": "Обернись. Сзади тебя сундук: открой его и забери оборудование на первый раз. Экипируй все предметы, и переключайся между ними используя кнопки смены предметов ."
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1252,6 +1264,12 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
         "str": "Грозная"
+    },
+    {
+        "key": "64560D0D45E7BCC7553F16A4D1CC9723",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
+        "id": "History Cases",
+        "str": "История дел"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
@@ -1303,7 +1321,7 @@
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
         "id": "Enemies",
         "str": "Враги"
     },
@@ -1311,7 +1329,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "Хорошо, давайте узнаем что-то об одной из кукол. Для этого выберем Лил. Нанеси на неё все эликсиры и карты. Открой свой блокнот и запиши всё, что видишь. После применения эликсира у тебя будет 10 секунд, чтобы проверить отношения с другой куклой, поэтому записывай все свои наблюдения. Также обязательно фотографируй каждую куклу; если этого не сделать, ты потеряешь 90% от финального вознаграждения. Увидимся через 160 секунд!"
+        "str": "Хорошо, давай узнаем что-то об одной из кукол. Для этого выберем Лил. Нанеси на неё все эликсиры и карты. Открой свой блокнот и запиши всё, что видишь. После применения эликсира у тебя будет 10 секунд, чтобы проверить отношения с другой куклой, поэтому записывай все свои наблюдения. Также обязательно фотографируй каждую куклу; если этого не сделать, ты потеряешь 90% от финального вознаграждения. Увидимся через 160 секунд!"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1384,6 +1402,12 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Lily flower",
         "str": "Цветок лилии"
+    },
+    {
+        "key": "6F67459B4DC4207373A435A440CADE53",
+        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_4.Text",
+        "id": "Dislikes",
+        "str": "Не нравится"
     },
     {
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
@@ -1471,7 +1495,7 @@
     },
     {
         "key": "73DE0E3F42416AE9AEC92394617B89B6",
-        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_2.Text",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
         "id": "Hates",
         "str": "Ненавидит"
     },
@@ -1569,7 +1593,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Вы использовали всё, что было нужно"
+        "str": "Ты использовал всё, что было нужно"
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1606,12 +1630,6 @@
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
         "str": "Теперь ничего не имеет смысла"
-    },
-    {
-        "key": "7C1F780F43047787285C17A26FC3B81B",
-        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
-        "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "После завершения обучения вы можете столкнуться с финансовыми трудностями. Чтобы справиться с этим, вы можете играть в классическом режиме, и в зависимости от уровня сложности вам будет предоставлено больше или меньше денег для использования в делах."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1723,7 +1741,7 @@
     },
     {
         "key": "834E072547D98D80C120CD87A16FA4D6",
-        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_26.Text",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_22.Text",
         "id": "Friends",
         "str": "Друзья"
     },
@@ -1731,7 +1749,7 @@
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "Вы можете попробовать это сейчас на ПК"
+        "str": "Можешь попробовать на пк"
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
@@ -1975,7 +1993,7 @@
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
         "str": "Детали действий"
     },
@@ -2080,6 +2098,12 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
         "str": "Неясная"
+    },
+    {
+        "key": "9E696588498FFE8F35EE90B3AA88ABCB",
+        "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_22.Text",
+        "id": "Doll",
+        "str": "Кукла"
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2223,7 +2247,7 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "Активируй финальную битву, чтобы раскрыть одержимую куклы."
+        "str": "Активируй финальный этап, чтобы раскрыть одержимую куклу."
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
@@ -2289,7 +2313,7 @@
         "key": "B300BE9147F822906E54C7A227BF23BA",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Welcome to Doll Impostor!",
-        "str": "Добро пожаловать в Doll Impostor!"
+        "str": "Добро пожаловать в \\\"Doll Impostor\\\"!"
     },
     {
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
@@ -2299,7 +2323,7 @@
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_8.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
         "str": "Одержимая кукла"
     },
@@ -2355,7 +2379,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Ознакомься с различными вкладками. Когда будешь готов, нажми \n\n\n\nПринять\n\n\n\n для начала дела"
+        "str": "Ознакомься с различными вкладками. Когда будешь готов, нажми Принять для начала дела"
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2491,7 +2515,7 @@
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_38.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
         "id": "Dislikes",
         "str": "Не нравится"
     },
@@ -2559,7 +2583,7 @@
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_22.Text",
         "id": "Crouch",
-        "str": "Приседание"
+        "str": "Присесть"
     },
     {
         "key": "C9DD78084F647953E55A8196CE872921",
@@ -2817,13 +2841,13 @@
         "key": "DE011C1944710509D6330C8C62491DBA",
         "location": "/Game/data-tables/itemList.itemList.NewRow_4.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Fuse",
-        "str": "Щиток"
+        "str": "Предохранитель"
     },
     {
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Сейчас обучение, поэтому ты не сможешь взаимодействовать ни с чем на данный момент. Давай включим электричество. Возьми щиток и иди к задней части дома"
+        "str": "Сейчас обучение, поэтому ты не сможешь взаимодействовать ни с чем на данный момент. Давай включим электричество. Возьми предохранитель и иди к задней части дома"
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -2928,12 +2952,6 @@
         "str": "Шёпот"
     },
     {
-        "key": "E8BEC2F04785EFD5186984BE67C4B88A",
-        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
-        "id": "Earn Money",
-        "str": "Зарабатывать деньги"
-    },
-    {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Material",
@@ -3019,7 +3037,7 @@
     },
     {
         "key": "F21C143F425251C3614B29BD90BD710D",
-        "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_0 [Script Bytecode]",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.Button_9.ToolTipText",
         "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
         "str": "Чем ниже коэффициент, тем больше информации о куклах будет раскрыто изначально (от 2 до 10)"
     },
@@ -3067,7 +3085,7 @@
     },
     {
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
         "id": "Hates",
         "str": "Ненавидит"
     },
@@ -3141,7 +3159,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "У вас будет доступно дело с различными параметрами. Оно покажет информацию, аналогичную текущей, и если вам не понравится, вы сможете обновить дело за деньги. В настоящее время в учебном режиме мы ограничили ваши возможности; вы не сможете покупать, создавать, выходить из дела или искать новые."
+        "str": "У тебя будет доступно дело с различными настройкам. Оно покажет информацию, аналогичную текущей, и если тебе не понравится, вы сможете обновить дело за деньги. В настоящее время в учебном режиме твои действия ограниченны; нельзя покупать, создавать, выходить из дела или искать новые."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3154,6 +3172,12 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
         "str": "Мягкие и ароматные лепестки роз."
+    },
+    {
+        "key": "F7E0F0DC47429C7F044DA5B68C122215",
+        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
+        "id": "The Macabre",
+        "str": "Смертный"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3268,12 +3292,6 @@
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_15.Text",
         "id": "XP Earned",
         "str": "Получено XP"
-    },
-    {
-        "key": "FF2636BB4F223BBD00D531A30CF9EB06",
-        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
-        "id": "Case History",
-        "str": "История дела"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
