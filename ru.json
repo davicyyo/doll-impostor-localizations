@@ -681,7 +681,7 @@
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
-        "str": "Кристалл кварц"
+        "str": "Кварц"
     },
     {
         "key": "34568E7B486905A5400643A88FA2E8A8",
@@ -1023,7 +1023,7 @@
         "key": "5154AFE04B70A5D272398C80C9353C25",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getNeedText [Script Bytecode]",
         "id": "You need {name}",
-        "str": "Вам нужно {name}"
+        "str": "Используй {name}"
     },
     {
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
@@ -1083,7 +1083,7 @@
         "key": "58DD772D4ABE943A14B03D9A569701B6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals love",
-        "str": "Эликсир, раскрывающий любимых"
+        "str": "Эликсир, раскрывающий любовь"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
@@ -1467,7 +1467,7 @@
         "key": "73D31FDE441CC82C2ADFE9B2A3A7A293",
         "location": "/Game/enums/costs.costs.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Cheap",
-        "str": "Дешёвый"
+        "str": "Малые"
     },
     {
         "key": "73DE0E3F42416AE9AEC92394617B89B6",
@@ -1965,7 +1965,7 @@
         "key": "9639E2074CB67CEC4666A4AF3A4FC559",
         "location": "/Game/enums/costs.costs.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Very Cheap",
-        "str": "Очень дёшево"
+        "str": "Очень малые"
     },
     {
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
@@ -2145,7 +2145,7 @@
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
         "id": "Travel",
-        "str": "Путешествие"
+        "str": "В путь"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
