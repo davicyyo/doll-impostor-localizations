@@ -1287,7 +1287,7 @@
         "key": "66D14BB44970D4F17A0184929B3FE083",
         "location": "/Game/enums/actions.actions.DisplayNameMap(58 - Value).DisplayNameMap",
         "id": "Animated Stuffed animal",
-        "str": "Анимированная плюшевая игрушка"
+        "str": "Живая плюшевая игрушка"
     },
     {
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
@@ -1311,7 +1311,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "Хорошо, давай узнаем что-то об одной из кукол. Для этого выберем Лил. Нанеси на неё все эликсиры и карты. Открой свой блокнот и запиши всё, что видишь. После применения эликсира у тебя будет 10 секунд, чтобы проверить отношения с другой куклой, поэтому записывай все свои наблюдения. Также обязательно фотографируй каждую куклу; если этого не сделать, ты потеряешь 90% от финального вознаграждения. Увидимся через 160 секунд!"
+        "str": "Хорошо, давай узнаем что-то об одной из кукол. Для этого выберем Лил. Нанеси на неё все эликсиры и карты. Открой свой блокнот и запиши всё, что видишь. После применения эликсира у тебя будет 10 секунд, чтобы проверить отношения с другой куклой, поэтому записывай все свои наблюдения. Также обязательно фотографируй каждую куклу: если этого не сделать, ты потеряешь 90% от финального вознаграждения. Увидимся через 160 секунд!"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1521,7 +1521,7 @@
         "key": "77597C9F40C4017557D06AA387E711B0",
         "location": "/Game/enums/costs.costs.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Very Expensive",
-        "str": "Очень дорого"
+        "str": "Очень большие"
     },
     {
         "key": "77DAE76A48EC13E45F2983881F23E808",
@@ -1863,7 +1863,7 @@
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
-        "str": "Лагерь с друзьями"
+        "str": "Кэмпинг с друзьями"
     },
     {
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
@@ -2217,7 +2217,7 @@
         "key": "AD00137D457BF38AE614FC9EE94D1425",
         "location": "/Game/enums/costs.costs.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Expensive",
-        "str": "Дорого"
+        "str": "Большие"
     },
     {
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
@@ -2289,7 +2289,7 @@
         "key": "B300BE9147F822906E54C7A227BF23BA",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Welcome to Doll Impostor!",
-        "str": "Добро пожаловать в Doll Impostor!"
+        "str": "Добро пожаловать в \\\"Doll Impostor\\\"!"
     },
     {
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
@@ -2349,7 +2349,7 @@
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "Прошёптанный"
+        "str": "Параноик"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
@@ -2595,7 +2595,7 @@
         "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "Dropped",
-        "str": "Оставлено"
+        "str": "Покинуто"
     },
     {
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
@@ -2823,7 +2823,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Сейчас обучение, поэтому ты не сможешь взаимодействовать ни с чем на данный момент. Давай включим электричество. Возьми предохранитель и иди к задней части дома"
+        "str": "Сейчас обучение, поэтому ты не можешь взаимодействовать ни с чем на данный момент. Давай включим электричество. Возьми предохранитель и иди к задней части дома"
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3033,7 +3033,7 @@
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "доска Уиджи"
+        "str": "Доска Уиджи"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
@@ -3141,7 +3141,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "У тебя будет доступно дело с различными настройкам. Оно покажет информацию, аналогичную текущей, и если тебе не понравится, вы сможете обновить дело за деньги. В настоящее время в учебном режиме твои действия ограниченны; нельзя покупать, создавать, выходить из дела или искать новые."
+        "str": "У тебя будет доступно дело с различными параметрами. Оно покажет информацию, аналогичную текущей, и если тебе не понравится, вы сможете обновить дело за деньги. В настоящее время в учебном режиме твои действия ограниченны; нельзя покупать, создавать, выходить из дела или искать новые."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
