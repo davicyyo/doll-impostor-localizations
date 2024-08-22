@@ -42,6 +42,12 @@
         "str": "Canela"
     },
     {
+        "key": "02384976426960372C5EAE9FE9459154",
+        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_3.Text",
+        "id": "Your inventory",
+        "str": "Tu inventario"
+    },
+    {
         "key": "0285258748FED1BC6E542F80A9097CE9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(32 - Value).DisplayNameMap",
         "id": "Tea",
@@ -216,6 +222,12 @@
         "str": "Chimenea"
     },
     {
+        "key": "0D80C37D480FE34BE1CA64878A0D1B7D",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the radio",
+        "str": "Ahora la radio"
+    },
+    {
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
@@ -241,7 +253,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
         "id": "Back",
         "str": "Volver"
     },
@@ -282,10 +294,22 @@
         "str": "El fantasma"
     },
     {
+        "key": "158F6D234AF05145B4905F942285D978",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the Ouija board on the table",
+        "str": "Ahora la tabla de Ouija en la mesa"
+    },
+    {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(10 - Value).DisplayNameMap",
         "id": "Fireworks",
         "str": "Fuegos artificiales"
+    },
+    {
+        "key": "15A53736473F7B173C354496D5FF2638",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
+        "str": "Muy bien, has usado todos los objetos en el muñeco. Esta vez, las cosas que Lil no le gustaron fueron: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -301,7 +325,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
         "id": "Exit",
         "str": "Salir"
     },
@@ -310,6 +334,12 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
         "id": "Shading Quality",
         "str": "Calidad de sombreado"
+    },
+    {
+        "key": "16B725324055549E77710CACDD3325FF",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now move the picture closest to the living room door.",
+        "str": "Ahora mueve la imagen más cercana a la puerta de la sala de estar."
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -444,6 +474,12 @@
         "str": "La mueca"
     },
     {
+        "key": "20A3D5CB40F0360E6C38BABBA2706D90",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
+        "str": "Estos elixires revelan relaciones entre los muñecos. Todos tienen relaciones, y esta es la única forma de descubrirlas. Comencemos probando la relación de amor de Lil con los otros muñecos. Simplemente aplica el elixir a Lil y observa los efectos. Todos los que respondan a los efectos de Lil son los que Lil ama."
+    },
+    {
         "key": "20C95AA345D28767010999ADA95FBAE7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Black Garlic",
@@ -457,7 +493,7 @@
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_29.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
         "id": "Loves",
         "str": "Ama a"
     },
@@ -478,6 +514,12 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silhouette",
         "str": "La Silueta"
+    },
+    {
+        "key": "230AAACD49536A9594B0CBB4CA653C76",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the tv",
+        "str": "Ahora la televisión"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
@@ -564,6 +606,12 @@
         "str": "El Viento Susurrante"
     },
     {
+        "key": "2A85705945159E3B98E06BB40B5CA820",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the book",
+        "str": "Ahora el libro"
+    },
+    {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
@@ -616,6 +664,12 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
         "str": "Papel oscuro del alma"
+    },
+    {
+        "key": "2EA5F3054E8CD308869D52B17D3DE346",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
+        "str": "También te he dado una bolsa. Esta bolsa te ayudará a capturar al impostor. Una vez que lo atrapes, el juego terminará (si lo haces dentro del límite de tiempo). Te dejo para que termines esta parte del tutorial. Ya sea que ganes o pierdas, has terminado. ¡Buena suerte!"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -678,6 +732,12 @@
         "str": "El Crepúsculo"
     },
     {
+        "key": "336B557643CBA00B5138539520DCBB04",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Let's start with the chair outside.",
+        "str": "Comencemos con la silla de afuera."
+    },
+    {
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
@@ -733,7 +793,7 @@
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_35.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
         "str": "Le gusta"
     },
@@ -742,12 +802,6 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_29.Text",
         "id": "FPS Limit",
         "str": "Límite de FPS"
-    },
-    {
-        "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
-        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
-        "id": "The items you equip will be lost!",
-        "str": "¡Los artículos que equipes se perderán!"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
@@ -786,6 +840,12 @@
         "str": "Calidad de reflejos"
     },
     {
+        "key": "3C68D11C43CC3EA53113F48A08FDF3AD",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the wall clock",
+        "str": "Ahora el reloj de pared"
+    },
+    {
         "key": "3D3092E04B30FAE9F91970831F869B44",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Wall",
@@ -816,6 +876,12 @@
         "str": "Mover hacia atrás"
     },
     {
+        "key": "3E8440AC413D7725FE75218355F55B7B",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
+        "str": "¡Genial! Te he dado el papel oscuro. Úsalo en Lil y anota todo lo que veas. Recuerda que estas son las cosas que no le gustan, por lo que cualquier cosa que apague indicará sus disgustos."
+    },
+    {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
         "location": "/Game/enums/actions.actions.DisplayNameMap(56 - Value).DisplayNameMap",
         "id": "Words",
@@ -828,8 +894,14 @@
         "str": "El ébano"
     },
     {
+        "key": "3FAB1E074AD22684E3F78785D85679FA",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the nearest candle.",
+        "str": "Ahora la vela más cercana."
+    },
+    {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
         "id": "Settings",
         "str": "Configuración"
     },
@@ -930,6 +1002,12 @@
         "str": "¿Qué nos queda?"
     },
     {
+        "key": "4715107549F6817B3883F99871D34055",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Leave the room now and check everything that’s activated. You have 10 seconds to discover it. Write down everything you see in the doll's likes!",
+        "str": "Sal de la habitación ahora y comprueba todo lo que está activado. Tienes 10 segundos para descubrirlo. ¡Escribe todo lo que veas en los gustos de la muñeca!"
+    },
+    {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
@@ -996,6 +1074,12 @@
         "str": "Un cristal claro y puro."
     },
     {
+        "key": "4E0811124112D56E159C9290EA5B7FEF",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
+        "str": "Te he dado un cuaderno donde puedes ver todos los detalles sobre las muñecas e información completa. Echa un vistazo, y cuando estés listo, vuelve a las muñecas."
+    },
+    {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veil",
@@ -1030,6 +1114,18 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
         "id": "Turn Left",
         "str": "Girar a la izquierda"
+    },
+    {
+        "key": "51B58C89473E1AE2A37E6A8118DC37C1",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
+        "str": "¿Alguna vez te has preguntado de dónde proviene la información sobre las muñecas? ¡En el modo carrera, descubrirás la información sobre las muñecas con casos infinitos, economía, niveles, tienda, crafteo y mucho más!"
+    },
+    {
+        "key": "520103D94DEC134A00BBF6ABA778AA0F",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
+        "str": "¡Bien hecho, has completado los elixires. No estoy revisando tus notas, ¡pero estoy seguro de que son geniales!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
@@ -1078,6 +1174,12 @@
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
         "id": "Back",
         "str": "Volver"
+    },
+    {
+        "key": "58232C9B4DC256E252E24DA64FBF074E",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
+        "str": "Antes de darte el papel oscuro, activemos y encendamos todo. De esta manera, será más fácil para nosotros ver lo que la muñeca no le gusta cuando la detenemos."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1232,8 +1334,8 @@
     {
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
-        "str": "Te he dado algunos objetos para usar. Accede al cofre detrás de ti para recuperar los objetos y armas. Equipa todos los objetos, para usarlos cambia de arma usando el botón de cambio de arma hacia adelante o hacia atrás."
+        "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
+        "str": "Cuando comiences un caso, podrás equiparte con los objetos que hayas comprado o crafteado. Para hacerlo, accede al cofre que tienes detrás de ti. En este momento, lo verás vacío, ¡pero no te preocupes, te daré objetos para que te familiarices con ellos!"
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1296,6 +1398,12 @@
         "str": "El Retorcido"
     },
     {
+        "key": "67CC4CE342660CF969980E8F00DC0788",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Very well, now the remaining candle.",
+        "str": "Muy bien, ahora la vela restante."
+    },
+    {
         "key": "67E721CC4E280A5A435BA1B141936D38",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
         "id": "Brightness",
@@ -1303,15 +1411,15 @@
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
         "id": "Enemies",
         "str": "Enemigos"
     },
     {
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "Muy bien, vamos a descubrir algunas cosas sobre una de las muñecas. Vamos a elegir a Lil para esto. Aplica todos los elixires y cartas en ella. Abre tu cuaderno y toma notas de todo lo que observes. Por ejemplo, cuando aplicas un elixir, tienes 10 segundos para verificar su relación con otra muñeca, así que anota todas tus observaciones. Asegúrate también de tomar una foto de cada muñeca; no hacerlo te penalizará con el 90% de la recompensa final. ¡Nos vemos en 160 segundos!"
+        "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
+        "str": "Perfecto, ahora investiguemos una de las muñecas. Te he dado una cámara; hagamos una foto a Lil."
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1396,12 +1504,6 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
         "str": "Frutas pequeñas y jugosas"
-    },
-    {
-        "key": "7031AD7A4DA6E52A478205B8558A9C5A",
-        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "I've given you a Soul Book. If you haven't finished the tasks, you can do so now. This book will awaken the impostor, and you have 180 seconds to find the impostor once you use it. If you don't succeed, the impostor will kill you. When you're sure who the impostor is, use the sports bag to trap them inside. The tutorial ends here—it's now up to you to continue and uncover the truth. Good luck!",
-        "str": "Te he dado un Libro de Almas. Si no has terminado las tareas, puedes hacerlo ahora. Este libro despertará al impostor, y tendrás 180 segundos para encontrar al impostor una vez lo uses. Si fallas, el impostor te matará. Cuando estés seguro de quién es el impostor, usa la bolsa deportiva para atraparlo dentro. El tutorial termina aquí, ahora depende de ti continuar y descubrir la verdad. ¡Buena suerte!"
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
@@ -1656,6 +1758,12 @@
         "str": "Vamos a preparar una trampa para el impostor. Ya sabemos que le gusta la televisión y la música. Enciende las luces."
     },
     {
+        "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
+        "str": "Los efectos han desaparecido. Si no lograste anotarlo, los amores de Lil son: {people}"
+    },
+    {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(8).texts",
         "id": "The silence is deafening",
@@ -1806,12 +1914,6 @@
         "str": "Elixir que revela odio"
     },
     {
-        "key": "89B0338340E9602DE85B9797AE55D96F",
-        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
-        "id": "Equip Items",
-        "str": "Equipar objetos"
-    },
-    {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
@@ -1916,14 +2018,14 @@
     {
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
-        "id": "Paper that reveals tastes",
+        "id": "Paper that reveals likes",
         "str": "Papel que revela gustos"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
-        "id": "Paper that reveals distastes",
-        "str": "Papel que revela desagrados"
+        "id": "Paper that reveals dislikes",
+        "str": "Papel que revela disgustos"
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -1975,7 +2077,7 @@
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
         "str": "Detalles de la acción"
     },
@@ -2034,6 +2136,12 @@
         "str": "La amenaza"
     },
     {
+        "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Elixir applied! Check the dolls around to determine whom Lil loves.",
+        "str": "¡Elixir aplicado! Comprueba las muñecas de alrededor para determinar a quién quiere Lil."
+    },
+    {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
         "location": "/Game/enums/actions.actions.DisplayNameMap(43 - Value).DisplayNameMap",
         "id": "Clock",
@@ -2076,10 +2184,22 @@
         "str": "Cañón"
     },
     {
+        "key": "9DC1A4244661454B29521687D81248D8",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Let's cross off Lil since that's the doll we're going to investigate.",
+        "str": "Tachemos a Lil ya que es la muñeca que vamos a investigar."
+    },
+    {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
         "str": "El sombrío"
+    },
+    {
+        "key": "9EE1B4694260CACEFC64E49A837B3C23",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
+        "str": "Para revelar la foto, necesitas moverla. Una vez que esté revelada al 100%, simplemente presiona el botón de uso y se guardará."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2140,6 +2260,12 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
         "str": "El sombrío"
+    },
+    {
+        "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
+        "str": "¡Se acabó el tiempo! Si no lograste escribir todo, aquí está lo que se observó: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2250,6 +2376,12 @@
         "str": "Has perdido el 90% de la recompensa total debido a fotos faltantes"
     },
     {
+        "key": "B06763C640AF25AF95E932927F9E6D59",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
+        "str": "Bien, te daré el resto de los elixires para aplicar a Lil. Amicitia representa la amistad, Inimicitia representa la enemistad y Odium representa el odio. Cada uno de estos, con su color específico, revelará las relaciones de Lil. Escribe todo lo que observes y recuerda que en algunos casos, Lil podría no tener ninguna relación con un rol específico."
+    },
+    {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
@@ -2292,6 +2424,18 @@
         "str": "¡Bienvenido a Doll Impostor!"
     },
     {
+        "key": "B324B28C4466BEA72263AD9E23F8755D",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've given you a lighter. Use it for the remaining actions.",
+        "str": "Te he dado un mechero. Úsalo para las acciones restantes."
+    },
+    {
+        "key": "B372B7564467D935DC5122B7415A738C",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "You've unlocked the career mode!",
+        "str": "¡Has desbloqueado el modo carrera!"
+    },
+    {
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals friendship",
@@ -2299,7 +2443,7 @@
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_8.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
         "str": "Impostor"
     },
@@ -2376,12 +2520,6 @@
         "str": "Ilimitado"
     },
     {
-        "key": "B83348AE4D0F332AFE32DA9CCA2BB2FF",
-        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_4.Text",
-        "id": "Only visible items that you can equip",
-        "str": "Solo los elementos visibles que puedes equipar"
-    },
-    {
         "key": "B8952A3841AAE9C0034514AC607965D8",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
@@ -2412,10 +2550,22 @@
         "str": "El Planificador"
     },
     {
+        "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
+        "str": "Ahora deberías escribirlos en las notas del bloc de notas. Además, si estás usando un teclado y un ratón, y haces clic fuera de las notas, la página del muñeco permanecerá abierta."
+    },
+    {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
         "id": "Ambient Volume",
         "str": "Volumen ambiental"
+    },
+    {
+        "key": "BC337075457AE8659374D6BF82D6E51D",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
+        "str": "Hemos capturado a Lil. Puedes seguir fotografiando al resto de los muñecos. Cuando estés listo, dirígete a la caravana para ver las fotos."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2478,6 +2628,12 @@
         "str": "Está claro que le gusta la sangre. Podría ser cualquiera de los dos, pero verifica las cajas. Freddy ha desaparecido y su caja está llena de sangre. Te dejo este veredicto a ti. Cuando estés seguro, descarta al candidato."
     },
     {
+        "key": "BF5B4BBA458403674A2BD89F8DC120A5",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now table chess",
+        "str": "Ahora ajedrez de mesa"
+    },
+    {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
@@ -2491,7 +2647,7 @@
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_38.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
         "id": "Dislikes",
         "str": "No le gusta"
     },
@@ -2520,6 +2676,12 @@
         "str": "Dios, sálvanos"
     },
     {
+        "key": "C380BEFB4806636D471F28BC3C7CE999",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Soul Papers",
+        "str": "Papeles del alma"
+    },
+    {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
@@ -2542,6 +2704,18 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
         "str": "Dispositivo portátil que produce una llama para encender un fuego."
+    },
+    {
+        "key": "C6EE1D854906A3E6B08CFF871773765A",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
+        "str": "Muy bien, volvamos a la casa. Vamos a descubrir cosas sobre Lil. Abre su caja y procederemos a aplicar elixires."
+    },
+    {
+        "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
+        "str": "Te he dado una linterna, que es bastante importante en este modo debido a la oscuridad intensa. Presta atención a los números en tu IU en la parte inferior; puedes equipar un máximo de 10 objetos, siendo el primer hueco siempre tu mano. Puedes navegar por tu inventario pulsando las teclas de Equipo anterior y Equipo siguiente, o en el teclado usando las teclas numéricas o la rueda del ratón."
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2682,6 +2856,12 @@
         "str": "La oscuridad nos rodea"
     },
     {
+        "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
+        "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
+        "id": "Some of the elements you already have equipped",
+        "str": "Algunos de los elementos que ya tienes equipados"
+    },
+    {
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
@@ -2696,8 +2876,8 @@
     {
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "Enter the house and find the dolls' room. Use the flashlight to see better.",
-        "str": "Entra en la casa y encuentra la habitación de las muñecas. Usa la linterna para ver mejor."
+        "id": "Enter the house and find the dolls' room.",
+        "str": "Entra en la casa y encuentra la habitación de las muñecas."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -2790,10 +2970,22 @@
         "str": "El Destello"
     },
     {
+        "key": "DA59B2F64FE3F88E166FBB87C3277E27",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Elixirs",
+        "str": "Elixires"
+    },
+    {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Door",
         "str": "Puerta"
+    },
+    {
+        "key": "DACB1EDD4AB27C4191AE658DC5537B43",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
+        "str": "Los papeles de almas son pergaminos místicos, extraordinariamente únicos, y hay dos tipos: Papeles de almas y Papeles oscuros de almas. En otras palabras, el Pergamino de almas y su versión oscura. Estos pergaminos revelan los gustos y disgustos de las muñecas. Empezaremos con el pergamino normal. Aplica el pergamino a la muñeca."
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -2842,6 +3034,12 @@
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
         "str": "Si vuelves al refugio, la casa restaurará su estado y perderás los objetos equipados."
+    },
+    {
+        "key": "E0B35CB146811DDBDBF08EA339FC6413",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Good job, lastly, light the fireplace.",
+        "str": "Buen trabajo, por último, enciende la chimenea."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -2898,6 +3096,12 @@
         "str": "Hojas verdes refrescantes"
     },
     {
+        "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
+        "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
+        "id": "You can only equip a maximum of 10 items",
+        "str": "Solo puedes equipar un máximo de 10 objetos"
+    },
+    {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_32.Text",
         "id": "Temporal Upsample",
@@ -2944,6 +3148,12 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
         "id": "Head Bobbing",
         "str": "Movimiento de cabeza"
+    },
+    {
+        "key": "E979BCF04F7CD32E81237BA9F94E25E1",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
+        "str": "Te he dado algunos objetos, ve a la sección de crafteo para craftear un elixir, puedes hacerlo manualmente o directamente presionando sobre el elixir que quieras."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3067,7 +3277,7 @@
     },
     {
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
         "id": "Hates",
         "str": "Odia a"
     },
@@ -3156,6 +3366,12 @@
         "str": "Pétalos de rosa suaves y fragantes"
     },
     {
+        "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
+        "str": "Ahora usaremos el objeto Libro de Almas. Este objeto iniciará oficialmente el juego. Su uso es sencillo: cuando utilices este libro, quien sea el impostor (en este caso, Lil) comenzará a actuar. En este punto, deberás comparar la información con lo que sucede, tal como en el modo original. Ten en cuenta que tendrás 180 segundos, y si el tiempo llega a 0, te matará."
+    },
+    {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Hope",
@@ -3166,6 +3382,12 @@
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
         "str": "Oh no..."
+    },
+    {
+        "key": "F880818144C667A994BEEF9200987EF4",
+        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_2.Text",
+        "id": "Chest",
+        "str": "cofre"
     },
     {
         "key": "F9560AD34A829952AE5F5498756E174C",
@@ -3184,6 +3406,12 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traditional",
         "str": "La Tradicional"
+    },
+    {
+        "key": "FA633E4748F6A0B7063605A5816F9060",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
+        "str": "Antes de que te vayas, quiero aclarar que en este modo de juego, puedes regresar al refugio conduciendo la caravana. Por último, lo que hemos hecho con Lil en este modo necesitará hacerse para cada una de las muñecas para identificar al impostor. Ten en cuenta que el modo campaña está pensado para ser una experiencia cooperativa en el futuro, por lo que es importante que no sea breve o rápido. Cada caso podría llevarte días en resolverlo, pero es asíncrono, lo que significa que puedes salir cuando quieras y continuar jugando más tarde, y todo permanecerá como lo dejaste."
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
