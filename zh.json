@@ -42,6 +42,12 @@
         "str": "肉桂"
     },
     {
+        "key": "02384976426960372C5EAE9FE9459154",
+        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_3.Text",
+        "id": "Your inventory",
+        "str": "你的库存"
+    },
+    {
         "key": "0285258748FED1BC6E542F80A9097CE9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(32 - Value).DisplayNameMap",
         "id": "Tea",
@@ -216,6 +222,12 @@
         "str": "火炉"
     },
     {
+        "key": "0D80C37D480FE34BE1CA64878A0D1B7D",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the radio",
+        "str": "现在是收音机"
+    },
+    {
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
@@ -241,7 +253,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
         "id": "Back",
         "str": "返回"
     },
@@ -282,10 +294,22 @@
         "str": "幻象"
     },
     {
+        "key": "158F6D234AF05145B4905F942285D978",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the Ouija board on the table",
+        "str": "现在是桌子上的通灵板"
+    },
+    {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(10 - Value).DisplayNameMap",
         "id": "Fireworks",
         "str": "烟花"
+    },
+    {
+        "key": "15A53736473F7B173C354496D5FF2638",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
+        "str": "很好，你已经用完了所有的物品。这次，Lil 不喜欢的东西是：{items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -301,7 +325,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
         "id": "Exit",
         "str": "退出"
     },
@@ -310,6 +334,12 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
         "id": "Shading Quality",
         "str": "阴影质量"
+    },
+    {
+        "key": "16B725324055549E77710CACDD3325FF",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now move the picture closest to the living room door.",
+        "str": "现在移动最靠近客厅门的图片。"
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -444,6 +474,12 @@
         "str": "怪相"
     },
     {
+        "key": "20A3D5CB40F0360E6C38BABBA2706D90",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
+        "str": "这些药剂揭示了人偶之间的关系。他们之间都有关系，这是发现关系的唯一方法。让我们从测试 Lil 与其他人偶的爱情关系开始。只需将药剂涂在 Lil 身上并观察效果。所有对 Lil 的效果做出反应的人都是 Lil 爱的人。"
+    },
+    {
         "key": "20C95AA345D28767010999ADA95FBAE7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Black Garlic",
@@ -457,7 +493,7 @@
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_29.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
         "id": "Loves",
         "str": "爱慕"
     },
@@ -478,6 +514,12 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silhouette",
         "str": "幽影"
+    },
+    {
+        "key": "230AAACD49536A9594B0CBB4CA653C76",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the tv",
+        "str": "现在是电视"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
@@ -564,6 +606,12 @@
         "str": "风言风语"
     },
     {
+        "key": "2A85705945159E3B98E06BB40B5CA820",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the book",
+        "str": "现在是书"
+    },
+    {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
@@ -616,6 +664,12 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
         "str": "灵魂暗纸"
+    },
+    {
+        "key": "2EA5F3054E8CD308869D52B17D3DE346",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
+        "str": "现在我也给了你一个袋子。这个袋子将帮助你抓住冒名顶替者。一旦你抓住它，游戏就会结束（如果你在时间限制内完成）。我会让你自己完成这部分教程。无论你赢还是输，都算完成了。祝你好运！"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -678,6 +732,12 @@
         "str": "暮光"
     },
     {
+        "key": "336B557643CBA00B5138539520DCBB04",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Let's start with the chair outside.",
+        "str": "让我们从外面的椅子开始。"
+    },
+    {
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
@@ -733,7 +793,7 @@
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_35.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
         "str": "喜欢"
     },
@@ -742,12 +802,6 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_29.Text",
         "id": "FPS Limit",
         "str": "帧数限制"
-    },
-    {
-        "key": "38DDB71F4BE7F39BC7DB5995056E1AF7",
-        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_6.Text",
-        "id": "The items you equip will be lost!",
-        "str": "你装备的物品将会丢失！"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
@@ -786,6 +840,12 @@
         "str": "反射质量"
     },
     {
+        "key": "3C68D11C43CC3EA53113F48A08FDF3AD",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the wall clock",
+        "str": "现在是挂钟"
+    },
+    {
         "key": "3D3092E04B30FAE9F91970831F869B44",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Wall",
@@ -816,6 +876,12 @@
         "str": "向后移动"
     },
     {
+        "key": "3E8440AC413D7725FE75218355F55B7B",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
+        "str": "太棒了！我给了你暗纸。用它在Lil身上，写下你看到的一切。记住，这些是她不喜欢的东西，所以她熄灭的任何东西都会表明她的不喜欢。"
+    },
+    {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
         "location": "/Game/enums/actions.actions.DisplayNameMap(56 - Value).DisplayNameMap",
         "id": "Words",
@@ -828,8 +894,14 @@
         "str": "乌黑"
     },
     {
+        "key": "3FAB1E074AD22684E3F78785D85679FA",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now the nearest candle.",
+        "str": "现在最近的蜡烛。"
+    },
+    {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
         "id": "Settings",
         "str": "设置"
     },
@@ -930,6 +1002,12 @@
         "str": "我们还剩下什么？"
     },
     {
+        "key": "4715107549F6817B3883F99871D34055",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Leave the room now and check everything that’s activated. You have 10 seconds to discover it. Write down everything you see in the doll's likes!",
+        "str": "现在离开房间，检查所有激活的东西。你有10秒钟的时间来发现它。写下你在娃娃喜欢的东西中看到的一切！"
+    },
+    {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
@@ -996,6 +1074,12 @@
         "str": "清澈纯净的水晶。"
     },
     {
+        "key": "4E0811124112D56E159C9290EA5B7FEF",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
+        "str": "我给了你一个笔记本，你可以在里面看到所有关于人偶的细节和完整信息。看一看，准备好后，回到人偶那里。"
+    },
+    {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veil",
@@ -1030,6 +1114,18 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
         "id": "Turn Left",
         "str": "左转"
+    },
+    {
+        "key": "51B58C89473E1AE2A37E6A8118DC37C1",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
+        "str": "你是否想过人偶的信息是从哪里来的？在职业模式中，你将通过无限案例、经济、等级、商店、制作等等来发现关于人偶的信息！"
+    },
+    {
+        "key": "520103D94DEC134A00BBF6ABA778AA0F",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
+        "str": "做得好，你完成了药剂。我不会检查你的笔记，但我相信它们很棒！"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
@@ -1078,6 +1174,12 @@
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
         "id": "Back",
         "str": "返回"
+    },
+    {
+        "key": "58232C9B4DC256E252E24DA64FBF074E",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
+        "str": "在给你暗纸之前，让我们激活并打开所有东西。这样，当我们停下来时，我们更容易看到人偶不喜欢什么。"
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1232,8 +1334,8 @@
     {
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "I've given you a few items to use. Access the chest behind you to retrieve the objects and weapons. Equip all the items, and to use them, switch weapons using the forward or previous weapon change button.",
-        "str": "我为你准备了一些物品和武器。请前往你背后的箱子拿取。把所有物品都装备上，使用时可以通过前进或后退的武器切换按钮更换武器。"
+        "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
+        "str": "当你开始一个案件时，你将能够装备你购买或制作的物品。要做到这一点，访问你身后的箱子。现在你会看到它是空的，但不用担心，我会给你物品，这样你就可以熟悉它们！"
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1296,6 +1398,12 @@
         "str": "扭曲之魂"
     },
     {
+        "key": "67CC4CE342660CF969980E8F00DC0788",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Very well, now the remaining candle.",
+        "str": "很好，现在剩下的蜡烛。"
+    },
+    {
         "key": "67E721CC4E280A5A435BA1B141936D38",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
         "id": "Brightness",
@@ -1303,15 +1411,15 @@
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
         "id": "Enemies",
         "str": "敌人"
     },
     {
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "Alright, let's discover some things about one of the dolls. We'll choose Lil for this. Apply all the elixirs and cards to her. Open your notebook and take notes on everything you observe. For instance, when you apply an elixir, you have 10 seconds to check her relationship with another doll, so jot down all your observations. Be sure to take a photo of each doll as well; failing to do so will penalize you with 90% of the final reward. See you in 160 seconds!",
-        "str": "让我们来了解一些关于这些人偶的信息。我们就选择Lil吧。把所有的灵药和卡牌都用在她身上。打开你的笔记本，记录下你观察到的一切。例如，当你使用一种灵药的时候，你有10秒的时间查看她与其他人偶的关系，所以要把所有的观察都记下来。记得要给每个人偶拍照；如果做不到的话，最终奖励会减少90%。160秒后见！"
+        "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
+        "str": "很好，现在让我们调查其中一个人偶。我给了你一个相机；让我们给Lil拍张照片。"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1396,12 +1504,6 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
         "str": "多汁的小型水果。"
-    },
-    {
-        "key": "7031AD7A4DA6E52A478205B8558A9C5A",
-        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "I've given you a Soul Book. If you haven't finished the tasks, you can do so now. This book will awaken the impostor, and you have 180 seconds to find the impostor once you use it. If you don't succeed, the impostor will kill you. When you're sure who the impostor is, use the sports bag to trap them inside. The tutorial ends here—it's now up to you to continue and uncover the truth. Good luck!",
-        "str": "我给了你一本灵魂之书。如果你还没完成任务，现在就可以开始了。这本书会唤醒卧底，使用后，你有180秒的时间来找出他。如果你没有成功找到，卧底就会杀了你。当你确定了卧底的身份时，用运动包将其困住。教程到此为止，剩下的就靠你自己去揭开真相了。祝你好运！"
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
@@ -1656,6 +1758,12 @@
         "str": "让我们给卧底设个陷阱。我们知道他喜欢电视和音乐。打开灯吧。"
     },
     {
+        "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
+        "str": "效果已经消失。如果你没记下来，Lil的爱好是：{people}"
+    },
+    {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(8).texts",
         "id": "The silence is deafening",
@@ -1806,12 +1914,6 @@
         "str": "揭示厌恶的灵药"
     },
     {
-        "key": "89B0338340E9602DE85B9797AE55D96F",
-        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
-        "id": "Equip Items",
-        "str": "装备物品"
-    },
-    {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
@@ -1916,14 +2018,14 @@
     {
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
-        "id": "Paper that reveals tastes",
-        "str": "揭示品味的纸张"
+        "id": "Paper that reveals likes",
+        "str": "揭示喜好的纸"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
-        "id": "Paper that reveals distastes",
-        "str": "揭示反感的纸张"
+        "id": "Paper that reveals dislikes",
+        "str": "揭示厌恶的纸"
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -1975,7 +2077,7 @@
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
         "str": "动作细节"
     },
@@ -2034,6 +2136,12 @@
         "str": "恐吓者"
     },
     {
+        "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Elixir applied! Check the dolls around to determine whom Lil loves.",
+        "str": "elixir已使用！检查周围的娃娃，确定Lil爱谁。"
+    },
+    {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
         "location": "/Game/enums/actions.actions.DisplayNameMap(43 - Value).DisplayNameMap",
         "id": "Clock",
@@ -2076,10 +2184,22 @@
         "str": "大炮"
     },
     {
+        "key": "9DC1A4244661454B29521687D81248D8",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Let's cross off Lil since that's the doll we're going to investigate.",
+        "str": "让我们划掉Lil，因为这是我们要调查的娃娃。"
+    },
+    {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
         "str": "潜匿幽魂"
+    },
+    {
+        "key": "9EE1B4694260CACEFC64E49A837B3C23",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
+        "str": "要处理照片，您需要移动它。一旦它100%处理完毕，只需按下使用按钮，它就会被保存。"
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2140,6 +2260,12 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
         "str": "昏暗"
+    },
+    {
+        "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
+        "str": "时间到！如果你没能记下所有的东西，这是观察到的内容：{actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2250,6 +2376,12 @@
         "str": "由于缺失照片，你损失了90%的奖励。"
     },
     {
+        "key": "B06763C640AF25AF95E932927F9E6D59",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
+        "str": "好的，我会给你剩下的elixirs，让你用在Lil身上。Amicitia代表友谊，Inimicitia代表敌意，Odium代表仇恨。每种都有特定的颜色，会揭示Lil的关系。记下你观察到的一切，记住，在某些情况下，Lil可能与特定角色没有任何关系。"
+    },
+    {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
@@ -2292,6 +2424,18 @@
         "str": "欢迎来到《人偶卧底》！"
     },
     {
+        "key": "B324B28C4466BEA72263AD9E23F8755D",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've given you a lighter. Use it for the remaining actions.",
+        "str": "我给了你一个打火机。用它来完成剩下的动作。"
+    },
+    {
+        "key": "B372B7564467D935DC5122B7415A738C",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
+        "id": "You've unlocked the career mode!",
+        "str": "你已解锁职业模式！"
+    },
+    {
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals friendship",
@@ -2299,7 +2443,7 @@
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_8.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
         "str": "卧底"
     },
@@ -2376,12 +2520,6 @@
         "str": "无限"
     },
     {
-        "key": "B83348AE4D0F332AFE32DA9CCA2BB2FF",
-        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_4.Text",
-        "id": "Only visible items that you can equip",
-        "str": "只有你可以装备的可见物品"
-    },
-    {
         "key": "B8952A3841AAE9C0034514AC607965D8",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
@@ -2412,10 +2550,22 @@
         "str": "策划者"
     },
     {
+        "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
+        "str": "现在你应该把它们写在记事本的笔记中。此外，如果你使用键盘和鼠标，并且在笔记外单击，人偶页面将保持打开状态。"
+    },
+    {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
         "id": "Ambient Volume",
         "str": "环境音量"
+    },
+    {
+        "key": "BC337075457AE8659374D6BF82D6E51D",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
+        "str": "我们已经抓住了Lil。你可以继续拍摄剩下的人偶。准备好后，前往房车查看照片。"
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2478,6 +2628,12 @@
         "str": "很明显他喜欢血。可能是两者中的任何一个，但你得检查那些盒子。弗莱迪不见了，而他的盒子里满是血。当你确定后，就可以排除这个嫌疑人了。"
     },
     {
+        "key": "BF5B4BBA458403674A2BD89F8DC120A5",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now table chess",
+        "str": "现在是棋盘游戏"
+    },
+    {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
@@ -2491,7 +2647,7 @@
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_38.Text",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
         "id": "Dislikes",
         "str": "讨厌"
     },
@@ -2520,6 +2676,12 @@
         "str": "上帝，救救我们"
     },
     {
+        "key": "C380BEFB4806636D471F28BC3C7CE999",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Soul Papers",
+        "str": "灵魂纸"
+    },
+    {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
@@ -2542,6 +2704,18 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
         "str": "可以产生火焰的便携点火装置。"
+    },
+    {
+        "key": "C6EE1D854906A3E6B08CFF871773765A",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
+        "str": "很好，我们回到房子。我们将发现有关Lil的事情。打开她的盒子，然后我们将继续施用药剂。"
+    },
+    {
+        "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
+        "str": "我给了你一个手电筒，在这种模式下非常重要，因为黑暗很浓重。注意底部UI上的数字；你最多可以装备10件物品，第一个槽位始终是你的手。你可以通过按上一个和下一个装备键或使用数字键或鼠标滚轮在键盘上浏览你的库存。"
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2682,6 +2856,12 @@
         "str": "黑暗包围着我们"
     },
     {
+        "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
+        "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
+        "id": "Some of the elements you already have equipped",
+        "str": "你已经装备了一些元素"
+    },
+    {
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
@@ -2696,8 +2876,8 @@
     {
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "Enter the house and find the dolls' room. Use the flashlight to see better.",
-        "str": "进入房屋，找到人偶的房间。用手电筒能看得更清楚。"
+        "id": "Enter the house and find the dolls' room.",
+        "str": "进入房子，找到人偶的房间。"
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -2790,10 +2970,22 @@
         "str": "鬼火"
     },
     {
+        "key": "DA59B2F64FE3F88E166FBB87C3277E27",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Elixirs",
+        "str": "药剂"
+    },
+    {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Door",
         "str": "门"
+    },
+    {
+        "key": "DACB1EDD4AB27C4191AE658DC5537B43",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
+        "str": "灵魂纸是神秘的卷轴，非常独特，有两种类型：灵魂纸和灵魂黑纸。换句话说，灵魂卷轴及其黑暗版本。这些卷轴揭示了人偶的喜好和厌恶。我们从普通卷轴开始。将卷轴应用于人偶。"
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -2842,6 +3034,12 @@
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
         "str": "如果你回到安全屋，房子将恢复原状，你将失去装备"
+    },
+    {
+        "key": "E0B35CB146811DDBDBF08EA339FC6413",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Good job, lastly, light the fireplace.",
+        "str": "干得好，最后，点燃壁炉。"
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -2898,6 +3096,12 @@
         "str": "清新的绿叶。"
     },
     {
+        "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
+        "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
+        "id": "You can only equip a maximum of 10 items",
+        "str": "最多只能装备10件物品"
+    },
+    {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_32.Text",
         "id": "Temporal Upsample",
@@ -2944,6 +3148,12 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
         "id": "Head Bobbing",
         "str": "镜头晃动"
+    },
+    {
+        "key": "E979BCF04F7CD32E81237BA9F94E25E1",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
+        "str": "我给了你一些物品，去合成部分合成一种药剂，你可以手动合成，也可以直接按下你想要的药剂。"
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3067,7 +3277,7 @@
     },
     {
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
         "id": "Hates",
         "str": "讨厌"
     },
@@ -3156,6 +3366,12 @@
         "str": "柔软芬芳的玫瑰花瓣。"
     },
     {
+        "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
+        "str": "现在我们将使用灵魂书这个物品。这个物品将正式开始游戏。使用方法很简单：当你使用这本书时，任何冒名顶替者（在这种情况下是Lil）都会开始行动。此时，你需要将信息与实际发生的事情进行比较，就像在原始模式中一样。请注意，你有180秒的时间，如果时间到了0，它将杀死你。"
+    },
+    {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Hope",
@@ -3166,6 +3382,12 @@
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
         "str": "哦不……"
+    },
+    {
+        "key": "F880818144C667A994BEEF9200987EF4",
+        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_2.Text",
+        "id": "Chest",
+        "str": "宝箱"
     },
     {
         "key": "F9560AD34A829952AE5F5498756E174C",
@@ -3184,6 +3406,12 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traditional",
         "str": "传统派"
+    },
+    {
+        "key": "FA633E4748F6A0B7063605A5816F9060",
+        "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
+        "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
+        "str": "在你离开之前，我想澄清一下，在这种游戏模式中，你可以驾驶房车返回避难所。最后，我们在这种模式中对Lil所做的事情需要对每个人偶都做，以识别冒名顶替者。请记住，未来的战役模式旨在成为一种合作体验，这就是为什么它不应该是简短或快速的。每个案件可能需要你几天的时间来解决，但它是异步的，这意味着你可以在任何时候退出，稍后继续游戏，一切都会保持你离开时的状态。"
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
