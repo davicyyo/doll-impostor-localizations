@@ -141,7 +141,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Vous avez maintenant accepté l'affaire. En dehors du didacticiel, vous pourrez abandonner l'affaire à tout moment, mais plus trouver de nouvelles affaires une fois que vous l'aurez acceptée. Une fois compris, voyagez jusqu'à l'emplacement lorsque vous êtes prêt."
+        "str": "Vous avez maintenant accepté l'affaire. En dehors du didacticiel, vous pourrez abandonner l'affaire en cours à tout moment, mais plus en trouver nouvelle une fois que vous l'aurez acceptée. Une fois compris, voyagez jusqu'à l'emplacement lorsque vous êtes prêt."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -375,7 +375,7 @@
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(7).texts",
         "id": "There seems to be no way out",
-        "str": "Il semble n'y avoir aucune issue"
+        "str": "Il y a aucune issue"
     },
     {
         "key": "1C4788334C67D107A7BE1F931C0A749E",
@@ -447,7 +447,7 @@
         "key": "20C95AA345D28767010999ADA95FBAE7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Black Garlic",
-        "str": "Ail noir"
+        "str": "Ail Noir"
     },
     {
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
@@ -531,7 +531,7 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "La cible n'a pas été détectée, essayez de mieux mettre au point et de rester à une distance spécifique où toute la cible peut être vue"
+        "str": "La cible n'a pas été détectée, essayez de mieux mettre au point et de rester à une distance suffisante où toute la cible peut être observée"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
@@ -681,7 +681,7 @@
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
-        "str": "Cristal de quartz"
+        "str": "Cristal de Quartz"
     },
     {
         "key": "34568E7B486905A5400643A88FA2E8A8",
@@ -1137,7 +1137,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Vous devez utiliser le Livre des Âmes avant de sauvegarder la poupée imposteur"
+        "str": "Vous devez utiliser le Livre des Âmes avant de sélectionner la poupée imposteur"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1611,7 +1611,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "Une fois que vous avez terminé le tutoriel, vous pourriez rencontrer des difficultés financières. Pour y remédier, vous pouvez jouer en mode classique, et en fonction du niveau de difficulté, cela vous accordera plus ou moins d'argent à utiliser dans les cas."
+        "str": "Une fois le tutoriel terminé, vous risquez de rencontrer des difficultés financières. Pour y remédier, vous pouvez jouer en mode classique, et en fonction du niveau de difficulté, cela vous accordera plus ou moins d'argent à utiliser dans les affaires du mode Carrière."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1809,7 +1809,7 @@
         "key": "89B0338340E9602DE85B9797AE55D96F",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
         "id": "Equip Items",
-        "str": "Équiper des Objets"
+        "str": "Équiper les Objets"
     },
     {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
@@ -1953,7 +1953,7 @@
         "key": "95529FFB4B5C7B8BF0D230810B54E147",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Career Mode",
-        "str": "Mode carrière"
+        "str": "Mode Carrière"
     },
     {
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -2517,7 +2517,7 @@
         "key": "C312729245B39D3E05385886891922CF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
         "id": "God, Save Us",
-        "str": "Dieu, Sauve-nous"
+        "str": "Dieu, Sauve nous"
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2529,7 +2529,7 @@
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "L'Être de l'Ombre"
+        "str": "L'Être des Ombres"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2541,7 +2541,7 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "Appareil portable qui produit une flamme pour allumer un feu"
+        "str": "Appareil portable qui produit une flamme pouvant allumer un feu"
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2553,7 +2553,7 @@
         "key": "C8A00764485261B746BFEE94C58D6ECA",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Scary",
-        "str": "L'Éffrayant"
+        "str": "L'Effrayant"
     },
     {
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
@@ -2685,7 +2685,7 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "La Morosité"
+        "str": "La Morose"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2805,7 +2805,7 @@
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "Vous ne pouvez pas faire cela, ça ne correspond à aucune recette"
+        "str": "Vous ne pouvez pas faire ça, cela ne correspond à aucune recette"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -2823,7 +2823,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "N'oubliez pas que vous ne pouvez pas interagir avec quoi que ce soit pour le moment, car c'est le tutoriel. Maintenant, allumons l'électricité. Équipez votre fusible et retournons à la maison pour l'activer. "
+        "str": "N'oubliez pas que vous ne pouvez pas interagir avec quoi que ce soit pour le moment jusqu'à la fin du tutoriel. Maintenant, allons allumer l'électricité. Équipez votre fusible et allez à l'arrière de la maison pour l'utiliser. "
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -2931,7 +2931,7 @@
         "key": "E8BEC2F04785EFD5186984BE67C4B88A",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Earn Money",
-        "str": "Gagner de l'argent"
+        "str": "Gagner de l'Argent"
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -3207,7 +3207,7 @@
         "key": "FB77087A4862A67B758D529F87748C2F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
         "id": "Chaos consumes us",
-        "str": "Le Chaos nous consume à petit feu"
+        "str": "Le chaos nous consume à petit feu"
     },
     {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
