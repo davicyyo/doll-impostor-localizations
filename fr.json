@@ -2295,7 +2295,7 @@
         "key": "A87033014B68DAC4F5312BB46BEB28AF",
         "location": "/Game/enums/probability.probability.DisplayNameMap(4 - Value).DisplayNameMap",
         "id": "Very High",
-        "str": "Très élevé"
+        "str": "Très Élevé"
     },
     {
         "key": "A97B724146EEB86D384D6A85A4F8931C",
@@ -2823,7 +2823,7 @@
         "key": "D107C133465E950C0D0B42BAAA8BDF09",
         "location": "/Game/enums/probability.probability.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Very Low",
-        "str": "Très faible"
+        "str": "Très Faible"
     },
     {
         "key": "D20B4CF442582F2B1E945BA082899AD3",
@@ -3195,7 +3195,7 @@
         "key": "EDA5294F43DB42C2856059B83C9A6BF5",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
         "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-        "str": "Cette probabilité sera latente à chaque fois que vous voyagez; vous pourriez rencontrer une boîte contenant des choses à l'intérieur."
+        "str": "Cette probabilité sera latente à chaque fois que vous voyagez; vous pourriez rencontrer une boîte contenant des objets à l'intérieur."
     },
     {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
@@ -3375,7 +3375,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Maintenant, nous allons utiliser l'objet \n\n\n\n\n\nLivre des Âmes\n\n\n\n\n\n. Cet objet commencera officiellement le jeu. Son utilisation est simple : lorsque tu utilises ce livre, l'imposteur (dans ce cas, Lil) commencera à agir. À ce moment-là, tu devras comparer les informations avec ce qui se passe, comme dans le mode original. N'oublie pas que tu as 180 secondes, et si le temps atteint 0, tu mourras."
+        "str": "Maintenant, nous allons utiliser l'objet Livre des Âmes. Cet objet commencera officiellement le jeu. Son utilisation est simple : lorsque tu utilises ce livre, l'imposteur (dans ce cas, Lil) commencera à agir. À ce moment-là, tu devras comparer les informations avec ce qui se passe, comme dans le mode original. N'oublie pas que tu as 180 secondes, et si le temps atteint 0, tu mourras."
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
