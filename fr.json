@@ -309,7 +309,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "Très bien, vous avez utilisé tous les objets sur la poupée. Cette fois, les choses que Lil n'a pas aimées étaient : {items}"
+        "str": "Très bien, vous avez utilisé tous les objets sur la poupée. Cette fois, les choses que Lil n'aime pas sont : {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -339,7 +339,7 @@
         "key": "16B725324055549E77710CACDD3325FF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now move the picture closest to the living room door.",
-        "str": "Maintenant, déplacez le tableau le plus proche de la porte du salon."
+        "str": "Maintenant, déplacez le cadre le plus proche de la porte du salon."
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -477,7 +477,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Ces élixirs révèlent les relations entre les poupées. Elles ont toutes des relations, et c'est le seul moyen de les découvrir. Commençons par tester la relation amoureuse de Lil avec les autres poupées. Appliquez simplement l'élixir à Lil et observez les effets. Tous ceux qui répondent aux effets de Lil sont ceux que Lil aime."
+        "str": "Ces élixirs révèlent les relations entre les poupées. Elles ont toutes des relations, et c'est le seul moyen de les découvrir. Commençons par tester qui Lil aime parmi les autres poupées. Appliquez simplement l'élixir à Lil et observez les effets. Tous ceux qui répondent aux effets de Lil sont ceux que Lil aime."
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -669,7 +669,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Je vous ai également donné un sac. Ce sac vous aidera à capturer l'imposteur. Une fois que vous l'aurez attrapé, le jeu se"
+        "str": "Je vous ai également donné un sac. Il vous aidera à capturer l'imposteur. Une fois que vous l'aurez attrapé, l'affaire sera finie (si vous le faites dans la limite de temps). Je vous laisse finir cette partie du tutoriel. Que vous gagniez ou non, vous avez fini. Bonne chance !"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -879,7 +879,7 @@
         "key": "3E8440AC413D7725FE75218355F55B7B",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-        "str": "Super! Je vous ai donné le papier sombre. Utilisez-le sur Lil et notez tout ce que vous voyez. Rappelez-vous que ce sont les choses qu'elle n'aime pas, donc tout ce qu'elle éteint indiquera ses dégoûts."
+        "str": "Super ! Je vous ai donné le papier sombre. Utilisez-le sur Lil et notez tout ce que vous observez. Rappelez-vous que ce sont les choses qu'elle n'aime pas, donc tout ce qu'elle éteint/désactive indique ce qu'elle n'aime pas."
     },
     {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
@@ -1005,7 +1005,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. You have 10 seconds to discover it. Write down everything you see in the doll's likes!",
-        "str": "Quittez la pièce maintenant et vérifiez tout ce qui est activé. Vous avez 10 secondes pour le découvrir. Notez tout ce que vous voyez dans les goûts de la poupée !"
+        "str": "Quittez la pièce et vérifiez tout ce qui est activé. Vous avez 10 secondes pour le découvrir. Notez tout ce que vous observez dans les goûts de la poupée sur le carnet !"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1077,7 +1077,7 @@
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "Je vous ai donné un carnet où vous pouvez voir tous les détails sur les poupées et des informations complètes. Jetez un œil, et quand vous êtes prêt, revenez aux poupées."
+        "str": "Je vous ai donné un carnet où vous pouvez voir tous les détails et informations complètes sur les poupées. Jetez-y un œil, et quand vous êtes prêt, retournez vers les poupées."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1119,13 +1119,13 @@
         "key": "51B58C89473E1AE2A37E6A8118DC37C1",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-        "str": "Vous êtes-vous déjà demandé d'où viennent les informations sur les poupées ? En mode carrière, vous découvrirez les informations sur les poupées avec des cas infinis, une économie, des niveaux, un magasin, de l'artisanat et bien plus encore !"
+        "str": "Vous êtes-vous déjà demandé d'où viennent les informations sur les poupées ? En mode Carrière, vous devrez découvrir les informations sur les poupées vous même avec une infinité d'affaires, un système d'économie, d'expérience, un magasin, de l'artisanat et bien plus encore !"
     },
     {
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "Bien joué, vous avez terminé les élixirs. Je ne vérifie pas vos notes, mais je suis sûr qu'elles sont gén"
+        "str": "Bien joué, vous avez terminé avec les élixirs. Je n'ai pas vérifié vos notes, mais je suis sûr qu'elles sont excellente !"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
@@ -1401,7 +1401,7 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "Très bien, maintenant la bougie restante."
+        "str": "Très bien, maintenant la dernière bougie."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1761,7 +1761,7 @@
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "Les effets se sont dissipés. Si vous n'avez pas réussi à le noter, les amours de Lil sont : {people}"
+        "str": "Les effets se sont dissipés. Si vous n'avez pas réussi à y noter, ceux que Lil aime sont : {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -2055,7 +2055,7 @@
         "key": "95529FFB4B5C7B8BF0D230810B54E147",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Career Mode",
-        "str": "Mode carrière"
+        "str": "Mode Carrière"
     },
     {
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -2187,7 +2187,7 @@
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "Rayons Lil car c'est la poupée que nous allons enquêter."
+        "str": "Rayons Lil car c'est la poupée sur laquelle nous allons enquêter."
     },
     {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
@@ -2199,7 +2199,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "Pour développer la photo, vous devez la déplacer. Une fois qu'elle est développée à 100 %, appuyez simplement sur le bouton d'utilisation, et elle sera enregistrée."
+        "str": "Pour développer la photo, vous devez la secouer. Une fois qu'elle est développée à 100 %, appuyez simplement sur le bouton d'utilisation, et elle sera enregistrée."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2433,7 +2433,7 @@
         "key": "B372B7564467D935DC5122B7415A738C",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the career mode!",
-        "str": "Vous avez débloqué le mode carrière !"
+        "str": "Vous avez débloqué le mode Carrière !"
     },
     {
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
@@ -2553,7 +2553,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Vous devriez maintenant les noter dans les notes du bloc-notes. De plus, si vous utilisez un clavier et une souris, et que vous cliquez en dehors des notes, la page de la poupée restera ouverte."
+        "str": " Maintenant vous devriez les noter dans les notes du bloc-notes. De plus, si vous utilisez un clavier et une souris, et que vous cliquez en dehors des notes, la page de la poupée restera ouverte."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2631,7 +2631,7 @@
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now table chess",
-        "str": "Maintenant, échec de table"
+        "str": "Maintenant, la table d'échec"
     },
     {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
@@ -2673,7 +2673,7 @@
         "key": "C312729245B39D3E05385886891922CF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
         "id": "God, Save Us",
-        "str": "Dieu, Sauve-nous"
+        "str": "Dieu, Sauve nous"
     },
     {
         "key": "C380BEFB4806636D471F28BC3C7CE999",
@@ -2691,7 +2691,7 @@
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "L'Être de l'Ombre"
+        "str": "L'Être des Ombres"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2715,7 +2715,7 @@
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Je vous ai donné une lampe de poche, qui est assez importante dans ce mode en raison de l'obscurité. Faites attention aux chiffres sur votre interface utilisateur en bas; vous pouvez équiper un maximum de 10 objets, le premier emplacement étant toujours votre main. Vous pouvez naviguer dans votre inventaire en appuyant sur les touches Équipement précédent et Équipement suivant, ou sur le clavier en utilisant les touches numériques ou la molette de la souris."
+        "str": "Je vous ai donné une lampe torche, qui est assez importante dans ce mode en raison de l'obscurité. Faites attention ; vous pouvez équiper un maximum de 10 objets, vus pourrez le voir sur l'interface en bas de votre écran, le premier emplacement étant toujours votre main. Vous pouvez naviguer dans votre inventaire en appuyant sur les touches Équipement précédent et Équipement suivant, ou sur le clavier en utilisant les touches numériques ou même la molette de la souris."
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2877,7 +2877,7 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "Entrez dans la maison et trouvez la chambre des poupées."
+        "str": "Entrez dans la maison et cherchez la chambre des poupées."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -2985,7 +2985,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Les papiers d'âme sont des parchemins mystiques, extraordinairement uniques, et il existe deux types : les papiers d'âme et les papiers d'âme sombres. En d'autres termes, le parchemin d'âme et sa version sombre. Ces parchemins révèlent les goûts et les dégoûts des poupées. Nous allons commencer par le parchemin normal. Appliquez le parchemin à la poupée."
+        "str": "Les Papiers d'Âme sont des parchemins mystiques, extraordinairement uniques, et il en existe deux types : les Papiers d'Âme et les Papiers d'Âme sombres. En d'autres termes, le parchemin d'âme et sa version sombre. Ces parchemins révèlent respectivement les goûts et les dégoûts des poupées. Nous allons commencer par le parchemin normal. Appliquez le parchemin à la poupée."
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3015,7 +3015,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "N'oubliez pas que vous ne pouvez pas interagir avec quoi que ce soit pour le moment, car c'est le tutoriel. Maintenant, allumons l'électricité. Équipez votre fusible et retournons à la maison pour l'activer. "
+        "str": "N'oubliez pas que vous ne pouvez pas interagir avec quoi que ce soit pour le moment pendant le tutoriel. Maintenant, allumons l'électricité. Équipez votre fusible et retournons à l'arrière de la maison pour l'allumer. "
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3153,7 +3153,7 @@
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "Je vous ai donné quelques objets, allez dans la section artisanat pour fabriquer un élixir, vous pouvez le faire manuellement ou directement en appuyant sur l'élixir que vous voulez."
+        "str": "Je vous ai donné quelques ingrédients, allez dans la section artisanat pour fabriquer un élixir, vous pouvez le faire manuellement ou directement en appuyant sur l'élixir que vous voulez."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3369,7 +3369,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Maintenant, nous allons utiliser l'objet Livre des Âmes. Cet objet commencera officiellement le jeu. Son utilisation est simple : lorsque tu utilises ce livre, l'imposteur (dans ce cas, Lil) commencera à agir. À ce moment-là, tu devras comparer les informations avec ce qui se passe, comme dans le mode original. N'oublie pas que tu as 180 secondes, et si le temps atteint 0, cela te tuera."
+        "str": "Maintenant, nous allons utiliser l'objet \\\\\"Livre des Âmes\\\\\". Cet objet commencera officiellement le jeu. Son utilisation est simple : lorsque tu utilises ce livre, l'imposteur (dans ce cas, Lil) commencera à agir. À ce moment-là, tu devras comparer les informations avec ce qui se passe, comme dans le mode original. N'oublie pas que tu as 180 secondes, et si le temps atteint 0, tu mourras."
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3411,7 +3411,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Avant de partir, je tiens à préciser que dans ce mode de jeu, vous pouvez retourner au refuge en conduisant la caravane. Enfin, ce que nous avons fait avec Lil dans ce mode devra être fait pour chacune des poupées pour identifier l'imposteur. Gardez à l'esprit que le mode campagne est destiné à être une expérience coopérative à l'avenir, c'est pourquoi il est important qu'il ne soit pas bref ou rapide. Chaque affaire pourrait vous prendre des jours à résoudre, mais elle est asynchrone, ce qui signifie que vous pouvez sortir quand vous le souhaitez et continuer à jouer plus tard, et tout restera tel que vous l'avez laissé."
+        "str": "Avant de partir, je tiens à préciser que dans ce mode de jeu, vous pouvez retourner au refuge en intéragissant avec le volant de la caravane. Enfin, ce que nous avons fait avec Lil dans ce mode devra être fait pour chacune des poupées afin d'identifier l'imposteur. Gardez à l'esprit que le mode Carrière est destiné à être une expérience coopérative à l'avenir, c'est pourquoi il est important qu'il ne soit pas bref ou rapide. Chaque affaire pourrait vous prendre des jours à résoudre, mais elle est asynchrone, ce qui signifie que vous pouvez arrêter quand vous le souhaitez et continuer votre partie plus tard, et tout restera tel que vous l'avez laissé."
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
