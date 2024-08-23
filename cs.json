@@ -253,7 +253,7 @@
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_11.Text",
         "id": "Back",
         "str": "Zpět"
     },
@@ -325,7 +325,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
         "str": "Ukončit"
     },
@@ -493,7 +493,7 @@
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
-        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_29.Text",
         "id": "Loves",
         "str": "Miluje"
     },
@@ -901,7 +901,7 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
         "str": "Nastavení"
     },
@@ -1201,7 +1201,7 @@
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
-        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
         "str": "Vyhrál jsi"
     },
@@ -1228,12 +1228,6 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
         "str": "Ponožky do trubek"
-    },
-    {
-        "key": "5ADE18414BAB065DE0184E9E706B5D3B",
-        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock.Text",
-        "id": "Enemies",
-        "str": "Nepřátelé"
     },
     {
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
@@ -1315,7 +1309,7 @@
     },
     {
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
-        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(0).Options.Label",
+        "location": "/Game/enums/probability.probability.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Low",
         "str": "Nízké"
     },
@@ -1411,7 +1405,7 @@
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
-        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
         "id": "Enemies",
         "str": "Nepřátelé"
     },
@@ -1570,12 +1564,6 @@
         "location": "/Game/enums/costs.costs.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Cheap",
         "str": "Levné"
-    },
-    {
-        "key": "73DE0E3F42416AE9AEC92394617B89B6",
-        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_2.Text",
-        "id": "Hates",
-        "str": "Nenávidí"
     },
     {
         "key": "740E2993476C6AB0DEDC3BA514B0FF5F",
@@ -1831,7 +1819,7 @@
     },
     {
         "key": "834E072547D98D80C120CD87A16FA4D6",
-        "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_26.Text",
+        "location": "/Game/UI/paperInterfaceDynamic.paperInterfaceDynamic_C:GetText_0 [Script Bytecode]",
         "id": "Friends",
         "str": "Přátelé"
     },
@@ -1876,6 +1864,12 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shroud",
         "str": "Rouchy"
+    },
+    {
+        "key": "8634768E4D6C9A9C68755EA705B1A09E",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_25.Text",
+        "id": "Box",
+        "str": "Krabice"
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
@@ -2029,7 +2023,7 @@
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
-        "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(2).Options.Label",
+        "location": "/Game/enums/probability.probability.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "High",
         "str": "Vysoké"
     },
@@ -2077,7 +2071,7 @@
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
         "id": "Action Details",
         "str": "Detaily akce"
     },
@@ -2298,10 +2292,10 @@
         "str": "Mrazivý pocit"
     },
     {
-        "key": "A85FE73E4E95AFA89A84E38F80B87C59",
-        "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-        "id": "The Spooky",
-        "str": "Strašidelný"
+        "key": "A87033014B68DAC4F5312BB46BEB28AF",
+        "location": "/Game/enums/probability.probability.DisplayNameMap(4 - Value).DisplayNameMap",
+        "id": "Very High",
+        "str": "Velmi vysoká"
     },
     {
         "key": "A97B724146EEB86D384D6A85A4F8931C",
@@ -2826,6 +2820,12 @@
         "str": "Chladící"
     },
     {
+        "key": "D107C133465E950C0D0B42BAAA8BDF09",
+        "location": "/Game/enums/probability.probability.DisplayNameMap(0 - Value).DisplayNameMap",
+        "id": "Very Low",
+        "str": "Velmi nízká"
+    },
+    {
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
@@ -3079,7 +3079,7 @@
     },
     {
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
-        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_3.Text",
+        "location": "/Game/enums/probability.probability.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Normal",
         "str": "Normální"
     },
@@ -3192,6 +3192,12 @@
         "str": "Zápisník"
     },
     {
+        "key": "EDA5294F43DB42C2856059B83C9A6BF5",
+        "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
+        "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
+        "str": "Tato pravděpodobnost bude latentní pokaždé, když cestujete; můžete narazit na krabici, která bude obsahovat věci uvnitř."
+    },
+    {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
@@ -3277,7 +3283,7 @@
     },
     {
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
-        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
+        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
         "id": "Hates",
         "str": "Nenávidí"
     },
@@ -3481,7 +3487,7 @@
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
-        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
         "str": "Prohrál jsi"
     },
