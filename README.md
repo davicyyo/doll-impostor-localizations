@@ -25,3 +25,7 @@ https://github.com/davicyyo/doll-impostor-localizations/blob/main/en.json
 FEATURES:
 Edit a file:
 ![GIF](https://i.gyazo.com/3d0c1356ed126d130810886ae2ec1367.gif)
+
+Save, Delete and Show My Translation:
+
+![PNG](https://gyazo.com/7e7e924401f97dc02ec55b329128717b.png)
