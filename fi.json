@@ -325,7 +325,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
         "id": "Exit",
         "str": "Poistu"
     },
@@ -493,7 +493,7 @@
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_29.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
         "id": "Loves",
         "str": "Rakastaa"
     },
@@ -508,6 +508,12 @@
         "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
         "id": "Tea with enemies",
         "str": "Tee vihollisten kanssa"
+    },
+    {
+        "key": "22B8C07045CAEA974D03AD9C0D933A4E",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_35.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Gold Bar",
+        "str": "Kultaharkko"
     },
     {
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
@@ -901,7 +907,7 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
         "id": "Settings",
         "str": "Asetukset"
     },
@@ -922,6 +928,12 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_17.Text",
         "id": "Move Right",
         "str": "Liiku oikealle"
+    },
+    {
+        "key": "415807E5403F54FCC16EEA9338CF267F",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
+        "str": "Pokaali kupin muodossa, yleensä kultainen, myönnetään symbolina voitosta urheilukilpailuissa tai arvostetuissa seremonioissa."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -1201,7 +1213,7 @@
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
         "str": "Sinä voitat"
     },
@@ -1405,7 +1417,7 @@
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_26.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]",
         "id": "Enemies",
         "str": "Viholliset"
     },
@@ -1456,6 +1468,12 @@
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Macabre",
         "str": "Makaberi"
+    },
+    {
+        "key": "6BF7F5344FD96A246EE841869E9C0DB0",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_34.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Diamond",
+        "str": "Timantti"
     },
     {
         "key": "6CBA009E433B551763CA96B31AF8596B",
@@ -1818,6 +1836,12 @@
         "str": "Kestävä ja joustava materiaali."
     },
     {
+        "key": "82B77C5A456740B0D72910B21AF4A463",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_37.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Pearl Necklace",
+        "str": "Helmikaulakoru"
+    },
+    {
         "key": "834E072547D98D80C120CD87A16FA4D6",
         "location": "/Game/UI/paperInterfaceDynamic.paperInterfaceDynamic_C:GetText_0 [Script Bytecode]",
         "id": "Friends",
@@ -1872,10 +1896,22 @@
         "str": "Laatikko"
     },
     {
+        "key": "86BE55834614BDEE6BACCD821A069F89",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
+        "str": "Tyylikäs koru, joka koostuu pyöreistä helmistä, tunnettu pehmeästä kiillostaan ​​ja liitetty hienostuneisuuteen ja ylellisyyteen."
+    },
+    {
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
         "str": "Kun olet valmis, napsauta Hyväksy-painiketta ottaaksesi tämän tapauksen vastaan"
+    },
+    {
+        "key": "8772BC8B4A8B67D8026B5D806054E488",
+        "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_27.Text",
+        "id": "Sell All",
+        "str": "Myy kaikki"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -2071,7 +2107,7 @@
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
         "str": "Toiminnan yksityiskohdat"
     },
@@ -2104,6 +2140,12 @@
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
         "str": "Kirkaisu"
+    },
+    {
+        "key": "9A3A87B047A1CC933C4F6197811B657B",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_36.name_12_D217604B46FF9197C7004FBE2050F6FD",
+        "id": "Gold Cup",
+        "str": "Kultapokaali"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
@@ -2604,6 +2646,12 @@
         "str": "Pakettiauton ulkopuoli"
     },
     {
+        "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
+        "str": "Arvokas jalokivi, tunnettu äärimmäisestä kovuudestaan ja loistostaan, käytetään yleisesti koruissa ja arvostetaan sen puhtauden ja harvinaisuuden vuoksi."
+    },
+    {
         "key": "BF221642449DB485C8FF39A6198C744B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sinister",
@@ -2674,6 +2722,12 @@
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul Papers",
         "str": "Sielun paperit"
+    },
+    {
+        "key": "C4B2BB4B48FA324D2BC7979577E55027",
+        "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
+        "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
+        "str": "Kiinteä puhdistetun kullan lohko, erittäin puhdas, käytetään sijoituksena tai arvon säilytyksenä, ja sille on ominaista sen paino ja kultainen kiilto."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -3283,7 +3337,7 @@
     },
     {
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
-        "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_32.Text",
+        "location": "/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]",
         "id": "Hates",
         "str": "Vihaa"
     },
@@ -3304,6 +3358,12 @@
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.sections_22_4031E9264112E4E86BC48BA9D729A311(2).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Size",
         "str": "Koko"
+    },
+    {
+        "key": "F4678833417F67BF4FB742B959AD7E80",
+        "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
+        "id": "Only items that can be equipped will appear",
+        "str": "Vain varusteet, jotka voidaan varustaa, näkyvät"
     },
     {
         "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -3487,7 +3547,7 @@
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
-        "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
+        "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
         "str": "Hävisit"
     },
