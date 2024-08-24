@@ -513,7 +513,7 @@
         "key": "22B8C07045CAEA974D03AD9C0D933A4E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Bar",
-        "str": "Lingot d'or"
+        "str": "Lingot d'Or"
     },
     {
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
@@ -1839,7 +1839,7 @@
         "key": "82B77C5A456740B0D72910B21AF4A463",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Pearl Necklace",
-        "str": "Collier de perles"
+        "str": "Collier de Perles"
     },
     {
         "key": "834E072547D98D80C120CD87A16FA4D6",
@@ -1911,7 +1911,7 @@
         "key": "8772BC8B4A8B67D8026B5D806054E488",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_27.Text",
         "id": "Sell All",
-        "str": "Vendre tout"
+        "str": "Vendre Tout"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -2145,7 +2145,7 @@
         "key": "9A3A87B047A1CC933C4F6197811B657B",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Cup",
-        "str": "Coupe d'or"
+        "str": "Coupe d'Or"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
@@ -2649,7 +2649,7 @@
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "Une pierre précieuse connue pour sa dureté extrême et son éclat, couramment utilisée dans les bijoux et appréciée pour sa pureté et sa rareté."
+        "str": "Une pierre précieuse connue pour sa forte dureté et son éclat, couramment utilisée dans les bijoux et appréciée pour sa pureté et sa rareté."
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
@@ -2727,7 +2727,7 @@
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "Un bloc solide d'or raffiné, très pur, utilisé comme investissement ou réserve de valeur, caractérisé par son poids et son éclat doré."
+        "str": "Un bloc solide d'or raffiné, très pur, symbole de richesse utilisé comme investissement ou réserve de valeur, caractérisé par son poids et son éclat doré."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -3435,7 +3435,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Maintenant, nous allons utiliser l'objet \n\n\n\n\n\nLivre des Âmes\n\n\n\n\n\n. Cet objet commencera officiellement le jeu. Son utilisation est simple : lorsque tu utilises ce livre, l'imposteur (dans ce cas, Lil) commencera à agir. À ce moment-là, tu devras comparer les informations avec ce qui se passe, comme dans le mode original. N'oublie pas que tu as 180 secondes, et si le temps atteint 0, tu mourras."
+        "str": "Maintenant, nous allons utiliser l'objet Livre des Âmes. Cet objet commencera officiellement le jeu. Son utilisation est simple : lorsque tu utilises ce livre, l'imposteur (dans ce cas, Lil) commencera à agir. À ce moment-là, tu devras comparer les informations avec ce qui se passe, comme dans le mode original. N'oublie pas que tu as 180 secondes, et si le temps atteint 0, tu mourras."
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
