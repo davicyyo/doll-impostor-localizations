@@ -45,7 +45,7 @@
         "key": "02384976426960372C5EAE9FE9459154",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_3.Text",
         "id": "Your inventory",
-        "str": "สินค้าของคุณ"
+        "str": "คลังของคุณ"
     },
     {
         "key": "0285258748FED1BC6E542F80A9097CE9",
@@ -123,7 +123,7 @@
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "ต้นทุนจะปรากฏในราคาของสินค้าในร้าน"
+        "str": "ราคาสินค้าต่าง ๆ จะปรากฏภายในร้าน"
     },
     {
         "key": "0860FF434B759F0DDD299AAD5097224D",
@@ -147,7 +147,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ แต่จะไม่สามารถหาเคสใหม่เมื่อคุณเลือกรับเคสก่อนหน้านี้ได้ เมื่อคุณจัดการเรียบร้อยแล้ว ให้เดินทางไปยังสถานที่นั้นเมื่อคุณพร้อม"
+        "str": "คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนที่นี่แล้ว คุณยังสามารถยกเลิกเคสนี้ได้ทุกเมื่อ แต่คุณไม่สามารถหาเคสใหม่ถ้าคุณยังทำเคสเก่าไม่เสร็จ ให้คุณจัดการให้เสร็จเรียบร้อยแล้ว ออกเดินทางไปยังสถานที่นั้นเมื่อคุณพร้อม"
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -297,7 +297,7 @@
         "key": "158F6D234AF05145B4905F942285D978",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the Ouija board on the table",
-        "str": "บอร์ดวิจาบอร์ดบนโต๊ะ"
+        "str": "กระดานผีบอก"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -309,7 +309,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "ดีมาก คุณได้ใช้สิ่งของทั้งหมดบนตุ๊กตาแล้ว คราวนี้สิ่งที่ลิลไม่ชอบคือ: {items}"
+        "str": "ทำได้ดีมาก คุณได้ใช้สิ่งของทั้งหมดกับตุ๊กตาแล้ว โดยสิ่งที่ Lil ไม่ชอบคือ {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -417,7 +417,7 @@
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา รอให้ฤทธิ์ยาหมดลงก่อนที่จะใช้กับตัวอื่น"
+        "str": "ยากำลังออกฤทธิ์ที่ตุ๊กตาตัวนี้อยู่ โปรดรอให้ฤทธิ์ยาหมดก่อนที่จะนำไปใช้กับตัวอื่น"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -477,7 +477,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "เหล้าสมุนไพรเหล่านี้เปิดเผยความสัมพันธ์ระหว่างตุ๊กตา ทุกตัวมีความสัมพันธ์ และนี่เป็นวิธีเดียวที่จะค้นพบ ของพวกเขา ขอเริ่มด้วยการทดสอบความสัมพันธ์ระหว่างลิลกับตุ๊กตาอื่น ๆ โดยเพียงใช้เหล้าสมุนไพรกับลิลและสังเกตผลกระทบ ผู้ที่ตอบสนองต่อผลกระทบของลิลคือคนที่ลิลรัก"
+        "str": "น้ำอมฤตเหล่านี้จะทำหน้าที่เปิดเผยความสัมพันธ์ระหว่างตุ๊กตาด้วยกัน โดยทุกตัวมีความสัมพันธ์ซึ่งกันและกัน และนี่เป็นวิธีเดียวที่จะสามารถค้นหาพวกเขาได้ ลองเริ่มทดสอบความสัมพันธ์ของ Lil กับตุ๊กตาอื่น ๆ โดยใช้น้ำอมฤตกับ Lil และสังเกตผลลัพท์กับคนที่ Lil รัก จะปรากฏให้เห็น"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -513,7 +513,7 @@
         "key": "22B8C07045CAEA974D03AD9C0D933A4E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Bar",
-        "str": "แท่งทองคำ"
+        "str": "ทองคำแท่ง"
     },
     {
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
@@ -543,7 +543,7 @@
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "มีเป้าหมายปรากฏอยู่ในภาพถ่ายมากเกินไป; พยายามเข้าไปใกล้และโฟกัสเฉพาะเป้าหมายที่คุณต้องการ"
+        "str": "จำนวนเป้าหมายที่ปรากฏในภาพถ่ายมีมากเกินไป พยายามเข้าไปใกล้และให้โฟกัสเป้าหมายที่คุณต้องการ"
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -579,7 +579,7 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "ตรวจไม่พบเป้าหมาย พยายามโฟกัสให้มากขึ้นและรักษาระยะห่างที่พอเหมาะจึงจะสามารถมองเห็นเป้าหมายทั้งหมดได้"
+        "str": "ตรวจไม่พบเป้าหมาย พยายามโฟกัสให้มากขึ้นและรักษาระยะห่างให้พอเหมาะจึงจะสามารถมองเห็นเป้าหมายทั้งหมดได้"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
@@ -675,7 +675,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "ฉันยังให้คุณถุงเท้าด้วย ถุงเท้านี้จะช่วยคุณจับคนปลอม หลังจากที่คุณจับมันแล้ว เกมจะจบลง (หากคุณทำได้ภายในเวลาที่กำหนด) ฉันจะปล่อยให้คุณจบส่วนนี้ของบทแนะนำ ไม่ว่าคุณจะชนะหรือแพ้ คุณจบลงแล้ว โชคดี!"
+        "str": "ฉันจะมอบถุงไว้ให้คุณ โดยถุงนี้เอาไว้จับ impostor หลังจากที่คุณจับมันได้แล้ว เกมก็จะจบลง (ถ้าคุณทำเสร็จภายในเวลาที่กำหนด) ฉันจะให้คุณทำแบบทดสอบนี้ให้เสร็จ ไม่ว่าผลลัพท์ที่ออกมาจะชนะหรือแพ้ คุณทำได้สำเร็จแน่นอน ขอให้คุณโชคดี!"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -747,7 +747,7 @@
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
-        "str": "ควอตซ์คริสตัล"
+        "str": "คริสตัลควอตซ์"
     },
     {
         "key": "34568E7B486905A5400643A88FA2E8A8",
@@ -849,7 +849,7 @@
         "key": "3C68D11C43CC3EA53113F48A08FDF3AD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the wall clock",
-        "str": "นาฬิกาผนัง"
+        "str": "ลองดูนาฬิกาแขวนผนัง"
     },
     {
         "key": "3D3092E04B30FAE9F91970831F869B44",
@@ -885,7 +885,7 @@
         "key": "3E8440AC413D7725FE75218355F55B7B",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-        "str": "ดีมาก! ฉันให้คุณกระดาษสีมืด ใช้กับลิลและเขียนลงไปทุกอย่างที่คุณเห็น จำไว้ว่าเป็นสิ่งที่เธอไม่ชอบ ดังนั้นสิ่งใดที่เธอดับไฟไป จะแสดงถึงสิ่งที่เธอไม่ชอบ"
+        "str": "ดีมาก! ฉันจะมอบกระดาษสีมืดให้คุณ ลองใช้กับ Lil และจดบันทึกผลลัพท์ที่ปรากฏ โปรดจำไว้ว่าสิ่งของชิ้นใดที่เธอไม่ชอบ เธอจะออกมาปิดสิ่งของเหล่านั้น"
     },
     {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
@@ -903,7 +903,7 @@
         "key": "3FAB1E074AD22684E3F78785D85679FA",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the nearest candle.",
-        "str": "เดี๋ยวมาดูเทียนเทียนที่ใกล้ที่สุด"
+        "str": "ลองมาดูเทียนเทียนที่ใกล้ที่สุด"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -933,7 +933,7 @@
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "ถ้วยรางวัลทรงถ้วย มักเป็นสีทอง มอบเป็นสัญลักษณ์แห่งชัยชนะในการแข่งขันกีฬาหรือพิธีการสำคัญ"
+        "str": "ถ้วยรางวัลสีทองสวยงาม มักจะมอบให้เป็นสัญลักษณ์แห่งชัยชนะในการแข่งขันกีฬาหรือพิธีการสำคัญ"
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -1017,7 +1017,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. You have 10 seconds to discover it. Write down everything you see in the doll's likes!",
-        "str": "ออกจากห้องตอนนี้และตรวจดูทุกอย่างที่เปิดใช้งาน คุณมีเวลา 10 วินาทีในการค้นพบ จงเขียนลงไปทุกอย่างที่คุณเห็นในสิ่งที่ตุ๊กตาชอบ!"
+        "str": "ลองออกจากห้องตอนนี้และตรวจสอบทุกอย่างที่เปิดใช้งาน คุณมีเวลา 10 วินาทีในการค้นพบ จงเขียนลงไปทุกอย่างที่คุณเห็นในสิ่งที่ตุ๊กตาชอบ!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -3069,7 +3069,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "โปรกจำไว้ว่าคุณจะไม่สามารถโต้ตอบกับสิ่งใดได้ในขณะนี้เนื่องจากนี่คือบทช่วยสอน เอาล่ะ มาเปิดไฟฟ้ากันเถอะ เตรียมฟิวส์ของคุณแล้วไปที่ด้านหลังบ้านเพื่อเปิดใช้งาน"
+        "str": "โปรดจำไว้ว่าคุณจะไม่สามารถโต้ตอบกับสิ่งใดได้ในขณะนี้เนื่องจากนี่คือบทช่วยสอน เอาล่ะ มาเปิดไฟฟ้ากันเถอะ เตรียมฟิวส์ของคุณแล้วไปที่ด้านหลังบ้านเพื่อเปิดใช้งาน"
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
