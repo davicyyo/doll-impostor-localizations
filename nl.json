@@ -21,7 +21,7 @@
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "De Duisterling"
+        "str": "De duisterling"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -291,7 +291,7 @@
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "De mopelige"
+        "str": "De mompelige"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
@@ -435,7 +435,7 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "Grote grijze veer."
+        "str": "Grote grijze veer"
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
@@ -471,7 +471,7 @@
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "De Fluisteringen"
+        "str": "De fluisteringen"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
@@ -483,7 +483,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Deze elixers onthullen relaties tussen de poppen. Ze hebben allemaal relaties en"
+        "str": "Deze elixers onthullen relaties tussen de poppen. Ze hebben allemaal relaties en dit is de enige manier om ze te ontdekken. Laten we beginnen door te kijken van welke poppen Lil houdt. Pas het elixer toe op Lil bekijk het effect op de andere poppen. Iedereen die reageert op het effect van Lil is een pop waar Lil van houdt."
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -615,7 +615,7 @@
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "De Fluisterende wind"
+        "str": "De fluisterende wind"
     },
     {
         "key": "2A85705945159E3B98E06BB40B5CA820",
@@ -639,7 +639,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "Mevrouw Excellentie"
+        "str": "Mevrouw excellentie"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -681,7 +681,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Ik heb je ook een tas gegeven. Deze tas zal je helpen de bedrieger te vangen. Zodra je hem hebt gevangen, eindigt het spel (als je dat doet binnen de tijdslimiet). Ik laat je achter om dit deel van de tutorial af te maken. Of je nu wint of verliest, je bent klaar. Veel succes!"
+        "str": "Ik heb je ook een tas gegeven. Deze tas zal je helpen de verdachte te vangen. Zodra je hem hebt gevangen, eindigt het spel (als je dat doet binnen de tijdslimiet). Ik laat je nu op jezelf om dit deel van de tutorial af te maken. Of je nu wint of verliest, je bent klaar. Veel succes!"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -1047,7 +1047,7 @@
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Belladonna leaves",
-        "str": "Belladonnabladeren"
+        "str": "Belladonna-bladeren"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
@@ -1149,7 +1149,7 @@
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "Goed gedaan, je hebt de elixers voltooid. Ik controleer je notities niet, maar ik weet zeker dat ze geweldig zijn!"
+        "str": "Goed gedaan. Je hebt de elixers voltooid. Ik ga je notities niet controleren, maar ik weet zeker dat je het goed doet!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
@@ -1203,7 +1203,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "Voordat ik je het donkere papier geef, laten we alles activeren en aanzetten. Op deze manier is het voor ons gemakkelijker om te zien waar de pop een hekel aan heeft als we het stoppen."
+        "str": "Voordat ik je het donkere papier geef, laten we alles activeren en aanzetten. Op deze manier is het voor ons gemakkelijker om te zien waar de pop een hekel aan heeft."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1257,7 +1257,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Je moet het zielenboek gebruiken voordat je de verdachte pop opslaat"
+        "str": "Je moet het zielenboek gebruiken voordat je de verdachte pop pakt"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1353,7 +1353,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "Wanneer je een zaak start, kun je jezelf uitrusten met de items die je hebt gekocht of gemaakt. Om dit te doen, ga je naar de kist achter je. Op dit moment zie je dat hij leeg is, maar maak je geen zorgen, ik zal je items geven zodat je er vertrouwd mee kunt raken!"
+        "str": "Wanneer je een zaak start, kun je jezelf uitrusten met de items die je hebt gekocht of gemaakt. Om dit te doen ga je naar de kist achter je. Op dit moment zie je dat hij leeg is, maar maak je geen zorgen: Ik zal je items geven zodat je er vertrouwd mee kunt raken!"
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1419,7 +1419,7 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "Heel goed, nu de overgebleven kaars."
+        "str": "Heel goed. Nu de overgebleven kaars."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1437,7 +1437,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Perfect, laten we nu een van de poppen onderzoeken. Ik heb je een camera gegeven; laten we een foto van Lil maken."
+        "str": "Perfect, laten we nu een van de poppen onderzoeken. Ik heb je een camera gegeven. Laten we een foto van Lil maken."
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1731,7 +1731,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "Zodra je de tutorial hebt voltooid, kun je financiële problemen tegenkomen. Om dit aan te pakken, kun je de klassieke modus spelen, en afhankelijk van het moeilijkheidsniveau krijg je meer of minder geld om in de zaken te gebruiken."
+        "str": "Zodra je de tutorial hebt voltooid kom je mogelijk financieel in de problemen. Om dit aan te pakken kun je de klassieke modus spelen. En afhankelijk van het moeilijkheidsniveau krijg je meer of minder geld om in de carrière modus te gebruiken."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1983,7 +1983,7 @@
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
-        "str": "Terug naar de safe house"
+        "str": "Terug naar je safe house"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
@@ -2127,7 +2127,7 @@
         "key": "96BE28504D901245DE1115BF00D47E10",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
-        "str": "Gebeurtenissen overzicht"
+        "str": "Gebeurtenissen-overzicht"
     },
     {
         "key": "9806DB6E4107A01E3979C1BBEF780A91",
@@ -2157,7 +2157,7 @@
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "De Krijser"
+        "str": "De krijser"
     },
     {
         "key": "9A3A87B047A1CC933C4F6197811B657B",
@@ -2253,7 +2253,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "Om de foto te ontwikkelen, moet je deze verplaatsen. Zodra deze 100% is ontwikkeld, druk je gewoon op de gebruiksknop en wordt deze opgeslagen."
+        "str": "Om de foto te ontwikkelen, moet je deze heen en weer bewegen. Zodra deze 100% is ontwikkeld, druk je gewoon op de gebruiksknop en wordt deze opgeslagen."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2319,7 +2319,7 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "De tijd is om! Als je er niet in geslaagd bent om alles op te schrijven, is hier wat er is waargenomen: {actions}"
+        "str": "De tijd is om! Als je er niet in geslaagd bent om alles op te schrijven is hier wat er is waargenomen: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2433,7 +2433,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Oké, ik geef je de rest van de elixers om op Lil toe te passen. Amicitia vertegenwoordigt vriendschap, Inimicitia vertegenwoordigt vijandschap en Odium vertegenwoordigt haat. Elk van deze, met zijn specifieke kleur, zal de relaties van Lil onthullen. Schrijf alles op wat je observeert en onthoud dat Lil in sommige gevallen geen relatie kan hebben met een specifieke rol."
+        "str": "Ik geef je de rest van de elixers om op Lil toe te passen. Amicitia onthult vriendschap, Inimicitia onthult vijandigheid en Odium onthult haat. Elk van deze, met zijn specifieke kleur, zal de relaties van Lil onthullen. Schrijf alles op wat je observeert en onthoud dat Lil in sommige gevallen geen relatie kan hebben met een specifieke pop."
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2607,7 +2607,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Schrijf ze nu op in de notities van het notitieblok. Als je een toetsenbord en muis gebruikt en je klikt buiten de notities, blijft de pagina van de pop open."
+        "str": "Schrijf ze nu op in het notitieblok. Als je een toetsenbord en muis gebruikt en je klikt buiten de notities dan blijft de pagina van de pop open."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2619,7 +2619,7 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "We hebben Lil gevangen. Je kunt doorgaan met het fotograferen van de rest van de poppen. Wanneer je zover bent, ga dan naar de caravan om de foto's te bekijken."
+        "str": "We hebben Lil gevangen. Je kunt doorgaan met het fotograferen van de rest van de poppen. Wanneer je zover bent, ga dan naar het busje om de foto's te bekijken."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2691,7 +2691,7 @@
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now table chess",
-        "str": "Nu tafelschaak"
+        "str": "Nu het schaakbord"
     },
     {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
@@ -2745,7 +2745,7 @@
         "key": "C380BEFB4806636D471F28BC3C7CE999",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul Papers",
-        "str": "Ziel papieren"
+        "str": "Zielpapier"
     },
     {
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
@@ -2781,13 +2781,13 @@
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "Heel goed, laten we teruggaan naar het huis. We gaan dingen ontdekken over Lil. Open haar doos en we zullen doorgaan met het toepassen van elixers."
+        "str": "Heel goed. Laten we teruggaan naar het huis. We gaan dingen ontdekken over Lil. Open haar doos en we zullen doorgaan met het toepassen van elixers."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Ik heb je een zaklamp gegeven, die erg belangrijk is in deze modus vanwege de zware duisternis. Let op de nummers op je UI onderaan; je kunt maximaal 10 items uitrusten, waarbij de eerste sleuf altijd je hand is. Je kunt door je inventaris navigeren door de vorige en volgende uitrustingstoetsen in te drukken, of op het toetsenbord door de nummertoetsen of het muiswiel te gebruiken."
+        "str": "Ik heb je een zaklamp gegeven, die erg belangrijk is in deze modus vanwege de zware duisternis. Let op de nummers op je inventaris onderaan; je kunt maximaal 10 items uitrusten, waarbij het eerste item altijd je lege hand is. Je kunt door je inventaris navigeren door de vorige en volgende uitrustingstoetsen in te drukken, of op het toetsenbord door de nummertoetsen of het muiswiel te gebruiken."
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2937,7 +2937,7 @@
         "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "Some of the elements you already have equipped",
-        "str": "Enkele van de elementen die je al hebt uitgerust"
+        "str": "Sommige items heb je reeds in je uitrusting"
     },
     {
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
@@ -3063,7 +3063,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Zielenpapieren zijn mystieke rollen, buitengewoon uniek, en er zijn twee soorten: Zielenpapieren en Zielen Donkere Papieren. Met andere woorden, de Zielenrol en zijn donkere versie. Deze rollen onthullen de voorkeuren en afkeuren van de poppen. We beginnen met de normale rol. Pas de rol toe op de pop."
+        "str": "Zielenpapieren zijn mystieke rollen, buitengewoon uniek, en er zijn twee soorten: Zielenpapieren en Donkere Zielenpapieren. Met andere woorden, de Zielenrol en zijn donkere versie. Deze rollen onthullen de voorkeuren en afkeuren van de poppen. We beginnen met de normale rol. Pas de rol toe op de pop."
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3075,7 +3075,7 @@
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "Je kunt dit niet maken, het past in geen enkel recept"
+        "str": "Je kunt dit niet maken: Het past in geen enkel recept"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -3459,7 +3459,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Nu zullen we het item Zielboek gebruiken. Dit item zal het spel officieel starten. Het gebruik ervan is eenvoudig: wanneer je dit boek gebruikt, zal de bedrieger (in dit geval Lil) beginnen te handelen. Op dit punt moet je de informatie vergelijken met wat er gebeurt, net zoals in de oorspronkelijke modus. Houd er rekening mee dat je 180 seconden hebt, en als de tijd op 0 komt, zal het je doden."
+        "str": "Nu zullen we het Zielboek gebruiken. Dit item zal het spel officieel starten. Het gebruik ervan is eenvoudig: Wanneer je dit boek gebruikt, zal de verdachte (in dit geval Lil) beginnen te handelen. Op dit punt moet je de informatie vergelijken met wat er gebeurt, net zoals in de oorspronkelijke modus. Houd er rekening mee dat je 180 seconden hebt. Als de tijd op 0 komt, dan wordt je gedood."
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3501,7 +3501,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Voordat je gaat, wil ik verduidelijken dat je in deze spelmodus naar het toevluchtsoord kunt terugkeren door met de caravan te rijden. Tot slot, wat we met Lil in deze modus hebben gedaan, moet voor elke pop worden gedaan om de bedrieger te identificeren. Houd er rekening mee dat de campagnemodus bedoeld is als een coöperatieve ervaring in de toekomst, daarom is het belangrijk dat het niet kort of snel is. Elke zaak kan dagen duren om op te lossen, maar het is asynchroon, wat betekent dat je kunt stoppen wanneer je wilt en later verder kunt spelen, en alles blijft zoals je het hebt achtergelaten."
+        "str": "Voordat je gaat, wil ik verduidelijken dat je in deze spelmodus naar het toevluchtsoord kunt terugkeren door met de caravan te rijden. Tot slot, wat we met Lil in deze modus hebben gedaan, moet voor elke pop worden gedaan om de verdachte te identificeren. Houd er rekening mee dat de campagnemodus bedoeld is als een coöperatieve ervaring in de toekomst. Daarom is het belangrijk dat het niet kort of snel is. Elke zaak kan dagen duren om op te lossen, maar het is asynchroon, wat betekent dat je kunt stoppen wanneer je wilt en later verder kunt spelen, en alles blijft zoals je het hebt achtergelaten."
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3591,7 +3591,7 @@
         "key": "FF2636BB4F223BBD00D531A30CF9EB06",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "Case History",
-        "str": "Zaakgeschiedenis"
+        "str": "Opdracht-geschiedenis"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
