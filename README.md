@@ -29,3 +29,7 @@ Edit a file:
 Save, Delete and Show My Translation:
 
 ![PNG](https://gyazo.com/7e7e924401f97dc02ec55b329128717b.png)
+
+Auto keep your changes with a new file:
+
+![GIF](https://gyazo.com/39b2b4dbb02f49bb300ce80a639bccc8.gif)
