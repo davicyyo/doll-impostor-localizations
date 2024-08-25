@@ -84,6 +84,12 @@
         "str": "Grimasse"
     },
     {
+        "key": "056842694B3EB37BD05F159542C5CE41",
+        "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_3.Text",
+        "id": "Products sold",
+        "str": "Verkaufte Produkte"
+    },
+    {
         "key": "0593C38042D49BC9D0958EB990324EFA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
         "id": "Jail Self",
@@ -958,6 +964,12 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
         "id": "Footsteps Volume",
         "str": "Schritte Lautstärke"
+    },
+    {
+        "key": "43B95535434D97B9189B93A2A4594202",
+        "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_1.Text",
+        "id": "Amount of Information discovered",
+        "str": "Menge an entdeckten Informationen"
     },
     {
         "key": "446183A644D53693C3BF6E947D141A43",
@@ -2028,6 +2040,12 @@
         "str": "Namen anzeigen"
     },
     {
+        "key": "91E782534C65C15F2165A692F6DD50F6",
+        "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_2.Text",
+        "id": "Products purchased",
+        "str": "Gekaufte Produkte"
+    },
+    {
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
@@ -2704,6 +2722,12 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
         "str": "Fokus Sichtfeld"
+    },
+    {
+        "key": "C24AF8B14A567648475D7BB6A3A92BF2",
+        "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text",
+        "id": "Number of photographs taken of dolls",
+        "str": "Anzahl der von Puppen gemachten Fotos"
     },
     {
         "key": "C28723EC476B280B7C783CAAD9FE2784",
