@@ -2922,6 +2922,12 @@
         "str": "Lys"
     },
     {
+        "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
+        "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
+        "id": "Win cases",
+        "str": "Vind sager"
+    },
+    {
         "key": "D2EAFC9348E348C7516300BF122B9702",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Right Place",
