@@ -2007,7 +2007,7 @@
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
-        "str": "Кэмпинг с друзьями"
+        "str": "Лагерь с друзьями"
     },
     {
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
@@ -2703,7 +2703,7 @@
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
         "location": "/Game/data-tables/itemList.itemList.NewRow_4.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Fuse to activate electrical circuits",
-        "str": "Предохранитель для активации электрических цепей"
+        "str": "Предохранитель для электро-щитка"
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
@@ -2913,7 +2913,7 @@
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "Фоткай кукол для зацепок"
+        "str": "Сфотографируйте куклу, чтобы найти все зацепки"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -3525,7 +3525,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "На диване у нас Рики, а за пианино - Монти, поэтому у нас уже есть 2 возможных кандидата. Однако мы не будем рисковать на 50%. Вернись в комнату и исключи того, кто не может быть предателем, а далее дождемся следующих действий от куклы."
+        "str": "На диване у нас Рики, а за пианино - Монти, поэтому у нас уже есть 2 возможных кандидата. Однако мы не будем рисковать на 50%. Вернись в комнату и исключи того, кто точно не может быть одержимым, а далее дождемся следующих действий от куклы."
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
