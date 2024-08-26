@@ -45,7 +45,7 @@
         "key": "02384976426960372C5EAE9FE9459154",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_3.Text",
         "id": "Your inventory",
-        "str": "สินค้าของคุณ"
+        "str": "คลังของคุณ"
     },
     {
         "key": "0285258748FED1BC6E542F80A9097CE9",
@@ -87,7 +87,7 @@
         "key": "056842694B3EB37BD05F159542C5CE41",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_3.Text",
         "id": "Products sold",
-        "str": "ผลิตภัณฑ์ที่ขาย"
+        "str": "สินค้าที่ขายไป"
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -129,7 +129,7 @@
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "ต้นทุนจะปรากฏในราคาของสินค้าในร้าน"
+        "str": "ราคาของอุปกรณ์ต่าง ๆ ในร้าน"
     },
     {
         "key": "0860FF434B759F0DDD299AAD5097224D",
@@ -153,7 +153,7 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ แต่จะไม่สามารถหาเคสใหม่เมื่อคุณเลือกรับเคสก่อนหน้านี้ได้ เมื่อคุณจัดการเรียบร้อยแล้ว ให้เดินทางไปยังสถานที่นั้นเมื่อคุณพร้อม"
+        "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณยังสามารถยกเลิกเคสนี้ได้ทุกเมื่อ แต่คุณจะไม่สามารถหาเคสใหม่ถ้าคุณได้เลือกรับเคสก่อนหน้านี้ไว้แล้ว เมื่อคุณจัดการเรียบร้อยแล้ว ให้ไปยังสถานที่นั้นเมื่อคุณพร้อม"
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -225,13 +225,13 @@
         "key": "0D7E18B14371021AF672E392EB48BEA1",
         "location": "/Game/enums/actions.actions.DisplayNameMap(40 - Value).DisplayNameMap",
         "id": "Fireplace",
-        "str": "เตาผิง"
+        "str": "จุดเตาผิง"
     },
     {
         "key": "0D80C37D480FE34BE1CA64878A0D1B7D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the radio",
-        "str": "วิทยุ"
+        "str": "เปิดวิทยุ"
     },
     {
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
@@ -303,7 +303,7 @@
         "key": "158F6D234AF05145B4905F942285D978",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the Ouija board on the table",
-        "str": "บอร์ดวิจาบอร์ดบนโต๊ะ"
+        "str": "เปิดกระดานผีบอกบนโต๊ะ"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -315,7 +315,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "ดีมาก คุณได้ใช้สิ่งของทั้งหมดบนตุ๊กตาแล้ว คราวนี้สิ่งที่ลิลไม่ชอบคือ: {items}"
+        "str": "ดีมาก คุณได้ใช้สิ่งของทั้งหมดกับตุ๊กตาแล้ว คราวนี้สิ่งที่ Lil ไม่ชอบคือ: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -345,7 +345,7 @@
         "key": "16B725324055549E77710CACDD3325FF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now move the picture closest to the living room door.",
-        "str": "เลื่อนภาพที่ใกล้ที่สุดกับประตูห้องนั่งเล่น"
+        "str": "เลื่อนภาพด้านซ้ายข้างประตูห้องนั่งเล่น"
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -483,7 +483,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "เหล้าสมุนไพรเหล่านี้เปิดเผยความสัมพันธ์ระหว่างตุ๊กตา ทุกตัวมีความสัมพันธ์ และนี่เป็นวิธีเดียวที่จะค้นพบ ของพวกเขา ขอเริ่มด้วยการทดสอบความสัมพันธ์ระหว่างลิลกับตุ๊กตาอื่น ๆ โดยเพียงใช้เหล้าสมุนไพรกับลิลและสังเกตผลกระทบ ผู้ที่ตอบสนองต่อผลกระทบของลิลคือคนที่ลิลรัก"
+        "str": "น้ำอมฤตเหล่านี้เผยให้เห็นความสัมพันธ์ระหว่างตุ๊กตา พวกเขาล้วนมีความสัมพันธ์กันซึ่งกันและกัน และนี่คือวิธีเดียวที่จะเปิดเผยความสัมพันธ์ของตุ๊กตา เรามาเริ่มการทดสอบความสัมพันธ์ของ Lil กับตุ๊กตาตัวอื่นๆ โดยการเทน้ำอมฤตลงบนตัวของ Lil แล้วสังเกตผลลัพท์กับตุ๊กตาที่จะตอบสนองต่อคนที่ Lil รัก"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -519,7 +519,7 @@
         "key": "22B8C07045CAEA974D03AD9C0D933A4E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Bar",
-        "str": "แท่งทองคำ"
+        "str": "ทองคำแท่ง"
     },
     {
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
@@ -531,7 +531,7 @@
         "key": "230AAACD49536A9594B0CBB4CA653C76",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the tv",
-        "str": "ทีวี"
+        "str": "เปิดทีวี"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
@@ -549,13 +549,13 @@
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "มีเป้าหมายปรากฏอยู่ในภาพถ่ายมากเกินไป; พยายามเข้าไปใกล้และโฟกัสเฉพาะเป้าหมายที่คุณต้องการ"
+        "str": "มีเป้าหมายปรากฏอยู่ในภาพถ่ายมากเกินไป ลองเข้าไปใกล้ และโฟกัสเฉพาะเป้าหมายที่คุณต้องการ"
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
         "location": "/Game/enums/gamemodes.gamemodes.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Career",
-        "str": "อาชีพ"
+        "str": "โหมดอาชีพ"
     },
     {
         "key": "24B7D6584C3AF4730B3365BB46DDA130",
@@ -567,7 +567,7 @@
         "key": "24FA60AC4C99AD7D35B45C8F7E6C1279",
         "location": "/Game/enums/actions.actions.DisplayNameMap(45 - Value).DisplayNameMap",
         "id": "Chess",
-        "str": "หมากรุก"
+        "str": "เล่นหมากรุก"
     },
     {
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
@@ -621,7 +621,7 @@
         "key": "2A85705945159E3B98E06BB40B5CA820",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the book",
-        "str": "หนังสือ"
+        "str": "เปิดหนังสือ"
     },
     {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
@@ -675,13 +675,13 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "กระดาษวิญญาณ"
+        "str": "กระดาษวิญญาณแห่งความมืด"
     },
     {
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "ฉันยังให้คุณถุงเท้าด้วย ถุงเท้านี้จะช่วยคุณจับคนปลอม หลังจากที่คุณจับมันแล้ว เกมจะจบลง (หากคุณทำได้ภายในเวลาที่กำหนด) ฉันจะปล่อยให้คุณจบส่วนนี้ของบทแนะนำ ไม่ว่าคุณจะชนะหรือแพ้ คุณจบลงแล้ว โชคดี!"
+        "str": "ฉันจะมอบกระเป๋าให้คุณ กระเป๋าใบนี้จะช่วยคุณจับตุ๊กตา impostor เมื่อคุณจับมันได้แล้ว เกมก็จะจบลง (ถ้าหากคุณทำได้ภายในเวลาที่กำหนด) ฉันจะช่วยคุณทำบทช่วยสอนอันนี้ให้เสร็จสิ้น ไม่ว่าคุณจะชนะหรือแพ้ก็ตาม คุณก็ทำมันเสร็จแล้ว ขอให้โชคดี!"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -747,13 +747,13 @@
         "key": "336B557643CBA00B5138539520DCBB04",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's start with the chair outside.",
-        "str": "เริ่มด้วยเก้าอี้ด้านนอก"
+        "str": "เริ่มด้วยการโยกเก้าอี้ด้านนอกบ้าน"
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
-        "str": "ควอตซ์คริสตัล"
+        "str": "คริสตัลควอตซ์"
     },
     {
         "key": "34568E7B486905A5400643A88FA2E8A8",
@@ -825,7 +825,7 @@
         "key": "3AD41353481D8F51B3C3699171A4CED1",
         "location": "/Game/enums/gamemodes.gamemodes.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Classic",
-        "str": "คลาสสิค"
+        "str": "โหมดคลาสสิค"
     },
     {
         "key": "3AEB5BB747D3C431D54680AEFDB7D404",
@@ -855,7 +855,7 @@
         "key": "3C68D11C43CC3EA53113F48A08FDF3AD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the wall clock",
-        "str": "นาฬิกาผนัง"
+        "str": "เปิดนาฬิกาบนผนัง"
     },
     {
         "key": "3D3092E04B30FAE9F91970831F869B44",
@@ -891,7 +891,7 @@
         "key": "3E8440AC413D7725FE75218355F55B7B",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-        "str": "ดีมาก! ฉันให้คุณกระดาษสีมืด ใช้กับลิลและเขียนลงไปทุกอย่างที่คุณเห็น จำไว้ว่าเป็นสิ่งที่เธอไม่ชอบ ดังนั้นสิ่งใดที่เธอดับไฟไป จะแสดงถึงสิ่งที่เธอไม่ชอบ"
+        "str": "ยอดเยี่ยม! ฉันจะมอบกระดาษแห่งความมืเแก่คุณ ลองนำไปใช้กับ Lil และจดบันทึกทุกสิ่งที่คุณเห็น ลองสังเกตว่าถ้าเธอไม่ชอบของชิ้นไหน เธอจะไปปิดสิ่งของเหล่านั้นที่คุณเปิดไว้"
     },
     {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
@@ -909,7 +909,7 @@
         "key": "3FAB1E074AD22684E3F78785D85679FA",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the nearest candle.",
-        "str": "เดี๋ยวมาดูเทียนเทียนที่ใกล้ที่สุด"
+        "str": "มาจุดเทียนด้านซ้ายที่ใกล้ที่สุด"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -939,7 +939,7 @@
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "ถ้วยรางวัลทรงถ้วย มักเป็นสีทอง มอบเป็นสัญลักษณ์แห่งชัยชนะในการแข่งขันกีฬาหรือพิธีการสำคัญ"
+        "str": "ถ้วยรางวัลสีทอง มักใช้เป็นสัญลักษณ์แห่งชัยชนะในการแข่งขันกีฬาหรือในโอกาสพิเศษ"
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -1029,7 +1029,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. You have 10 seconds to discover it. Write down everything you see in the doll's likes!",
-        "str": "ออกจากห้องตอนนี้และตรวจดูทุกอย่างที่เปิดใช้งาน คุณมีเวลา 10 วินาทีในการค้นพบ จงเขียนลงไปทุกอย่างที่คุณเห็นในสิ่งที่ตุ๊กตาชอบ!"
+        "str": "ก่อนที่คุณจะออกจากห้อง ให้คุณตรวจสอบสิ่งของทุกอย่างที่ได้เปิดไว้ โดยมีเวลา 10 วินาที ในการค้นหาและจดบันทึกทุกสิ่งที่ตุ๊กตาชอบ เริ่มกัน!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1101,7 +1101,7 @@
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "ฉันให้คุณสมุดบันทึกที่คุณสามารถดูรายละเอียดทั้งหมดเกี่ยวกับตุ๊กตาและข้อมูลที่สมบูรณ์ มาดูกัน และเมื่อคุณพร้อมแล้ว กลับมาที่ตุ๊กตา"
+        "str": "ฉันจะมอบสมุดบันทึกแก่คุณซึ่งคุณสามารถดูรายละเอียดทั้งหมดเกี่ยวกับตุ๊กตาและข้อมูลที่ครบถ้วนได้ ลองเปิดดู และเมื่อพร้อมแล้วก็กลับมาตรวจสอบที่ตุ๊กตาอีกครั้ง"
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1143,13 +1143,13 @@
         "key": "51B58C89473E1AE2A37E6A8118DC37C1",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-        "str": "คุณเคยสงสัยไหมว่าข้อมูลเกี่ยวกับตุ๊กตามาจากที่ไหน? ในโหมดอาชีพ คุณจะค้นพบข้อมูลเกี่ยวกับตุ๊กตาด้วยกรณีไม่จำกัด เศรษฐกิจ ระดับ ร้านค้า การสร้างสรรค์ และอื่น ๆ อีกมากมาย!"
+        "str": "คุณเคยสงสัยไหมว่าข้อมูลเกี่ยวกับตุ๊กตามาจากไหนในโหมดอาชีพ คุณลองค้นคว้าข้อมูลเกี่ยวกับตุ๊กตาได้ในการเล่นแบบไม่รู้จบ ไม่ว่าจะเป็นเคสต่าง ๆ ความคุ้มค่า ระดับความยาก ร้านค้า การประดิษฐ์ และอื่น ๆ อีกมากมาย!"
     },
     {
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "เยี่ยมมาก คุณได้ทำเสร็จสิ่งที่ต้องการแล้ว ฉันไม่ได้ตรวจสอบบันทึกของคุณ แต่ฉันมั่นใจว่ามันยอดเยี่ยม!"
+        "str": "เยี่ยมมาก คุณได้ทำสิ่งที่ต้องการเสร็จแล้ว แม้ว่าฉันยังไม่ได้ตรวจสอบบันทึกของคุณ แต่ฉันมั่นใจว่ามันยอดเยี่ยมมากแน่นอน!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
@@ -1203,7 +1203,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "ก่อนที่จะให้กระดาษสีเข้มให้คุณ ให้เราเปิดใช้งานและเปิดทุกอย่างก่อน นี่คือวิธีที่จะทำให้เราเห็นสิ่งที่ตุ๊กตาไม่ชอบเมื่อเราหยุดมัน"
+        "str": "ก่อนที่เราจะให้กระดาษแห่งความมืดแก่คุณ เราต้องเปิดใช้งานอุปกรณ์ทุกอย่างเสียก่อน และนี่คือวิธีการที่จะแสดงให้เราเห็นว่าตุ๊กตาที่ไม่ชอบของชิ้นไหนมันจะไปปิดของชิ้นนั้น"
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1257,7 +1257,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "คุณต้องใช้หนังสือแห่งวิญญาณก่อนจะช่วยตุ๊กตาตัวปลอม"
+        "str": "คุณต้องใช้หนังสือแห่งวิญญาณก่อนที่จะช่วยตุ๊กตา imposter "
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1275,13 +1275,13 @@
         "key": "5E1C23674444BB331554B39281C7EA20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
-        "str": "เอาคนอื่นมานั่งชิงช้า"
+        "str": "นำคนอื่นมานั่งชิงช้า"
     },
     {
         "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_52.Text",
         "id": "Invert Camera",
-        "str": "กลับด้านกล้อง"
+        "str": "กล้องขาวดำ"
     },
     {
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
@@ -1293,7 +1293,7 @@
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "โยก"
+        "str": "เก้าอี้โยก"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -1329,7 +1329,7 @@
         "key": "61579A7B4A7A797C38911980E669DE96",
         "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
         "id": "Jail Others",
-        "str": "ขังคนอื่น"
+        "str": "นำคนอื่นมาขัง"
     },
     {
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
@@ -1353,7 +1353,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "เมื่อคุณเริ่มกรณี คุณจะสามารถเตรียมตัวด้วยไอเทมที่คุณซื้อหรือสร้างได้ ในการทำเช่นนี้ ให้เข้าถึงตู้ข้างหลังคุณ ตอนนี้คุณจะเห็นว่ามันว่างเปล่า แต่อย่ากังวล ฉันจะให้ไอเทมให้คุณได้เรียนรู้เกี่ยวกับมัน!"
+        "str": "เมื่อคุณจะเริ่มเคส คุณจะสามารถเลือกใส่ไอเท็มที่คุณซื้อไว้หรือประดิษฐ์ขึ้นมาเองได้ เมื่อคุณจะใช้ไอเทม ให้ไปยังกล่องที่อยู่ด้านหลังคุณ แม้มันอาจจะว่างเปล่า แต่อย่าได้กังวลไป ฉันจะให้ไอเทมกับคุณเพื่อทำความคุ้นเคยกับมัน!"
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1419,7 +1419,7 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "ดีมาก ตอนนี้เหลือเทียนอีกแล้ว"
+        "str": "ดีมาก ตอนนี้ลองจุดเทียนที่เหลืออยู่"
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1437,7 +1437,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "ยอดเยี่ยม ตอนนี้เรามาสืบหาข้อมูลของตุ๊กตาคนหนึ่ง ฉันได้ให้คุณกล้องถ่ายรูปแล้ว มาถ่ายรูปลิลกัน"
+        "str": "ยอดเยี่ยม ตอนนี้เรามาสืบหาข้อมูลของตุ๊กตาตัวหนึ่ง ฉันจะมอบกล้องถ่ายรูปให้คุณ เรามาลองถ่ายรูป Lil กัน"
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1521,7 +1521,7 @@
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "บุญมี"
+        "str": "สิ้นบุญ"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
@@ -1581,7 +1581,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "ยินดีต้อนรับสู่โหมดอาชีพ ในโหมดเกมนี้ คุณจะต้องค้นคว้าความจริงกับตุ๊กตาและแก้ไขปัญหาในแต่ละเคสอย่างถูกต้อง"
+        "str": "ยินดีต้อนรับสู่โหมดอาชีพ ในโหมดเกมนี้ คุณจะต้องสืบหาความจริงเกี่ยวกับตุ๊กตา และแก้ไขปัญหาเฉพาะหน้าที่เกิดขึ้นในแต่ละเคสได้อย่างถูกต้อง"
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1641,7 +1641,7 @@
         "key": "77597C9F40C4017557D06AA387E711B0",
         "location": "/Game/enums/costs.costs.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Very Expensive",
-        "str": "ราคาสูง"
+        "str": "ราคาแพง"
     },
     {
         "key": "77DAE76A48EC13E45F2983881F23E808",
@@ -1689,7 +1689,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "คุณได้ใช้ของทุกอย่างตามที่คุณต้องการได้ที่นี่"
+        "str": "ที่นี่สามารถใช้ของได้ทุกอย่างตามที่คุณต้องการ"
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1719,7 +1719,7 @@
         "key": "7B965EEB441BE13C098439BB745C2F25",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You're short of ingredients to make this",
-        "str": "คุณขาดส่วนผสมบางอย่างในการทำ"
+        "str": "คุณขาดส่วนผสมบางอย่างในการทำสิ่งนี้"
     },
     {
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
@@ -1731,7 +1731,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "เมื่อคุณทำแบบฝึกหัดเสร็จแล้ว คุณอาจประสบปัญหาทางการเงิน เพื่อแก้ไขปัญหานี้ คุณสามารถเล่นโหมดคลาสสิก และขึ้นอยู่กับระดับความยาก จะให้เงินมากหรือน้อยตามกรณี"
+        "str": "เมื่อคุณทำโหมดฝึกสอนเสร็จแล้ว คุณอาจประสบปัญหาทางการเงิน เราขอเสนอวิธีการแก้ปัญหาเหล่านี้ โดยคุณสามารถเล่นโหมดคลาสสิก และจะได้เงินมากหรือน้อยขึ้นอยู่กับระดับความยากที่คุณเลือก"
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1779,7 +1779,7 @@
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "ผลกระทบได้หมดลง หากคุณไม่สามารถจดไว้ได้ ความชอบของลิลคือ: {people}"
+        "str": "ยาได้หมดฤทธิ์แล้ว ถ้าหากคุณลืมจดบันทึก ไม่ต้องกังวลเราจะบอกคุณให้ว่า คนที่ Lil รัก คือ: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1911,7 +1911,7 @@
         "key": "86BE55834614BDEE6BACCD821A069F89",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-        "str": "เครื่องประดับที่หรูหราประกอบด้วยสร้อยไข่มุกทรงกลมที่ขึ้นชื่อเรื่องความแวววาวที่นุ่มนวล และมักเชื่อมโยงกับความหรูหราและสง่างาม"
+        "str": "เครื่องประดับหรูหราประกอบด้วยไข่มุกทรงกลมสีละมุน เป็นที่ขึ้นชื่อในเรื่องความหรูหรามีระดับและทรงคุณค่าแก่ผู้สวมใส่"
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
@@ -1929,7 +1929,7 @@
         "key": "8785C0644A30D7680DD4668FB916A03A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
         "id": "Hide Others",
-        "str": "เอาคนอื่นไปซ่อน"
+        "str": "นำคนอื่นไปซ่อน"
     },
     {
         "key": "878E24534B885E2AB87EACB0394A0E58",
@@ -1953,13 +1953,13 @@
         "key": "8841057C4E79D1D004AE35BDDA5930D6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals hatred",
-        "str": "อมฤตแห่งเกลียดชัง"
+        "str": "น้ำอมฤตแห่งเกลียดชัง"
     },
     {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "ใบไม้เขียแหลม"
+        "str": "ใบไม้เขียวแหลม"
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -2043,7 +2043,7 @@
         "key": "91E782534C65C15F2165A692F6DD50F6",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_2.Text",
         "id": "Products purchased",
-        "str": "ผลิตภัณฑ์ที่ซื้อ"
+        "str": "ผลิตภัณฑ์ที่ซื้อไว้"
     },
     {
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
@@ -2115,7 +2115,7 @@
         "key": "9639E2074CB67CEC4666A4AF3A4FC559",
         "location": "/Game/enums/costs.costs.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Very Cheap",
-        "str": "ถูกมาก"
+        "str": "ราคาถูกมาก"
     },
     {
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
@@ -2193,7 +2193,7 @@
         "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixir applied! Check the dolls around to determine whom Lil loves.",
-        "str": "ได้ทาเอลิกเซอร์แล้ว! ตรวจสอบตุ๊กตารอบๆเพื่อหาว่าลิลชอบใคร"
+        "str": "น้ำยาอมฤตถูกใช้แล้ว! คราวนี้ลองสำรวจตุ๊กตารอบ ๆ เพื่อสังเกตว่า Lil รักใครบ้าง"
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
@@ -2241,7 +2241,7 @@
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "มาขีดทับลิลออกก่อนเพราะเราจะสืบสวนตุ๊กตานี้"
+        "str": "เรากากบาททับ Lil ก่อน เราต้องการตรวจสอบเธอเป็นอันดับแรก"
     },
     {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
@@ -2253,7 +2253,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "เพื่อพัฒนาภาพถ่ายคุณต้องเคลื่อนย้ายมัน หลังจากพัฒนาเสร็จ 100% แค่กดปุ่มใช้งาน แล้วมันจะถูกบันทึก"
+        "str": "เพื่อปรับปรุงการภาพถ่ายที่ดี ลองขยับกล้องดู ถ้าหากคุณมั่นใจแล้ว ให้กดถ่ายรูปเพื่อบันทึกเอาไว้เป็นข้อมูล"
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2265,7 +2265,7 @@
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "เลือกผู้แอบอ้างแล้ว"
+        "str": "เลือก Impostor แล้ว"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
@@ -2319,13 +2319,13 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "หมดเวลาแล้ว! หากคุณไม่สามารถเขียนทุกอย่างลงไป นี่คือสิ่งที่สังเกตเห็น: {actions}"
+        "str": "เอาล่ะ หมดเวลาแล้ว! หากคุณลืมจดบัณทึก เราจะใบ้ให้ว่า นี่คือสิ่งที่เราสังเกตได้: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
         "id": "Travel",
-        "str": "การเดินทาง"
+        "str": "ออกเดินทาง"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
@@ -2397,13 +2397,13 @@
         "key": "AD00137D457BF38AE614FC9EE94D1425",
         "location": "/Game/enums/costs.costs.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Expensive",
-        "str": "แพง"
+        "str": "ราคาแพง"
     },
     {
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "เปิดใช้งานการต่อสู้ครั้งสุดท้ายเพื่อเปิดเผยผู้แอบอ้าง"
+        "str": "เปิดใช้งานการต่อสู้ครั้งสุดท้ายเพื่อเปิดเผย Impostor"
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
@@ -2433,7 +2433,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "โอเค ฉันจะให้เธอเอลิกเซอร์ที่เหลือให้ทาลิล อามิซิเทีย แทนความเป็นเพื่อน อินิมิซิเทีย แทนความเป็นศัตรู และโอเดียม แทนความเกลียดชัง แต่ละอย่างนี้ พร้อมสีที่เฉพาะเจาะจง จะเปิดเผยความสัมพันธ์ของลิล จดทุกสิ่งที่คุณสังเกตเห็น และจำไว้ว่าในบางกรณี ลิลอาจจะไม่มีความสัมพันธ์กับบทบาทที่เฉพาะเจาะจง"
+        "str": "เอาล่ะ ฉันจะมอบน้ำยาอมฤตที่เหลือ โดยลองใช้กับ Lil โดยมี Amicitia แทนความเป็นเพื่อน, Inimicitia แทนความเป็นศัตรู และ Odium แทนความเกลียดชัง โดยน้ำยาอมฤตแต่ละชนิด จะมีหลากหลายสี เอาไว้เปิดเผยความสัมพันธ์ของ Lil จดทุกสิ่งที่คุณสังเกตเห็น และโปรดจำไว้ว่าในบางเคส Lil อาจจะมีความสัมพันธ์ตุ๊กตาตัวอื่นแบบไม่เจาะจง"
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2481,7 +2481,7 @@
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "ฉันให้คุณไฟแช็ก ใช้มันสำหรับการกระทำที่เหลือ"
+        "str": "ฉันจะมอบไฟแช็กให้คุณ ใช้สำหรับการจุดเตาผิง และจุดเทียนที่เหลือ"
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
@@ -2553,7 +2553,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "ตรวจสอบแท็บต่างๆ เพื่อทำความคุ้นเคย เมื่อคุณพร้อมแล้ว ให้คลิกปุ่มยอมรับเพื่อดำเนินการในเคสนี้"
+        "str": "ลองตรวจสอบแท็บต่างๆ เพื่อทำความคุ้นเคยกับมัน ถ้าหากคุณพร้อมแล้ว ให้คลิกปุ่มยอมรับเพื่อเลือกทำเคสนี้"
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2595,7 +2595,7 @@
         "key": "B9B809EC40076554656E1A8C91157931",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Patriot",
-        "str": "รักชาติ"
+        "str": "รั้วของชาติ"
     },
     {
         "key": "BAD425AD48B5C8A24B0663948D13EA94",
@@ -2607,7 +2607,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "ตอนนี้คุณควรจดลงในบันทึกของสมุดบันทึก นอกจากนี้หากคุณใช้คีย์บอร์ดและเมาส์ และคุณคลิกนอกสมุดบันทึก หน้าตุ๊กตาจะยังคงเปิดอยู่"
+        "str": "ตอนนี้คุณควรจดลงในบันทึกของสมุดบันทึก นอกจากนี้คุณยังสามารถใช้คีย์บอร์ดและเมาส์ แม้ว่าคุณจะคลิกด้านนอกสมุดบันทึก หน้าสมุดของตุ๊กตาจะยังคงเปิดได้อยู่"
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2619,7 +2619,7 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "เราจับลิลได้แล้ว คุณสามารถดำเนินการถ่ายภาพตุ๊กตาที่เหลือต่อไป และเมื่อพร้อมแล้ว ให้ไปที่รถตู้เพื่อดูภาพถ่าย"
+        "str": "เราถ่ายรูป Lil ได้แล้ว คุณสามารถถ่ายภาพตุ๊กตาตัวอื่น ๆ ที่ยังเหลือต่อได้อีก ถ้าคุณถ่ายรูปเสร็จแล้ว คุณสามารถตรวจสอบรูปถ่ายบนรถตู้ได้"
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2667,7 +2667,7 @@
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "อัญมณีล้ำค่าที่ขึ้นชื่อเรื่องความแข็งและความแวววาวสูง มักใช้ในเครื่องประดับและมีมูลค่าสูงเนื่องจากความบริสุทธิ์และความหายาก"
+        "str": "อัญมณีอันล้ำค่าขึ้นชื่อเรื่องความแข็งและความแวววาวสุดยอด เหมาะกับการทำเป็นเครื่องประดับอันทรงคุณค่า ทั้งความบริสุทธิ์และความหายาก"
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
@@ -2691,7 +2691,7 @@
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now table chess",
-        "str": "ตอนนี้เป็นเวลาเล่นหมากรุก"
+        "str": "ตอนนี้ลองเล่นหมากรุก"
     },
     {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
@@ -2727,7 +2727,7 @@
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text",
         "id": "Number of photographs taken of dolls",
-        "str": "จำนวนภาพถ่ายตุ๊กตาที่ถ่าย"
+        "str": "จำนวนรูปถ่ายตุ๊กตา"
     },
     {
         "key": "C28723EC476B280B7C783CAAD9FE2784",
@@ -2745,13 +2745,13 @@
         "key": "C380BEFB4806636D471F28BC3C7CE999",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul Papers",
-        "str": "กระดาษวิญญ"
+        "str": "กระดาษวิญญาณ"
     },
     {
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "แท่งทองคำที่ผ่านการกลั่นอย่างดี มีความบริสุทธิ์สูง ใช้ในการลงทุนหรือเก็บมูลค่า โดดเด่นด้วยน้ำหนักและความเงางามสีทอง"
+        "str": "ทองคำแท่งบริสุทธิ์ มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือสะสมมูลค่า ลักษณะเด่นคือน้ำหนักดีและประกายทองแวววาว"
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2781,13 +2781,13 @@
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "ดีมาก มาเรากลับไปที่บ้าน  เราจะค้นพบสิ่งต่างๆเกี่ยวกับลิล  เปิดตู้ของเธอ และเราจะดำเนินการใส่เอลิกเซอร์"
+        "str": "ดีมาก เรากลับไปที่บ้านกัน เราได้ค้นพบสิ่งต่าง ๆ เกี่ยวกับ Lil ลองเปิดตู้ของเธอ แล้วลองใช้น้ำอมฤตกับเธอกันเลย"
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "ฉันได้ให้คุณไฟฉาย ซึ่งสำคัญมากในโหมดนี้เนื่องจากมีความมืดมิด ให้สนใจตัวเลขบน UI ด้านล่างของคุณ คุณสามารถใส่อุปกรณ์ได้สูงสุด 10 ชิ้น โดยช่องแรกเสมอเป็นมือของคุณ คุณสามารถนำเข้าอุปกรณ์ได้โดยการกดปุ่มอุปกรณ์ก่อนหน้าและถัดไป หรือบนคีย์บอร์ดโดยใช้ตัวเลขหรือล้อเมาส์"
+        "str": "ฉันจะมอบไฟฉายให้คุณ มันสำคัญมากในโหมดนี้เนื่องจากบรรยากาศมีความมืดมิด ลองสังเกตแถบ UI ด้านล่างของคุณ คุณสามารถใส่อุปกรณ์ได้สูงสุด 10 ชิ้น โดยช่องแรกจะเป็นมือของคุณ คุณสามารถนำเข้าอุปกรณ์ได้โดยการกดปุ่มเลือกอุปกรณ์ก่อนหน้าและถัดไป ใช้หมายเลขเป็นคีย์ลัดหรือการเลื่อนลูกกลิ้งเมาส์ก็ได้"
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2913,7 +2913,7 @@
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "ถ่ายรูปตุ๊กตาเพื่อเบาะแสเพิ่มเติม"
+        "str": "ถ่ายรูปตุ๊กตาเพื่อค้นหาเบาะแสเพิ่มเติม"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2925,7 +2925,7 @@
         "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
         "id": "Win cases",
-        "str": "ชนะคดี"
+        "str": "เคสที่ชนะ"
     },
     {
         "key": "D2EAFC9348E348C7516300BF122B9702",
@@ -2943,7 +2943,7 @@
         "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "Some of the elements you already have equipped",
-        "str": "บางส่วนขององค์ประกอบที่คุณมีอยู่แล้ว"
+        "str": "คุณกำลังถืออุปกรณ์บางชิ้นอยู่"
     },
     {
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
@@ -2961,7 +2961,7 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "เข้าไปในบ้านและค้นหาห้องตุ๊กตา"
+        "str": "ลองเข้าไปในบ้านกันและลองค้นหาห้องตุ๊กตาดูสิ"
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -3057,7 +3057,7 @@
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixirs",
-        "str": "เหล้า"
+        "str": "น้ำอมฤต"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -3069,7 +3069,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "กระดาษจิตวิญญาณเป็นพิมพ์ลึกลับที่เป็นเอกลักษณ์อย่างพิเศษ และมี 2 ประเภท: กระดาษจิตวิญญาณและกระดาษจิตวิญญาณมืด กล่าวคือ กระดาษจิตวิญญาณและเวอร์ชันมืดของมัน พิมพ์เหล่านี้เปิดเผยความชอบและไม่ชอบของตุ๊กตา เราจะเริ่มด้วยพิมพ์ปกติ ใช้พิมพ์กับตุ๊กตา"
+        "str": "กระดาษแห่งวิญญาณเป็นม้วนคัมภีร์ลึกลับที่มีเอกลักษณ์เฉพาะตัวอย่างยิ่งและมีอยู่ 2 ประเภท ดังนี้ กระดาษจิตวิญญาณธรรมดาและกระดาษจิตวิญญาณแห่งความมืด กล่าวได้ว่า กระดาษเหล่านี้จะให้ในการเปิดเผยความชอบและไม่ชอบของเหล่าตุ๊กตา เราจะเริ่มต้นด้วยกระดาษจิตวิญญาณธรรมดากับตุ๊กตาดูสิ"
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3099,7 +3099,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "โปรกจำไว้ว่าคุณจะไม่สามารถโต้ตอบกับสิ่งใดได้ในขณะนี้เนื่องจากนี่คือบทช่วยสอน เอาล่ะ มาเปิดไฟฟ้ากันเถอะ เตรียมฟิวส์ของคุณแล้วไปที่ด้านหลังบ้านเพื่อเปิดใช้งาน"
+        "str": "โปรดจำไว้ว่าคุณจะไม่สามารถโต้ตอบกับสิ่งใดได้ในขณะนี้เนื่องจากนี่คือบทช่วยสอน เอาล่ะ มาเปิดไฟฟ้ากันเถอะ เตรียมฟิวส์ของคุณแล้วเดินไปที่หลังบ้านเพื่อเปิดใช้งานไฟฟ้าในบ้านกัน"
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3123,7 +3123,7 @@
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "งานดีมาก สุดท้าย จุดเตาไฟ"
+        "str": "ดีมาก เรามาจุดเตาผิงกัน"
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3153,7 +3153,7 @@
         "key": "E321649D4AF8734E473FEDB0404E1B2E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(42 - Value).DisplayNameMap",
         "id": "Move frames",
-        "str": "ย้ายกรอบ"
+        "str": "ขยับกรอบรูป"
     },
     {
         "key": "E447809B421298C1BDA5E4B063D86F49",
@@ -3183,7 +3183,7 @@
         "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "You can only equip a maximum of 10 items",
-        "str": "คุณสามารถใส่ไอเท็มได้มากสุด 10 รายการ"
+        "str": "คุณสามารถใส่ไอเท็มได้สูงสุด 10 รายการ"
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
@@ -3219,7 +3219,7 @@
         "key": "E8BEC2F04785EFD5186984BE67C4B88A",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Earn Money",
-        "str": "รับเงิน"
+        "str": "เงินที่ได้รับ"
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -3237,7 +3237,7 @@
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "ฉันให้คุณไอเท็มบางราย ไปที่ส่วนการสร้างเครื่องดื่ม สร้างเอลิกเซอร์ คุณสามารถทำได้ด้วยตนเองหรือโดยตรงโดยการกดที่เอลิกเซอร์ที่คุณต้องการ"
+        "str": "ฉันจะมอบไอเทมบางอย่างแก่คุณ แล้วลองประดิษฐ์น้ำยาอมฤตขึ้นมา คุณสามารถทำเองได้โดยกดที่สูตรน้ำยาอมฤตที่คุณต้องการ"
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3279,13 +3279,13 @@
         "key": "EDA5294F43DB42C2856059B83C9A6BF5",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
         "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-        "str": "ความน่าจะเป็นนี้จะคงอยู่ทุกครั้งที่คุณเดินทาง; คุณอาจพบกล่องที่มีสิ่งของอยู่ภายใน"
+        "str": "มีความเป็นไปได้ในขณะที่คุณออกเดินทาง คุณอาจจะเจอกล่องปริศนาที่บรรจุสิ่งของบางอย่างอยู่ข้างใน"
     },
     {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "คุณเสียไป 75% เพราะไม่พบตัวปลอม"
+        "str": "คุณเสียไป 75% เพราะไม่พบ impostor"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3333,7 +3333,7 @@
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "ผีถ้วยแก้ว"
+        "str": "กระดานผีบอก"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
@@ -3393,7 +3393,7 @@
         "key": "F4678833417F67BF4FB742B959AD7E80",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
         "id": "Only items that can be equipped will appear",
-        "str": "เฉพาะไอเท็มที่สามารถสวมใส่ได้เท่านั้นที่จะปรากฏ"
+        "str": "เฉพาะไอเทมที่สามารถติดตั้งได้เท่านั้นที่จะปรากฏให้เห็น"
     },
     {
         "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -3405,7 +3405,7 @@
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ringmaster",
-        "str": "แม่เล้า"
+        "str": "ประธานบริษัท"
     },
     {
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
@@ -3447,7 +3447,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "คุณจะมีเคสที่พร้อมใช้งานพร้อมพารามิเตอร์ไดนามิกต่างๆ จะแสดงข้อมูลเหมือนกับข้อมูลปัจจุบัน ถ้าหากคุณไม่ชอบ คุณสามารถค้นหาเคสใหม่เพื่อแลกกับเงินได้ ขณะนี้ในโหมดการฝึกสอน เราได้จำกัดการโต้ตอบของคุณ คุณจะไม่สามารถซื้อ ประดิษฐ์ ยกเลิกเคส หรือค้นหาเคสใหม่ได้"
+        "str": "คุณจะมีเคสที่พร้อมใช้งานพร้อมพารามิเตอร์แบบไดนามิกต่างๆ มันจะแสดงข้อมูลเหมือนกับข้อมูลปัจจุบัน และถ้าคุณไม่ชอบ คุณสามารถเปลี่ยนเคสได้แต่ต้องเสียเงิน ในโหมดการฝึกสอนขณะนี้ เราได้ทำการจำกัดการโต้ตอบของคุณ คุณจะไม่สามารถซื้อของ สร้างของ ออกจากเคส หรือค้นหาเคสใหม่ได้"
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3465,7 +3465,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "ตอนนี้เราจะใช้ไอเท็มหนังสือวิญญาณ ไอเท็มนี้จะเริ่มเกมอย่างเป็นทางการ การใช้งานนั้นง่าย: เมื่อคุณใช้หนังสือเล่มนี้ ผู้ที่เป็นคนร้าย (ในกรณีนี้คือ Lil) จะเริ่มดำเนินการ ในจุดนี้คุณจะต้องเปรียบเทียบข้อมูลกับสิ่งที่เกิดขึ้น เหมือนในโหมดต้นฉบับ โปรดจำไว้ว่าคุณมีเวลา 180 วินาที และหากเวลาถึง 0 มันจะฆ่าคุณ."
+        "str": "ตอนนี้เราจะใช้ไอเท็มหนังสือแห่งวิญญาณ ไอเท็มนี้จะเริ่มเกมอย่างเป็นทางการ การใช้งานนั้นง่าย: เมื่อคุณใช้หนังสือเล่มนี้ ผู้ที่เป็น impostor (ในกรณีนี้คือ Lil) จะเริ่มปรากฎ ในจุดนี้คุณจะต้องเปรียบเทียบข้อมูลกับสิ่งที่เกิดขึ้น เหมือนในโหมดต้นฉบับ โปรดจำไว้ว่าคุณมีเวลา 180 วินาที และหากเวลาถึง 0 มันจะฆ่าคุณ"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3483,7 +3483,7 @@
         "key": "F880818144C667A994BEEF9200987EF4",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Chest",
-        "str": "หีบ"
+        "str": "กล่อง"
     },
     {
         "key": "F9560AD34A829952AE5F5498756E174C",
@@ -3507,7 +3507,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "ก่อนที่คุณจะไป ฉันต้องการชี้แจงว่าในโหมดเกมนี้ คุณสามารถกลับไปที่ที่อพังโดยการขับรถตู้ สุดท้าย สิ่งที่เราได้ทำกับ Lil ในโหมดนี้จะต้องทำสำหรับตุ๊กตาแต่ละตุ๊กตาเพื่อระบุตัวปลอม จำไว้ว่าโหมดแคมเปญถูกออกแบบให้เป็นประสบการณ์ร่วมกันในอนาคต ซึ่งเหตุผลที่สำคัญที่มันไม่สั้นหรือเร็ว แต่ละเคสอาจใช้เวลาหลายวันในการแก้ไข แต่มันเป็นการไม่เป็นเวลาเดียวกัน ซึ่งหมายความว่าคุณสามารถออกไปเมื่อคุณต้องการและดำเนินการเล่นต่อภายหลัง และทุกอย่างจะยังคงอยู่เหมือนที่คุณทิ้งไว้"
+        "str": "ก่อนที่คุณจะไป ฉันจะบอกคุณว่าในโหมดเกมนี้ คุณสามารถกลับไปที่บ้านโดยรถตู้ สุดท้ายนี้ สิ่งที่เราได้ทดลองกับ Lil ในโหมดนี้ จะต้องทำตุ๊กตาแต่ละตัวด้วย เพื่อสืบหา impostor โปรดจำไว้ว่าโหมดนี้ถูกออกแบบมาเพื่อให้เป็นประสบการณ์ร่วมกันในอนาคต ซึ่งเหตุผลที่สำคัญนั้น ในแต่ละเคสคุณอาจจะใช้เวลายาวนานหลายวันในการค้นหาข้อมูล ซึ่งหมายความว่าคุณสามารถออกจากโหมดนี้ตอนไหนก็ได้ และสามารถเล่นต่อภายหลังได้ ทุกอย่างจะยังคงอยู่เหมือนที่คุณเล่นค้างไว้จากเซฟล่าสุด"
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3597,7 +3597,7 @@
         "key": "FF2636BB4F223BBD00D531A30CF9EB06",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "Case History",
-        "str": "ประวัติคดี"
+        "str": "ประวัติเคส"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
