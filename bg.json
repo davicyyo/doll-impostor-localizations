@@ -1092,6 +1092,12 @@
         "str": "Всичко се разпада"
     },
     {
+        "key": "4D302CC441AA152588642EBA8EEA7EB1",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "Select those objects to craft another one.",
+        "str": "Изберете тези обекти, за да изработите друг."
+    },
+    {
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A clear and pure crystal.",
