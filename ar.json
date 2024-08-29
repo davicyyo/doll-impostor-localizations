@@ -3,13 +3,13 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "العظم"
+        "str": "المخيف"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
         "location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Tea with friends",
-        "str": "شاي مع الأصدقاء"
+        "str": "الشاي مع الأصدقاء"
     },
     {
         "key": "008C17DA426E713F7F3A418B4FDE1BE4",
@@ -21,7 +21,7 @@
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "المخيف"
+        "str": "الظلام"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -39,7 +39,7 @@
         "key": "01C8EACC48F42AB3BC9A26B9A45C3E10",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Cinnamon",
-        "str": "قرفة"
+        "str": "القرفة"
     },
     {
         "key": "02384976426960372C5EAE9FE9459154",
@@ -57,13 +57,13 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "الغسق"
+        "str": "الصدى"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(1).Options.Label",
         "id": "Borderless",
-        "str": "بدون حدود"
+        "str": "بلا حدود"
     },
     {
         "key": "0375A2D542A72CFAD4E4CA8A30C56CC4",
@@ -75,13 +75,13 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "يبدو أن المحتال قد قام ببعض الأحداث. سيتم عرضها على اللوحة اليسرى الخاصة بك. راجعها ثم ادخل الغرفة مرة أخرى."
+        "str": "يبدو أن المحتال قد قام ببعض الأحداث. سيتم عرضها على اللوحة اليسرى. قم بمراجعتها ثم قم بالدخول إلى الغرفة مرة أخرى."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "التكشير"
+        "str": "المهووس"
     },
     {
         "key": "056842694B3EB37BD05F159542C5CE41",
@@ -93,43 +93,43 @@
         "key": "0593C38042D49BC9D0958EB990324EFA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
         "id": "Jail Self",
-        "str": "سجن الذات"
+        "str": "سجن النفس"
     },
     {
         "key": "05AD525F49BFE5E3D0E076B33A48FCF0",
         "location": "/Game/UI/confirm.Default__confirm_C.DismissButton",
         "id": "Deny",
-        "str": "رفض"
+        "str": "ينكر"
     },
     {
         "key": "0600D2134F5944FF6E3102866C348F23",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigma",
-        "str": "الغامض"
+        "str": "اللغز"
     },
     {
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "الشبح 28"
+        "str": "اللحظات"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(31 - Value).DisplayNameMap",
         "id": "Seesaws",
-        "str": "مراجيح"
+        "str": "أراجيح"
     },
     {
         "key": "073BF882481ECDE57F50FF98957A3C22",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new difficulty!",
-        "str": "لقد فتحت خريطة السيرك!"
+        "str": "لقد فتحت صعوبة جديدة!"
     },
     {
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "التكاليف ستنعكس في أسعار العناصر في المتجر"
+        "str": "وسوف تنعكس التكاليف في أسعار العناصر الموجودة في المتجر"
     },
     {
         "key": "0860FF434B759F0DDD299AAD5097224D",
@@ -141,25 +141,25 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "تذكر أن تبقي الباب مغلقًا بالمزلاج. إذا لم تفعل ذلك، يمكن للدمى الخروج وتغيير اختباراتك وحتى قتلك."
+        "str": "تذكر أن تبقي الباب مغلقًا بالمزلاج. إذا لم تقم بذلك، يمكن للدمى أن تخرج وتغير اختباراتك وحتى تقتلك."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Berries",
-        "str": "توت"
+        "str": "التوت"
     },
     {
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "لقد قبلت الحالة الآن. خارج البرنامج التعليمي، يمكنك التخلي عن الحالة في أي وقت، ولكنك لن تتمكن من العثور على حالات جديدة بمجرد قبولك. بعد الترتيب، سافر إلى الموقع عندما تكون جاهزًا."
+        "str": "لقد قبلت الآن الحالة. خارج البرنامج التعليمي، يمكنك التخلي عن الحالة في أي وقت، ولكن لن تتمكن من العثور على حالات جديدة بمجرد قبولها. بعد تسوية هذا الأمر، انتقل إلى الموقع عندما تكون جاهزًا."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "هذه غرفة الدمى. هنا سترى ما فعلوه أثناء نومك. ألق نظرة عليهم، ثم دعنا نعود إلى الغرفة."
+        "str": "هذه هي غرفة الدمى. هنا ستشاهدين ما فعلوه أثناء نومك. ألقِ نظرة عليهم، ثم دعنا نعود إلى الغرفة."
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -183,7 +183,7 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "قرن فانيليا عطري."
+        "str": "كبسولة فانيليا عطرة."
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -195,7 +195,7 @@
         "key": "0B2A9AAE439C83F5A59624AAE1C48AAE",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Traps",
-        "str": "فخاخ"
+        "str": "الفخاخ"
     },
     {
         "key": "0B88630D44BEE72FF2A76095115344A8",
@@ -207,19 +207,19 @@
         "key": "0CA5844D4070A29607D91D9C17419FCD",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Skip all hours",
-        "str": "تخطي جميع الساعات"
+        "str": "تخطي كل الساعات"
     },
     {
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "ورقة الأرواح المظلمة"
+        "str": "محل"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_2.Text",
         "id": "Smooth Camera",
-        "str": "الكاميرا السلسة"
+        "str": "كاميرا سلسة"
     },
     {
         "key": "0D7E18B14371021AF672E392EB48BEA1",
@@ -231,49 +231,49 @@
         "key": "0D80C37D480FE34BE1CA64878A0D1B7D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the radio",
-        "str": "الراديو الآن"
+        "str": "الآن الراديو"
     },
     {
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "تأرجح الذات"
+        "str": "سوينغ النفس"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "لنعد إلى اللوحة ونبدأ في استبعاد المشتبه بهم الذين لا يتطابقون مع أدلتنا."
+        "str": "دعنا نعود إلى اللجنة ونبدأ في التخلص من المشتبه بهم الذين لا يتطابقون مع الأدلة التي لدينا."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Dreadful",
-        "str": "الرهيب"
+        "str": "المروع"
     },
     {
         "key": "109D973D484D997685448980DCB79533",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_2.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Floor",
-        "str": "الأرضية"
+        "str": "أرضية"
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_11.Text",
         "id": "Back",
-        "str": "العودة"
+        "str": "خلف"
     },
     {
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
-        "str": "الجميلة"
+        "str": "الجميل"
     },
     {
         "key": "14427A08459289522231F5B3835D2594",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Seer",
-        "str": "العراف"
+        "str": "الرائي"
     },
     {
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
@@ -285,19 +285,19 @@
         "key": "14BCFAF24A161704AE43A69E6EB83452",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigmatic",
-        "str": "الوميض"
+        "str": "المبهم"
     },
     {
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "الهمسة المظللة"
+        "str": "النفخة"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantasm",
-        "str": "الهمسات"
+        "str": "الوهم"
     },
     {
         "key": "158F6D234AF05145B4905F942285D978",
@@ -309,13 +309,13 @@
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(10 - Value).DisplayNameMap",
         "id": "Fireworks",
-        "str": "الألعاب النارية"
+        "str": "ألعاب نارية"
     },
     {
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "جيد جدًا، لقد استخدمت جميع العناصر على الدمية. هذه المرة، الأشياء التي لم تعجب ليل هي: {items}"
+        "str": "حسنًا، لقد استخدمت جميع العناصر الموجودة في الدمية. هذه المرة، الأشياء التي لم تعجبها ليل هي: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -327,13 +327,13 @@
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "سرير الفان"
+        "str": "سرير فان"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
-        "str": "الخروج"
+        "str": "مخرج"
     },
     {
         "key": "16A84C9B486F4A520142D791EC349B4F",
@@ -351,19 +351,19 @@
         "key": "175FDB6245E5ED987CC62684AC5049E4",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_23.Text",
         "id": "Run",
-        "str": "تشغيل"
+        "str": "يجري"
     },
     {
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "الارتعاش"
+        "str": "الغامضة"
     },
     {
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "جذر معوج وشرير."
+        "str": "جذر عقد وشرير."
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
@@ -375,37 +375,37 @@
         "key": "19750FC24F8A0B2279246B801F612D34",
         "location": "/Game/enums/actions.actions.DisplayNameMap(5 - Value).DisplayNameMap",
         "id": "Blood",
-        "str": "الدم"
+        "str": "دم"
     },
     {
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "إسقاط الحالة"
+        "str": "حالة إسقاط"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
         "location": "/Game/enums/actions.actions.DisplayNameMap(41 - Value).DisplayNameMap",
         "id": "Candles",
-        "str": "شموع"
+        "str": "الشموع"
     },
     {
         "key": "1AEE02D7485216A7EBEC93AD95D81A25",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Right Side",
-        "str": "الجانب الأيمن من الكمبيوتر"
+        "str": "جهاز الكمبيوتر الجانب الأيمن"
     },
     {
         "key": "1AF5392F481406F80C566FB0740D5D3D",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shady",
-        "str": "الغامض"
+        "str": "الشادي"
     },
     {
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "الشبح 37"
+        "str": "الغاست"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
@@ -417,13 +417,13 @@
         "key": "1C4788334C67D107A7BE1F931C0A749E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_24.Text",
         "id": "Your election",
-        "str": "اختيارك"
+        "str": "انتخابك"
     },
     {
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "هذه الدمية تحت التأثير، انتظر حتى ينتهي التأثير لتطبيق آخر"
+        "str": "هذه الدمية تحت التأثيرات، انتظر حتى ينتهي التأثير لتطبيق تأثير آخر"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -435,37 +435,37 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "ريشة كبيرة ورمادية"
+        "str": "ريشة كبيرة ورمادية."
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_33.Text",
         "id": "Screen Percentage",
-        "str": "نسبة الشاشة"
+        "str": "النسبة المئوية للشاشة"
     },
     {
         "key": "1DFB0F2649F857BCBC918D9215167D9B",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Case",
-        "str": "حالة"
+        "str": "قضية"
     },
     {
         "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Howl",
-        "str": "المروع"
+        "str": "العواء"
     },
     {
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "الابتسامة"
+        "str": "الوميض"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
         "location": "/Game/enums/actions.actions.DisplayNameMap(35 - Value).DisplayNameMap",
         "id": "Sandbox",
-        "str": "صندوق الرمل"
+        "str": "رمل"
     },
     {
         "key": "1F7140B7494998788B096E85BEA451B4",
@@ -477,25 +477,25 @@
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "العواء"
+        "str": "التجهم"
     },
     {
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "هذه الإكسيرات تكشف العلاقات بين الدمى. جميعهم لديهم علاقات، وهذه هي الطريقة الوحيدة لاكتشافها. لنبدأ بفحص علاقة ليل بالحب مع الدمى الأخرى. ما عليك سوى تطبيق الإكسير على ليل ومراقبة التأثيرات. كل من يستجيب لتأثيرات ليل هم الذين يحبهم ليل."
+        "str": "تكشف هذه الأكسير عن العلاقات بين الدمى. جميعهم لديهم علاقات، وهذه هي الطريقة الوحيدة لاكتشافهم. لنبدأ باختبار علاقة حب ليل مع الدمى الأخرى. ببساطة قم بتطبيق الإكسير على ليل ولاحظ التأثيرات. كل من يستجيب لتأثيرات ليل هم "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Black Garlic",
-        "str": "ثوم أسود"
+        "str": "الثوم الأسود"
     },
     {
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cackle",
-        "str": "دون ملاحظات حول سلوك الدمى"
+        "str": "الثرثرة"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
@@ -507,7 +507,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "لديك كل الأدلة والمعلومات عن الدمى، ولكن هذا عشوائي تمامًا لكل دمية."
+        "str": "لديك كل الأدلة والمعلومات المتعلقة بالدمى، ولكن هذا عشوائي تمامًا لكل دمية."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -519,7 +519,7 @@
         "key": "22B8C07045CAEA974D03AD9C0D933A4E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Bar",
-        "str": "سبيكة ذهب"
+        "str": "شريط الذهب"
     },
     {
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
@@ -531,43 +531,43 @@
         "key": "230AAACD49536A9594B0CBB4CA653C76",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the tv",
-        "str": "التلفاز الآن"
+        "str": "الآن التلفزيون"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
         "id": "Case Number",
-        "str": "رقم الحالة"
+        "str": "رقم القضية"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
         "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_31.Text",
         "id": "Doll List",
-        "str": "قائمة الدمى"
+        "str": "قائمة الدمية"
     },
     {
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "ظهرت أهداف متعددة في الصورة؛ حاول الاقتراب والتركيز فقط على الهدف الذي تريده."
+        "str": "ظهرت أهداف متعددة في الصورة؛ "
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
         "location": "/Game/enums/gamemodes.gamemodes.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Career",
-        "str": "مهنة"
+        "str": "حياة مهنية"
     },
     {
         "key": "24B7D6584C3AF4730B3365BB46DDA130",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and toxic leaves.",
-        "str": "أوراق داكنة وسامة."
+        "str": "الأوراق الداكنة والسامة."
     },
     {
         "key": "24FA60AC4C99AD7D35B45C8F7E6C1279",
         "location": "/Game/enums/actions.actions.DisplayNameMap(45 - Value).DisplayNameMap",
         "id": "Chess",
-        "str": "شطرنج"
+        "str": "الشطرنج"
     },
     {
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
@@ -585,13 +585,13 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "الهدف لم يتم اكتشافه، حاول التركيز أكثر وابق على مسافة محددة حيث يمكن رؤية الهدف بالكامل"
+        "str": "لم يتم اكتشاف الهدف، حاول التركيز أكثر والبقاء على مسافة محددة حيث يمكن رؤية الهدف بالكامل"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
         "id": "Results",
-        "str": "جهز الفيوز الخاص بك واذهب إلى الجزء الخلفي من المنزل لتشغيله."
+        "str": "نتائج"
     },
     {
         "key": "2777F4DA4703D3AC622572A49EB6A138",
@@ -603,31 +603,31 @@
         "key": "28953C4E43697949852B609F8D0793FB",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(0).Options.Label",
         "id": "Off",
-        "str": "إيقاف"
+        "str": "عن"
     },
     {
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "الصمت"
+        "str": "الابتسامة"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "الرياح الموشوشة"
+        "str": "الهمس"
     },
     {
         "key": "2A85705945159E3B98E06BB40B5CA820",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the book",
-        "str": "الكتاب الآن"
+        "str": "الآن الكتاب"
     },
     {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
-        "str": "الكآبة"
+        "str": "الغول"
     },
     {
         "key": "2BB11678432B1B25F353A1A7B4A35E7E",
@@ -639,7 +639,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "السيدة التفوق"
+        "str": "Ms. التميز"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -651,7 +651,7 @@
         "key": "2D10309A4AE3A7B38D67BC894C9A5B97",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
         "id": "View Distance Quality",
-        "str": "جودة مسافة الرؤية"
+        "str": "عرض جودة المسافة"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -663,25 +663,25 @@
         "key": "2DE4F4264AEB90D45B2363B38034FA9E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_48.Text",
         "id": "Music Volume",
-        "str": "مستوى صوت الموسيقى"
+        "str": "حجم الموسيقى"
     },
     {
         "key": "2DEA68154A30209AA0698497E47F9DA9",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
         "id": "Leaderboard Endless",
-        "str": "قائمة المتصدرين اللانهائية"
+        "str": "المتصدرين لا نهاية لها"
     },
     {
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "دم الأفعى"
+        "str": "ورقة الروح المظلمة"
     },
     {
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "لقد أعطيتك أيضًا حقيبة. ستساعدك هذه الحقيبة على القبض على المحتال. بمجرد أن تمسكه، سينتهي اللعبة (إذا فعلت ذلك في الوقت المحدد). سأتركك لتنهي هذا الجزء من البرنامج التعليمي. سواء فزت أو خسرت، فأنت قد انتهيت. حظا طيبا وفقك الله!"
+        "str": "لقد أعطيتك أيضًا حقيبة. ستساعدك هذه الحقيبة في القبض على المحتال. بمجرد الإمساك بها، ستنتهي اللعبة (إذا قمت بذلك خلال المهلة الزمنية). سأتركك لإكمال هذا الجزء من البرنامج التعليمي. سواء كنت "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -705,7 +705,7 @@
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lie bytes",
-        "str": "الأكاذيب البايتات"
+        "str": "بايت الكذب"
     },
     {
         "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -717,13 +717,13 @@
         "key": "31D983AD40E7D0F0976B7CAC11BD3D12",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_1.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Roof",
-        "str": "السقف"
+        "str": "سَطح"
     },
     {
         "key": "31F30B9A42A2AFBDA2E46A82CAD31875",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_43.Text",
         "id": "Total Actions",
-        "str": "الإجراءات الكلية"
+        "str": "إجمالي الإجراءات"
     },
     {
         "key": "32053A4646B4374EA4DBD3BC64CB936C",
@@ -735,25 +735,25 @@
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "التأرجح"
+        "str": "سم العقرب"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twilight",
-        "str": "الغسق"
+        "str": "الشفق"
     },
     {
         "key": "336B557643CBA00B5138539520DCBB04",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's start with the chair outside.",
-        "str": "لنبدأ بالكرسي الخارجي."
+        "str": "لنبدأ بالكرسي بالخارج."
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
-        "str": "بلورة الكوارتز"
+        "str": "كريستال الكوارتز"
     },
     {
         "key": "34568E7B486905A5400643A88FA2E8A8",
@@ -765,25 +765,25 @@
         "key": "34AFF09749F832F67360E0923F227F4F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Discards",
-        "str": "تجاهل"
+        "str": "يتجاهل"
     },
     {
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "النقاط"
+        "str": "دم الثعبان"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Malicious",
-        "str": "الخبيث"
+        "str": "الخبيثة"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
         "location": "/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]",
         "id": "Continue",
-        "str": "استمر"
+        "str": "يكمل"
     },
     {
         "key": "3753BCEE46C70EDFBC5171BE7A651CC0",
@@ -795,19 +795,19 @@
         "key": "37B6780C449B80C581D1478BD1CB6A4A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veiled",
-        "str": "المحجوب"
+        "str": "المحجبات"
     },
     {
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "اللغز"
+        "str": "الأنين"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
-        "str": "يعجبه"
+        "str": "يحب"
     },
     {
         "key": "3837591C42D92A7775C0598726DC6D31",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "لدينا 3 فقط. دعنا نذهب إلى الغرفة لنرى من تحرك ومن تم تحريكه."
+        "str": "لم يتبق لدينا سوى 3 . دعنا نذهب إلى الغرفة لمعرفة من تم نقله ومن تم نقله ."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -843,7 +843,7 @@
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Spacious bag",
-        "str": "كتاب الأرواح"
+        "str": "حقيبة واسعة"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -855,19 +855,19 @@
         "key": "3C68D11C43CC3EA53113F48A08FDF3AD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the wall clock",
-        "str": "ساعة الحائط الآن"
+        "str": "الآن ساعة الحائط"
     },
     {
         "key": "3D3092E04B30FAE9F91970831F869B44",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Wall",
-        "str": "الجدار"
+        "str": "حائط"
     },
     {
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "الصراخ"
+        "str": "الحزين"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -879,43 +879,43 @@
         "key": "3E3E53D64E987B22AD5967A23BB5AC57",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text",
         "id": "Extras",
-        "str": "الإضافات"
+        "str": "إضافات"
     },
     {
         "key": "3E796087492560DF199BD58F4D3A3731",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_14.Text",
         "id": "Move Backward",
-        "str": "التحرك للخلف"
+        "str": "تحرك للخلف"
     },
     {
         "key": "3E8440AC413D7725FE75218355F55B7B",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-        "str": "عظيم! لقد أعطيتك الورق الداكن. استخدمه على ليل واكتب كل شيء تراه. تذكر أن هذه هي الأشياء التي لا تحبها، لذا ستشير أي شيء تطفئه إلى ما تكره."
+        "str": "عظيم! "
     },
     {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
         "location": "/Game/enums/actions.actions.DisplayNameMap(56 - Value).DisplayNameMap",
         "id": "Words",
-        "str": "الكلمات"
+        "str": "كلمات"
     },
     {
         "key": "3F845D654ED6C33DC540F4BC414F7994",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ebon",
-        "str": "الرعب"
+        "str": "الإيبون"
     },
     {
         "key": "3FAB1E074AD22684E3F78785D85679FA",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the nearest candle.",
-        "str": "الشمعة الأقرب الآن."
+        "str": "الآن أقرب شمعة ."
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
-        "str": "الإعدادات"
+        "str": "إعدادات"
     },
     {
         "key": "4020C7B84456D9F178DC488EAB546977",
@@ -927,19 +927,19 @@
         "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Bone",
-        "str": "أخذ المصباح"
+        "str": "العظم"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_17.Text",
         "id": "Move Right",
-        "str": "تحرك يمينًا"
+        "str": "تحرك لليمين"
     },
     {
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "كأس على شكل كوب، عادة ما تكون ذهبية، تُمنح كرمز للانتصار في المسابقات الرياضية أو الاحتفالات المرموقة."
+        "str": "كأس على شكل كوب، عادة ما يكون ذهبي اللون، يُمنح كرمز للنصر في المسابقات الرياضية أو الاحتفالات المرموقة."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -957,13 +957,13 @@
         "key": "420F5BCA40413C0383C7AA9583EEC5C0",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
         "id": "Mislead",
-        "str": "إضلال"
+        "str": "تضليل"
     },
     {
         "key": "433A6CE84E4955044C7FB38105FA63BF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
         "id": "Footsteps Volume",
-        "str": "مستوى صوت الخطوات"
+        "str": "حجم الخطى"
     },
     {
         "key": "43B95535434D97B9189B93A2A4594202",
@@ -975,13 +975,13 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "المتربص"
+        "str": "المطارد"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_21.Text",
         "id": "Name",
-        "str": "الاسم"
+        "str": "اسم"
     },
     {
         "key": "455698874FAE4AEB808E15AA36758F84",
@@ -999,13 +999,13 @@
         "key": "45DB611B482D35EE05ADE98331F2EC20",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Haunting",
-        "str": "المسكون"
+        "str": "المؤرقة"
     },
     {
         "key": "460FFB13421148C8493D69A72A81E93C",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_24.Text",
         "id": "Use",
-        "str": "استخدام"
+        "str": "يستخدم"
     },
     {
         "key": "4634F1C448A78E03F4AC7B94441281EB",
@@ -1017,31 +1017,31 @@
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
-        "str": "الخريطة الأكثر فوزًا"
+        "str": "الخريطة الأكثر ربحًا"
     },
     {
         "key": "46CE50D24305DF8EE5E3069A686AD62E",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(4).texts",
         "id": "What do we have left?",
-        "str": "ماذا تبقى لنا؟"
+        "str": "ماذا بقي لنا؟"
     },
     {
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "اخرج من الغرفة الآن وتحقق من كل ما تم تفعيله. اكتب كل ما تراه في ما تحبه الدمية!"
+        "str": "غادر الغرفة الآن وتحقق من كل ما تم تفعيله. اكتب كل ما تراه في إعجابات الدمية!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-        "str": "لقد اجتزت البرنامج التعليمي، تعرف الأساسيات! لإنهاء البرنامج التعليمي، اذهب إلى السرير ونام. ستذهب إلى منطقتك الآمنة. استخدم الكمبيوتر لبدء اللعبة!"
+        "str": "لقد نجحت في اجتياز البرنامج التعليمي، وأنت تعرف الأساسيات! "
     },
     {
         "key": "4798B1E54C73C4932878B1A4630376ED",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering",
-        "str": "الرياح الموشوشة"
+        "str": "الهمس"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
@@ -1053,7 +1053,7 @@
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ominous",
-        "str": "النذير"
+        "str": "المشؤومة"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -1065,13 +1065,13 @@
         "key": "49EE0D0C418246C21899368F2615D0DE",
         "location": "/Game/enums/actions.actions.DisplayNameMap(26 - Value).DisplayNameMap",
         "id": "Trains",
-        "str": "قطارات"
+        "str": "القطارات"
     },
     {
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "الكفن"
+        "str": "حلول الليل"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -1083,7 +1083,7 @@
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "دمية معلقة في الفان"
+        "str": "دمية فان معلقة"
     },
     {
         "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
@@ -1095,19 +1095,19 @@
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Select those objects to craft another one.",
-        "str": "اختر تلك الكائنات لصنع واحد آخر."
+        "str": "حدد هذه الكائنات لصياغة كائن آخر."
     },
     {
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A clear and pure crystal.",
-        "str": "بلورة نقية وصافية."
+        "str": "كريستال واضح ونقي."
     },
     {
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "لقد أعطيتك دفترًا يمكنك من خلاله رؤية جميع التفاصيل حول الدمى ومعلومات كاملة. اطلع عليه، وعندما تكون جاهزًا، عد إلى الدمى."
+        "str": "لقد أعطيتك دفترًا يمكنك من خلاله رؤية جميع التفاصيل المتعلقة بالدمى والمعلومات الكاملة . ألقِ نظرة، وعندما تكون جاهزًا، ارجع إلى الدمى."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1131,67 +1131,67 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "الغامض"
+        "str": "الغريب"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getNeedText [Script Bytecode]",
         "id": "You need {name}",
-        "str": "تحتاج {name}"
+        "str": "أنت بحاجة إلى {الاسم}"
     },
     {
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
         "id": "Turn Left",
-        "str": "انعطف يسارًا"
+        "str": "انعطف لليسار"
     },
     {
         "key": "51B58C89473E1AE2A37E6A8118DC37C1",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-        "str": "هل تساءلت يومًا عن مصدر المعلومات حول الدمى؟ في وضع الحياة المهنية، ستكتشف المعلومات حول الدمى مع حالات لا حصر لها، واقتصاد، ومستويات، ومتجر، وصناعة، والمزيد!"
+        "str": "هل سبق لك أن تساءلت من أين تأتي المعلومات حول الدمى؟ "
     },
     {
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "عمل جيد، لقد أكملت الإكسيرات. لا أتحقق من ملاحظاتك، ولكنني متأكد من أنها رائعة!"
+        "str": "أحسنت، لقد أكملت الإكسير. أنا لا أتحقق من ملاحظاتك، لكنني متأكد من أنها رائعة!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "أنت وصي الدمى، واحدة منهم حية وتعتزم قتلك. يجب أن تكتشف من هي قبل الساعة 09:00."
+        "str": "أنت حارس الدمى، إحداها على قيد الحياة وتنوي قتلك. يجب أن تكتشف أي منها قبل الساعة 09:00."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
         "location": "/Game/UI/confirm.Default__confirm_C.AcceptButton",
         "id": "Accept",
-        "str": "قبول"
+        "str": "يقبل"
     },
     {
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "ممتاز، لدينا 5 مشتبه بهم. دعنا ننام مرة أخرى."
+        "str": "ممتاز، بقي لدينا 5 مشتبه بهم. دعنا نذهب للنوم مرة أخرى."
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "المتجر"
+        "str": "خذ مصباح يدوي"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(50 - Value).DisplayNameMap",
         "id": "Carousel",
-        "str": "دوّار"
+        "str": "دائري"
     },
     {
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Lights",
-        "str": "أضواء الفان"
+        "str": "أضواء فان"
     },
     {
         "key": "554BB9D046155183D4DCF7A14F96171E",
@@ -1203,25 +1203,25 @@
         "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
         "id": "Back",
-        "str": "العودة"
+        "str": "خلف"
     },
     {
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "قبل أن أعطيك الورقة الداكنة، دعنا ننشط ونشغل كل شيء. بهذه الطريقة، سيكون من السهل علينا رؤية ما يكرهه الدمية عندما نتوقف عنه."
+        "str": "قبل أن نعطيك الورقة السوداء، دعنا نقوم بتنشيط كل شيء وتشغيله. بهذه الطريقة، سيكون من الأسهل بالنسبة لنا أن نرى ما لا تحبه الدمية عندما نوقفه."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals love",
-        "str": "إكسير يكشف الحب"
+        "str": "الإكسير الذي يكشف عن الحب"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
         "id": "Camp with enemies",
-        "str": "مخيم مع الأعداء"
+        "str": "معسكر مع الأعداء"
     },
     {
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
@@ -1233,7 +1233,7 @@
         "key": "5981A77041F835414316E0BEA0C3C8F8",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
-        "str": "أنت الفائز"
+        "str": "لقد فزت"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -1245,13 +1245,13 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "وضع عشوائي لكن لا نهائي، لديك مؤقت 3 دقائق لحل القضية وهناك قائمة المتصدرين"
+        "str": "وضع عشوائي ولكن لا نهاية له، لديك مؤقت مدته 3 دقائق لإصلاح الحالة وهناك لوحة صدارة للقادة"
     },
     {
         "key": "5A9082C24056C8BFE9DE8EA9069EF292",
         "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
         "id": "For the changes to take effect, restart the game",
-        "str": "لكي تدخل التغييرات حيز التنفيذ، أعد تشغيل اللعبة"
+        "str": "لكي تدخل التغييرات حيز التنفيذ، قم بإعادة تشغيل اللعبة"
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
@@ -1263,19 +1263,19 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "تحتاج إلى استخدام كتاب الأرواح قبل حفظ دمية المحتال"
+        "str": "أنت بحاجة إلى استخدام كتاب النفوس قبل أن تنقذ الدمية المحتالة"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap",
         "id": "Move Others",
-        "str": "تحريك الآخرين"
+        "str": "نقل الآخرين"
     },
     {
         "key": "5E0DC4AE4575000AC0171F95AD85CADA",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_1.Text",
         "id": "Depth of Field",
-        "str": "عمق المجال"
+        "str": "عمق الميدان"
     },
     {
         "key": "5E1C23674444BB331554B39281C7EA20",
@@ -1293,13 +1293,13 @@
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Umbral",
-        "str": "المظلم"
+        "str": "الامبرال"
     },
     {
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "النتائج"
+        "str": "هزاز"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -1323,7 +1323,7 @@
         "key": "611C7265455A03D1E36711A53C897A09",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Detective",
-        "str": "محقق"
+        "str": "المحقق"
     },
     {
         "key": "612C02664338E6F05B4191AC77E63DA9",
@@ -1341,13 +1341,13 @@
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
         "location": "/Game/enums/probability.probability.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Low",
-        "str": "منخفض"
+        "str": "قليل"
     },
     {
         "key": "62E75F3344325D96C309BFB52949F95A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
         "id": "Stuffed Animals",
-        "str": "ورقة الأرواح"
+        "str": "حيوانات محشوة"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -1359,13 +1359,13 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "عند بدء القضية، ستتمكن من تجهيز نفسك بالعناصر التي قمت بشرائها أو صنعها. للقيام بذلك، قم بالوصول إلى الصندوق خلفك. الآن، ستراه فارغًا، ولكن لا تقلق، سأقدم لك العناصر حتى تتعرف عليها!"
+        "str": "عندما تبدأ حالة، ستتمكن من تجهيز نفسك بالعناصر التي اشتريتها أو صنعتها. للقيام بذلك، قم بالوصول إلى الصندوق خلفك. الآن، ستراه فارغًا، لكن لا تقلق، أنا' "
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
         "id": "Look Up",
-        "str": "انظر للأعلى"
+        "str": "ابحث عن"
     },
     {
         "key": "63D67BF743D308E3537D9794B417B76A",
@@ -1377,19 +1377,19 @@
         "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
-        "str": "الطيف"
+        "str": "الشبح"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "لمبة داكنة وذات رائحة كريهة."
+        "str": "لمبة داكنة ولاذعة."
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "الصعوبة القياسية لكل لاعب، سيتم عمل جميع الأدلة في الساعة 08:00، لديك الخيار لرؤية أسماء الدمى وقائمة تصرفات المحتال"
+        "str": "مستوى الصعوبة القياسي لكل لاعب، سيتم تقديم جميع القرائن في الساعة 08:00، لديك خيار رؤية أسماء الدمى وقائمة تصرفات المحتال"
     },
     {
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
@@ -1407,25 +1407,25 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "إنها الساعة الأخيرة. لدينا فقط هذه الفرصة لمعرفة ذلك. دعونا نذهب إلى الغرفة."
+        "str": "إنها الساعة الأخيرة. لدينا هذه الفرصة فقط لمعرفة ذلك. دعنا نذهب إلى الغرفة."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
         "location": "/Game/enums/actions.actions.DisplayNameMap(58 - Value).DisplayNameMap",
         "id": "Animated Stuffed animal",
-        "str": "دمية محشوة متحركة"
+        "str": "الرسوم المتحركة الحيوانات المحنطة"
     },
     {
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twisted",
-        "str": "الملتوي"
+        "str": "الملتوية"
     },
     {
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "جيد جدًا، الآن الشمعة المتبقية."
+        "str": "حسنًا، الآن الشمعة المتبقية ."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "لقد أنشأت دليلًا أكثر تقدمًا يستكشف جميع جوانب وضع المهنة. إذا كنت بحاجة إلى مزيد من المساعدة، أوصيك بالاطلاع عليه؛ سيساعدك في حل قضاياك المستقبلية!"
+        "str": "لقد قمت بإنشاء دليل أكثر تقدمًا يستكشف جميع جوانب الوضع الوظيفي. إذا كنت بحاجة إلى مزيد من المساعدة، فأوصيك بمراجعته؛ "
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,25 +1449,25 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "ممتاز، الآن دعونا نحقق في إحدى الدمى. لقد قدمت لك كاميرا؛ دعونا نلتقط صورة ليل."
+        "str": "ممتاز، الآن دعونا نتحقق من إحدى الدمى. لقد أعطيتك كاميرا؛ "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
         "location": "/Game/data-tables/itemList.itemList.NewRow.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Camera",
-        "str": "كاميرا"
+        "str": "آلة تصوير"
     },
     {
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "الأنين"
+        "str": "الرثاء"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Object",
-        "str": "جسم"
+        "str": "هدف"
     },
     {
         "key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
@@ -1479,13 +1479,13 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "الغامض"
+        "str": "الرهيبة"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
         "id": "Play tutorial",
-        "str": "تشغيل البرنامج التعليمي"
+        "str": "لعب البرنامج التعليمي"
     },
     {
         "key": "6B78310947BA56A4D0322EAFBC650458",
@@ -1497,25 +1497,25 @@
         "key": "6BF7F5344FD96A246EE841869E9C0DB0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Diamond",
-        "str": "ألماسة"
+        "str": "الماس"
     },
     {
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "الشبح"
+        "str": "منتصف الليل"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_18.Text",
         "id": "Find a new case",
-        "str": "ابحث عن حالة جديدة"
+        "str": "العثور على حالة جديدة"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
         "id": "Effects Volume",
-        "str": "مستوى صوت التأثيرات"
+        "str": "حجم التأثيرات"
     },
     {
         "key": "6E900D00499A2A657789138FBA3BD69E",
@@ -1527,43 +1527,43 @@
         "key": "6F62E8EE4D6306627A7D92B69CABCC13",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Lily flower",
-        "str": "زهرة زنبق"
+        "str": "زهرة الزنبق"
     },
     {
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "الندم"
+        "str": "المقدس"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "بتلات الورد"
+        "str": "فواكه صغيرة الحجم."
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "البريق"
+        "str": "الشبحي"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
         "location": "/Game/UI/paperInterface.paperInterface_C:GetText_4 [Script Bytecode]",
         "id": "Partner",
-        "str": "الشريك"
+        "str": "شريك"
     },
     {
         "key": "7095C09D4014D1FB9E4C1D9529586155",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_7.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Left Side",
-        "str": "الجانب الأيسر من الكمبيوتر"
+        "str": "الجانب الأيسر للكمبيوتر"
     },
     {
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "التكشير"
+        "str": "الوهج"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -1593,7 +1593,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "مرحبًا بك في وضع المهنة. في هذا الوضع، ستحتاج إلى كشف معلومات حول الدمى وحل كل حالة بشكل صحيح."
+        "str": "مرحبًا بك في الوضع الوظيفي. في وضع اللعبة هذا، ستحتاج إلى الكشف عن معلومات حول الدمى وحل كل حالة بشكل صحيح."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1611,7 +1611,7 @@
         "key": "740E2993476C6AB0DEDC3BA514B0FF5F",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Comedian",
-        "str": "المهرج"
+        "str": "الممثل الكوميدي"
     },
     {
         "key": "743C50254A73CE29F7B3D7858FFBA46F",
@@ -1623,19 +1623,19 @@
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Deadly",
-        "str": "المميت"
+        "str": "القاتل"
     },
     {
         "key": "75A0760B4CF756F7572751980578A7E4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Single",
-        "str": "الأعزب"
+        "str": "المفرد"
     },
     {
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "ستكون لديك دور المحقق الذي يجب أن يحدد، بناءً على ما يحب المحتال وما يكرهه المدرج على اللوحة على يسارك، ما يحبه وما لا يحبه، من هم أعداؤه، أصدقاؤه، أحبابه، أو الأفراد الذين يكرههم."
+        "str": "سيكون لديك دور المخبر الذي سيتعين عليك فيه تحديد ما يحبه وما لا يحبه، بناءً على ما يحبه وما لا يحبه، ومن هم أعداؤه أو أصدقاؤه أو يحبهم أو يكرههم.."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1647,13 +1647,13 @@
         "key": "773B946148501068D9A5B3A814B81ECD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_16.Text",
         "id": "Move Left",
-        "str": "تحرك يسارًا"
+        "str": "تحرك لليسار"
     },
     {
         "key": "77597C9F40C4017557D06AA387E711B0",
         "location": "/Game/enums/costs.costs.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Very Expensive",
-        "str": "غالي جدا"
+        "str": "مكلفة للغاية"
     },
     {
         "key": "77DAE76A48EC13E45F2983881F23E808",
@@ -1665,13 +1665,13 @@
         "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echosong",
-        "str": "المروع"
+        "str": "الصدى"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "مستوى صوت المفاجآت المخيفة"
+        "str": "حجم القفزات"
     },
     {
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
@@ -1689,79 +1689,79 @@
         "key": "7969D08443D6AB359F1A76AFDC805E0F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmurer",
-        "str": "المظلل"
+        "str": "المتذمر"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
         "id": "Go to Safe House",
-        "str": "اذهب إلى المنزل الآمن"
+        "str": "اذهب إلى البيت الآمن"
     },
     {
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "لقد استخدمت كل ما تحتاج لاستخدامه هنا"
+        "str": "لقد استخدمت كل ما تحتاجه لاستخدامه هنا."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
         "location": "/Game/enums/actions.actions.DisplayNameMap(12 - Value).DisplayNameMap",
         "id": "Balls",
-        "str": "الكرات"
+        "str": "كرات"
     },
     {
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "التهديد"
+        "str": "الصمت"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "المرعب"
+        "str": "الكامن"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Menacing",
-        "str": "المهدد"
+        "str": "التهديد"
     },
     {
         "key": "7B965EEB441BE13C098439BB745C2F25",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You're short of ingredients to make this",
-        "str": "تفتقر إلى المكونات لصنع هذا"
+        "str": "أنت تفتقر إلى المكونات اللازمة لصنع هذا"
     },
     {
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
-        "str": "لا شيء يبدو منطقيًا بعد الآن"
+        "str": "لم يعد هناك أي معنى"
     },
     {
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "بمجرد الانتهاء من البرنامج التعليمي، قد تواجه صعوبات مالية. لمعالجة ذلك، يمكنك لعب الوضع الكلاسيكي، وبناءً على مستوى الصعوبة، سيمنحك المزيد أو أقل من المال لاستخدامه في الحالات."
+        "str": "بمجرد الانتهاء من البرنامج التعليمي، قد تواجه صعوبات مالية.لمعالجة ذلك، يمكنك لعب الوضع الكلاسيكي، وبحسب مستوى الصعوبة، سيمنحك أموالًا أكثر أو أقل لاستخدامها في الحالات."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-        "str": "فقط للمحترفين، يبدأ في الساعة 08:00 ويوجد 3 أدلة فعالة فقط، لا توجد صور أو مساعدات، بعض البيانات مخفية، لديك وصول محدود للخريطة"
+        "str": "مناسبة للمحترفين فقط، وتبدأ الساعة 08:00 وتحتوي فقط على 3 أدلة فعالة، ولا توجد صور أو أدوات مساعدة، وبعض البيانات مخفية، ولديك وصول محدود إلى الخريطة"
     },
     {
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(1).Options.Label",
         "id": "On",
-        "str": "تشغيل"
+        "str": "على"
     },
     {
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "الجانب الأيسر من الفان"
+        "str": "فان الجانب الأيسر"
     },
     {
         "key": "7D39CA6640F288A9002846AE7D7F4041",
@@ -1773,25 +1773,25 @@
         "key": "7EB47B9449369EB3E3F18C972CC18786",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals enmity",
-        "str": "إكسير يكشف العداء"
+        "str": "الإكسير الذي يكشف العداوة"
     },
     {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text",
         "id": "Anti Aliasing Quality",
-        "str": "جودة مكافحة التعرج"
+        "str": "مكافحة التعرج الجودة"
     },
     {
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "لنقم بنصب فخ للمحتال. نحن نعلم بالفعل أنه يحب التلفاز والموسيقى. شغل الأضواء."
+        "str": "دعونا ننصب فخًا للمحتال. نحن نعلم بالفعل أنه يحب التلفاز والموسيقى. قم بتشغيل الأضواء."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "لقد انتهت الآثار. إذا لم تتمكن من كتابته، فإن حبوب ليل هي: {people}"
+        "str": "لقد تلاشت التأثيرات. إذا لم تتمكن من كتابتها، فإن أحب ليل هو: {الناس}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1803,19 +1803,19 @@
         "key": "80178DF845B4F8C8D4B5DABBDC29F983",
         "location": "/Game/enums/actions.actions.DisplayNameMap(52 - Value).DisplayNameMap",
         "id": "Firecrackers",
-        "str": "مفرقعات"
+        "str": "المفرقعات النارية"
     },
     {
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show jumpscares",
-        "str": "عرض قفزات الخوف"
+        "str": "إظهار القفزات"
     },
     {
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van floor",
-        "str": "أرضية الفان"
+        "str": "أرضية الشاحنة"
     },
     {
         "key": "806D1B0C4EFCAD5D435AD6A24A208010",
@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "لديك {new} ليالٍ، لم تتمكن من تحطيم رقمك القياسي السابق من {old} ليالٍ"
+        "str": "لقد حطمت رقمك القياسي الجديد بليالي {new}! "
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -1851,7 +1851,7 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "الروح"
+        "str": "الشاحب"
     },
     {
         "key": "821C250E485ED0C26041C8830F8E0625",
@@ -1863,7 +1863,7 @@
         "key": "82B77C5A456740B0D72910B21AF4A463",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Pearl Necklace",
-        "str": "عقد من اللؤلؤ"
+        "str": "قلادة اللؤلؤ"
     },
     {
         "key": "834E072547D98D80C120CD87A16FA4D6",
@@ -1875,25 +1875,25 @@
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "يمكنك تجربتها الآن على الكمبيوتر"
+        "str": "يمكنك تجربتها الآن على جهاز الكمبيوتر"
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text",
         "id": "Foliage Quality",
-        "str": "جودة الأوراق"
+        "str": "جودة أوراق الشجر"
     },
     {
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "العراف"
+        "str": "المورك"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tactician",
-        "str": "المتكتيك"
+        "str": "التكتيكي"
     },
     {
         "key": "84B3B484489A7A0017B755B62F30FC82",
@@ -1905,7 +1905,7 @@
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "الكهرباء قيد التشغيل! عد إلى المنزل."
+        "str": "الكهرباء على! "
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
@@ -1923,13 +1923,13 @@
         "key": "86BE55834614BDEE6BACCD821A069F89",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-        "str": "قطعة مجوهرات أنيقة مكونة من سلسلة من اللؤلؤ المستدير، معروفة ببريقها الناعم وترتبط بالتطور والفخامة."
+        "str": "قطعة مجوهرات أنيقة مكونة من عقد من اللؤلؤ المستدير، المعروف ببريقه الناعم والمرتبط بالرقي والفخامة."
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
-        "str": "عندما تكون جاهزًا، انقر فوق زر القبول لتولي هذه الحالة."
+        "str": "نتيجة"
     },
     {
         "key": "8772BC8B4A8B67D8026B5D806054E488",
@@ -1953,37 +1953,37 @@
         "key": "87B1E3F54AA52AE964B7BDAF99914042",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering Breeze",
-        "str": "الرياح الموشوشة"
+        "str": "النسيم الهامس"
     },
     {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
         "location": "/Game/enums/actions.actions.DisplayNameMap(25 - Value).DisplayNameMap",
         "id": "Tunnels",
-        "str": "أنفاق"
+        "str": "الأنفاق"
     },
     {
         "key": "8841057C4E79D1D004AE35BDDA5930D6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals hatred",
-        "str": "إكسير يكشف الكراهية"
+        "str": "الإكسير الذي يكشف عن الكراهية"
     },
     {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "أوراق خضراء لاذعة"
+        "str": "أوراق خضراء ولاذعة."
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Acrobat",
-        "str": "الأكروبات"
+        "str": "البهلوان"
     },
     {
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "التربص"
+        "str": "الجوف"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
@@ -1995,13 +1995,13 @@
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
-        "str": "العودة إلى الملاذ الآمن"
+        "str": "العودة إلى البيت الآمن"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_40.Text",
         "id": "Shadow Quality",
-        "str": "جودة الظلال"
+        "str": "جودة الظل"
     },
     {
         "key": "8D62136643D4EAA319AD22BBFD4C8FD1",
@@ -2013,13 +2013,13 @@
         "key": "8D70CD774E635393573985830A5099B8",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Crystal Bottle",
-        "str": "زجاجة بلورية"
+        "str": "زجاجة كريستال"
     },
     {
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
-        "str": "مخيم مع الأصدقاء"
+        "str": "معسكر مع الأصدقاء"
     },
     {
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
@@ -2031,43 +2031,43 @@
         "key": "8E5AFE684A85E803C6F5ADAD24BB2C1D",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Events",
-        "str": "أحداث"
+        "str": "الأحداث"
     },
     {
         "key": "8E794D794CCEA0D30D037D8DA2BFD248",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Lights",
-        "str": "الأضواء"
+        "str": "أضواء"
     },
     {
         "key": "901E40384D0FE3FAD3508F98408C18C7",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_22.Text",
         "id": "Nights",
-        "str": "الليالي"
+        "str": "ليالي"
     },
     {
         "key": "91B3AF44465FA4D4F6976EA74F572B41",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show names",
-        "str": "عرض الأسماء"
+        "str": "إظهار الأسماء"
     },
     {
         "key": "91E782534C65C15F2165A692F6DD50F6",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_2.Text",
         "id": "Products purchased",
-        "str": "المنتجات المشتراة"
+        "str": "المنتجات التي تم شراؤها"
     },
     {
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "الظلام"
+        "str": "المتربص"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_13.Text",
         "id": "Move Forward",
-        "str": "التقدم للأمام"
+        "str": "المضي قدما"
     },
     {
         "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
@@ -2079,7 +2079,7 @@
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals likes",
-        "str": "ورقة تكشف الإعجاب"
+        "str": "ورقة تكشف الإعجابات"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
@@ -2097,25 +2097,25 @@
         "key": "9412FB8146653EECA5DBB2BD2504B413",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Bag",
-        "str": "حقيبة"
+        "str": "شنطة"
     },
     {
         "key": "9432768D4222957489019C86BD251CA3",
         "location": "/Game/enums/actions.actions.DisplayNameMap(20 - Value).DisplayNameMap",
         "id": "Carousel with enemies",
-        "str": "الدوامة مع الأعداء"
+        "str": "دائري مع الأعداء"
     },
     {
         "key": "9472CB7546EB19A64D00B9B40CF7BC7D",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new extra mode!",
-        "str": "لقد فتحت وضع إضافي جديد!"
+        "str": "لقد فتحت وضعًا إضافيًا جديدًا!"
     },
     {
         "key": "95529FFB4B5C7B8BF0D230810B54E147",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Career Mode",
-        "str": "وضع المهنة"
+        "str": "الوضع الوظيفي"
     },
     {
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -2127,7 +2127,7 @@
         "key": "9639E2074CB67CEC4666A4AF3A4FC559",
         "location": "/Game/enums/costs.costs.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Very Cheap",
-        "str": "رخيص جدا"
+        "str": "رخيصة جداً"
     },
     {
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
@@ -2139,7 +2139,7 @@
         "key": "96BE28504D901245DE1115BF00D47E10",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
-        "str": "تفاصيل النشاط"
+        "str": "تفاصيل الإجراء"
     },
     {
         "key": "9806DB6E4107A01E3979C1BBEF780A91",
@@ -2151,7 +2151,7 @@
         "key": "986FE18441EBE7BFF160D38E25BEF05E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom Breeze",
-        "str": "النسيم الشبح"
+        "str": "النسيم الوهمي"
     },
     {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
@@ -2163,7 +2163,7 @@
         "key": "99AE0DEC47710525BAF347ABFE8339AB",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_39.Text",
         "id": "Post Processing Quality",
-        "str": "جودة المعالجة اللاحقة"
+        "str": "جودة ما بعد المعالجة"
     },
     {
         "key": "99BCFC05431F42E7A29B539406D75C0B",
@@ -2175,37 +2175,37 @@
         "key": "9A3A87B047A1CC933C4F6197811B657B",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Cup",
-        "str": "كأس ذهب"
+        "str": "الكأس الذهبية"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
         "id": "Daycare",
-        "str": "رعاية نهارية"
+        "str": "الرعاية النهارية"
     },
     {
         "key": "9AA78476434241C7EE4929A6B33EE813",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shifting Shadow",
-        "str": "الظل المتغير"
+        "str": "الظل المتحرك"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unlucky",
-        "str": "غير المحظوظ"
+        "str": "سيئ الحظ"
     },
     {
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "الهمس"
+        "str": "الخطر"
     },
     {
         "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixir applied! Check the dolls around to determine whom Lil loves.",
-        "str": "تم تطبيق الإكسير! تحقق من الدمى المحيطة لتحديد من يحب ليل."
+        "str": "تطبيق إكسير! "
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
@@ -2217,13 +2217,13 @@
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "وعاء شفاف وأنيق."
+        "str": "حاوية شفافة وأنيقة."
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "المطاردة"
+        "str": "الغمقة"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -2235,7 +2235,7 @@
         "key": "9CE4FD774DFBE4C84DC711A634666FA7",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Bot",
-        "str": "الروبوت"
+        "str": "البوت"
     },
     {
         "key": "9CF4BD434FB00A0E98BE348036F66B3F",
@@ -2247,43 +2247,43 @@
         "key": "9D7CA8BB4D12421F2093AB823A8EAC45",
         "location": "/Game/enums/actions.actions.DisplayNameMap(15 - Value).DisplayNameMap",
         "id": "Cannon",
-        "str": "المدفع"
+        "str": "مدفع"
     },
     {
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "لنقوم بإلغاء ليل لأنها الدمية التي سنحقق فيها."
+        "str": "دعنا نشطب ليل لأن هذه هي الدمية التي سنقوم بالتحقيق فيها."
     },
     {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
-        "str": "الصمت"
+        "str": "الغامض"
     },
     {
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "لتطوير الصورة، تحتاج إلى تحريكها. بمجرد أن تكون مطورة بنسبة 100٪، اضغط ببساطة على زر الاستخدام، وسيتم حفظها."
+        "str": "لتطوير الصورة، تحتاج إلى نقلها. بمجرد تطويرها بنسبة 100%، ما عليك سوى الضغط على زر الاستخدام، وسيتم حفظها."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_9.Text",
         "id": "Location",
-        "str": "الموقع"
+        "str": "موقع"
     },
     {
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "تم اختيار المحتال"
+        "str": "تم تحديد المحتال"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but in race mode with medals",
-        "str": "وضع عشوائي ولكن في وضع السباق مع الميداليات"
+        "str": "الوضع العشوائي ولكن في وضع السباق مع الميداليات"
     },
     {
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
@@ -2295,7 +2295,7 @@
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "الشرير"
+        "str": "الأشرار"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -2307,37 +2307,37 @@
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
         "id": "Film Grain",
-        "str": "حبوب الفيلم"
+        "str": "فيلم الحبوب"
     },
     {
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grim",
-        "str": "المهول"
+        "str": "القاتمة"
     },
     {
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Abyss",
-        "str": "التقط صورًا للدمى لملء الأدلة"
+        "str": "الهاوية"
     },
     {
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
-        "str": "الظل"
+        "str": "الغامض"
     },
     {
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "انتهى الوقت! إذا لم تتمكن من كتابة كل شيء، إليك ما لوحظ: {actions}"
+        "str": "انتهى الوقت! "
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
         "id": "Travel",
-        "str": "السفر"
+        "str": "يسافر"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
@@ -2349,61 +2349,61 @@
         "key": "A7121AED466C7D8F9486A89DECB2409C",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "مرحبًا بك في الملاذ! هذه هي منطقتك الآمنة. هنا، يمكنك بدء لعبة جديدة على الكمبيوتر، عرض مجموعتك من الدمى والجوائز، وتخصيص هذا المكان من خلال النقر على أيقونة لوحة الألوان على سطح المكتب!"
+        "str": "مرحبا بكم في الملجأ! "
     },
     {
         "key": "A7C36D644573AD30716F4283EBBE53D2",
         "location": "/Game/enums/actions.actions.DisplayNameMap(28 - Value).DisplayNameMap",
         "id": "Swings",
-        "str": "أرجوحات"
+        "str": "يتأرجح"
     },
     {
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dark",
-        "str": "الزحف"
+        "str": "الظلام"
     },
     {
         "key": "A87033014B68DAC4F5312BB46BEB28AF",
         "location": "/Game/enums/probability.probability.DisplayNameMap(4 - Value).DisplayNameMap",
         "id": "Very High",
-        "str": "مرتفع جدًا"
+        "str": "عالية جدًا"
     },
     {
         "key": "A97B724146EEB86D384D6A85A4F8931C",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Craft",
-        "str": "صنع"
+        "str": "حرفة"
     },
     {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Move Self",
-        "str": "تحرك بنفسك"
+        "str": "تحريك الذات"
     },
     {
         "key": "AB25CB294CD7BEF8559DFA89B96B8F9B",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Lighter",
-        "str": "قداحة"
+        "str": "أخف وزنا"
     },
     {
         "key": "AB6B64D64932C68A8743709693AF267B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
         "id": "Position",
-        "str": "الموقع"
+        "str": "موضع"
     },
     {
         "key": "AC46E8C5498572C242CBADA69A94A0A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mint",
-        "str": "النعناع"
+        "str": "نعناع"
     },
     {
         "key": "AC61D57E4AA1B3D2ED8E35BD60ADA0B2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom",
-        "str": "الشبح"
+        "str": "الوهمية"
     },
     {
         "key": "AD00137D457BF38AE614FC9EE94D1425",
@@ -2415,43 +2415,43 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "قم بتنشيط المعركة النهائية لكشف المحتال."
+        "str": "قم بتفعيل المعركة النهائية لكشف المحتال."
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "قلب صغير، داكن، وذابل."
+        "str": "قلب صغير مظلم ذبل ."
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Rose Petals",
-        "str": "راجع علامات التبويب المختلفة لتتعرف عليها."
+        "str": "بتلات الورد"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To sleep, simply point at the bed and click on it.",
-        "str": "للنوم، ببساطة أشر إلى السرير وانقر عليه."
+        "str": "للنوم، ما عليك سوى الإشارة إلى السرير والنقر عليه."
     },
     {
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "لقد فقدت 90٪ من المكافأة الكاملة بسبب الصور المفقودة"
+        "str": "لقد خسرت 90% من المكافأة بأكملها بسبب فقدان الصور."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "حسنًا، سأمنحك بقية الإكسيرات لتطبيقها على ليل. تمثل Amicitia الصداقة، وتمثل Inimicitia العداوة، وتمثل Odium الكراهية. كل من هذه، مع لونها المحدد، سيكشف عن علاقات ليل. اكتب كل ما تلاحظه، وتذكر أنه في بعض الحالات، قد لا تكون ليل لديها أي علاقة بدور معين."
+        "str": "حسنًا، سأعطيك بقية الإكسير لتطبيقها على Lil. Amicitia تمثل الصداقة، وInimicitia تمثل العداوة، وOdium تمثل الكراهية. كل واحدة منها، بلونها المحدد، ستكشف عن علاقات ليل. اكتب كل ما تلاحظه، وتذكر ذلك "
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
-        "str": "إعادة تشغيل"
+        "str": "إعادة التشغيل"
     },
     {
         "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
@@ -2463,13 +2463,13 @@
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "اللهاث"
+        "str": "الرجفة"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "الهمس المظلل"
+        "str": "الهمس المظلوم"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -2481,37 +2481,37 @@
         "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
         "id": "Race",
-        "str": "السباق"
+        "str": "سباق"
     },
     {
         "key": "B300BE9147F822906E54C7A227BF23BA",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Welcome to Doll Impostor!",
-        "str": "مرحبًا بك في \nالمحتال بين الدمى\n!"
+        "str": "مرحبا بكم في دمية المحتال!"
     },
     {
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "لقد أعطيتك قداحة. استخدمها للإجراءات المتبقية."
+        "str": "لقد أعطيتك ولاعة. استخدمها للإجراءات المتبقية."
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the career mode!",
-        "str": "لقد فتحت وضع الحياة المهنية!"
+        "str": "لقد قمت بفتح الوضع الوظيفي!"
     },
     {
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals friendship",
-        "str": "إكسير يكشف الصداقة"
+        "str": "الإكسير الذي يكشف عن الصداقة"
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "مُنتَحِل"
+        "str": "محتال"
     },
     {
         "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
@@ -2535,19 +2535,19 @@
         "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Terrifying",
-        "str": "المروع"
+        "str": "المرعب"
     },
     {
         "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unnoticed",
-        "str": "غير الملحوظ"
+        "str": "غير ملحوظ"
     },
     {
         "key": "B54084CB4A265AC5B0714AB02E26FFEE",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_43.Text",
         "id": "Texture Quality",
-        "str": "جودة النسيج"
+        "str": "جودة الملمس"
     },
     {
         "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
@@ -2559,13 +2559,13 @@
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "المغمغم"
+        "str": "الهامس"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "تتطلب الطاقة"
+        "str": "قم بمراجعة علامات التبويب المختلفة للتعرف عليها. عندما تكون مستعدًا، انقر فوق الزر \"قبول\" لتولي هذه الحالة."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2577,7 +2577,7 @@
         "key": "B7532CB642D1303CB57FF89D855B8189",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_14.Text",
         "id": "Days elapsed",
-        "str": "الأيام المنقضية"
+        "str": "انقضت أيام"
     },
     {
         "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
@@ -2589,13 +2589,13 @@
         "key": "B8952A3841AAE9C0034514AC607965D8",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
-        "str": "ملجأ"
+        "str": "لجأ"
     },
     {
         "key": "B8F169E14DBF7CFF567A468DBF711F46",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]",
         "id": "{count} days",
-        "str": "{count} أيام"
+        "str": "{عدد} أيام"
     },
     {
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
@@ -2619,43 +2619,43 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "الآن يجب عليك كتابتها في ملاحظات الدفتر. بالإضافة إلى ذلك، إذا كنت تستخدم لوحة المفاتيح والفأرة، ونقرت خارج الملاحظات، ستظل صفحة الدمية مفتوحة."
+        "str": "الآن يجب عليك تدوينها في ملاحظات المفكرة. بالإضافة إلى ذلك، إذا كنت تستخدم لوحة المفاتيح والماوس، وقمت بالنقر خارج الملاحظات، فستظل صفحة الدمية مفتوحة."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
         "id": "Ambient Volume",
-        "str": "مستوى الصوت البيئي"
+        "str": "الحجم المحيط"
     },
     {
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "لقد أسرنا ليل. يمكنك متابعة التصوير لبقية الدمى. عندما تكون جاهزًا، انتقل إلى القافلة لعرض الصور."
+        "str": "لقد قمنا بالتقاط Lil. يمكنك الاستمرار في تصوير بقية الدمى. عندما تكون مستعدًا، توجه إلى القافلة لمشاهدة الصور."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
         "location": "/Game/functions/interfaceFunctions.interfaceFunctions_C:showPopup [Script Bytecode]",
         "id": "OK",
-        "str": "موافق"
+        "str": "نعم"
     },
     {
         "key": "BCB8724F4D70F43E391D0FB8984329C6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diva",
-        "str": "الديفا"
+        "str": "المغنية"
     },
     {
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "في البداية، هناك 20 دمية. تحقق منها على اللوحة وعندما تكون مستعدًا، اذهب إلى الغرفة لمقابلتهم."
+        "str": "للبدء، هناك 20 دمية. تحقق منها على اللوحة وعندما تكون مستعدًا، اذهب إلى الغرفة لمقابلتها."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "اذهب إلى النوم ودعنا نرى ما إذا تم حل اللغز في الساعة القادمة."
+        "str": "اذهب للنوم ودعنا نرى ما إذا كان قد تم حل اللغز في الساعة القادمة."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -2673,13 +2673,13 @@
         "key": "BEF09CA34BAE3DC7635E8485BB667E28",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van exterior",
-        "str": "خارج الفان"
+        "str": "فان الخارجي"
     },
     {
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "حجر كريم ثمين معروف بصلابته الشديدة وبريقه، يستخدم عادة في المجوهرات ويُقدر لنقاوته وندرته."
+        "str": "حجر كريم ثمين معروف بصلابته الشديدة وتألقه، ويستخدم عادة في المجوهرات ويقدر بنقائه وندرته."
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
@@ -2697,43 +2697,43 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "من الواضح أنه يحب الدم. قد يكون أي من الاثنين، لكن تحقق من الصناديق. فريدي مفقود وصندوقه مليء بالدم. لقد ترك هذا الحكم لك. عندما تكون متأكدًا، تجاهل المرشح."
+        "str": "من الواضح أنه يحب الدم. يمكن أن يكون أيًا من الاثنين، ولكن حدد المربعات. فريدي مفقود وصندوقه مليء بالدم. لقد ترك هذا الحكم لك. عندما تكون متأكدًا، تخلص من المرشح."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now table chess",
-        "str": "الآن الشطرنج على الطاولة"
+        "str": "الآن طاولة الشطرنج"
     },
     {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "اللغز"
+        "str": "الغريب"
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
         "location": "/Game/data-tables/itemList.itemList.NewRow_4.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Fuse to activate electrical circuits",
-        "str": "فتيل لتشغيل الدوائر الكهربائية"
+        "str": "فيوز لتنشيط الدوائر الكهربائية"
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_7.Text",
         "id": "Dislikes",
-        "str": "لا يحب"
+        "str": "يكره"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
-        "str": "الآن، لنقم بتشغيل الكهرباء."
+        "str": "تتطلب الطاقة"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
-        "str": "تركيز مجال الرؤية"
+        "str": "التركيز على مجال الرؤية"
     },
     {
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
@@ -2751,31 +2751,31 @@
         "key": "C312729245B39D3E05385886891922CF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
         "id": "God, Save Us",
-        "str": "يا الله، أنقذنا"
+        "str": "الله يحفظنا"
     },
     {
         "key": "C380BEFB4806636D471F28BC3C7CE999",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul Papers",
-        "str": "أوراق الرو"
+        "str": "أوراق الروح"
     },
     {
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "كتلة صلبة من الذهب المكرر، نقي جدًا، تُستخدم كاستثمار أو مخزن للقيمة، يتميز بوزنه وبريقه الذهبي."
+        "str": "كتلة صلبة من الذهب المكرر عالي النقاء يستخدم كاستثمار أو مخزن للقيمة ويتميز بوزنه وبريقه الذهبي."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
-        "str": "الجانب الأيمن من الفان"
+        "str": "فان الجانب الأيمن"
     },
     {
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "الظليل"
+        "str": "التظليل"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2787,25 +2787,25 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "جهاز محمول ينتج لهبًا لإشعال النار."
+        "str": "جهاز محمول يصدر لهبًا لإشعال النار."
     },
     {
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "جيد جدًا، لنعود إلى المنزل. سنكتشف أشياء عن ليل. افتح صندوقها، وسنقوم بتطبيق الإكسيرات."
+        "str": "حسنًا، دعنا نعود إلى المنزل. سنكتشف أشياءً عن Lil. افتح صندوقها، وسنشرع في تطبيق الإكسير."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "لقد أعطيتك مصباح يدوي، وهو مهم جدًا في هذا الوضع بسبب الظلام الكثيف. انتبه إلى الأرقام على واجهة المستخدم الخاصة بك في الأسفل؛ يمكنك تجهيز حد أقصى من 10 عناصر، مع الفتحة الأولى دائمًا تكون يدك. يمكنك التنقل من خلال مخزنك عن طريق الضغط على مفاتيح العتاد السابقة والتالية، أو على لوحة المفاتيح باستخدام مفاتيح الأرقام أو عجلة الماوس."
+        "str": "لقد أعطيتك مصباحًا يدويًا، وهو أمر مهم جدًا في هذا الوضع بسبب الظلام الدامس.. انتبه إلى الأرقام الموجودة على واجهة المستخدم الخاصة بك في الأسفل؛ "
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
         "id": "The pain is overwhelming",
-        "str": "الألم لا يحتمل"
+        "str": "الألم ساحق"
     },
     {
         "key": "C8A00764485261B746BFEE94C58D6ECA",
@@ -2817,49 +2817,49 @@
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_22.Text",
         "id": "Crouch",
-        "str": "الانحناء"
+        "str": "كراوتش"
     },
     {
         "key": "C9DD78084F647953E55A8196CE872921",
         "location": "/Game/enums/actions.actions.DisplayNameMap(47 - Value).DisplayNameMap",
         "id": "Gramophone",
-        "str": "غراموفون"
+        "str": "الحاكي"
     },
     {
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "الفواكه الصغيرة والعصرية"
+        "str": "كتاب الروح"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "لقد وقع في فخنا وأطفأ الأنوار. يمكننا الآن تجاهل كل من يحب الضوء."
+        "str": "لقد وقع في فخنا وأطفأ الأضواء. يمكننا الآن التخلص من كل أولئك الذين يحبون الضوء."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sweet",
-        "str": "اللذيذ"
+        "str": "الحلو"
     },
     {
         "key": "CB775D1F41F692F4946D738AA83BB23E",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Friends",
-        "str": "الأصدقاء"
+        "str": "أصدقاء"
     },
     {
         "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "Dropped",
-        "str": "تم إسقاط"
+        "str": "انخفض"
     },
     {
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_19.Text",
         "id": "Ratio",
-        "str": "النسبة"
+        "str": "نسبة"
     },
     {
         "key": "CE5521734152BB8FDF36949D84AA7F39",
@@ -2871,19 +2871,19 @@
         "key": "CE77947D46EF18A8A49309A22EB6E699",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
         "id": "Stats",
-        "str": "الإحصائيات"
+        "str": "احصائيات"
     },
     {
         "key": "CEB55E1E480248C3E1553AB0E3E06BA3",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Parchment",
-        "str": "الرق"
+        "str": "شهادة جامعية"
     },
     {
         "key": "CF3A6ECB45A9488C10D246A3FD143977",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Weasel",
-        "str": "العراب"
+        "str": "ابن عرس"
     },
     {
         "key": "D03A184741DBDC2985FBC9A454F19494",
@@ -2901,13 +2901,13 @@
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "القهقهة"
+        "str": "الخفي"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
-        "str": "المبرد"
+        "str": "تقشعر لها الأبدان"
     },
     {
         "key": "D107C133465E950C0D0B42BAAA8BDF09",
@@ -2925,7 +2925,7 @@
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "حقيبة فسيحة"
+        "str": "التقط صورًا للدمية لملء القرائن"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2937,13 +2937,13 @@
         "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
         "id": "Win cases",
-        "str": "الفوز بالقضايا"
+        "str": "حالات الفوز"
     },
     {
         "key": "D2EAFC9348E348C7516300BF122B9702",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Right Place",
-        "str": "المكان الأيمن"
+        "str": "المكان الصحيح"
     },
     {
         "key": "D3B042044111E5CC7AE8239FB511F147",
@@ -2955,55 +2955,55 @@
         "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "Some of the elements you already have equipped",
-        "str": "بعض العناصر التي لديك بالفعل مجهزة"
+        "str": "بعض العناصر التي قمت بتجهيزها بالفعل"
     },
     {
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "الجوف"
+        "str": "الكآبة"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
-        "str": "ترجم بواسطة: {people}"
+        "str": "ترجمة: {الناس}"
     },
     {
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "ادخل المنزل وابحث عن غرفة الدمى."
+        "str": "أدخل المنزل وابحث عن غرفة الدمى ."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "الهاوية"
+        "str": "الزحف"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "الارتجاف"
+        "str": "الرعشة"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "الحزين"
+        "str": "المتربص"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
         "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take notes on the behavior of the dolls",
-        "str": "حيوانات محنطة"
+        "str": "تدوين ملاحظات حول سلوك الدمى"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(1).Options.Label",
         "id": "Medium",
-        "str": "متوسط"
+        "str": "واسطة"
     },
     {
         "key": "D618A4A346B0EA7CBABE00AA94C80485",
@@ -3015,25 +3015,25 @@
         "key": "D627A24C4957566043D3F0ADF0F70B9E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
         "id": "Playgrounds",
-        "str": "ملاعب الأطفال"
+        "str": "ملاعب"
     },
     {
         "key": "D637C70741EFAAB1C70592A3E73D29E3",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_48.Text",
         "id": "Actions left",
-        "str": "الإجراءات المتبقية"
+        "str": "الإجراءات اليسار"
     },
     {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(16 - Value).DisplayNameMap",
         "id": "Knives",
-        "str": "السكاكين"
+        "str": "سكاكين"
     },
     {
         "key": "D8CB256A4FC1286A3BD465B95B7398D6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Flirt",
-        "str": "المغازل"
+        "str": "المغازلة"
     },
     {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
@@ -3057,19 +3057,19 @@
         "key": "D9B2458843A82DBB9843FBBB36327D9A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
         "id": "Turn Right",
-        "str": "انعطف يمينًا"
+        "str": "انعطف يمينا"
     },
     {
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wisp",
-        "str": "الوهج"
+        "str": "ويسب"
     },
     {
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixirs",
-        "str": "الإكسيرات"
+        "str": "الإكسير"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -3081,19 +3081,19 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "أوراق الروح هي مخطوطات غامضة، فريدة بشكل استثنائي، وهناك نوعان: أوراق الروح وأوراق الظلام الروحي. بعبارة أخرى، مخطوطة الروح ونسختها الظلامية. تكشف هذه المخطوطات عن الإعجابات والأنفعالات للدمى. سنبدأ بالمخطوطة العادية. ضع المخطوطة على الدمية."
+        "str": "أوراق الروح هي مخطوطات غامضة وفريدة من نوعها بشكل غير عادي، وهناك نوعان: أوراق الروح وأوراق الروح المظلمة. بمعنى آخر، مخطوطة الروح ونسختها المظلمة. تكشف هذه المخطوطات ما تحبه الدمى وما لا تحبه. سنبدأ باللفافة العادية. "
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unsettling",
-        "str": "المقلق"
+        "str": "المقلقة"
     },
     {
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "لا يمكنك صنع هذا، لأنه لا يتناسب مع أي وصفة"
+        "str": "لا يمكنك صنع هذا، فهو لا يناسب أي وصفة"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -3105,19 +3105,19 @@
         "key": "DE011C1944710509D6330C8C62491DBA",
         "location": "/Game/data-tables/itemList.itemList.NewRow_4.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Fuse",
-        "str": "فتيل"
+        "str": "الصمامات"
     },
     {
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "تذكر أنك لن تكون قادرًا على التفاعل مع أي شيء في الوقت الحالي لأن هذا هو البرنامج التعليمي."
+        "str": "تذكر أنك لن تتمكن من التفاعل مع أي شيء الآن لأن هذا هو البرنامج التعليمي. الآن، دعنا نشغل الكهرباء. جهز المصهر الخاص بك واذهب إلى الجزء الخلفي من المنزل لتنشيطه."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
         "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-        "str": "وضع الخبير، تبدأ من الساعة 06:00، لا توجد أدلة إضافية ولا صور"
+        "str": "وضع الخبراء، تبدأ من الساعة 06:00، ولا توجد أدلة إضافية ولا صور فوتوغرافية"
     },
     {
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
@@ -3129,13 +3129,13 @@
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "إذا عدت إلى الملاذ الآمن، سيستعيد المنزل حالته وستفقد العناصر المجهزة"
+        "str": "إذا عدت إلى المنزل الآمن، فسوف يستعيد المنزل حالته وستفقد العناصر المجهزة"
     },
     {
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "عمل جيد، أخيرًا، أضئ المدفأة."
+        "str": "عمل جيد، أخيرًا، أشعل المدفأة."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3153,49 +3153,49 @@
         "key": "E238A88B4FBC7C4641B8E9A95353B1C0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Indecent",
-        "str": "الفاحش"
+        "str": "غير لائقة"
     },
     {
         "key": "E2D484854A1C9DB14835A6AD457B6207",
         "location": "/Game/enums/actions.actions.DisplayNameMap(22 - Value).DisplayNameMap",
         "id": "Balloons",
-        "str": "البالونات"
+        "str": "بالونات"
     },
     {
         "key": "E321649D4AF8734E473FEDB0404E1B2E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(42 - Value).DisplayNameMap",
         "id": "Move frames",
-        "str": "تحريك الإطارات"
+        "str": "نقل الإطارات"
     },
     {
         "key": "E447809B421298C1BDA5E4B063D86F49",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
-        "str": "دمى الحركة"
+        "str": "دمى الأكشن"
     },
     {
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
         "location": "/Game/enums/probability.probability.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Normal",
-        "str": "عادي"
+        "str": "طبيعي"
     },
     {
         "key": "E672CE194312B524EAE5218F788B97F4",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Stiff",
-        "str": "المتصلب"
+        "str": "القاسية"
     },
     {
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "أوراق خضراء منعشة"
+        "str": "الأوراق الخضراء المنعشة."
     },
     {
         "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "You can only equip a maximum of 10 items",
-        "str": "يمكنك تجهيز حد أقصى من 10 عناصر"
+        "str": "يمكنك تجهيز 10 عناصر فقط كحد أقصى"
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
@@ -3213,13 +3213,13 @@
         "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
         "id": "As you unlock new levels, new ones will appear!",
-        "str": "مع فتح مستويات جديدة، ستظهر أخرى جديدة!"
+        "str": "عند فتح مستويات جديدة، ستظهر مستويات جديدة!"
     },
     {
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "الشرير"
+        "str": "الفأل"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
@@ -3243,13 +3243,13 @@
         "key": "E96A210546B4B0647B0763843052BBF8",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
         "id": "Head Bobbing",
-        "str": "اهتزاز الرأس"
+        "str": "تمايل الرأس"
     },
     {
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "لقد أعطيتك بعض العناصر، اذهب إلى قسم الصناعة لصنع إكسير، يمكنك القيام بذلك يدويًا أو مباشرة عن طريق الضغط على الإكسير الذي تريده."
+        "str": "لقد أعطيتك بعض العناصر، انتقل إلى قسم الحرف اليدوية لتصنع إكسيرًا، يمكنك القيام بذلك يدويًا أو مباشرة بالضغط على الإكسير الذي تريده."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3261,19 +3261,19 @@
         "key": "E9F12A4243E6AE323515DE8E9AA0162B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Specter",
-        "str": "الطيف"
+        "str": "الشبح"
     },
     {
         "key": "EABE87674E476F817EEF85B6E5E00296",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
         "id": "Log Off",
-        "str": "تسجيل الخروج"
+        "str": "إطفاء"
     },
     {
         "key": "EB61DE2843D60E7D5AF23EB48A67DE8B",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_21.Text",
         "id": "Rank",
-        "str": "الرتبة"
+        "str": "رتبة"
     },
     {
         "key": "ECA7B6BD4DC5448D5BC007A0A56EFE97",
@@ -3291,13 +3291,13 @@
         "key": "EDA5294F43DB42C2856059B83C9A6BF5",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
         "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-        "str": "ستكون هذه الاحتمالية كامنة في كل مرة تسافر فيها؛ قد تصادف صندوقًا يحتوي على أشياء بداخله."
+        "str": "سيكون هذا الاحتمال كامنًا في كل مرة تسافر فيها؛ "
     },
     {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "لقد فقدت 75٪ لعدم اكتشاف المحتال"
+        "str": "لقد خسرت 75% لعدم اكتشاف المحتال"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3309,7 +3309,7 @@
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "الغوص"
+        "str": "الغسق"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3321,19 +3321,19 @@
         "key": "F167859643FD37B593110B9A866E9EB3",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text",
         "id": "Endless",
-        "str": "لا نهائي"
+        "str": "لا نهاية لها"
     },
     {
         "key": "F1D636544DE5ADC7945E9789ACC63D6C",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van wall",
-        "str": "جدار الفان"
+        "str": "جدار فان"
     },
     {
         "key": "F21C143F425251C3614B29BD90BD710D",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_0 [Script Bytecode]",
         "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
-        "str": "كلما انخفضت النسبة، كلما تم الكشف عن المزيد من المعلومات حول الدمى في البداية (من 2 إلى 10)"
+        "str": "كلما انخفضت النسبة، سيتم إصدار المزيد من المعلومات حول الدمى في البداية (من 2 إلى 10)"
     },
     {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
@@ -3345,13 +3345,13 @@
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "لوح الويجا"
+        "str": "ويجا"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "سائل مر ولزج."
+        "str": "سائل مر ولزج ."
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3375,7 +3375,7 @@
         "key": "F2BC9C064F532236387F0ABC86BA8078",
         "location": "/Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Organization",
-        "str": "المنظمة"
+        "str": "منظمة"
     },
     {
         "key": "F328405344EB2B4CB4D34EA75D918FD1",
@@ -3387,19 +3387,19 @@
         "key": "F343C45143C6D6F84AC69C85B3A85B2F",
         "location": "/Game/enums/actions.actions.DisplayNameMap(7 - Value).DisplayNameMap",
         "id": "Tv",
-        "str": "التلفزيون"
+        "str": "تلفزيون"
     },
     {
         "key": "F3539C0B4A4D262BEEADFCBC91E58848",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Toad Bile",
-        "str": "صفراء الضفدع"
+        "str": "الضفدع الصفراء"
     },
     {
         "key": "F398437D44CE91CF11D919A1208038ED",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.sections_22_4031E9264112E4E86BC48BA9D729A311(2).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Size",
-        "str": "الحجم"
+        "str": "مقاس"
     },
     {
         "key": "F4678833417F67BF4FB742B959AD7E80",
@@ -3411,7 +3411,7 @@
         "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Inventory",
-        "str": "المخزون"
+        "str": "جرد"
     },
     {
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
@@ -3423,19 +3423,19 @@
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperer",
-        "str": "الهمسات"
+        "str": "الهامس"
     },
     {
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "الشرير"
+        "str": "الرهبة"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Nettle",
-        "str": "القراص"
+        "str": "نبات القراص"
     },
     {
         "key": "F63BB439446A93B294D5789005AB927F",
@@ -3447,25 +3447,25 @@
         "key": "F66992CC4272E9FD176972AE7A324010",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "Did you understand the tutorial well?",
-        "str": "هل فهمت الدرس جيدًا؟"
+        "str": "هل فهمت الدرس جيداً؟"
     },
     {
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mandrake Root",
-        "str": "جذر الماندريك"
+        "str": "جذر ماندريك"
     },
     {
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "الظلام"
+        "str": "الغوص"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "سيكون لديك حالة متاحة مع معلمات ديناميكية متنوعة. ستعرض معلومات مثل الحالة الحالية، وإذا لم تعجبك، يمكنك البحث عن حالة جديدة مقابل المال. حاليًا، في وضع التدريب، قمنا بتقييد تفاعلاتك؛ لن تتمكن من الشراء أو التصنيع أو الخروج من الحالة أو البحث عن حالة جديدة."
+        "str": "سيكون لديك حالة متاحة بمعلمات ديناميكية متنوعة . وستعرض معلومات مثل الحالة الحالية، وإذا لم تعجبك، يمكنك البحث عن حالة جديدة مقابل المال. حاليًا، في الوضع التعليمي، قمنا بتقييد تفاعلاتك "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3477,13 +3477,13 @@
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "سم العقرب"
+        "str": "بتلات الورد الناعمة والعطرة."
     },
     {
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "الآن سنستخدم عنصر كتاب الروح. هذا العنصر سيبدأ اللعبة رسميًا. استخدامه بسيط: عند استخدام هذا الكتاب، سيبدأ المحتال (في هذه الحالة، ليل) في اتخاذ الإجراءات. في هذه المرحلة، ستحتاج إلى مقارنة المعلومات بما يحدث، تمامًا كما في الوضع الأصلي. ضع في اعتبارك أن لديك 180 ثانية، وإذا وصل الوقت إلى 0، فسوف يقتلك."
+        "str": "سنستخدم الآن عنصر كتاب الروح. سيبدأ هذا العنصر اللعبة رسميًا. استخدامه بسيط: عندما تستخدم هذا الكتاب، أيًا كان المحتال (في هذه الحالة، ليل) سيبدأ في اتخاذ الإجراءات. عند هذه النقطة، سوف "
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3501,13 +3501,13 @@
         "key": "F880818144C667A994BEEF9200987EF4",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Chest",
-        "str": "صندوق"
+        "str": "صدر"
     },
     {
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "سائل شفاف وقاتل."
+        "str": "سائل واضح وقاتل ."
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
@@ -3519,19 +3519,19 @@
         "key": "FA4E21624A2D966B1B2ED19005131257",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traditional",
-        "str": "التقليدي"
+        "str": "التقليدية"
     },
     {
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "قبل أن تذهب، أريد أن أوضح أنه في وضع اللعب هذا، يمكنك العودة إلى الملجأ عن طريق قيادة القافلة. أخيرًا، ما قمنا به مع ليل في هذا الوضع سيحتاج إلى القيام به لكل من الدمى لتحديد المحتال. تذكر أن وضع الحملة مقصود أن يكون تجربة تعاونية في المستقبل، ولهذا السبب من المهم ألا يكون قصيرًا أو سريعًا. يمكن أن تستغرق كل حالة أيامًا لحلها، ولكنها غير متزامنة، مما يعني أنه يمكنك الخروج في أي وقت تريد والاستمرار في اللعب لاحقًا، وسيبقى كل شيء كما تركته."
+        "str": "قبل أن تذهب، أريد أن أوضح أنه في وضع اللعبة هذا، يمكنك العودة إلى الملجأ من خلال قيادة القافلة. وأخيرًا، ما فعلناه مع ليل في هذا الوضع يجب القيام به لكل دمية من الدمى للتعرف على المحتال. "
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Sleep",
-        "str": "نوم"
+        "str": "ينام"
     },
     {
         "key": "FACAB65943781B084CD803A77E0F7266",
@@ -3543,37 +3543,37 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "لدينا ريكي على الأريكة ومونتي على البيانو، لذلك لدينا بالفعل 2 من المرشحين المحتملين. ومع ذلك، لن نأخذ مخاطرة 50%. دعنا نعود إلى الغرفة لاستبعاد من لا يمكن أن يكون وننتظر حدثه التالي."
+        "str": "لدينا ريكي على الأريكة ومونتي يعزف على البيانو، لذلك لدينا بالفعل المرشحان المحتملان. ومع ذلك، لن نتحمل مخاطرة 50%. دعنا نعود إلى الغرفة لاستبعاد المرشح الذي لا يمكن أن يكون وننتظر "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
         "id": "Chaos consumes us",
-        "str": "الفوضى تلتهمنا"
+        "str": "الفوضى تستهلكنا"
     },
     {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
         "id": "Graphic Preset",
-        "str": "الإعدادات المسبقة للرسومات"
+        "str": "الرسم المسبق"
     },
     {
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "لقد فتحت مستوى صعوبة جديد!"
+        "str": "لقد حصلت على {جديدة} من الليالي، ولم تتمكن من التغلب على الرقم القياسي الخاص بك من الليالي {القديمة}."
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_5.Text",
         "id": "Master Volume",
-        "str": "مستوى الصوت الرئيسي"
+        "str": "الحجم الرئيسي"
     },
     {
         "key": "FD27A6D94DD43A861953BA81606B6B11",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant cinnamon stick.",
-        "str": "عود قرفة عطري."
+        "str": "عود قرفة عطرة."
     },
     {
         "key": "FD50C07D436B39761D90A28961DE809F",
@@ -3591,25 +3591,25 @@
         "key": "FE11E6ED4FA63C5B12631383E56A20B5",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the {map} Map!",
-        "str": "لقد فتحت خريطة {map}!"
+        "str": "لقد قمت بفتح خريطة {map}!"
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
-        "str": "لقد خسرت"
+        "str": "أنت تخسر"
     },
     {
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
         "id": "Play",
-        "str": "العب"
+        "str": "يلعب"
     },
     {
         "key": "FEEFC0A44A89E6CC7163CEB1F9C3F1B8",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_15.Text",
         "id": "XP Earned",
-        "str": "النقاط المكتسبة"
+        "str": "XP المكتسبة"
     },
     {
         "key": "FF2636BB4F223BBD00D531A30CF9EB06",
@@ -3621,18 +3621,18 @@
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
         "location": "/Game/enums/actions.actions.DisplayNameMap(4 - Value).DisplayNameMap",
         "id": "Music",
-        "str": "الموسيقى"
+        "str": "موسيقى"
     },
     {
         "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Paper",
-        "str": "بتلات الورد الناعمة والعطرة"
+        "str": "ورقة الروح"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
         "location": "/Game/enums/actions.actions.DisplayNameMap(19 - Value).DisplayNameMap",
         "id": "Carousel with friends",
-        "str": "الدوامة مع الأصدقاء"
+        "str": "دائري مع الأصدقاء"
     }
 ]

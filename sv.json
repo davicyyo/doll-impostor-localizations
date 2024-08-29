@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "Ben"
+        "str": "Den läskiga"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -45,7 +45,7 @@
         "key": "02384976426960372C5EAE9FE9459154",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_3.Text",
         "id": "Your inventory",
-        "str": "Din inventering"
+        "str": "Ditt lager"
     },
     {
         "key": "0285258748FED1BC6E542F80A9097CE9",
@@ -57,13 +57,13 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "Skymning"
+        "str": "Ekot"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(1).Options.Label",
         "id": "Borderless",
-        "str": "Ramlös"
+        "str": "Gränslös"
     },
     {
         "key": "0375A2D542A72CFAD4E4CA8A30C56CC4",
@@ -75,13 +75,13 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Det verkar som om bedragaren har gjort några händelser. Dessa kommer att visas på din vänstra panel. Granska dem och gå sedan tillbaka till rummet."
+        "str": "Det ser ut som om bedragaren har gjort några händelser. Dessa kommer att visas på din vänstra panel. Granska dem och gå sedan till rummet igen."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "Grimas"
+        "str": "Den sjukliga"
     },
     {
         "key": "056842694B3EB37BD05F159542C5CE41",
@@ -93,19 +93,19 @@
         "key": "0593C38042D49BC9D0958EB990324EFA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
         "id": "Jail Self",
-        "str": "Fängsla dig själv"
+        "str": "Fängelse själv"
     },
     {
         "key": "05AD525F49BFE5E3D0E076B33A48FCF0",
         "location": "/Game/UI/confirm.Default__confirm_C.DismissButton",
         "id": "Deny",
-        "str": "Neka"
+        "str": "Förneka"
     },
     {
         "key": "0600D2134F5944FF6E3102866C348F23",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigma",
-        "str": "Mystisk"
+        "str": "Gåtan"
     },
     {
         "key": "0654BE994FA7D802E7973F901694CDD2",
@@ -123,25 +123,25 @@
         "key": "073BF882481ECDE57F50FF98957A3C22",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new difficulty!",
-        "str": "Du har låst upp en ny svårighetsgrad!"
+        "str": "Du har låst upp en ny svårighet!"
     },
     {
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "Kostnaderna kommer att speglas i priserna på varorna i butiken"
+        "str": "Kostnaderna kommer att återspeglas i priserna på varorna i butiken"
     },
     {
         "key": "0860FF434B759F0DDD299AAD5097224D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_50.Text",
         "id": "Reset settings",
-        "str": "Återställ inställningar"
+        "str": "Återställ inställningarna"
     },
     {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Kom ihåg att hålla dörren låst med regeln. Om du inte gör det kan dockorna komma ut, ändra dina tester och till och med döda dig."
+        "str": "Kom ihåg att hålla dörren låst med spärren. Om du inte gör det kan dockorna komma ut, ändra dina tester och till och med döda dig."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -153,13 +153,13 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Du har nu accepterat ärendet. Utanför handledningen kan du överge ärendet när som helst, men du kommer inte att kunna hitta nya ärenden när du har accepterat det. När detta är löst, res till platsen när du är redo."
+        "str": "Du har nu accepterat ärendet. Utanför handledningen kan du överge ärendet när som helst, men du kommer inte att kunna hitta nya ärenden när du väl har accepterat. När detta är klart, åk till platsen när du är redo."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "Detta är dockrummet. Här kommer du att se vad de har gjort medan du sov. Titta på dem och sedan går vi tillbaka till rummet."
+        "str": "Det här är dockornas rum. Här kommer du att se vad de har gjort medan du sov. Ta en titt på dem och låt oss sedan gå tillbaka till rummet."
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -213,13 +213,13 @@
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "Mörkt själapapper"
+        "str": "Lagra"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_2.Text",
         "id": "Smooth Camera",
-        "str": "Mjuk kamera"
+        "str": "Smidig kamera"
     },
     {
         "key": "0D7E18B14371021AF672E392EB48BEA1",
@@ -243,13 +243,13 @@
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "Låt oss gå tillbaka till panelen och börja eliminera misstänkta som inte stämmer överens med våra bevis."
+        "str": "Låt oss gå tillbaka till panelen och börja sålla bort misstänkta som inte stämmer överens med våra bevis."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Dreadful",
-        "str": "Den Förskräckliga"
+        "str": "Den fruktansvärda"
     },
     {
         "key": "109D973D484D997685448980DCB79533",
@@ -279,43 +279,43 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "En vit blomma med mjuka kronblad."
+        "str": "En vit blomma med mjuka kronblad__PUNKT__"
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigmatic",
-        "str": "Flimmer"
+        "str": "Den gåtfulla"
     },
     {
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "Skuggig viskning"
+        "str": "Murret"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantasm",
-        "str": "Viskningar"
+        "str": "Fantasmen"
     },
     {
         "key": "158F6D234AF05145B4905F942285D978",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the Ouija board on the table",
-        "str": "Nu Ouija-brädet på bordet"
+        "str": "Nu ligger Ouija-brädet på bordet"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(10 - Value).DisplayNameMap",
         "id": "Fireworks",
-        "str": "Fyrverkerier"
+        "str": "Fyrverkeri"
     },
     {
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "Mycket bra, du har använt alla föremål på dockan. Denna gång var sakerna som Lil inte gillade: {items}"
+        "str": "Mycket bra, du har använt alla föremålen på dockan. Den här gången var de saker som Lil inte gillade: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -333,37 +333,37 @@
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
-        "str": "Avsluta"
+        "str": "Utgång"
     },
     {
         "key": "16A84C9B486F4A520142D791EC349B4F",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
         "id": "Shading Quality",
-        "str": "Skuggkvalitet"
+        "str": "Skuggningskvalitet"
     },
     {
         "key": "16B725324055549E77710CACDD3325FF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now move the picture closest to the living room door.",
-        "str": "Flytta nu bilden närmast vardagsrumsdörren."
+        "str": "Flytta nu bilden närmast vardagsrumsdörren__PUNKT__"
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_23.Text",
         "id": "Run",
-        "str": "Spring"
+        "str": "Sikt"
     },
     {
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "Skakning"
+        "str": "Obscura"
     },
     {
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "En knölig och illavarslande rot."
+        "str": "En knotig och olycklig rot__PUNKT__"
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
@@ -387,7 +387,7 @@
         "key": "1AEBF7804411904275F320B5DB9BB455",
         "location": "/Game/enums/actions.actions.DisplayNameMap(41 - Value).DisplayNameMap",
         "id": "Candles",
-        "str": "Ljusstakar"
+        "str": "Ljus"
     },
     {
         "key": "1AEE02D7485216A7EBEC93AD95D81A25",
@@ -411,7 +411,7 @@
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(7).texts",
         "id": "There seems to be no way out",
-        "str": "Det verkar inte finnas någon väg ut"
+        "str": "Det verkar inte finnas någon utväg"
     },
     {
         "key": "1C4788334C67D107A7BE1F931C0A749E",
@@ -423,7 +423,7 @@
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "Denna docka är påverkad, vänta tills effekten är slut innan du använder en annan"
+        "str": "Denna docka är under effekter, vänta tills effekten är klar för att applicera en till"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -435,7 +435,7 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "Stor och gråaktig fjäder."
+        "str": "Stor och gråaktig fjäder__PUNKT__"
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
@@ -471,19 +471,19 @@
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "Viskningar"
+        "str": "Viskningarna"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "Ylande"
+        "str": "Grimasen"
     },
     {
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Dessa elixirer avslöjar relationer mellan dockorna. De har alla relationer, och detta är det enda sättet att upptäcka dem. Låt oss börja med att testa Lils kärleksrelation med de andra dockorna. Applicera helt enkelt elixiret på Lil och observera effekterna. Alla som svarar på Lils effekter är de som Lil älskar."
+        "str": "Dessa elixir avslöjar relationer mellan dockorna. De har alla relationer, och detta är det enda sättet att upptäcka dem. Låt oss börja med att testa Lils kärleksrelation med de andra dockorna.. Applicera helt enkelt elixiret på Lil och observera effekterna. Alla de som reagerar på Lils effekter är "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -507,7 +507,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "Du har alla ledtrådar och all information om dockorna, men detta är helt slumpmässigt för varje docka."
+        "str": "Du har alla ledtrådar och all information om dockorna, men detta är helt slumpmässigt för varje docka__PUNKT__"
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -525,19 +525,19 @@
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silhouette",
-        "str": "Siluetten"
+        "str": "Silhuetten"
     },
     {
         "key": "230AAACD49536A9594B0CBB4CA653C76",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the tv",
-        "str": "Nu TV:n"
+        "str": "Nu tv:n"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
         "id": "Case Number",
-        "str": "Fallnummer"
+        "str": "Ärendenummer"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -549,7 +549,7 @@
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "Flera mål har dykt upp på bilden; försök att komma närmare och fokusera endast på det önskade målet."
+        "str": "Flera mål har dykt upp på bilden; "
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -561,7 +561,7 @@
         "key": "24B7D6584C3AF4730B3365BB46DDA130",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and toxic leaves.",
-        "str": "Mörka och giftiga blad."
+        "str": "Mörka och giftiga löv."
     },
     {
         "key": "24FA60AC4C99AD7D35B45C8F7E6C1279",
@@ -585,19 +585,19 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "Målet har inte upptäckts, försök att fokusera mer och håll ett specifikt avstånd där hela målet kan ses"
+        "str": "Målet har inte upptäckts, försök fokusera mer och håll dig på ett specifikt avstånd där hela målet kan ses"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
         "id": "Results",
-        "str": "Utrusta säkringen och gå till baksidan av huset för att aktivera den"
+        "str": "Resultat"
     },
     {
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "Förföljaren"
+        "str": "Stalkern"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
@@ -615,7 +615,7 @@
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "Den viskande vinden"
+        "str": "Whisperwind"
     },
     {
         "key": "2A85705945159E3B98E06BB40B5CA820",
@@ -627,13 +627,13 @@
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
-        "str": "Skymning"
+        "str": "Ghoulen"
     },
     {
         "key": "2BB11678432B1B25F353A1A7B4A35E7E",
         "location": "/Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text",
         "id": "Reset",
-        "str": "Återställ"
+        "str": "Återställa"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -651,13 +651,13 @@
         "key": "2D10309A4AE3A7B38D67BC894C9A5B97",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
         "id": "View Distance Quality",
-        "str": "Siktavståndskvalitet"
+        "str": "Se avståndskvalitet"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
         "id": "Hard",
-        "str": "Svår"
+        "str": "Hård"
     },
     {
         "key": "2DE4F4264AEB90D45B2363B38034FA9E",
@@ -669,19 +669,19 @@
         "key": "2DEA68154A30209AA0698497E47F9DA9",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
         "id": "Leaderboard Endless",
-        "str": "Oändlig poängtavla"
+        "str": "Leaderboard oändlig"
     },
     {
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "Ormblod"
+        "str": "Soul mörkt papper"
     },
     {
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Jag har också gett dig en väska. Denna väska kommer att hjälpa dig att fånga bedragaren. När du fångar den kommer spelet att avslutas (om du gör det inom tidsgränsen). Jag lämnar dig att avsluta den här delen av handledningen. Oavsett om du vinner eller förlorar är du klar. Lycka till!"
+        "str": "Jag har också gett dig en väska. Den här väskan hjälper dig att fånga bedragaren. När du fångar den kommer spelet att sluta (om du gör det inom tidsgränsen). Jag ​​låter dig avsluta den här delen av handledningen. Oavsett om du "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -705,7 +705,7 @@
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lie bytes",
-        "str": "Lögnens byte"
+        "str": "Liebyten"
     },
     {
         "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -747,7 +747,7 @@
         "key": "336B557643CBA00B5138539520DCBB04",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's start with the chair outside.",
-        "str": "Låt oss börja med stolen utanför."
+        "str": "Låt oss börja med stolen utanför__PUNKT__"
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
@@ -765,25 +765,25 @@
         "key": "34AFF09749F832F67360E0923F227F4F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Discards",
-        "str": "Kasseringar"
+        "str": "Slänger"
     },
     {
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "Poäng"
+        "str": "Ormens blod"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Malicious",
-        "str": "Den Elaka"
+        "str": "Den illvilliga"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
         "location": "/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]",
         "id": "Continue",
-        "str": "Fortsätt"
+        "str": "Fortsätta"
     },
     {
         "key": "3753BCEE46C70EDFBC5171BE7A651CC0",
@@ -801,7 +801,7 @@
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "Gåta"
+        "str": "Stönan"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "Vi har bara 3 kvar. Låt oss gå till rummet för att se vem som har flyttat och vem som har blivit flyttad."
+        "str": "Vi har bara 3 kvar. Låt oss gå till rummet för att se vem som har flyttat och vem som har flyttats."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -843,7 +843,7 @@
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Spacious bag",
-        "str": "Själabok"
+        "str": "Rymlig väska"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
@@ -867,7 +867,7 @@
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "Skrik"
+        "str": "Den sorgsna"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -879,7 +879,7 @@
         "key": "3E3E53D64E987B22AD5967A23BB5AC57",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text",
         "id": "Extras",
-        "str": "Extra"
+        "str": "Extrafunktioner"
     },
     {
         "key": "3E796087492560DF199BD58F4D3A3731",
@@ -891,7 +891,7 @@
         "key": "3E8440AC413D7725FE75218355F55B7B",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-        "str": "Bra! Jag har gett dig det mörka papperet. Använd det på Lil och skriv ner allt du ser. Kom ihåg att detta är saker hon inte gillar, så allt hon släcker kommer att indikera hennes ogillanden."
+        "str": "Stor! "
     },
     {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
@@ -903,13 +903,13 @@
         "key": "3F845D654ED6C33DC540F4BC414F7994",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ebon",
-        "str": "Rädsla"
+        "str": "Ebon"
     },
     {
         "key": "3FAB1E074AD22684E3F78785D85679FA",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the nearest candle.",
-        "str": "Nu närmaste ljus."
+        "str": "Nu närmaste ljus__PUNKT__"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -927,7 +927,7 @@
         "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Bone",
-        "str": "Ta ficklampan"
+        "str": "Benet"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
@@ -939,13 +939,13 @@
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "En trofé i form av en bägare, vanligtvis gyllene, tilldelad som en symbol för seger i idrottstävlingar eller prestigefyllda ceremonier."
+        "str": "En trofé i form av en kopp, vanligtvis gyllene, tilldelad som en symbol för seger i sporttävlingar eller prestigefyllda ceremonier."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_15.Text",
         "id": "Auto settings",
-        "str": "Automatiska inställningar"
+        "str": "Autoinställningar"
     },
     {
         "key": "41A4BD564E59F19BEF73778A7250E40E",
@@ -957,19 +957,19 @@
         "key": "420F5BCA40413C0383C7AA9583EEC5C0",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
         "id": "Mislead",
-        "str": "Föra vilse"
+        "str": "Vilseleda"
     },
     {
         "key": "433A6CE84E4955044C7FB38105FA63BF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
         "id": "Footsteps Volume",
-        "str": "Fotsteg Volym"
+        "str": "Footsteps Volym"
     },
     {
         "key": "43B95535434D97B9189B93A2A4594202",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_1.Text",
         "id": "Amount of Information discovered",
-        "str": "Mängd upptäckt information"
+        "str": "Informationsmängden upptäckt"
     },
     {
         "key": "446183A644D53693C3BF6E947D141A43",
@@ -1005,7 +1005,7 @@
         "key": "460FFB13421148C8493D69A72A81E93C",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_24.Text",
         "id": "Use",
-        "str": "Använd"
+        "str": "Använda"
     },
     {
         "key": "4634F1C448A78E03F4AC7B94441281EB",
@@ -1017,7 +1017,7 @@
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
-        "str": "Mest vunna karta"
+        "str": "Mest vunna kartan"
     },
     {
         "key": "46CE50D24305DF8EE5E3069A686AD62E",
@@ -1029,31 +1029,31 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Lämna rummet nu och kolla allt som är aktiverat. Skriv ner allt du ser i dockans preferenser!"
+        "str": "Lämna rummet nu och kontrollera allt som är aktiverat__PUNKT__ Skriv ner allt du ser i dockans likes!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-        "str": "Du har klarat handledningen, du känner till grunderna! För att slutföra handledningen, gå till sängen och sov. Du kommer att gå till din säkra zon. Använd datorn för att starta ett spel!"
+        "str": "Du har tagit dig igenom handledningen, du kan grunderna! "
     },
     {
         "key": "4798B1E54C73C4932878B1A4630376ED",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering",
-        "str": "Viskandet"
+        "str": "Viskningen"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Belladonna leaves",
-        "str": "Belladonna-blad"
+        "str": "Belladonna går"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ominous",
-        "str": "Den Olycksbådande"
+        "str": "Den illavarslande"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -1071,7 +1071,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "Svepning"
+        "str": "Nattfallet"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -1083,31 +1083,31 @@
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "Hängande docka i Van"
+        "str": "Van hängande docka"
     },
     {
         "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(2).texts",
         "id": "Everything is falling apart",
-        "str": "Allt faller isär"
+        "str": "Allt håller på att falla isär"
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Select those objects to craft another one.",
-        "str": "Välj dessa föremål för att tillverka en annan."
+        "str": "Välj dessa objekt för att skapa ett annat__PUNKT__"
     },
     {
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A clear and pure crystal.",
-        "str": "En klar och ren kristall."
+        "str": "En klar och ren kristall__PUNKT__"
     },
     {
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "Jag har gett dig en anteckningsbok där du kan se alla detaljer om dockorna och fullständig information. Ta en titt, och när du är redo, kom tillbaka till dockorna."
+        "str": "Jag har gett dig en anteckningsbok där du kan se alla detaljer om dockorna och fullständig information. Ta en titt och när du är redo, kom tillbaka till dockorna."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1131,7 +1131,7 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "Den märkliga"
+        "str": "Det kusliga"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -1143,25 +1143,25 @@
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
         "id": "Turn Left",
-        "str": "Vrid till vänster"
+        "str": "Sväng vänster"
     },
     {
         "key": "51B58C89473E1AE2A37E6A8118DC37C1",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-        "str": "Har du någonsin undrat var informationen om dockorna kommer ifrån? I karriärläget kommer du att upptäcka informationen om dockorna med oändliga fall, ekonomi, nivåer, butik, hantverk och mycket mer!"
+        "str": "Har du någonsin undrat var informationen om dockorna kommer ifrån? "
     },
     {
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "Bra jobbat, du har slutfört elixirerna. Jag kollar inte dina"
+        "str": "Bra gjort, du har slutfört elixirerna. Jag ​​kontrollerar inte dina anteckningar, men jag är säker på att de är fantastiska!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Du är dockornas väktare, en av dem är vid liv och har för avsikt att döda dig. Du måste upptäcka vilken innan kl. 09:00."
+        "str": "Du är dockornas väktare, en av dem lever och har för avsikt att döda dig. Du måste upptäcka vilken det är innan 09:00."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1173,13 +1173,13 @@
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "Perfekt, vi har 5 misstänkta kvar. Låt oss gå och lägga oss igen."
+        "str": "Perfekt, vi har 5 misstänkta kvar. Låt oss gå och sova igen."
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "Butik"
+        "str": "Ta ficklampa"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
@@ -1209,7 +1209,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "Innan jag ger dig det mörka papperet, låt oss aktivera och slå på allt. På så sätt blir det lättare för oss att se vad dockan ogillar när vi stoppar den."
+        "str": "Innan vi ger dig det mörka papperet, låt oss aktivera och slå på allt__PUNKT__ På det här sättet blir det lättare för oss att se vad dockan ogillar när vi stoppar den."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1221,7 +1221,7 @@
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
         "id": "Camp with enemies",
-        "str": "Läger med fiender"
+        "str": "Campa med fiender"
     },
     {
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
@@ -1233,7 +1233,7 @@
         "key": "5981A77041F835414316E0BEA0C3C8F8",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
-        "str": "Du vinner"
+        "str": "DU VINNER"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -1245,7 +1245,7 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Slumpmässigt men oändligt läge, du har en 3-minuters timer för att lösa fallet och det finns en poängtavla"
+        "str": "Slumpmässigt men oändligt läge, du har en 3-minuters timer för att fixa fallet och det finns en topplista med ledare"
     },
     {
         "key": "5A9082C24056C8BFE9DE8EA9069EF292",
@@ -1263,7 +1263,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Du måste använda själaboken innan du sparar bedragardockan"
+        "str": "Du måste använda själarnas bok innan du sparar bedragardockan"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1281,25 +1281,25 @@
         "key": "5E1C23674444BB331554B39281C7EA20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
-        "str": "Gunga andra"
+        "str": "Sväng andra"
     },
     {
         "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_52.Text",
         "id": "Invert Camera",
-        "str": "Invertera kamera"
+        "str": "Invertera kameran"
     },
     {
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Umbral",
-        "str": "Mörkret"
+        "str": "Umbralen"
     },
     {
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "Resultat"
+        "str": "Gungande"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -1311,7 +1311,7 @@
         "key": "60929102471030286F6536A92C1EC5C8",
         "location": "/Game/enums/actions.actions.DisplayNameMap(44 - Value).DisplayNameMap",
         "id": "Book",
-        "str": "Bok"
+        "str": "Boka"
     },
     {
         "key": "60E9BFBD4D9BFF7D7952CA9115FFAA10",
@@ -1335,7 +1335,7 @@
         "key": "61579A7B4A7A797C38911980E669DE96",
         "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
         "id": "Jail Others",
-        "str": "Fängsla andra"
+        "str": "Fängelse andra"
     },
     {
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
@@ -1347,7 +1347,7 @@
         "key": "62E75F3344325D96C309BFB52949F95A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
         "id": "Stuffed Animals",
-        "str": "Själapapper"
+        "str": "Uppstoppade djur"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -1359,13 +1359,13 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "När du startar ett fall kommer du att kunna utrusta dig med de föremål du har köpt eller tillverkat. För att göra detta, gå till kistan bakom dig. Just nu ser du"
+        "str": "När du startar ett fodral kommer du att kunna utrusta dig själv med föremålen du har köpt eller tillverkat. För att göra detta, gå till kistan bakom dig. Just nu ser du den tom, men oroa dig inte, jag "
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
         "id": "Look Up",
-        "str": "Titta upp"
+        "str": "Slå upp"
     },
     {
         "key": "63D67BF743D308E3537D9794B417B76A",
@@ -1377,19 +1377,19 @@
         "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
-        "str": "Vålnaden"
+        "str": "Wraith"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "Mörk och skarp lök."
+        "str": "Mörk och stickande glödlampa__PUNKT__"
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "Den standard svårighetsgraden för varje spelare, alla ledtrådar kommer att ges kl. 08:00, du har möjlighet att se dockornas namn och bedragarens handlingslista"
+        "str": "Standard svårighetsgrad för varje spelare, alla ledtrådar kommer att göras klockan 08:00, du har möjlighet att se namnen på dockorna och listan över bedragarens åtgärder"
     },
     {
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
@@ -1407,7 +1407,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Det är den sista timmen. Vi har bara denna chans att ta reda på det. Låt oss gå till rummet."
+        "str": "Det är den sista timmen. Vi har bara den här chansen att ta reda på. Låt oss gå till rummet."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1425,19 +1425,19 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "Mycket bra, nu det återstående ljuset."
+        "str": "Mycket bra, nu återstående ljus__PUNKT__"
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
         "id": "Brightness",
-        "str": "ljusstyrka"
+        "str": "Ljusstyrka"
     },
     {
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Jag har skapat en mer avancerad guide som utforskar alla aspekter av Karriärsläget. Om du behöver mer hjälp rekommenderar jag att du kollar in den; det kommer att hjälpa dig att lösa dina framtida fall!"
+        "str": "Jag har skapat en mer avancerad guide som utforskar alla aspekter av karriärläge. Om du behöver mer hjälp rekommenderar jag att du kollar in den; "
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Perfekt, nu ska vi undersöka en av dockorna. Jag har gett dig en kamera; låt oss ta en bild av Lil."
+        "str": "Perfekt, låt oss nu undersöka en av dockorna. Jag ​​har gett dig en kamera; "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1461,7 +1461,7 @@
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "Stön"
+        "str": "Klagan"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
@@ -1473,7 +1473,7 @@
         "key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_25.Text",
         "id": "Focus / Zoom",
-        "str": "Fokus / Zoom"
+        "str": "Fokusera / Zooma"
     },
     {
         "key": "6AE175A04F5F286311D601922779AEE5",
@@ -1491,7 +1491,7 @@
         "key": "6B78310947BA56A4D0322EAFBC650458",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Macabre",
-        "str": "Den Makabra"
+        "str": "Den makabra"
     },
     {
         "key": "6BF7F5344FD96A246EE841869E9C0DB0",
@@ -1503,13 +1503,13 @@
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "Ande"
+        "str": "Midnatten"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_18.Text",
         "id": "Find a new case",
-        "str": "Hitta ett nytt fall"
+        "str": "Hitta ett nytt ärende"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
@@ -1521,31 +1521,31 @@
         "key": "6E900D00499A2A657789138FBA3BD69E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_49.Text",
         "id": "Previous Equipment",
-        "str": "Föregående utrustning"
+        "str": "Tidigare utrustning"
     },
     {
         "key": "6F62E8EE4D6306627A7D92B69CABCC13",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Lily flower",
-        "str": "Liljeblomma"
+        "str": "Lilja blomma"
     },
     {
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "Klagan"
+        "str": "Den helgade"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "Rosenblad"
+        "str": "Små och saftiga frukter."
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "Glimt"
+        "str": "Det spöklika"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -1563,13 +1563,13 @@
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "Grimas"
+        "str": "Bländningen"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
         "id": "Volumetric Fog Quality",
-        "str": "Volumetrisk dimma kvalitet"
+        "str": "Volumetrisk dimkvalitet"
     },
     {
         "key": "72400A564910846D7B2ECEAD2631331D",
@@ -1581,7 +1581,7 @@
         "key": "7286FEC6469CF65A5584DB896D227680",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(0).Options.Label",
         "id": "Windowed",
-        "str": "Fönsterläge"
+        "str": "Fönster"
     },
     {
         "key": "733845AE414C327753B93094F83BF162",
@@ -1593,7 +1593,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Välkommen till Karriärläge. I detta spelläge måste du upptäcka information om dockorna och lösa varje fall korrekt."
+        "str": "Välkommen till Career Mode. I det här spelläget måste du avslöja information om dockorna och lösa varje fall korrekt."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1617,13 +1617,13 @@
         "key": "743C50254A73CE29F7B3D7858FFBA46F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and thick liquid.",
-        "str": "Mörk och tjock vätska."
+        "str": "Mörk och tjock vätska__PUNKT__"
     },
     {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Deadly",
-        "str": "Den Dödlig"
+        "str": "Den Dödliga"
     },
     {
         "key": "75A0760B4CF756F7572751980578A7E4",
@@ -1635,7 +1635,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Du kommer att ha en detektivroll där du måste avgöra, baserat på bedragarens tycken och ogillanden som listas på panelen till vänster, vad han gillar och inte gillar, vem hans fiender, vänner, älskare eller hatade individer är."
+        "str": "Du kommer att ha en detektivroll där du måste avgöra, baserat på bedragarens gillar och ogillar listade på panelen till vänster, vad han gillar och inte gillar, vilka hans fiender, vänner, älskar eller hatade individer är."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1665,43 +1665,43 @@
         "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echosong",
-        "str": "Kuslig"
+        "str": "Ekosången"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Volym för skrämsel"
+        "str": "Jumpscares Volym"
     },
     {
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(1).texts",
         "id": "Where is the hope?",
-        "str": "Var är hoppet?"
+        "str": "Var finns hoppet?"
     },
     {
         "key": "7954AA374982804CD0C829A2D5575131",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_17.Text",
         "id": "Money Earned",
-        "str": "Intjänade pengar"
+        "str": "Pengar intjänade"
     },
     {
         "key": "7969D08443D6AB359F1A76AFDC805E0F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmurer",
-        "str": "Skugga"
+        "str": "Mumlaren"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
         "id": "Go to Safe House",
-        "str": "Gå till säkra huset"
+        "str": "Gå till Safe House"
     },
     {
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Du har använt allt du behövde använda här"
+        "str": "Du har använt allt du behövde för att använda här."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1719,37 +1719,37 @@
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "Dyster"
+        "str": "Lurk"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Menacing",
-        "str": "Den Hotfulla"
+        "str": "Det hotfulla"
     },
     {
         "key": "7B965EEB441BE13C098439BB745C2F25",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You're short of ingredients to make this",
-        "str": "Du saknar ingredienser för att göra detta"
+        "str": "Du har ont om ingredienser för att göra detta"
     },
     {
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
-        "str": "Inget verkar längre meningsfullt"
+        "str": "Inget är vettigt längre"
     },
     {
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "När du har avslutat handledningen kan du möta ekonomiska svårigheter. För att åtgärda detta kan du spela det klassiska läget, och beroende på svårighetsgraden kommer det att ge dig mer eller mindre pengar att använda i fallen."
+        "str": "När du är klar med handledningen kan du möta ekonomiska svårigheter. För att lösa detta kan du spela det klassiska läget, och beroende på svårighetsgraden kommer det att ge dig mer eller mindre pengar att använda i fallen."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-        "str": "Endast lämplig för proffs, börjar kl. 08:00 och har endast 3 effektiva ledtrådar, det finns inga foton eller hjälpmedel, vissa data är dolda, du har begränsad tillgång till kartan"
+        "str": "Endast lämplig för proffs, den börjar klockan 08:00 och har bara 3 effektiva ledtrådar, det finns inga foton eller hjälpmedel, en del av data är dold, du har begränsad tillgång till kartan"
     },
     {
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
@@ -1761,7 +1761,7 @@
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "Vänster sida av Van"
+        "str": "Van vänster sida"
     },
     {
         "key": "7D39CA6640F288A9002846AE7D7F4041",
@@ -1773,25 +1773,25 @@
         "key": "7EB47B9449369EB3E3F18C972CC18786",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals enmity",
-        "str": "Elixir som avslöjar fientlighet"
+        "str": "Elixir som avslöjar fiendskap"
     },
     {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text",
         "id": "Anti Aliasing Quality",
-        "str": "Kantutjämningskvalitet"
+        "str": "Anti-aliasing kvalitet"
     },
     {
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Låt oss sätta en fälla för bedragaren. Vi vet redan att han gillar TV och musik. Slå på ljusen."
+        "str": "Låt oss sätta en fälla för bedragaren. Vi vet redan att han gillar TV och musik. Tänd lamporna."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "Effekterna har avtagit. Om du inte lyckades skriva ner det, Lil's älskar är: {people}"
+        "str": "Effekterna har försvunnit. Om du inte lyckades skriva ner det, är Lils kärlekar: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1809,13 +1809,13 @@
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show jumpscares",
-        "str": "Visa skämskuddar"
+        "str": "Visa jumpscares"
     },
     {
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van floor",
-        "str": "Van golv"
+        "str": "Skåpbilsgolv"
     },
     {
         "key": "806D1B0C4EFCAD5D435AD6A24A208010",
@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Du har slagit ditt nya rekord med {new} nätter! Från tidigare {old} nätter!"
+        "str": "Du har slagit ditt nya rekord med {new} nights! "
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -1839,7 +1839,7 @@
         "key": "814D9929402ED9670B11B8A5F77DD89E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Dove's feather",
-        "str": "Duvfjäder"
+        "str": "Duvans fjäder"
     },
     {
         "key": "815797D840D1A6AEC45401A9A3996DE0",
@@ -1875,19 +1875,19 @@
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "Du kan prova det nu på datorn"
+        "str": "Du kan prova det nu i PC"
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text",
         "id": "Foliage Quality",
-        "str": "Lövverk Kvalitet"
+        "str": "Lövverk kvalitet"
     },
     {
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "Siaren"
+        "str": "Murken"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -1905,13 +1905,13 @@
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "Strömmen på! Återvänd till huset."
+        "str": "El på! "
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shroud",
-        "str": "Svepningen"
+        "str": "Liknelsen"
     },
     {
         "key": "8634768E4D6C9A9C68755EA705B1A09E",
@@ -1923,19 +1923,19 @@
         "key": "86BE55834614BDEE6BACCD821A069F89",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-        "str": "Ett elegant smycke bestående av en sträng runda pärlor, kända för sin mjuka glans och associerade med sofistikering och lyx."
+        "str": "Ett elegant smycke som består av en sträng av runda pärlor, kända för sin mjuka lyster och förknippade med sofistikering och lyx."
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
-        "str": "När du är redo, klicka på knappen Acceptera för att ta på dig detta fall"
+        "str": "Göra"
     },
     {
         "key": "8772BC8B4A8B67D8026B5D806054E488",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_27.Text",
         "id": "Sell All",
-        "str": "Sälj allt"
+        "str": "Sälj alla"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -1971,7 +1971,7 @@
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "Gröna och stickande blad."
+        "str": "Gröna och stickande löv__PUNKT__"
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -1989,13 +1989,13 @@
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Well done!",
-        "str": "Bra jobbat!"
+        "str": "Bra gjort!"
     },
     {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
-        "str": "Tillbaka till säkert hus"
+        "str": "Tillbaka till safehouse"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
@@ -2019,7 +2019,7 @@
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
-        "str": "Läger med vänner"
+        "str": "Campa med vänner"
     },
     {
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
@@ -2055,13 +2055,13 @@
         "key": "91E782534C65C15F2165A692F6DD50F6",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_2.Text",
         "id": "Products purchased",
-        "str": "Köpta produkter"
+        "str": "Inköpta produkter"
     },
     {
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "Mörk"
+        "str": "Den lurande"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -2079,7 +2079,7 @@
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals likes",
-        "str": "Papper som avslöjar gillar"
+        "str": "Papper som avslöjar likes"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
@@ -2133,19 +2133,19 @@
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diabolic",
-        "str": "Den Djävulska"
+        "str": "Den djävulska"
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
-        "str": "Actiondetaljer"
+        "str": "Åtgärdsdetaljer"
     },
     {
         "key": "9806DB6E4107A01E3979C1BBEF780A91",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_41.Text",
         "id": "Global Illumination Quality",
-        "str": "Global belysning kvalitet"
+        "str": "Global belysningskvalitet"
     },
     {
         "key": "986FE18441EBE7BFF160D38E25BEF05E",
@@ -2163,19 +2163,19 @@
         "key": "99AE0DEC47710525BAF347ABFE8339AB",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_39.Text",
         "id": "Post Processing Quality",
-        "str": "Efterbearbetningskvalitet"
+        "str": "Kvalitet efter bearbetning"
     },
     {
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "Skriket"
+        "str": "Screech"
     },
     {
         "key": "9A3A87B047A1CC933C4F6197811B657B",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Cup",
-        "str": "Guldpokal"
+        "str": "Guld Cup"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
@@ -2187,25 +2187,25 @@
         "key": "9AA78476434241C7EE4929A6B33EE813",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shifting Shadow",
-        "str": "Den föränderlig skuggan"
+        "str": "Den skiftande skuggan"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unlucky",
-        "str": "Den Olycklige"
+        "str": "Den oturliga"
     },
     {
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "Viskning"
+        "str": "Hotet"
     },
     {
         "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixir applied! Check the dolls around to determine whom Lil loves.",
-        "str": "Elixir applicerat! Kolla dockorna runt om för att bestämma vem Lil älskar."
+        "str": "Elixir applicerat! "
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
@@ -2217,7 +2217,7 @@
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "En genomskinlig och elegant behållare."
+        "str": "En transparent och elegant behållare."
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
@@ -2229,7 +2229,7 @@
         "key": "9CDEB80D4E621DB2CC0B839965697925",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Awkward",
-        "str": "Den Klumpiga"
+        "str": "Den obekväma"
     },
     {
         "key": "9CE4FD774DFBE4C84DC711A634666FA7",
@@ -2253,19 +2253,19 @@
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "Låt oss stryka Lil eftersom det är dockan vi ska undersöka."
+        "str": "Låt oss kryssa av Lil eftersom det är dockan vi ska undersöka."
     },
     {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
-        "str": "Tystnad"
+        "str": "Det obskyra"
     },
     {
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "För att utveckla fotot måste du flytta det. När det är 100% utvecklat, tryck bara på användknappen, och det sparas."
+        "str": "För att framkalla fotot måste du flytta det. När det är framkallat 100%, tryck helt enkelt på använd-knappen, så sparas det."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2283,7 +2283,7 @@
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but in race mode with medals",
-        "str": "Slumpmässigt läge men i lopp med medaljer"
+        "str": "Slumpmässigt läge men i raceläge med medaljer"
     },
     {
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
@@ -2307,7 +2307,7 @@
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
         "id": "Film Grain",
-        "str": "Filmkorn"
+        "str": "Film korn"
     },
     {
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
@@ -2319,7 +2319,7 @@
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Abyss",
-        "str": "Ta foton av dockorna för att fylla i ledtrådarna"
+        "str": "Avgrunden"
     },
     {
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
@@ -2331,7 +2331,7 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "Tiden är ute! Om du inte lyckades skriva ner allt, här är vad som observerades: {actions}"
+        "str": "Tiden är ute! "
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2349,7 +2349,7 @@
         "key": "A7121AED466C7D8F9486A89DECB2409C",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "Välkommen till tillflyktsorten! Detta är din säkra zon. Här kan du starta ett nytt spel på datorn, se din samling av dockor och troféer, och också anpassa denna plats genom att klicka på färgpalettikonen på ditt skrivbord!"
+        "str": "Välkommen till fristaden! "
     },
     {
         "key": "A7C36D644573AD30716F4283EBBE53D2",
@@ -2379,7 +2379,7 @@
         "key": "AA8520BE4876828E544192BFA8F98EE7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Move Self",
-        "str": "Flytta dig själv"
+        "str": "Flytta själv"
     },
     {
         "key": "AB25CB294CD7BEF8559DFA89B96B8F9B",
@@ -2391,7 +2391,7 @@
         "key": "AB6B64D64932C68A8743709693AF267B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
         "id": "Position",
-        "str": "Position"
+        "str": "Placera"
     },
     {
         "key": "AC46E8C5498572C242CBADA69A94A0A7",
@@ -2421,37 +2421,37 @@
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "Ett litet, mörkt och skrumpnat hjärta."
+        "str": "Ett litet, mörkt och skrumpna hjärta__PUNKT__"
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Rose Petals",
-        "str": "Gå igenom de olika flikarna för att bekanta dig med dem"
+        "str": "Rosenblad"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To sleep, simply point at the bed and click on it.",
-        "str": "För att sova, rikta bara mot sängen och klicka på den."
+        "str": "För att sova, peka helt enkelt på sängen och klicka på den__PUNKT__"
     },
     {
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "Du har förlorat 90 % av hela belöningen på grund av saknade bilder"
+        "str": "Du har förlorat 90% av hela belöningen på grund av saknade foton."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Okej, jag ger dig resten av elixirerna att applicera på Lil. Amicitia representerar vänskap, Inimicitia representerar fiendskap och Odium representerar hat. Var och en av dessa, med sin specifika färg, kommer att avslöja Lils relationer. Skriv ner allt du observerar, och kom ihåg att i vissa fall kanske Lil inte har någon relation med en specifik roll."
+        "str": "Okej, jag ska ge dig resten av elixirerna att tillämpa på Lil. Amicitia representerar vänskap, Inimicitia representerar fiendskap och Odium representerar hat. Var och en av dessa, med sin specifika färg, kommer att avslöja Lils relationer. Skriv ner allt du observerar och kom ihåg att "
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
-        "str": "Spela igen"
+        "str": "Spela om"
     },
     {
         "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
@@ -2463,7 +2463,7 @@
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "Flämtning"
+        "str": "Flimmern"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
@@ -2475,25 +2475,25 @@
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
         "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-        "str": "Ytterligare en svårighetsgrad, det finns inga extra ledtrådar, du kan inte se namnen eller listan"
+        "str": "Ytterligare ett svårighetssteg, det finns inga extra ledtrådar, Du kan inte se namnen eller listan"
     },
     {
         "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
         "id": "Race",
-        "str": "Lopp"
+        "str": "Ras"
     },
     {
         "key": "B300BE9147F822906E54C7A227BF23BA",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Welcome to Doll Impostor!",
-        "str": "Välkommen till \nDockbedragaren\n!"
+        "str": "Välkommen till Doll Impostor!"
     },
     {
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "Jag har gett dig en tändare. Använd den för de återstående åtgärderna."
+        "str": "Jag har gett dig en lighter. Använd den för de återstående åtgärderna."
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
@@ -2535,13 +2535,13 @@
         "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Terrifying",
-        "str": "Den Skräckinjagande"
+        "str": "Det skrämmande"
     },
     {
         "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unnoticed",
-        "str": "Den obemärkta"
+        "str": "Det obemärkta"
     },
     {
         "key": "B54084CB4A265AC5B0714AB02E26FFEE",
@@ -2553,7 +2553,7 @@
         "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Loner",
-        "str": "Enstöringen"
+        "str": "Ensamvargen"
     },
     {
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
@@ -2565,7 +2565,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Kräver energi"
+        "str": "Granska de olika flikarna för att bekanta dig med dem. När du är redo klickar du på knappen Acceptera för att ta itu med det här fallet."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2577,7 +2577,7 @@
         "key": "B7532CB642D1303CB57FF89D855B8189",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_14.Text",
         "id": "Days elapsed",
-        "str": "Förflutna dagar"
+        "str": "Dagar har gått"
     },
     {
         "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
@@ -2601,7 +2601,7 @@
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghoster",
-        "str": "Den Spöklika"
+        "str": "Spöket"
     },
     {
         "key": "B9B809EC40076554656E1A8C91157931",
@@ -2619,7 +2619,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Nu bör du skriva ner dem i anteckningarna på anteckningsblocket. Dessutom, om du använder tangentbord och mus, och du klickar utanför anteckningarna, kommer dockans sida att förbli öppen."
+        "str": "Nu bör du skriva ner dem i anteckningarna i anteckningsblocket. Dessutom, om du använder tangentbord och mus, och du klickar utanför anteckningarna, kommer dockans sida att förbli öppen."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2643,19 +2643,19 @@
         "key": "BCB8724F4D70F43E391D0FB8984329C6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diva",
-        "str": "Divan"
+        "str": "Divaen"
     },
     {
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "För att börja, finns det 20 dockor. Kontrollera dem på tavlan och när du är redo, gå till rummet för att möta dem."
+        "str": "Till att börja med finns det 20 dockor. Kontrollera dem på tavlan och när du är redo, gå till rummet för att träffa dem."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "Gå och lägg dig och låt oss se om ledtråden löses under nästa timme."
+        "str": "Gå och sova och låt oss se om ledtråden är löst inom nästa timme__PUNKT__"
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -2679,13 +2679,13 @@
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "En värdefull ädelsten känd för sin extrema hårdhet och glans, ofta använd i smycken och uppskattad för sin renhet och sällsynthet."
+        "str": "En dyrbar ädelsten känd för sin extrema hårdhet och briljans, vanligen använd i smycken och värderad för sin renhet och sällsynthet."
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sinister",
-        "str": "Den Sinister"
+        "str": "Den olycksbådande"
     },
     {
         "key": "BF4FA5364C39224BE93EC080C21FF285",
@@ -2697,7 +2697,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Det är tydligt att han gillar blod. Det kan vara någon av de två, men kontrollera lådorna. Freddy saknas och hans låda är full av blod. Han lämnade detta omdöme åt dig. När du är säker, kassera kandidaten."
+        "str": "Det är tydligt att han gillar blood. Det kan vara någon av de två, men markera rutorna. Freddy saknas och hans låda är full av blod. Han lämnade den här domen åt dig. När du är säker, kasta kandidaten."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
@@ -2709,7 +2709,7 @@
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "Gåta"
+        "str": "Den kusliga"
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
@@ -2727,25 +2727,25 @@
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
-        "str": "Låt oss nu slå på elen"
+        "str": "Kräver energi"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
-        "str": "Fokus synfält"
+        "str": "Fokusera FOV"
     },
     {
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text",
         "id": "Number of photographs taken of dolls",
-        "str": "Antal tagna fotografier av dockor"
+        "str": "Antal fotografier tagna av dockor"
     },
     {
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "En vit och delikat fjäder."
+        "str": "En vit och delikat fjäder__PUNKT__"
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
@@ -2763,13 +2763,13 @@
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "Ett solidt block av raffinerat guld, mycket rent, använt som en investering eller värdebevarare, kännetecknat av sin vikt och gyllene lyster."
+        "str": "Ett massivt block av raffinerat guld, mycket rent, som används som en investering eller värdeförvaring, kännetecknad av sin vikt och gyllene lyster."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
-        "str": "Höger sida av Van"
+        "str": "Van höger sida"
     },
     {
         "key": "C6298185486DF0A5C64519AD8B518D4C",
@@ -2787,19 +2787,19 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "Bärbar enhet som producerar en flamma för att tända en eld"
+        "str": "Bärbar enhet som producerar en låga för att starta en brand."
     },
     {
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "Mycket bra, låt oss gå tillbaka till huset. Vi ska upptäcka saker om Lil. Öppna hennes låda, och vi kommer att fortsätta att applicera elixirer."
+        "str": "Mycket bra, låt oss gå tillbaka till huset. Vi ska upptäcka saker om Lil. Öppna hennes låda och vi fortsätter att applicera elixirs."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Jag har gett dig en ficklampa, vilket är ganska viktigt i detta läge på grund av den tunga mörkret. Observera siffrorna på din UI längst ned; du kan utrusta högst 10 föremål, med det första facket alltid som din hand. Du kan navigera genom din inventering genom att trycka på Föregående och Nästa utrustningsknappar, eller på tangentbordet genom att använda sifferknapparna eller musrullen."
+        "str": "Jag har gett dig en ficklampa, vilket är ganska viktigt i det här läget på grund av det tunga mörkret. Var uppmärksam på siffrorna på ditt användargränssnitt längst ner; "
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2811,7 +2811,7 @@
         "key": "C8A00764485261B746BFEE94C58D6ECA",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Scary",
-        "str": "Den Läskiga"
+        "str": "Den skrämmande"
     },
     {
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
@@ -2829,13 +2829,13 @@
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "Små och saftiga frukter"
+        "str": "Själsbok"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "Han har fallit i vår fälla och stängt av ljuset. Nu kan vi kassera alla som gillar ljuset."
+        "str": "Han har gått i vår fälla och släckt lamporna__PUNKT__ Vi kan nu kassera alla de som gillar ljuset__PUNKT__"
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -2853,7 +2853,7 @@
         "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "Dropped",
-        "str": "Avbruten"
+        "str": "Tappade"
     },
     {
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
@@ -2883,25 +2883,25 @@
         "key": "CF3A6ECB45A9488C10D246A3FD143977",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Weasel",
-        "str": "Vesslan"
+        "str": "Vättlan"
     },
     {
         "key": "D03A184741DBDC2985FBC9A454F19494",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Nervous",
-        "str": "Den nervöse"
+        "str": "Den nervösa"
     },
     {
         "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Spooky",
-        "str": "Den Ruskiga"
+        "str": "Den spöklika"
     },
     {
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "Fniss"
+        "str": "Den kryptiska"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
@@ -2919,13 +2919,13 @@
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
-        "str": "Eko"
+        "str": "Ekandet"
     },
     {
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "Rymlig väska"
+        "str": "Ta dockfoton för att fylla ledtrådarna"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2937,13 +2937,13 @@
         "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
         "id": "Win cases",
-        "str": "Vinna fall"
+        "str": "Vinn fall"
     },
     {
         "key": "D2EAFC9348E348C7516300BF122B9702",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Right Place",
-        "str": "Höger plats"
+        "str": "Rätt plats"
     },
     {
         "key": "D3B042044111E5CC7AE8239FB511F147",
@@ -2961,7 +2961,7 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "Tomhet"
+        "str": "Dysterheten"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2973,13 +2973,13 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "Gå in i huset och hitta dockrummet."
+        "str": "Gå in i huset och hitta dockrummet__PUNKT__"
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "Avgrund"
+        "str": "Krypningen"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
@@ -2991,13 +2991,13 @@
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "Sorglig"
+        "str": "Lurkern"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
         "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take notes on the behavior of the dolls",
-        "str": "Gosedjur"
+        "str": "Ta anteckningar om dockornas beteende"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -3009,19 +3009,19 @@
         "key": "D618A4A346B0EA7CBABE00AA94C80485",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Count",
-        "str": "Grev"
+        "str": "Greven"
     },
     {
         "key": "D627A24C4957566043D3F0ADF0F70B9E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
         "id": "Playgrounds",
-        "str": "Lekplats"
+        "str": "Lekplatser"
     },
     {
         "key": "D637C70741EFAAB1C70592A3E73D29E3",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_48.Text",
         "id": "Actions left",
-        "str": "Återstående åtgärder"
+        "str": "Åtgärder kvar"
     },
     {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
@@ -3033,13 +3033,13 @@
         "key": "D8CB256A4FC1286A3BD465B95B7398D6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Flirt",
-        "str": "Flörtaren"
+        "str": "Flirten"
     },
     {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
         "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
         "id": "Hide Self",
-        "str": "Göm dig själv"
+        "str": "Göm själv"
     },
     {
         "key": "D8F293214EA6402451DED28B75ADA37E",
@@ -3051,13 +3051,13 @@
         "key": "D955FAE74433E108EB3C078EF42B2DC8",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Quiet",
-        "str": "Den tyste"
+        "str": "Den tysta"
     },
     {
         "key": "D9B2458843A82DBB9843FBBB36327D9A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
         "id": "Turn Right",
-        "str": "Vrid till höger"
+        "str": "Sväng höger"
     },
     {
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
@@ -3069,7 +3069,7 @@
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixirs",
-        "str": "Elixirer"
+        "str": "Elixir"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -3081,19 +3081,19 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Själspapper är mystiska rullar, oerhört unika, och det finns två typer: Själspapper och Själmörka papper. Med andra ord, Själrullen och dess mörka version. Dessa rullar avslöjar dockornas gillanden och ogillanden. Vi börjar med den normala rullen. Applicera rullen på dockan."
+        "str": "Soul-papper är mystiska rullar, utomordentligt unika, och det finns två typer: Soul Papers och Soul Dark Papers. Med andra ord, Soul Scroll och dess mörka version. Dessa rullar avslöjar vad som gillar och ogillar dockorna. Vi börjar med den vanliga scrollen. "
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unsettling",
-        "str": "Den Oroliga"
+        "str": "Det oroande"
     },
     {
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "Du kan inte göra detta, det passar inte till något recept"
+        "str": "Du kan inte göra det här, det passar inte till något recept"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -3111,7 +3111,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Kom ihåg att du inte kan interagera med något just nu eftersom detta är handledningen"
+        "str": "Kom ihåg att du inte kommer att kunna interagera med någonting just nu eftersom detta är handledningen. Nu, låt oss slå på elen. Utrusta din säkring och gå till baksidan av huset för att aktivera den."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3123,19 +3123,19 @@
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The New",
-        "str": "Den nye"
+        "str": "Det Nya"
     },
     {
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "Om du återvänder till det säkra huset kommer huset att återställa sitt tillstånd och du kommer att förlora de utrustade föremålen."
+        "str": "Om du återvänder till safehouse kommer huset att återställa sitt tillstånd och du kommer att förlora de utrustade föremålen"
     },
     {
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "Bra jobbat"
+        "str": "Bra jobbat, slutligen, tänd eldstaden__PUNKT__"
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3153,7 +3153,7 @@
         "key": "E238A88B4FBC7C4641B8E9A95353B1C0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Indecent",
-        "str": "Den oanständige"
+        "str": "Den oanständiga"
     },
     {
         "key": "E2D484854A1C9DB14835A6AD457B6207",
@@ -3171,7 +3171,7 @@
         "key": "E447809B421298C1BDA5E4B063D86F49",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
-        "str": "Sova"
+        "str": "Actiondockor"
     },
     {
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
@@ -3189,13 +3189,13 @@
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "Uppfriskande gröna blad"
+        "str": "Uppfriskande gröna blad."
     },
     {
         "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "You can only equip a maximum of 10 items",
-        "str": "Du kan bara utrusta högst 10 föremål"
+        "str": "Du kan endast utrusta högst 10 föremål"
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
@@ -3213,13 +3213,13 @@
         "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
         "id": "As you unlock new levels, new ones will appear!",
-        "str": "När du låser upp nya nivåer kommer nya att visas!"
+        "str": "När du låser upp nya nivåer kommer nya att dyka upp!"
     },
     {
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "Ond"
+        "str": "Omen"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
@@ -3243,13 +3243,13 @@
         "key": "E96A210546B4B0647B0763843052BBF8",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
         "id": "Head Bobbing",
-        "str": "Huvudskakning"
+        "str": "Huvudet guppar"
     },
     {
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "Jag har gett dig några föremål, gå till hantverksavsnittet för att skapa en elixir"
+        "str": "Jag har gett dig några föremål, gå till hantverkssektionen för att skapa ett elixir, du kan göra det manuellt eller direkt genom att trycka på det elixir du vill ha."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3261,7 +3261,7 @@
         "key": "E9F12A4243E6AE323515DE8E9AA0162B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Specter",
-        "str": "Vålnaden"
+        "str": "Spectre"
     },
     {
         "key": "EABE87674E476F817EEF85B6E5E00296",
@@ -3291,13 +3291,13 @@
         "key": "EDA5294F43DB42C2856059B83C9A6BF5",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
         "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-        "str": "Denna sannolikhet kommer att vara latent varje gång du reser; du kan stöta på en låda som innehåller saker inuti."
+        "str": "Denna sannolikhet kommer att vara latent varje gång du reser; "
     },
     {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Du har förlorat 75 % för att du inte upptäckte bedragaren"
+        "str": "Du har förlorat 75% för att du inte upptäckte bedragaren"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3309,7 +3309,7 @@
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "Dykning"
+        "str": "Skymningen"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3321,7 +3321,7 @@
         "key": "F167859643FD37B593110B9A866E9EB3",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text",
         "id": "Endless",
-        "str": "Oändlig"
+        "str": "Ändlös"
     },
     {
         "key": "F1D636544DE5ADC7945E9789ACC63D6C",
@@ -3333,13 +3333,13 @@
         "key": "F21C143F425251C3614B29BD90BD710D",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_0 [Script Bytecode]",
         "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
-        "str": "Ju lägre förhållandet är, desto mer information om dockorna kommer att avslöjas i början (från 2 till 10)"
+        "str": "Ju lägre förhållande, desto mer information om dockorna kommer att släppas initialt (från 2 till 10)"
     },
     {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Frightening",
-        "str": "Den Skrämmande"
+        "str": "Det skrämmande"
     },
     {
         "key": "F234C7F94700549E267ADA87AC492287",
@@ -3351,7 +3351,7 @@
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "En bitter och viskös vätska."
+        "str": "En bitter och trögflytande vätska."
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3363,13 +3363,13 @@
         "key": "F28B41324F202FA2E02A0DB59579D291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wretched",
-        "str": "Den eländige"
+        "str": "De eländiga"
     },
     {
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "En gyllene och söt vätska."
+        "str": "En gyllene och söt vätska__PUNKT__"
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3393,7 +3393,7 @@
         "key": "F3539C0B4A4D262BEEADFCBC91E58848",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Toad Bile",
-        "str": "Paddgalla"
+        "str": "Paddan Galla"
     },
     {
         "key": "F398437D44CE91CF11D919A1208038ED",
@@ -3405,19 +3405,19 @@
         "key": "F4678833417F67BF4FB742B959AD7E80",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
         "id": "Only items that can be equipped will appear",
-        "str": "Endast utrustningsbara föremål kommer att visas"
+        "str": "Endast föremål som kan utrustas visas"
     },
     {
         "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Inventory",
-        "str": "Inventarier"
+        "str": "Lager"
     },
     {
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ringmaster",
-        "str": "Cirkusdirektören"
+        "str": "Ringmästaren"
     },
     {
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
@@ -3441,7 +3441,7 @@
         "key": "F63BB439446A93B294D5789005AB927F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Crow's Heart",
-        "str": "Kråkhjärta"
+        "str": "Kråkshjärta"
     },
     {
         "key": "F66992CC4272E9FD176972AE7A324010",
@@ -3453,19 +3453,19 @@
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mandrake Root",
-        "str": "Mandragorarot"
+        "str": "Mandrake rot"
     },
     {
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "Mörker"
+        "str": "Dyket"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Du kommer att ha ett ärende tillgängligt med olika dynamiska parametrar. Den kommer att visa information som den nuvarande, och om du inte gillar den kan du söka efter ett nytt ärende i utbyte mot pengar. För närvarande har vi begränsat dina interaktioner i handledningsläget; du kommer inte att kunna köpa, skapa, lämna ärendet eller söka efter ett nytt ärende."
+        "str": "Du kommer att ha ett fodral tillgängligt med olika dynamiska parametrar. Det kommer att visa information som det aktuella, och om du inte gillar det kan du söka efter ett nytt fall i utbyte mot pengar.. För närvarande har vi i handledningsläge begränsat dina interaktioner "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3477,13 +3477,13 @@
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "Skorpiongift"
+        "str": "Mjuka och doftande rosenblad."
     },
     {
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Теперь мы воспользуемся предметом «Книга душ». Этот предмет официально начнет игру. Использовать его просто: когда ты используешь эту книгу, тот, кто является самозванцем (в данном случае Лил), начнет действовать. В этот момент тебе нужно будет сравнить информацию с тем, что происходит, как в оригинальном режиме. Имей в виду, что у тебя есть 180 секунд, и если время достигнет нуля, это убьет тебя."
+        "str": "Nu kommer vi att använda själboken. Det här föremålet kommer officiellt att starta spelet. Användningen är enkel: när du använder den här boken kommer den som bedragaren än är (i det här fallet Lil) att börja vidta åtgärder. Vid det här laget kommer du att "
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3495,19 +3495,19 @@
         "key": "F83E76BC49FC84244322C382556B6E5F",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
-        "str": "Åh nej..."
+        "str": "Åh nej__PUNKT____PUNKT____PUNKT__"
     },
     {
         "key": "F880818144C667A994BEEF9200987EF4",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Chest",
-        "str": "Kista"
+        "str": "Bröst"
     },
     {
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "Klar och dödlig vätska."
+        "str": "Klar och dödlig vätska__PUNKT__"
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
@@ -3519,19 +3519,19 @@
         "key": "FA4E21624A2D966B1B2ED19005131257",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traditional",
-        "str": "Den traditionella"
+        "str": "Det traditionella"
     },
     {
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Innan du går vill jag klargöra att i det här spelläget kan du återvända till skyddet genom att köra husvagnen. Slutligen, det vi har gjort med Lil i det här läget kommer att behöva göras för var och en av dockorna för att identifiera bedragaren. Tänk på att kampanjläget är avsett att vara en samarbetsupplevelse i framtiden, vilket är varför det är viktigt att det inte är kort eller snabbt. Varje fall kan ta dig dagar att lö"
+        "str": "Innan du går vill jag förtydliga att i det här spelläget kan du återvända till fristaden genom att köra husvagnen. Slutligen, det vi har gjort med Lil i det här läget kommer att behöva göras för var och en av dockorna för att identifiera bedragaren. "
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Sleep",
-        "str": "Sömn"
+        "str": "Sova"
     },
     {
         "key": "FACAB65943781B084CD803A77E0F7266",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Vi har Ricky på soffan och Monty vid pianot, så vi har redan två möjliga kandidater. Men vi kommer inte att ta risken på 50 %. Låt oss gå tillbaka till rummet för att utesluta den som det inte kan vara och vänta på hans nästa händelse."
+        "str": "Vi har Ricky i soffan och Monty vid pianot, så vi har redan de 2 möjliga kandidaterna. Men vi kommer inte att ta risken på 50%. Låt oss gå tillbaka till rummet för att utesluta den som inte kan vara och vänta på "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
@@ -3555,25 +3555,25 @@
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
         "id": "Graphic Preset",
-        "str": "Grafikförinställning"
+        "str": "Grafisk förinställning"
     },
     {
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "Du har {new} nätter, du har inte lyckats slå ditt rekord på {old} nätter"
+        "str": "Du har {nya} nätter, du har inte lyckats slå ditt rekord på {gamla} nätter"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_5.Text",
         "id": "Master Volume",
-        "str": "Huvudvolym"
+        "str": "Master Volym"
     },
     {
         "key": "FD27A6D94DD43A861953BA81606B6B11",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant cinnamon stick.",
-        "str": "En doftande kanelstång."
+        "str": "En doftande kanelstång__PUNKT__"
     },
     {
         "key": "FD50C07D436B39761D90A28961DE809F",
@@ -3585,19 +3585,19 @@
         "key": "FD5D53AB4A626CFD46CF4E93053F9719",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Vulture's feather",
-        "str": "Gåsfjäder"
+        "str": "Gamens fjäder"
     },
     {
         "key": "FE11E6ED4FA63C5B12631383E56A20B5",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the {map} Map!",
-        "str": "Du har låst upp kartan {map}!"
+        "str": "Du har låst upp {map}-kartan!"
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
-        "str": "Du förlorar"
+        "str": "DU FÖRLORAR"
     },
     {
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
@@ -3609,7 +3609,7 @@
         "key": "FEEFC0A44A89E6CC7163CEB1F9C3F1B8",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_15.Text",
         "id": "XP Earned",
-        "str": "Intjänad XP"
+        "str": "XP tjänat"
     },
     {
         "key": "FF2636BB4F223BBD00D531A30CF9EB06",

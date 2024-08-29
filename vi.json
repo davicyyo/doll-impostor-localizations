@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "Xương"
+        "str": "đáng sợ"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -15,13 +15,13 @@
         "key": "008C17DA426E713F7F3A418B4FDE1BE4",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Leather",
-        "str": "Da"
+        "str": "Da thú"
     },
     {
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "Đáng sợ"
+        "str": "Bóng tối"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -39,13 +39,13 @@
         "key": "01C8EACC48F42AB3BC9A26B9A45C3E10",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Cinnamon",
-        "str": "Quế"
+        "str": "quế"
     },
     {
         "key": "02384976426960372C5EAE9FE9459154",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_3.Text",
         "id": "Your inventory",
-        "str": "Hàng tồn kho của bạn"
+        "str": "Khoảng không quảng cáo của bạn"
     },
     {
         "key": "0285258748FED1BC6E542F80A9097CE9",
@@ -57,13 +57,13 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "Hoàng hôn"
+        "str": "Tiếng vang"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(1).Options.Label",
         "id": "Borderless",
-        "str": "Không viền"
+        "str": "Không biên giới"
     },
     {
         "key": "0375A2D542A72CFAD4E4CA8A30C56CC4",
@@ -75,13 +75,13 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Có vẻ như kẻ giả mạo đã thực hiện một số sự kiện. Những sự kiện này sẽ được hiển thị trên bảng điều khiển bên trái của bạn. Xem xét chúng và sau đó truy cập lại vào phòng."
+        "str": "Có vẻ như kẻ mạo danh đã thực hiện một số sự kiện. Những sự kiện này sẽ được hiển thị trên bảng điều khiển bên trái của bạn. Xem lại chúng và sau đó truy cập lại vào phòng."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "Nhăn nhó"
+        "str": "bệnh hoạn"
     },
     {
         "key": "056842694B3EB37BD05F159542C5CE41",
@@ -93,7 +93,7 @@
         "key": "0593C38042D49BC9D0958EB990324EFA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
         "id": "Jail Self",
-        "str": "Giam giữ mình"
+        "str": "tự giam mình"
     },
     {
         "key": "05AD525F49BFE5E3D0E076B33A48FCF0",
@@ -105,13 +105,13 @@
         "key": "0600D2134F5944FF6E3102866C348F23",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigma",
-        "str": "Huyền bí"
+        "str": "Bí ẩn"
     },
     {
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "Ma 28"
+        "str": "thở hổn hển"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -123,13 +123,13 @@
         "key": "073BF882481ECDE57F50FF98957A3C22",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new difficulty!",
-        "str": "Bạn đã mở khóa độ khó mới!"
+        "str": "Bạn đã mở khóa một khó khăn mới!"
     },
     {
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "Chi phí sẽ được phản ánh trong giá của các mặt hàng trong cửa hàng"
+        "str": "Chi phí sẽ được phản ánh vào giá của các mặt hàng trong cửa hàng"
     },
     {
         "key": "0860FF434B759F0DDD299AAD5097224D",
@@ -141,7 +141,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Hãy nhớ giữ cửa khóa với then cài. Nếu không, những con búp bê có thể ra ngoài, thay đổi các bài kiểm tra của bạn và thậm chí giết bạn."
+        "str": "Hãy nhớ khóa cửa bằng chốt. Nếu bạn không làm như vậy, búp bê có thể xuất hiện, thay đổi bài kiểm tra của bạn và thậm chí giết chết bạn."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -153,13 +153,13 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Bây giờ bạn đã chấp nhận trường hợp này. Ngoài hướng dẫn, bạn có thể từ bỏ vụ án bất cứ lúc nào, nhưng bạn sẽ không thể tìm thấy các vụ án mới sau khi đã chấp nhận. Khi mọi việc được giải quyết, hãy đến vị trí khi bạn đã sẵn sàng."
+        "str": "Bây giờ bạn đã chấp nhận trường hợp. Ngoài phần hướng dẫn, bạn có thể từ bỏ trường hợp này bất kỳ lúc nào nhưng bạn sẽ không thể tìm thấy các trường hợp mới sau khi đã chấp nhận. Sau khi giải quyết xong vấn đề này, hãy di chuyển đến địa điểm khi bạn đã sẵn sàng."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "Đây là phòng búp bê. Ở đây bạn sẽ thấy những gì chúng đã làm trong khi bạn ngủ. Hãy xem chúng và sau đó quay lại phòng."
+        "str": "Đây là phòng của búp bê. Ở đây bạn sẽ thấy những gì chúng đã làm khi bạn ngủ. Hãy nhìn chúng và sau đó quay lại phòng."
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -183,13 +183,13 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "Một quả vani thơm."
+        "str": "Một quả vani thơm ngát."
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(36 - Value).DisplayNameMap",
         "id": "Bouncy castles",
-        "str": "Lâu đài nhún"
+        "str": "lâu đài nảy"
     },
     {
         "key": "0B2A9AAE439C83F5A59624AAE1C48AAE",
@@ -207,13 +207,13 @@
         "key": "0CA5844D4070A29607D91D9C17419FCD",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Skip all hours",
-        "str": "Bỏ qua tất cả giờ"
+        "str": "Bỏ qua tất cả các giờ"
     },
     {
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "Giấy linh hồn tối"
+        "str": "Cửa hàng"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
@@ -231,37 +231,37 @@
         "key": "0D80C37D480FE34BE1CA64878A0D1B7D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the radio",
-        "str": "Bây giờ là radio"
+        "str": "Bây giờ đài phát thanh"
     },
     {
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Đu đưa mình"
+        "str": "Tự xoay"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "Hãy quay lại bảng điều khiển và bắt đầu loại trừ những kẻ tình nghi không phù hợp với bằng chứng của chúng ta."
+        "str": "Hãy quay lại hội thảo và bắt đầu loại bỏ những nghi phạm không phù hợp với bằng chứng của chúng ta."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Dreadful",
-        "str": "Kinh khủng"
+        "str": "sự khủng khiếp"
     },
     {
         "key": "109D973D484D997685448980DCB79533",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_2.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Floor",
-        "str": "Sàn"
+        "str": "Sàn nhà"
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_11.Text",
         "id": "Back",
-        "str": "Quay lại"
+        "str": "Mặt sau"
     },
     {
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
@@ -273,37 +273,37 @@
         "key": "14427A08459289522231F5B3835D2594",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Seer",
-        "str": "Nhà Tiên Tri"
+        "str": "Người tiên tri"
     },
     {
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "Một bông hoa trắng với những cánh mềm mại."
+        "str": "Một bông hoa trắng với những cánh hoa mềm mại."
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigmatic",
-        "str": "Ánh sáng lấp lánh"
+        "str": "Người bí ẩn"
     },
     {
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "Lời thì thầm bóng tối"
+        "str": "Lời thì thầm"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantasm",
-        "str": "Lời thì thầm"
+        "str": "Ảo tưởng"
     },
     {
         "key": "158F6D234AF05145B4905F942285D978",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the Ouija board on the table",
-        "str": "Bây giờ là bảng Ouija trên bàn"
+        "str": "Bây giờ bảng Ouija trên bàn"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -315,37 +315,37 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "Rất tốt, bạn đã sử dụng tất cả các mặt hàng trên búp bê. Lần này, những thứ mà Lil không thích là: {items}"
+        "str": "Tốt lắm, bạn đã sử dụng hết đồ trên búp bê. Lần này, những thứ Lil không thích là: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(3).Options.Label",
         "id": "Extreme",
-        "str": "Cực đoan"
+        "str": "Vô cùng"
     },
     {
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Giường trong xe van"
+        "str": "Giường Văn"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
-        "str": "Thoát"
+        "str": "Ra"
     },
     {
         "key": "16A84C9B486F4A520142D791EC349B4F",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text",
         "id": "Shading Quality",
-        "str": "Chất lượng đổ bóng"
+        "str": "Chất lượng bóng"
     },
     {
         "key": "16B725324055549E77710CACDD3325FF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now move the picture closest to the living room door.",
-        "str": "Bây giờ hãy di chuyển bức tranh gần nhất với cửa phòng kh"
+        "str": "Bây giờ hãy di chuyển bức tranh đến gần cửa phòng khách nhất."
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -357,13 +357,13 @@
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "Run rẩy"
+        "str": "sự tối nghĩa"
     },
     {
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "Một rễ cây xoắn và đáng sợ."
+        "str": "Một cái rễ xương xẩu và nham hiểm."
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
@@ -381,7 +381,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Hủy bỏ vụ án"
+        "str": "Hộp đựng thả rơi"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -393,19 +393,19 @@
         "key": "1AEE02D7485216A7EBEC93AD95D81A25",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Right Side",
-        "str": "Bên phải máy tính"
+        "str": "PC bên phải"
     },
     {
         "key": "1AF5392F481406F80C566FB0740D5D3D",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shady",
-        "str": "Bóng Tối"
+        "str": "Bóng râm"
     },
     {
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "Ma 37"
+        "str": "Ghast"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
@@ -417,49 +417,49 @@
         "key": "1C4788334C67D107A7BE1F931C0A749E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_24.Text",
         "id": "Your election",
-        "str": "Lựa chọn của bạn"
+        "str": "Cuộc bầu cử của bạn"
     },
     {
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "Con búp bê này đang bị ảnh hưởng, hãy đợi cho đến khi hiệu ứng kết thúc trước khi áp dụng hiệu ứng khác"
+        "str": "Con búp bê này đang có hiệu lực, đợi hiệu ứng xong rồi áp dụng con khác"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gentleman",
-        "str": "Quý ông"
+        "str": "quý ông"
     },
     {
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "Một chiếc lông lớn và xám."
+        "str": "Lông lớn và màu xám."
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_33.Text",
         "id": "Screen Percentage",
-        "str": "Tỷ lệ Màn hình"
+        "str": "Tỷ lệ màn hình"
     },
     {
         "key": "1DFB0F2649F857BCBC918D9215167D9B",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Case",
-        "str": "Vụ án"
+        "str": "Trường hợp"
     },
     {
         "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Howl",
-        "str": "Xấu xa"
+        "str": "tiếng hú"
     },
     {
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "Nụ cười"
+        "str": "ánh sáng lấp lánh"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
@@ -471,19 +471,19 @@
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "Những Tiếng Thì Thầm"
+        "str": "Những lời thì thầm"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "Tiếng hú"
+        "str": "sự nhăn nhó"
     },
     {
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Những thứ thuốc này tiết lộ mối quan hệ giữa các con búp bê. Tất cả đều có mối quan hệ, và đây là cách duy nhất để khám phá chúng. Hãy bắt đầu bằng cách kiểm tra mối quan hệ tình yêu của Lil với các con búp bê khác. Chỉ cần áp dụng thuốc vào Lil và quan sát hiệu ứng. Tất cả những người phản ứng với hiệu ứng của Lil là những người Lil yêu."
+        "str": "Những thuốc tiên này tiết lộ mối quan hệ giữa những con búp bê. Chúng đều có mối quan hệ và đây là cách duy nhất để khám phá chúng. Hãy bắt đầu bằng cách kiểm tra mối quan hệ tình yêu của Lil với những con búp bê khác. Đơn giản chỉ cần bôi thuốc tiên lên Lil và quan sát hiệu ứng. Tất cả những người phản ứng với tác dụng của Lil đều "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -495,19 +495,19 @@
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cackle",
-        "str": "Ghi chú về hành vi của búp bê"
+        "str": "cackle"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
         "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
         "id": "Loves",
-        "str": "Yêu thích"
+        "str": "yêu thích"
     },
     {
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "Bạn có tất cả các manh mối và tất cả thông tin về búp bê, nhưng điều này hoàn toàn ngẫu nhiên cho mỗi con búp bê."
+        "str": "Bạn có tất cả manh mối và thông tin về những con búp bê, nhưng điều này hoàn toàn ngẫu nhiên đối với mỗi con búp bê."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -525,19 +525,19 @@
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silhouette",
-        "str": "Hình Bóng"
+        "str": "Hình bóng"
     },
     {
         "key": "230AAACD49536A9594B0CBB4CA653C76",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the tv",
-        "str": "Bây giờ là TV"
+        "str": "Bây giờ tivi"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
         "id": "Case Number",
-        "str": "Số vụ án"
+        "str": "Số hồ sơ"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -549,7 +549,7 @@
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "Có nhiều mục tiêu xuất hiện trong bức ảnh; hãy cố gắng tiến gần hơn và chỉ tập trung vào mục tiêu mong muốn."
+        "str": "Nhiều mục tiêu đã xuất hiện trong ảnh; "
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -561,7 +561,7 @@
         "key": "24B7D6584C3AF4730B3365BB46DDA130",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and toxic leaves.",
-        "str": "Lá cây tối và độc."
+        "str": "Lá sẫm màu và độc hại."
     },
     {
         "key": "24FA60AC4C99AD7D35B45C8F7E6C1279",
@@ -573,31 +573,31 @@
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_10.Text",
         "id": "Camera Sensivity",
-        "str": "Độ nhạy Camera"
+        "str": "Độ nhạy của máy ảnh"
     },
     {
         "key": "267DB35B4828F6D27920F0A6E4892E5A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_35.Text",
         "id": "Reflection Method",
-        "str": "Phương pháp Phản chiếu"
+        "str": "Phương pháp phản ánh"
     },
     {
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "Mục tiêu chưa được phát hiện, cố gắng tập trung hơn và duy trì một khoảng cách nhất định nơi có thể nhìn thấy toàn bộ mục tiêu"
+        "str": "Chưa phát hiện được mục tiêu, hãy cố gắng tập trung hơn và giữ khoảng cách cụ thể để có thể nhìn thấy toàn bộ mục tiêu"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
         "id": "Results",
-        "str": "Trang bị cầu chì của bạn và đi đến phía sau ngôi nhà để kích hoạt nó"
+        "str": "Kết quả"
     },
     {
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "Kẻ Theo Dõi"
+        "str": "Kẻ theo dõi"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
@@ -609,55 +609,55 @@
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "Im lặng"
+        "str": "nụ cười toe toét"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "Cơn Gió Thì Thầm"
+        "str": "Lời thì thầm"
     },
     {
         "key": "2A85705945159E3B98E06BB40B5CA820",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the book",
-        "str": "Bây giờ là cuốn sách"
+        "str": "Bây giờ cuốn sách"
     },
     {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
-        "str": "Chạng vạng"
+        "str": "ma cà rồng"
     },
     {
         "key": "2BB11678432B1B25F353A1A7B4A35E7E",
         "location": "/Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text",
         "id": "Reset",
-        "str": "Đặt Lại"
+        "str": "Cài lại"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "Bà Xuất Sắc"
+        "str": "Ms. Xuất sắc"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Demon",
-        "str": "Ác quỷ"
+        "str": "Con quỷ"
     },
     {
         "key": "2D10309A4AE3A7B38D67BC894C9A5B97",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
         "id": "View Distance Quality",
-        "str": "Chất lượng khoảng cách nhìn"
+        "str": "Xem chất lượng khoảng cách"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
         "id": "Hard",
-        "str": "Khó"
+        "str": "Cứng"
     },
     {
         "key": "2DE4F4264AEB90D45B2363B38034FA9E",
@@ -675,13 +675,13 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "Máu rắn"
+        "str": "Giấy tối linh hồn"
     },
     {
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Tôi cũng đã cho bạn một chiếc túi. Chiếc túi này sẽ giúp bạn bắt kẻ giả mạo. Khi bạn bắt được nó, trò chơi sẽ kết thúc (nếu bạn làm như vậy trong thời gian quy định). Tôi sẽ để bạn hoàn thành phần này của hướng dẫn. Dù bạn thắng hay thua, bạn đã xong. Ch"
+        "str": "Tôi cũng đã đưa cho bạn một chiếc túi. Chiếc túi này sẽ giúp bạn bắt được kẻ mạo danh. Khi bạn bắt được nó, trò chơi sẽ kết thúc (nếu bạn làm như vậy trong thời gian giới hạn). Tôi sẽ để bạn hoàn thành phần hướng dẫn này. Cho dù bạn "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -699,13 +699,13 @@
         "key": "2F564E2B4FB1B7CB88A558A4D73A0B22",
         "location": "/Game/enums/actions.actions.DisplayNameMap(55 - Value).DisplayNameMap",
         "id": "Canvas",
-        "str": "Vải"
+        "str": "Vải bạt"
     },
     {
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lie bytes",
-        "str": "Những byte dối trá"
+        "str": "Các byte nói dối"
     },
     {
         "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -723,25 +723,25 @@
         "key": "31F30B9A42A2AFBDA2E46A82CAD31875",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_43.Text",
         "id": "Total Actions",
-        "str": "Tổng Hành Động"
+        "str": "Tổng số hành động"
     },
     {
         "key": "32053A4646B4374EA4DBD3BC64CB936C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spirit",
-        "str": "Linh Hồn"
+        "str": "Thánh Thần"
     },
     {
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "Đu đưa"
+        "str": "Nọc độc bọ cạp"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twilight",
-        "str": "Hoàng Hôn"
+        "str": "Chạng vạng"
     },
     {
         "key": "336B557643CBA00B5138539520DCBB04",
@@ -771,13 +771,13 @@
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "Điểm số"
+        "str": "máu rắn"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Malicious",
-        "str": "Độc ác"
+        "str": "sự độc hại"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
@@ -795,19 +795,19 @@
         "key": "37B6780C449B80C581D1478BD1CB6A4A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veiled",
-        "str": "Được Che Khuất"
+        "str": "Người che mặt"
     },
     {
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "Câu đố"
+        "str": "Người rên rỉ"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
-        "str": "Thích"
+        "str": "Lượt thích"
     },
     {
         "key": "3837591C42D92A7775C0598726DC6D31",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "Chúng ta chỉ còn lại 3. Hãy đi vào phòng để xem ai đã di chuyển và ai đã được di chuyển."
+        "str": "Chúng ta chỉ còn 3 người. Cùng vào phòng xem ai đã chuyển và ai đã được chuyển."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -831,31 +831,31 @@
         "key": "3AEB5BB747D3C431D54680AEFDB7D404",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silent",
-        "str": "Kẻ Im Lặng"
+        "str": "sự im lặng"
     },
     {
         "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An ancient piece of paper.",
-        "str": "Một mảnh giấy cổ xưa."
+        "str": "Một mảnh giấy cổ."
     },
     {
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Spacious bag",
-        "str": "Sách linh hồn"
+        "str": "Túi rộng rãi"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_42.Text",
         "id": "Reflection Quality",
-        "str": "Chất lượng phản xạ"
+        "str": "Chất lượng phản chiếu"
     },
     {
         "key": "3C68D11C43CC3EA53113F48A08FDF3AD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the wall clock",
-        "str": "Bây giờ là đồng hồ treo tường"
+        "str": "Bây giờ đồng hồ treo tường"
     },
     {
         "key": "3D3092E04B30FAE9F91970831F869B44",
@@ -867,7 +867,7 @@
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "Tiếng hét"
+        "str": "Người thương tiếc"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -879,31 +879,31 @@
         "key": "3E3E53D64E987B22AD5967A23BB5AC57",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text",
         "id": "Extras",
-        "str": "Phần thêm"
+        "str": "Tiện ích bổ sung"
     },
     {
         "key": "3E796087492560DF199BD58F4D3A3731",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_14.Text",
         "id": "Move Backward",
-        "str": "Di chuyển Lùi lại"
+        "str": "Di chuyển lùi"
     },
     {
         "key": "3E8440AC413D7725FE75218355F55B7B",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-        "str": "Tuyệt vời! Tôi đã cho bạn tờ giấy đen. Sử dụng nó trên Lil và ghi lại mọi thứ bạn thấy. Hãy nhớ rằng đây là những thứ cô ấy không thích, vì vậy bất kỳ thứ cô ấy tắt sẽ chỉ ra sở thích của cô ấy."
+        "str": "Tuyệt vời! "
     },
     {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
         "location": "/Game/enums/actions.actions.DisplayNameMap(56 - Value).DisplayNameMap",
         "id": "Words",
-        "str": "Lời Nói"
+        "str": "Từ"
     },
     {
         "key": "3F845D654ED6C33DC540F4BC414F7994",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ebon",
-        "str": "Sợ hãi"
+        "str": "Ebon"
     },
     {
         "key": "3FAB1E074AD22684E3F78785D85679FA",
@@ -927,19 +927,19 @@
         "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Bone",
-        "str": "Lấy đèn pin"
+        "str": "xương"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_17.Text",
         "id": "Move Right",
-        "str": "Di chuyển Sang phải"
+        "str": "Di chuyển sang phải"
     },
     {
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "Một chiếc cúp có hình dáng như một chiếc cốc, thường là bằng vàng, được trao như một biểu tượng của chiến thắng trong các cuộc thi thể thao hoặc các buổi lễ uy tín."
+        "str": "Một chiếc cúp có hình chiếc cốc, thường có màu vàng, được trao như biểu tượng của chiến thắng trong các cuộc thi thể thao hoặc các nghi lễ danh giá."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -951,19 +951,19 @@
         "key": "41A4BD564E59F19BEF73778A7250E40E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_45.Text",
         "id": "Actions completed",
-        "str": "Các hành động đã hoàn thành"
+        "str": "Hành động đã hoàn tất"
     },
     {
         "key": "420F5BCA40413C0383C7AA9583EEC5C0",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
         "id": "Mislead",
-        "str": "Lừa dối"
+        "str": "Đánh lừa"
     },
     {
         "key": "433A6CE84E4955044C7FB38105FA63BF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
         "id": "Footsteps Volume",
-        "str": "Âm lượng tiếng bước chân"
+        "str": "Âm lượng bước chân"
     },
     {
         "key": "43B95535434D97B9189B93A2A4594202",
@@ -975,7 +975,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "Kẻ rình rập"
+        "str": "sự ám ảnh"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -987,7 +987,7 @@
         "key": "455698874FAE4AEB808E15AA36758F84",
         "location": "/Game/enums/actions.actions.DisplayNameMap(30 - Value).DisplayNameMap",
         "id": "Houses",
-        "str": "Nhà cửa"
+        "str": "Nhà"
     },
     {
         "key": "45C632DB4CE38CCF91E0E89A3C83E11B",
@@ -999,7 +999,7 @@
         "key": "45DB611B482D35EE05ADE98331F2EC20",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Haunting",
-        "str": "Ám ảnh"
+        "str": "sự ám ảnh"
     },
     {
         "key": "460FFB13421148C8493D69A72A81E93C",
@@ -1011,7 +1011,7 @@
         "key": "4634F1C448A78E03F4AC7B94441281EB",
         "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_268.Text",
         "id": "Resume Game",
-        "str": "Tiếp tục Trò chơi"
+        "str": "Tiếp tục trò chơi"
     },
     {
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
@@ -1029,31 +1029,31 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Rời khỏi phòng ngay bây giờ và kiểm tra mọi thứ đã được kích hoạt. Ghi lại tất cả những gì bạn thấy trong sở thích của búp bê!"
+        "str": "Hãy rời khỏi phòng ngay bây giờ và kiểm tra mọi thứ đã được kích hoạt. Viết ra mọi thứ bạn nhìn thấy theo lượt thích của búp bê!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-        "str": "Bạn đã hoàn thành hướng dẫn, bạn biết những điều cơ bản! Để hoàn thành hướng dẫn, hãy đi ngủ. Bạn sẽ vào khu vực an toàn của mình. Sử dụng máy tính để bắt đầu một trò chơi!"
+        "str": "Bạn đã làm được điều đó thông qua phần hướng dẫn, bạn biết những điều cơ bản! "
     },
     {
         "key": "4798B1E54C73C4932878B1A4630376ED",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering",
-        "str": "Đang Thì Thầm"
+        "str": "Lời thì thầm"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Belladonna leaves",
-        "str": "Lá cây cà độc dược"
+        "str": "lá cà tím"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ominous",
-        "str": "Điềm xấu"
+        "str": "điều đáng ngại"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -1065,13 +1065,13 @@
         "key": "49EE0D0C418246C21899368F2615D0DE",
         "location": "/Game/enums/actions.actions.DisplayNameMap(26 - Value).DisplayNameMap",
         "id": "Trains",
-        "str": "Tàu hỏa"
+        "str": "Xe lửa"
     },
     {
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "Tấm vải liệm"
+        "str": "Màn đêm buông xuống"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -1083,7 +1083,7 @@
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "Búp bê treo trong xe van"
+        "str": "Búp bê Vân Treo"
     },
     {
         "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
@@ -1095,7 +1095,7 @@
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Select those objects to craft another one.",
-        "str": "Chọn những vật thể đó để tạo một cái khác."
+        "str": "Chọn những đồ vật đó để chế tạo một đồ vật khác."
     },
     {
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
@@ -1107,13 +1107,13 @@
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "Tôi đã cho bạn một quyển sổ tay nơi bạn có thể xem tất cả chi tiết về các búp bê và thông tin đầy đủ. Hãy xem và khi bạn sẵn sàng, hãy quay lại với các búp bê."
+        "str": "Tôi đã đưa cho bạn một cuốn sổ để bạn có thể xem tất cả thông tin chi tiết về búp bê và thông tin đầy đủ. Hãy xem và khi bạn đã sẵn sàng, hãy quay lại với búp bê."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veil",
-        "str": "Tấm Màn"
+        "str": "Tấm màn che"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -1125,13 +1125,13 @@
         "key": "50CA9C1F443642D2B6B6BE9E5D1E302F",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_34.Text",
         "id": "Global Illumination Method",
-        "str": "Phương pháp Chiếu sáng Toàn cầu"
+        "str": "Phương pháp chiếu sáng toàn cầu"
     },
     {
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "Kỳ Lạ"
+        "str": "Điều kỳ lạ"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -1143,25 +1143,25 @@
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
         "id": "Turn Left",
-        "str": "Quay trái"
+        "str": "Rẽ trái"
     },
     {
         "key": "51B58C89473E1AE2A37E6A8118DC37C1",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-        "str": "Bạn đã bao giờ tự hỏi thông tin về các búp bê đến từ đâu chưa? Trong chế độ sự nghiệp, bạn sẽ khám phá thông tin về các búp bê với vô số trường hợp, kinh tế, cấp độ, cửa hàng, chế tạo và nhiều hơn nữa!"
+        "str": "Bạn có bao giờ thắc mắc thông tin về những con búp bê đến từ đâu không? "
     },
     {
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "làm rất tốt, bạn đã hoàn thành các loại thuốc. Tôi không kiểm tra ghi chú của bạn, nhưng tôi chắc chắn chúng rất tuyệt!"
+        "str": "Làm tốt lắm, bạn đã hoàn thành thuốc tiên. Tôi sẽ không kiểm tra ghi chú của bạn, nhưng tôi chắc chắn rằng chúng rất tuyệt!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Bạn là người bảo vệ búp bê, một trong số chúng là sống và định giết bạn. Bạn phải tìm ra nó là ai trước 09:00."
+        "str": "Bạn là người bảo vệ những con búp bê, một trong số chúng còn sống và có ý định giết bạn. Bạn phải khám phá xem đó là con nào trước 09:00."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1173,25 +1173,25 @@
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "Hoàn hảo, chúng ta còn lại 5 kẻ tình nghi. Hãy đi ngủ lại."
+        "str": "Hoàn hảo, chúng ta còn lại 5 nghi phạm. Cùng đi ngủ thôi."
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "Cửa hàng"
+        "str": "Lấy đèn pin"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(50 - Value).DisplayNameMap",
         "id": "Carousel",
-        "str": "Vòng quay ngựa gỗ"
+        "str": "băng chuyền"
     },
     {
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Lights",
-        "str": "Đèn xe van"
+        "str": "Đèn Văn"
     },
     {
         "key": "554BB9D046155183D4DCF7A14F96171E",
@@ -1203,13 +1203,13 @@
         "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
         "id": "Back",
-        "str": "Quay lại"
+        "str": "Mặt sau"
     },
     {
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "Trước khi cho bạn tờ giấy đen, hãy kích hoạt và bật tất cả mọi thứ. Điều này sẽ giúp chúng tôi dễ dàng nhìn thấy điều mà búp bê không thích khi chúng ta dừng nó."
+        "str": "Trước khi đưa cho bạn tờ giấy màu tối, hãy kích hoạt và bật mọi thứ. Bằng cách này, chúng ta sẽ dễ dàng biết được con búp bê không thích điều gì khi chúng ta dừng nó lại."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1221,19 +1221,19 @@
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
         "id": "Camp with enemies",
-        "str": "Trại có kẻ thù"
+        "str": "Cắm trại với kẻ thù"
     },
     {
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
         "id": "Most Earned Doll",
-        "str": "Búp bê kiếm được nhiều nhất"
+        "str": "Búp bê kiếm được nhiều tiền nhất"
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
-        "str": "Bạn Thắng"
+        "str": "BẠN THẮNG"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -1245,31 +1245,31 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Chế độ ngẫu nhiên nhưng vô tận, bạn có 3 phút để giải quyết vụ án và có bảng xếp hạng"
+        "str": "Chế độ ngẫu nhiên nhưng vô tận, bạn có đồng hồ hẹn giờ 3 phút để khắc phục sự cố và có bảng xếp hạng các nhà lãnh đạo"
     },
     {
         "key": "5A9082C24056C8BFE9DE8EA9069EF292",
         "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
         "id": "For the changes to take effect, restart the game",
-        "str": "Để thay đổi có hiệu lực, khởi động lại trò chơi"
+        "str": "Để những thay đổi có hiệu lực, hãy khởi động lại trò chơi"
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
-        "str": "Vớ ống"
+        "str": "Tất ống"
     },
     {
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Bạn cần sử dụng cuốn sách linh hồn trước khi lưu búp bê mạo danh"
+        "str": "Bạn cần sử dụng cuốn sách linh hồn trước khi cứu búp bê mạo danh"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap",
         "id": "Move Others",
-        "str": "Di chuyển Người khác"
+        "str": "Di chuyển người khác"
     },
     {
         "key": "5E0DC4AE4575000AC0171F95AD85CADA",
@@ -1281,31 +1281,31 @@
         "key": "5E1C23674444BB331554B39281C7EA20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
-        "str": "Đu đưa người khác"
+        "str": "Đu người khác"
     },
     {
         "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_52.Text",
         "id": "Invert Camera",
-        "str": "Đảo ngược máy ảnh"
+        "str": "Camera đảo ngược"
     },
     {
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Umbral",
-        "str": "Bóng Tối"
+        "str": "cái ô"
     },
     {
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "Kết quả"
+        "str": "Bập bênh"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Widow",
-        "str": "Người góa phụ"
+        "str": "Góa phụ"
     },
     {
         "key": "60929102471030286F6536A92C1EC5C8",
@@ -1317,7 +1317,7 @@
         "key": "60E9BFBD4D9BFF7D7952CA9115FFAA10",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadow",
-        "str": "Bóng"
+        "str": "Cái bóng"
     },
     {
         "key": "611C7265455A03D1E36711A53C897A09",
@@ -1335,7 +1335,7 @@
         "key": "61579A7B4A7A797C38911980E669DE96",
         "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
         "id": "Jail Others",
-        "str": "Giam giữ người khác"
+        "str": "Nhà tù Khác"
     },
     {
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
@@ -1347,67 +1347,67 @@
         "key": "62E75F3344325D96C309BFB52949F95A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
         "id": "Stuffed Animals",
-        "str": "Giấy linh hồn"
+        "str": "Thú nhồi bông"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.name_18_82096130492E34A890A0138C4910D929",
         "id": "Circus",
-        "str": "Rạp xiếc"
+        "str": "Xiếc"
     },
     {
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "Khi bạn bắt đầu một vụ án, bạn sẽ có thể trang bị cho mình các mặt hàng bạn đã mua hoặc chế tạo. Để làm điều này, truy cập vào chiếc rương phía sau bạn. Lúc này, bạn sẽ thấy nó trống rỗng, nhưng đừng lo lắng, tôi sẽ cung cấp cho bạn các mặt hàng để bạn có thể quen với chúng!"
+        "str": "Khi bắt đầu một vụ án, bạn sẽ có thể trang bị cho mình những vật phẩm bạn đã mua hoặc chế tạo. Để làm điều này, hãy truy cập vào chiếc rương phía sau bạn. Ngay bây giờ, bạn sẽ thấy nó trống rỗng, nhưng đừng lo, tôi' "
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
         "id": "Look Up",
-        "str": "Nhìn lên"
+        "str": "tra cứu"
     },
     {
         "key": "63D67BF743D308E3537D9794B417B76A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_5.Text",
         "id": "Nightmare",
-        "str": "Ác mộng"
+        "str": "Cơn ác mộng"
     },
     {
         "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
-        "str": "Bóng Ma"
+        "str": "Bóng ma"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "Củ tối và hăng."
+        "str": "Củ sẫm màu và hăng."
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "Mức độ khó tiêu chuẩn cho mỗi người chơi, tất cả các manh mối sẽ được đưa ra lúc 08:00, bạn có tùy chọn xem tên của búp bê và danh sách hành động của kẻ giả mạo"
+        "str": "Độ khó tiêu chuẩn của mỗi người chơi, mọi manh mối sẽ được đưa ra vào lúc 08:00, bạn có tùy chọn xem tên các búp bê và danh sách hành động của kẻ mạo danh"
     },
     {
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Riddle",
-        "str": "Bí ẩn"
+        "str": "câu đố"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lover",
-        "str": "Người yêu"
+        "str": "Người Yêu"
     },
     {
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Đây là giờ cuối cùng. Chúng ta chỉ có cơ hội này để tìm ra. Hãy đi vào phòng."
+        "str": "Giờ cuối cùng rồi. Chúng ta chỉ có cơ hội này để tìm hiểu. Về phòng thôi."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1419,25 +1419,25 @@
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twisted",
-        "str": "Méo Mó"
+        "str": "xoắn"
     },
     {
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "Rất tốt, bây giờ là cây nến còn lại."
+        "str": "Tốt lắm, bây giờ là cây nến còn lại."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
         "id": "Brightness",
-        "str": "độ sáng"
+        "str": "Độ sáng"
     },
     {
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Tôi đã tạo một hướng dẫn nâng cao hơn khám phá tất cả các khía cạnh của Chế độ Nghề nghiệp. Nếu bạn cần thêm sự trợ giúp, tôi khuyên bạn nên xem qua; nó sẽ giúp bạn giải quyết các trường hợp trong tương lai của mình!"
+        "str": "Tôi đã tạo một hướng dẫn nâng cao hơn để khám phá tất cả các khía cạnh của Chế độ nghề nghiệp. Nếu bạn cần thêm trợ giúp, tôi khuyên bạn nên xem qua; "
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Hoàn hảo, bây giờ hãy điều tra một trong số các búp bê. Tôi đã cho bạn một chiếc máy ảnh; hãy chụp một bức ảnh của Lil."
+        "str": "Hoàn hảo, bây giờ chúng ta hãy điều tra một trong những con búp bê. Tôi đã đưa cho bạn một chiếc máy ảnh; "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1461,25 +1461,25 @@
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "Rên rỉ"
+        "str": "Lời than thở"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Object",
-        "str": "Đối tượng"
+        "str": "Sự vật"
     },
     {
         "key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_25.Text",
         "id": "Focus / Zoom",
-        "str": "Lấy nét / Phóng to"
+        "str": "Lấy nét/Thu phóng"
     },
     {
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "Bí ẩn"
+        "str": "sự tàn khốc"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1491,7 +1491,7 @@
         "key": "6B78310947BA56A4D0322EAFBC650458",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Macabre",
-        "str": "Ma quái"
+        "str": "sự rùng rợn"
     },
     {
         "key": "6BF7F5344FD96A246EE841869E9C0DB0",
@@ -1503,67 +1503,67 @@
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "Linh hồn"
+        "str": "Nửa đêm"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_18.Text",
         "id": "Find a new case",
-        "str": "Tìm vụ án mới"
+        "str": "Tìm một trường hợp mới"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
         "id": "Effects Volume",
-        "str": "Âm lượng hiệu ứng"
+        "str": "Khối lượng hiệu ứng"
     },
     {
         "key": "6E900D00499A2A657789138FBA3BD69E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_49.Text",
         "id": "Previous Equipment",
-        "str": "Thiết bị trước"
+        "str": "Thiết bị trước đó"
     },
     {
         "key": "6F62E8EE4D6306627A7D92B69CABCC13",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Lily flower",
-        "str": "Hoa huệ"
+        "str": "hoa huệ"
     },
     {
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "Than thở"
+        "str": "sự thiêng liêng"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "Cánh hoa hồng"
+        "str": "Quả nhỏ và mọng nước."
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "Ánh sáng lấp lánh"
+        "str": "ma quái"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
         "location": "/Game/UI/paperInterface.paperInterface_C:GetText_4 [Script Bytecode]",
         "id": "Partner",
-        "str": "Đối tác"
+        "str": "Cộng sự"
     },
     {
         "key": "7095C09D4014D1FB9E4C1D9529586155",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_7.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Left Side",
-        "str": "Bên trái máy tính"
+        "str": "PC bên trái"
     },
     {
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "Nhăn nhó"
+        "str": "Ánh sáng chói"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -1575,13 +1575,13 @@
         "key": "72400A564910846D7B2ECEAD2631331D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Honey",
-        "str": "Mật ong"
+        "str": "Em yêu"
     },
     {
         "key": "7286FEC6469CF65A5584DB896D227680",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(0).Options.Label",
         "id": "Windowed",
-        "str": "Chế độ cửa sổ"
+        "str": "có cửa sổ"
     },
     {
         "key": "733845AE414C327753B93094F83BF162",
@@ -1593,13 +1593,13 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Chào Mừng Bạn Đến Với Chế Độ Nghề Nghiệp. Trong chế độ chơi này, bạn sẽ cần khám phá thông tin về các con búp bê và giải quyết chính xác từng trường hợp."
+        "str": "Chào mừng bạn đến với Chế độ nghề nghiệp. Trong chế độ trò chơi này, bạn sẽ cần khám phá thông tin về búp bê và giải quyết từng trường hợp một cách chính xác."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traitor",
-        "str": "Kẻ phản bội"
+        "str": "kẻ phản bội"
     },
     {
         "key": "73D31FDE441CC82C2ADFE9B2A3A7A293",
@@ -1611,19 +1611,19 @@
         "key": "740E2993476C6AB0DEDC3BA514B0FF5F",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Comedian",
-        "str": "Diễn viên hài"
+        "str": "diễn viên hài"
     },
     {
         "key": "743C50254A73CE29F7B3D7858FFBA46F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and thick liquid.",
-        "str": "Chất lỏng tối và đặc."
+        "str": "Chất lỏng đậm và đặc."
     },
     {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Deadly",
-        "str": "Chết chóc"
+        "str": "chết người"
     },
     {
         "key": "75A0760B4CF756F7572751980578A7E4",
@@ -1635,7 +1635,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Bạn sẽ có vai trò của một thám tử, trong đó bạn phải xác định, dựa trên sở thích và không thích của kẻ giả mạo được liệt kê trên bảng điều khiển bên trái của bạn, hắn thích và không thích gì, ai là kẻ thù, bạn bè, tình yêu hoặc người bị ghét."
+        "str": "Bạn sẽ có một vai thám tử, trong đó bạn sẽ phải xác định, dựa trên những điều thích và không thích của kẻ mạo danh được liệt kê trên bảng bên trái của bạn, hắn thích và không thích gì, kẻ thù, bạn bè, người yêu hoặc những cá nhân bị ghét của hắn là ai."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1647,31 +1647,31 @@
         "key": "773B946148501068D9A5B3A814B81ECD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_16.Text",
         "id": "Move Left",
-        "str": "Di chuyển Sang trái"
+        "str": "Di chuyển sang trái"
     },
     {
         "key": "77597C9F40C4017557D06AA387E711B0",
         "location": "/Game/enums/costs.costs.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Very Expensive",
-        "str": "Rất Đắt"
+        "str": "Rất đắt"
     },
     {
         "key": "77DAE76A48EC13E45F2983881F23E808",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Gameplay Settings",
-        "str": "Cài đặt Gameplay"
+        "str": "Cài đặt trò chơi"
     },
     {
         "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echosong",
-        "str": "Rùng rợn"
+        "str": "Tiếng vọng"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Âm lượng hù dọa"
+        "str": "Số lượng Jumpscare"
     },
     {
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
@@ -1689,91 +1689,91 @@
         "key": "7969D08443D6AB359F1A76AFDC805E0F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmurer",
-        "str": "Bóng"
+        "str": "kẻ thì thầm"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
         "id": "Go to Safe House",
-        "str": "Đi đến Nhà An Toàn"
+        "str": "Đi tới Ngôi nhà an toàn"
     },
     {
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Bạn đã sử dụng mọi thứ bạn cần sử dụng ở đây"
+        "str": "Bạn đã sử dụng mọi thứ bạn cần để sử dụng ở đây."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
         "location": "/Game/enums/actions.actions.DisplayNameMap(12 - Value).DisplayNameMap",
         "id": "Balls",
-        "str": "Bóng"
+        "str": "Quả bóng"
     },
     {
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "Đe dọa"
+        "str": "sự im lặng"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "Ủ rũ"
+        "str": "Người ẩn náu"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Menacing",
-        "str": "Đe dọa"
+        "str": "Sự đe dọa"
     },
     {
         "key": "7B965EEB441BE13C098439BB745C2F25",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You're short of ingredients to make this",
-        "str": "Bạn thiếu các thành phần để làm điều này"
+        "str": "Bạn đang thiếu nguyên liệu để làm món này"
     },
     {
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
-        "str": "Mọi thứ không còn ý nghĩa nữa"
+        "str": "Chẳng còn ý nghĩa gì nữa"
     },
     {
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "Sau khi hoàn thành hướng dẫn, bạn có thể gặp khó khăn về tài chính. Để giải quyết vấn đề này, bạn có thể chơi chế độ cổ điển và tùy thuộc vào mức độ khó, bạn sẽ nhận được nhiều hoặc ít tiền hơn để sử dụng trong các vụ án."
+        "str": "Sau khi hoàn thành phần hướng dẫn, bạn có thể gặp khó khăn về tài chính. Để giải quyết vấn đề này, bạn có thể chơi chế độ cổ điển và tùy thuộc vào mức độ khó, nó sẽ cấp cho bạn nhiều hay ít tiền để sử dụng trong các trường hợp."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-        "str": "Chỉ phù hợp cho những người chuyên nghiệp, bắt đầu lúc 08:00 và chỉ có 3 manh mối hiệu quả, không có ảnh hoặc trợ giúp, một số dữ liệu bị ẩn, bạn có quyền truy cập hạn chế vào bản đồ"
+        "str": "Chỉ phù hợp với những người chuyên nghiệp, nó bắt đầu lúc 08:00 và chỉ có 3 manh mối hiệu quả, không có ảnh hoặc trợ giúp, một số dữ liệu bị ẩn, bạn bị hạn chế quyền truy cập vào bản đồ"
     },
     {
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(1).Options.Label",
         "id": "On",
-        "str": "Bật"
+        "str": "TRÊN"
     },
     {
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "Bên trái xe van"
+        "str": "Vân Bên Trái"
     },
     {
         "key": "7D39CA6640F288A9002846AE7D7F4041",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Mini Object",
-        "str": "Đối tượng nhỏ"
+        "str": "Vật thể nhỏ"
     },
     {
         "key": "7EB47B9449369EB3E3F18C972CC18786",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals enmity",
-        "str": "Thuốc tiên tiết lộ sự thù địch"
+        "str": "Thuốc tiên tiết lộ sự thù hận"
     },
     {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
@@ -1785,13 +1785,13 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Hãy đặt bẫy cho kẻ giả mạo. Chúng ta đã biết rằng hắn thích TV và âm nhạc. Bật đèn lên."
+        "str": "Hãy đặt bẫy kẻ mạo danh. Chúng ta đã biết rằng hắn thích TV và âm nhạc. Bật đèn."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "Hiệu ứng đã mờ nhạt. Nếu bạn không kịp ghi lại, tình yêu của Lil là: {people}"
+        "str": "Hiệu ứng đã hết. Nếu bạn không viết được nó ra thì tình yêu của Lil là: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1803,19 +1803,19 @@
         "key": "80178DF845B4F8C8D4B5DABBDC29F983",
         "location": "/Game/enums/actions.actions.DisplayNameMap(52 - Value).DisplayNameMap",
         "id": "Firecrackers",
-        "str": "Pháo hoa"
+        "str": "Pháo nổ"
     },
     {
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show jumpscares",
-        "str": "Hiển thị cảnh báo nhảy"
+        "str": "Hiển thị cảnh sợ hãi"
     },
     {
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van floor",
-        "str": "Sàn xe van"
+        "str": "sàn văn"
     },
     {
         "key": "806D1B0C4EFCAD5D435AD6A24A208010",
@@ -1827,13 +1827,13 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Bạn đã phá kỷ lục mới của mình với {new} đêm! Từ {old} đêm trước!"
+        "str": "Bạn đã phá kỷ lục mới của mình với {new} đêm! "
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spectral",
-        "str": "Bóng Ma"
+        "str": "quang phổ"
     },
     {
         "key": "814D9929402ED9670B11B8A5F77DD89E",
@@ -1851,13 +1851,13 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "Linh hồn"
+        "str": "Người nhợt nhạt"
     },
     {
         "key": "821C250E485ED0C26041C8830F8E0625",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A durable and flexible material.",
-        "str": "Một vật liệu bền và linh hoạt."
+        "str": "Chất liệu bền và dẻo."
     },
     {
         "key": "82B77C5A456740B0D72910B21AF4A463",
@@ -1869,49 +1869,49 @@
         "key": "834E072547D98D80C120CD87A16FA4D6",
         "location": "/Game/UI/paperInterfaceDynamic.paperInterfaceDynamic_C:GetText_0 [Script Bytecode]",
         "id": "Friends",
-        "str": "Bạn bè"
+        "str": "Bạn"
     },
     {
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "Bạn có thể thử ngay bây giờ trên máy tính"
+        "str": "Bạn có thể thử ngay bây giờ trên PC"
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text",
         "id": "Foliage Quality",
-        "str": "Chất lượng lá cây"
+        "str": "Chất lượng tán lá"
     },
     {
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "Nhà tiên tri"
+        "str": "bóng tối"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tactician",
-        "str": "Chiến thuật gia"
+        "str": "Nhà chiến thuật"
     },
     {
         "key": "84B3B484489A7A0017B755B62F30FC82",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text",
         "id": "Accept Case",
-        "str": "Chấp nhận vụ án"
+        "str": "Chấp nhận trường hợp"
     },
     {
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "Điện đã bật! Quay lại nhà."
+        "str": "Bật điện! "
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shroud",
-        "str": "Tấm Vải Liệm"
+        "str": "Tấm vải liệm"
     },
     {
         "key": "8634768E4D6C9A9C68755EA705B1A09E",
@@ -1923,13 +1923,13 @@
         "key": "86BE55834614BDEE6BACCD821A069F89",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-        "str": "Một món đồ trang sức thanh lịch bao gồm một chuỗi ngọc trai tròn, được biết đến với ánh sáng mềm mại của chúng và liên kết với sự tinh tế và sang trọng."
+        "str": "Một món đồ trang sức trang nhã được tạo thành từ một chuỗi ngọc trai tròn, nổi tiếng với độ bóng mềm mại và gắn liền với sự tinh tế và sang trọng."
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
-        "str": "Khi bạn đã sẵn sàng, hãy nhấp vào nút Chấp nhận để nhận vụ án này"
+        "str": "Điểm"
     },
     {
         "key": "8772BC8B4A8B67D8026B5D806054E488",
@@ -1941,7 +1941,7 @@
         "key": "8785C0644A30D7680DD4668FB916A03A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
         "id": "Hide Others",
-        "str": "Giấu người khác"
+        "str": "Ẩn người khác"
     },
     {
         "key": "878E24534B885E2AB87EACB0394A0E58",
@@ -1953,7 +1953,7 @@
         "key": "87B1E3F54AA52AE964B7BDAF99914042",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering Breeze",
-        "str": "Gió Thì Thầm"
+        "str": "Làn gió thì thầm"
     },
     {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
@@ -1965,37 +1965,37 @@
         "key": "8841057C4E79D1D004AE35BDDA5930D6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals hatred",
-        "str": "Thuốc tiên tiết lộ sự căm ghét"
+        "str": "Thuốc tiên tiết lộ sự thù hận"
     },
     {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "Lá xanh và châm chích."
+        "str": "Lá xanh nhức nhối."
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Acrobat",
-        "str": "Người biểu diễn xiếc"
+        "str": "Người nhào lộn"
     },
     {
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "Ẩn nấp"
+        "str": "cái rỗng"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Well done!",
-        "str": "Làm tốt lắm!"
+        "str": "Làm tốt!"
     },
     {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
-        "str": "Quay lại nơi an toàn"
+        "str": "Trở lại nhà an toàn"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
@@ -2007,7 +2007,7 @@
         "key": "8D62136643D4EAA319AD22BBFD4C8FD1",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Statue",
-        "str": "Tượng"
+        "str": "Bức tượng"
     },
     {
         "key": "8D70CD774E635393573985830A5099B8",
@@ -2019,7 +2019,7 @@
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
-        "str": "Trại với bạn bè"
+        "str": "Cắm trại cùng bạn bè"
     },
     {
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
@@ -2037,7 +2037,7 @@
         "key": "8E794D794CCEA0D30D037D8DA2BFD248",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Lights",
-        "str": "Đèn"
+        "str": "đèn"
     },
     {
         "key": "901E40384D0FE3FAD3508F98408C18C7",
@@ -2061,13 +2061,13 @@
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "Tối tăm"
+        "str": "sự ẩn nấp"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_13.Text",
         "id": "Move Forward",
-        "str": "Di chuyển Tiến lên"
+        "str": "Tiến lên phía trước"
     },
     {
         "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
@@ -2079,13 +2079,13 @@
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals likes",
-        "str": "Giấy tiết lộ sở thích"
+        "str": "Giấy tiết lộ lượt thích"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals dislikes",
-        "str": "Giấy tiết lộ không thích"
+        "str": "Giấy tiết lộ những điều không thích"
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -2097,25 +2097,25 @@
         "key": "9412FB8146653EECA5DBB2BD2504B413",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Bag",
-        "str": "Túi"
+        "str": "Cái túi"
     },
     {
         "key": "9432768D4222957489019C86BD251CA3",
         "location": "/Game/enums/actions.actions.DisplayNameMap(20 - Value).DisplayNameMap",
         "id": "Carousel with enemies",
-        "str": "Vòng quay với kẻ thù"
+        "str": "Băng chuyền với kẻ thù"
     },
     {
         "key": "9472CB7546EB19A64D00B9B40CF7BC7D",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new extra mode!",
-        "str": "Bạn đã mở khóa chế độ thêm mới!"
+        "str": "Bạn đã mở khóa một chế độ bổ sung mới!"
     },
     {
         "key": "95529FFB4B5C7B8BF0D230810B54E147",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Career Mode",
-        "str": "Chế độ sự nghiệp"
+        "str": "Chế độ nghề nghiệp"
     },
     {
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -2127,13 +2127,13 @@
         "key": "9639E2074CB67CEC4666A4AF3A4FC559",
         "location": "/Game/enums/costs.costs.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Very Cheap",
-        "str": "Rất Rẻ"
+        "str": "Rất rẻ"
     },
     {
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diabolic",
-        "str": "Quỷ quyệt"
+        "str": "Ác quỷ"
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
@@ -2151,25 +2151,25 @@
         "key": "986FE18441EBE7BFF160D38E25BEF05E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom Breeze",
-        "str": "Gió Hồn Ma"
+        "str": "Cơn gió ảo"
     },
     {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Kid",
-        "str": "Đứa trẻ"
+        "str": "đứa trẻ"
     },
     {
         "key": "99AE0DEC47710525BAF347ABFE8339AB",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_39.Text",
         "id": "Post Processing Quality",
-        "str": "Chất lượng xử lý hậu kỳ"
+        "str": "Chất lượng xử lý bài đăng"
     },
     {
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "Tiếng Thét"
+        "str": "Tiếng thét"
     },
     {
         "key": "9A3A87B047A1CC933C4F6197811B657B",
@@ -2181,55 +2181,55 @@
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
         "id": "Daycare",
-        "str": "Nhà trẻ"
+        "str": "Nhà giữ trẻ"
     },
     {
         "key": "9AA78476434241C7EE4929A6B33EE813",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shifting Shadow",
-        "str": "Bóng Thay Đổi"
+        "str": "Cái bóng chuyển động"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unlucky",
-        "str": "Không may mắn"
+        "str": "Người không may mắn"
     },
     {
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "Thì thầm"
+        "str": "mối đe dọa"
     },
     {
         "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixir applied! Check the dolls around to determine whom Lil loves.",
-        "str": "Thuốc tiên đã được áp dụng! Kiểm tra các búp bê xung quanh để xác định Lil yêu ai."
+        "str": "Thuốc tiên đã được áp dụng! "
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
         "location": "/Game/enums/actions.actions.DisplayNameMap(43 - Value).DisplayNameMap",
         "id": "Clock",
-        "str": "Đồng hồ"
+        "str": "Cái đồng hồ"
     },
     {
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "Một hộp đựng trong suốt và thanh lịch."
+        "str": "Hộp đựng trong suốt và trang nhã."
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "Ám ảnh"
+        "str": "sự rực rỡ"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Awkward",
-        "str": "Vụng về"
+        "str": "vụng về"
     },
     {
         "key": "9CE4FD774DFBE4C84DC711A634666FA7",
@@ -2241,31 +2241,31 @@
         "key": "9CF4BD434FB00A0E98BE348036F66B3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shade",
-        "str": "Bóng"
+        "str": "Bóng râm"
     },
     {
         "key": "9D7CA8BB4D12421F2093AB823A8EAC45",
         "location": "/Game/enums/actions.actions.DisplayNameMap(15 - Value).DisplayNameMap",
         "id": "Cannon",
-        "str": "Đại bác"
+        "str": "Pháo"
     },
     {
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "Hãy gạch bỏ Lil vì đó là búp bê chúng ta sẽ điều tra."
+        "str": "Hãy bỏ qua Lil vì đó là con búp bê mà chúng ta sắp điều tra."
     },
     {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
-        "str": "Im lặng"
+        "str": "Người tối nghĩa"
     },
     {
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "Để phát triển ảnh, bạn cần di chuyển nó. Khi nó đã phát triển 100%, chỉ cần nhấn nút sử dụng, và nó sẽ được lưu."
+        "str": "Để phát triển ảnh, bạn cần di chuyển nó. Khi nó được phát triển 100%, chỉ cần nhấn nút sử dụng và nó sẽ được lưu."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2277,31 +2277,31 @@
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "Kẻ giả mạo đã được chọn"
+        "str": "Kẻ mạo danh đã được chọn"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but in race mode with medals",
-        "str": "Chế độ ngẫu nhiên nhưng ở chế độ đua với huy chương"
+        "str": "Chế độ ngẫu nhiên nhưng ở chế độ đua có huy chương"
     },
     {
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_4.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Left Place",
-        "str": "Vị trí bên trái"
+        "str": "Chỗ trái"
     },
     {
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "Độc Ác"
+        "str": "kẻ ác"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
         "id": "Can you help me with a positive review?",
-        "str": "Bạn có thể giúp tôi với một đánh giá tích cực không?"
+        "str": "Bạn có thể giúp tôi với một đánh giá tích cực?"
     },
     {
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
@@ -2313,55 +2313,55 @@
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grim",
-        "str": "U ám"
+        "str": "sự nghiệt ngã"
     },
     {
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Abyss",
-        "str": "Chụp ảnh các con búp bê để điền vào các manh mối"
+        "str": "Vực thẳm"
     },
     {
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
-        "str": "Bóng"
+        "str": "âm u"
     },
     {
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "Hết giờ! Nếu bạn không kịp ghi lại tất cả, đây là những gì đã được quan sát: {actions}"
+        "str": "Hết giờ rồi! "
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
         "id": "Travel",
-        "str": "Du Lịch"
+        "str": "Du lịch"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Star",
-        "str": "Ngôi sao"
+        "str": "ngôi sao"
     },
     {
         "key": "A7121AED466C7D8F9486A89DECB2409C",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "Chào mừng đến khu trú ẩn! Đây là khu vực an toàn của bạn. Tại đây, bạn có thể bắt đầu một trò chơi mới trên máy tính, xem bộ sưu tập búp bê và cúp của mình và tùy chỉnh nơi này bằng cách nhấp vào biểu tượng bảng màu trên màn hình máy tính của bạn!"
+        "str": "Chào mừng đến nơi trú ẩn! "
     },
     {
         "key": "A7C36D644573AD30716F4283EBBE53D2",
         "location": "/Game/enums/actions.actions.DisplayNameMap(28 - Value).DisplayNameMap",
         "id": "Swings",
-        "str": "Xích đu"
+        "str": "xích đu"
     },
     {
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dark",
-        "str": "Ớn lạnh"
+        "str": "Bóng tối"
     },
     {
         "key": "A87033014B68DAC4F5312BB46BEB28AF",
@@ -2373,7 +2373,7 @@
         "key": "A97B724146EEB86D384D6A85A4F8931C",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Craft",
-        "str": "Thủ công"
+        "str": "thủ công"
     },
     {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
@@ -2391,115 +2391,115 @@
         "key": "AB6B64D64932C68A8743709693AF267B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
         "id": "Position",
-        "str": "Vị trí"
+        "str": "Chức vụ"
     },
     {
         "key": "AC46E8C5498572C242CBADA69A94A0A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mint",
-        "str": "Bạc hà"
+        "str": "bạc hà"
     },
     {
         "key": "AC61D57E4AA1B3D2ED8E35BD60ADA0B2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom",
-        "str": "Hồn ma"
+        "str": "bóng ma"
     },
     {
         "key": "AD00137D457BF38AE614FC9EE94D1425",
         "location": "/Game/enums/costs.costs.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Expensive",
-        "str": "Đắt tiền"
+        "str": "Đắt"
     },
     {
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "Kích hoạt trận chiến cuối cùng để lật tẩy kẻ giả mạo."
+        "str": "Kích hoạt trận chiến cuối cùng để vạch trần kẻ mạo danh."
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "Một trái tim nhỏ, đen và héo úa."
+        "str": "Một trái tim nhỏ bé, đen tối và teo tóp."
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Rose Petals",
-        "str": "Xem lại các tab khác nhau để làm quen với chúng"
+        "str": "Cánh hoa hồng"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To sleep, simply point at the bed and click on it.",
-        "str": "Để ngủ, chỉ cần chỉ vào giường và nhấp vào đó."
+        "str": "Để ngủ, chỉ cần chỉ vào giường và nhấp vào nó."
     },
     {
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "Bạn đã mất 90% tổng phần thưởng do thiếu ảnh"
+        "str": "Bạn đã mất 90% toàn bộ phần thưởng do thiếu ảnh."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Được rồi, tôi sẽ cho bạn phần còn lại của thuốc tiên để áp dụng cho Lil. Amicitia đại diện cho tình bạn, Inimicitia đại diện cho sự thù địch và Odium đại diện cho sự căm ghét. Mỗi cái, với màu sắc cụ thể của nó, sẽ tiết lộ các mối quan hệ của Lil. Ghi lại tất cả những gì bạn quan sát, và nhớ rằng trong một số trường hợp, Lil có thể không có mối quan hệ nào với một vai trò cụ thể."
+        "str": "Được rồi, tôi sẽ đưa cho bạn phần thuốc tiên còn lại để áp dụng cho Lil. Amicitia tượng trưng cho tình bạn, Inimicitia tượng trưng cho sự thù địch và Odium tượng trưng cho sự thù hận. Mỗi loại thuốc trong số này, với màu sắc cụ thể, sẽ tiết lộ các mối quan hệ của Lil. Viết ra tất cả những gì bạn quan sát được và ghi nhớ điều đó "
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
-        "str": "Chơi lại"
+        "str": "Phát lại"
     },
     {
         "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grump",
-        "str": "Kẻ cáu kỉnh"
+        "str": "Người gắt gỏng"
     },
     {
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "Thở hổn hển"
+        "str": "sự nhấp nháy"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "Lời Thì Thầm Trong Bóng Tối"
+        "str": "Lời thì thầm bóng tối"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
         "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-        "str": "Thêm một bước khó khăn, không có manh mối bổ sung, bạn không thể nhìn thấy tên hoặc danh sách"
+        "str": "Thêm một bước khó khăn nữa, không có thêm manh mối nào, Bạn không thể nhìn thấy tên hoặc danh sách"
     },
     {
         "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
         "id": "Race",
-        "str": "Cuộc đua"
+        "str": "Loài"
     },
     {
         "key": "B300BE9147F822906E54C7A227BF23BA",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Welcome to Doll Impostor!",
-        "str": "Chào mừng đến với \nKẻ Giả Mạo Búp Bê\n!"
+        "str": "Chào mừng bạn đến với Kẻ mạo danh búp bê!"
     },
     {
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "Tôi đã cho bạn một cây bật lửa. Sử dụng nó cho các hành động còn lại."
+        "str": "Tôi đã đưa cho bạn một cái bật lửa. Hãy sử dụng nó cho những hành động còn lại."
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the career mode!",
-        "str": "bạn đã mở khóa chế độ sự nghiệp!"
+        "str": "Bạn đã mở khóa chế độ nghề nghiệp!"
     },
     {
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
@@ -2511,7 +2511,7 @@
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "Kẻ giả mạo"
+        "str": "kẻ mạo danh"
     },
     {
         "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
@@ -2535,13 +2535,13 @@
         "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Terrifying",
-        "str": "Đáng sợ"
+        "str": "sự đáng sợ"
     },
     {
         "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unnoticed",
-        "str": "Người không ai để ý"
+        "str": "Người không được chú ý"
     },
     {
         "key": "B54084CB4A265AC5B0714AB02E26FFEE",
@@ -2553,31 +2553,31 @@
         "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Loner",
-        "str": "Kẻ cô đơn"
+        "str": "Người Cô Đơn"
     },
     {
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "Đã Thì Thầm"
+        "str": "Người Thì Thầm"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Cần năng lượng"
+        "str": "Xem lại các tab khác nhau để làm quen với chúng. Khi bạn đã sẵn sàng, hãy nhấp vào nút Chấp nhận để xử lý trường hợp này."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Scowl",
-        "str": "Nhăn nhó"
+        "str": "sự cau có"
     },
     {
         "key": "B7532CB642D1303CB57FF89D855B8189",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_14.Text",
         "id": "Days elapsed",
-        "str": "Ngày đã trôi qua"
+        "str": "Ngày trôi qua"
     },
     {
         "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
@@ -2589,19 +2589,19 @@
         "key": "B8952A3841AAE9C0034514AC607965D8",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
-        "str": "Nơi trú ẩn"
+        "str": "nơi trú ẩn"
     },
     {
         "key": "B8F169E14DBF7CFF567A468DBF711F46",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]",
         "id": "{count} days",
-        "str": "{count} ngày"
+        "str": "{đếm} ngày"
     },
     {
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghoster",
-        "str": "Ma quái"
+        "str": "Bóng ma"
     },
     {
         "key": "B9B809EC40076554656E1A8C91157931",
@@ -2619,25 +2619,25 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Bây giờ bạn nên viết chúng vào ghi chú của sổ tay. Ngoài ra, nếu bạn đang sử dụng bàn phím và chuột, và bạn nhấp vào bên ngoài ghi chú, trang búp bê sẽ vẫn mở."
+        "str": "Bây giờ bạn nên ghi chúng vào ghi chú của sổ ghi chú. Ngoài ra, nếu bạn đang sử dụng bàn phím và chuột và nhấp chuột ra bên ngoài ghi chú, trang của búp bê sẽ vẫn mở."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
         "id": "Ambient Volume",
-        "str": "Âm lượng môi trường"
+        "str": "Âm lượng xung quanh"
     },
     {
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "Chúng tôi đã bắt được Lil. Bạn có thể tiếp tục chụp ảnh phần còn lại của các con búp bê. Khi bạn sẵn sàng, hãy đến xe van để xem ảnh."
+        "str": "Chúng tôi đã chụp được Lil. Bạn có thể tiếp tục chụp ảnh những con búp bê còn lại. Khi bạn đã sẵn sàng, hãy đến đoàn lữ hành để xem ảnh."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
         "location": "/Game/functions/interfaceFunctions.interfaceFunctions_C:showPopup [Script Bytecode]",
         "id": "OK",
-        "str": "OK"
+        "str": "ĐƯỢC RỒI"
     },
     {
         "key": "BCB8724F4D70F43E391D0FB8984329C6",
@@ -2649,13 +2649,13 @@
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "Để bắt đầu, có 20 con búp bê. Kiểm tra chúng trên bảng và khi bạn sẵn sàng, hãy vào phòng để gặp chúng."
+        "str": "Để bắt đầu, có 20 con búp bê. Kiểm tra chúng trên bảng và khi bạn đã sẵn sàng, hãy vào phòng để gặp chúng."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "Đi ngủ và xem liệu manh mối có được giải quyết trong giờ tới không."
+        "str": "Hãy đi ngủ và xem liệu manh mối có được giải quyết trong một giờ tới."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -2673,19 +2673,19 @@
         "key": "BEF09CA34BAE3DC7635E8485BB667E28",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van exterior",
-        "str": "Ngoại thất xe van"
+        "str": "Vân ngoại thất"
     },
     {
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "Một loại đá quý có giá trị được biết đến với độ cứng và độ lấp lánh cực cao, thường được sử dụng trong trang sức và được đánh giá cao về độ tinh khiết và độ hiếm của nó."
+        "str": "Một loại đá quý được biết đến với độ cứng và độ sáng cực cao, thường được sử dụng trong đồ trang sức và có giá trị vì độ tinh khiết và độ hiếm."
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sinister",
-        "str": "Xấu xa"
+        "str": "Kẻ độc ác"
     },
     {
         "key": "BF4FA5364C39224BE93EC080C21FF285",
@@ -2697,19 +2697,19 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Rõ ràng là hắn thích máu. Có thể là một trong hai người, nhưng hãy kiểm tra các hộp. Freddy đã biến mất và hộp của hắn đầy máu. Hắn đã để lại phán quyết này cho bạn. Khi bạn chắc chắn, hãy loại bỏ ứng viên."
+        "str": "Rõ ràng là anh ấy thích máu. Có thể là một trong hai, nhưng hãy đánh dấu vào các ô. Freddy bị mất và hộp của anh ấy đầy máu. Anh ấy để lại phán quyết này cho bạn. Khi bạn chắc chắn, hãy loại bỏ ứng cử viên."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now table chess",
-        "str": "Bây giờ là"
+        "str": "Bây giờ bàn cờ"
     },
     {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "Câu đố"
+        "str": "Kỳ lạ"
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
@@ -2727,55 +2727,55 @@
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
-        "str": "Bây giờ, hãy bật điện"
+        "str": "Yêu cầu năng lượng"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
-        "str": "Tiêu điểm tầm nhìn"
+        "str": "FOV tập trung"
     },
     {
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text",
         "id": "Number of photographs taken of dolls",
-        "str": "Số lượng ảnh chụp của búp bê"
+        "str": "Số lượng ảnh chụp búp bê"
     },
     {
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "Một chiếc lông vũ trắng và mỏng manh."
+        "str": "Một chiếc lông trắng và tinh tế."
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
         "id": "God, Save Us",
-        "str": "Chúa ơi, cứu chúng con"
+        "str": "Chúa ơi, hãy cứu chúng tôi"
     },
     {
         "key": "C380BEFB4806636D471F28BC3C7CE999",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul Papers",
-        "str": "Giấy linh h"
+        "str": "Giấy tờ linh hồn"
     },
     {
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "Một khối vàng tinh chế rắn, có độ tinh khiết cao, được sử dụng làm đầu tư hoặc lưu trữ giá trị, được đặc trưng bởi trọng lượng và ánh vàng của nó."
+        "str": "Một khối vàng tinh chế rắn, có độ tinh khiết cao, được sử dụng như một khoản đầu tư hoặc lưu trữ giá trị, được đặc trưng bởi trọng lượng và độ bóng vàng."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
-        "str": "Bên phải xe van"
+        "str": "Vân Bên Phải"
     },
     {
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "Bóng Nhỏ"
+        "str": "Bóng tối"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2787,73 +2787,73 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "Thiết bị cầm tay tạo ra ngọn lửa để châm lửa"
+        "str": "Thiết bị cầm tay tạo ra ngọn lửa để bắt lửa."
     },
     {
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "Rất tốt, hãy quay trở lại nhà. Chúng ta sẽ khám phá những điều về Lil. Mở hộp của hắn, và chúng ta sẽ tiến hành áp dụng các loại thuốc."
+        "str": "Được rồi, hãy quay trở lại ngôi nhà. Chúng ta sẽ khám phá những điều về Lil. Mở hộp của cô ấy và chúng ta sẽ tiến hành bôi thuốc tiên."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Tôi đã cho bạn một chiếc đèn pin, rất quan trọng trong chế độ này do bóng tối nặng nề. Chú ý đến các số trên giao diện người dùng ở dưới; bạn có thể trang bị tối đa 10 mục, với khe đầu tiên luôn là tay của bạn. Bạn có thể điều hướng qua kho của mình bằng cách nhấn các phím Trang bị Trước và Trang bị Tiếp theo, hoặc trên bàn phím bằng cách sử dụng các phím số hoặc bánh xe chuột."
+        "str": "Tôi đã đưa cho bạn một chiếc đèn pin, điều này khá quan trọng trong chế độ này do bóng tối dày đặc. Hãy chú ý đến các con số trên giao diện người dùng của bạn ở phía dưới; "
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
         "id": "The pain is overwhelming",
-        "str": "Nỗi đau thật áp đảo"
+        "str": "Nỗi đau tràn ngập"
     },
     {
         "key": "C8A00764485261B746BFEE94C58D6ECA",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Scary",
-        "str": "Đáng sợ"
+        "str": "đáng sợ"
     },
     {
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_22.Text",
         "id": "Crouch",
-        "str": "Cúi người"
+        "str": "Cúi mình"
     },
     {
         "key": "C9DD78084F647953E55A8196CE872921",
         "location": "/Game/enums/actions.actions.DisplayNameMap(47 - Value).DisplayNameMap",
         "id": "Gramophone",
-        "str": "Máy quay đĩa"
+        "str": "Máy hát"
     },
     {
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "Trái cây nhỏ và mọng nước"
+        "str": "Sách Tâm Hồn"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "Hắn đã rơi vào bẫy của chúng ta và tắt đèn. Bây giờ chúng ta có thể loại bỏ tất cả những ai thích ánh sáng."
+        "str": "Anh ta đã rơi vào bẫy của chúng ta và tắt đèn. Bây giờ chúng ta có thể loại bỏ tất cả những người thích ánh sáng."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sweet",
-        "str": "Người ngọt ngào"
+        "str": "sự ngọt ngào"
     },
     {
         "key": "CB775D1F41F692F4946D738AA83BB23E",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Friends",
-        "str": "Bạn bè"
+        "str": "Bạn"
     },
     {
         "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "Dropped",
-        "str": "Đã hủy bỏ"
+        "str": "Đã đánh rơi"
     },
     {
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
@@ -2865,7 +2865,7 @@
         "key": "CE5521734152BB8FDF36949D84AA7F39",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghastly",
-        "str": "Ghê tởm"
+        "str": "sự kinh khủng"
     },
     {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -2877,37 +2877,37 @@
         "key": "CEB55E1E480248C3E1553AB0E3E06BA3",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Parchment",
-        "str": "Giấy da"
+        "str": "giấy da"
     },
     {
         "key": "CF3A6ECB45A9488C10D246A3FD143977",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Weasel",
-        "str": "Chồn sương"
+        "str": "con chồn"
     },
     {
         "key": "D03A184741DBDC2985FBC9A454F19494",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Nervous",
-        "str": "Kẻ lo lắng"
+        "str": "sự lo lắng"
     },
     {
         "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Spooky",
-        "str": "Ma quái"
+        "str": "ma quái"
     },
     {
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "Tiếng cười khúc khích"
+        "str": "bí ẩn"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
-        "str": "Lạnh lẽo"
+        "str": "sự lạnh giá"
     },
     {
         "key": "D107C133465E950C0D0B42BAAA8BDF09",
@@ -2919,13 +2919,13 @@
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
-        "str": "Tiếng vang"
+        "str": "Tiếng vọng"
     },
     {
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "Túi rộng rãi"
+        "str": "Chụp ảnh búp bê để điền manh mối"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2937,19 +2937,19 @@
         "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
         "id": "Win cases",
-        "str": "Thắng vụ án"
+        "str": "Thắng kiện"
     },
     {
         "key": "D2EAFC9348E348C7516300BF122B9702",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Right Place",
-        "str": "Vị trí bên phải"
+        "str": "Đúng nơi"
     },
     {
         "key": "D3B042044111E5CC7AE8239FB511F147",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(3).texts",
         "id": "Darkness surrounds us",
-        "str": "Bóng tối bao quanh chúng ta"
+        "str": "Bóng tối vây quanh chúng ta"
     },
     {
         "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
@@ -2961,19 +2961,19 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "Trống rỗng"
+        "str": "sự u ám"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
-        "str": "Dịch bởi: {people}"
+        "str": "Người dịch: {people}"
     },
     {
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "vào nhà và tìm phòng búp bê."
+        "str": "Vào nhà và tìm phòng của búp bê."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -2985,19 +2985,19 @@
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "Rùng Mình"
+        "str": "sự rùng mình"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "Buồn bã"
+        "str": "Người ẩn nấp"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
         "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take notes on the behavior of the dolls",
-        "str": "Động vật nhồi bông"
+        "str": "Ghi chú về hành vi của búp bê"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -3021,43 +3021,43 @@
         "key": "D637C70741EFAAB1C70592A3E73D29E3",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_48.Text",
         "id": "Actions left",
-        "str": "Các hành động còn lại"
+        "str": "Hành động còn lại"
     },
     {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
         "location": "/Game/enums/actions.actions.DisplayNameMap(16 - Value).DisplayNameMap",
         "id": "Knives",
-        "str": "Dao"
+        "str": "Những con dao"
     },
     {
         "key": "D8CB256A4FC1286A3BD465B95B7398D6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Flirt",
-        "str": "Kẻ tán tỉnh"
+        "str": "tán tỉnh"
     },
     {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
         "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
         "id": "Hide Self",
-        "str": "Giấu mình"
+        "str": "Ẩn mình"
     },
     {
         "key": "D8F293214EA6402451DED28B75ADA37E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_27.Text",
         "id": "Screen Resolution",
-        "str": "Độ phân giải Màn hình"
+        "str": "Độ phân giải màn hình"
     },
     {
         "key": "D955FAE74433E108EB3C078EF42B2DC8",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Quiet",
-        "str": "Người trầm lặng"
+        "str": "sự yên tĩnh"
     },
     {
         "key": "D9B2458843A82DBB9843FBBB36327D9A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
         "id": "Turn Right",
-        "str": "Quay phải"
+        "str": "Rẽ phải"
     },
     {
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
@@ -3069,31 +3069,31 @@
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixirs",
-        "str": "Thuốc"
+        "str": "Thuốc tiên"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Door",
-        "str": "Cửa"
+        "str": "cửa"
     },
     {
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Giấy linh hồn là những cuộn giấy bí ẩn, độc đáo, và có hai loại: Giấy linh hồn và Giấy linh hồn tối. Nói cách khác, Cuộn giấy linh hồn và phiên bản tối của nó. Những cuộn giấy này tiết lộ sở thích và không thích của búp bê. Chúng ta sẽ bắt đầu với cuộn giấy bình thường. Áp dụng cuộn giấy vào búp bê."
+        "str": "Giấy linh hồn là những cuộn giấy thần bí, cực kỳ độc đáo và có hai loại: Giấy linh hồn và Giấy linh hồn đen tối. Nói cách khác, Cuộn giấy linh hồn và phiên bản đen tối của nó. Những cuộn giấy này tiết lộ sở thích và không thích của búp bê. Chúng ta sẽ bắt đầu với cuộn giấy thông thường. "
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unsettling",
-        "str": "Gây lo lắng"
+        "str": "Sự bất ổn"
     },
     {
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "Bạn không thể làm điều này, nó không phù hợp với bất kỳ công thức nào"
+        "str": "Bạn không thể làm món này, nó không phù hợp với bất kỳ công thức nào"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -3111,31 +3111,31 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Hãy nhớ rằng bạn không thể tương tác với bất cứ thứ gì ngay bây giờ vì đây là hướng dẫn"
+        "str": "Hãy nhớ rằng bạn sẽ không thể tương tác với bất cứ thứ gì ngay bây giờ vì đây là hướng dẫn. Bây giờ, hãy bật điện. Trang bị cầu chì của bạn và đi ra phía sau nhà để kích hoạt nó."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
         "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-        "str": "Chế độ chuyên gia, bạn bắt đầu từ 06:00, không có manh mối bổ sung và không có ảnh"
+        "str": "Chế độ chuyên gia, bạn bắt đầu từ 06:00, không có thêm manh mối và không có ảnh"
     },
     {
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The New",
-        "str": "Người mới"
+        "str": "Cái mới"
     },
     {
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "Nếu bạn quay lại nơi an toàn, ngôi nhà sẽ khôi phục trạng thái của nó và bạn sẽ mất các vật phẩm đã trang bị."
+        "str": "Nếu bạn quay lại nhà an toàn, ngôi nhà sẽ khôi phục lại trạng thái và bạn sẽ mất các vật phẩm đã trang bị"
     },
     {
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "Làm việc tốt, cuối cùng, hãy thắp l"
+        "str": "Làm tốt lắm, cuối cùng, hãy đốt lò sưởi."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3153,7 +3153,7 @@
         "key": "E238A88B4FBC7C4641B8E9A95353B1C0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Indecent",
-        "str": "Kẻ khiếm nhã"
+        "str": "Người không đứng đắn"
     },
     {
         "key": "E2D484854A1C9DB14835A6AD457B6207",
@@ -3171,7 +3171,7 @@
         "key": "E447809B421298C1BDA5E4B063D86F49",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
-        "str": "Búp bê Hành động"
+        "str": "Búp bê hành động"
     },
     {
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
@@ -3183,49 +3183,49 @@
         "key": "E672CE194312B524EAE5218F788B97F4",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Stiff",
-        "str": "Cứng đơ"
+        "str": "cứng nhắc"
     },
     {
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "Lá xanh tươi mát"
+        "str": "Lá xanh sảng khoái."
     },
     {
         "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "You can only equip a maximum of 10 items",
-        "str": "bạn chỉ có thể trang bị tối đa 10 mục"
+        "str": "Bạn chỉ có thể trang bị tối đa 10 vật phẩm"
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_32.Text",
         "id": "Temporal Upsample",
-        "str": "Nâng mẫu Thời gian"
+        "str": "Mẫu tăng thời gian"
     },
     {
         "key": "E7D75C9A40FB9B41721A46B5B7198EF1",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Sticker",
-        "str": "Nhãn dán"
+        "str": "Hình dán"
     },
     {
         "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
         "id": "As you unlock new levels, new ones will appear!",
-        "str": "Khi bạn mở khóa các cấp độ mới, các cấp độ mới sẽ xuất hiện!"
+        "str": "Khi bạn mở khóa cấp độ mới, những cấp độ mới sẽ xuất hiện!"
     },
     {
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "Độc ác"
+        "str": "Điềm báo"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisper",
-        "str": "Tiếng Thì Thầm"
+        "str": "Lời thì thầm"
     },
     {
         "key": "E8BEC2F04785EFD5186984BE67C4B88A",
@@ -3243,13 +3243,13 @@
         "key": "E96A210546B4B0647B0763843052BBF8",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
         "id": "Head Bobbing",
-        "str": "Lắc đầu"
+        "str": "lắc đầu"
     },
     {
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "Tôi đã cho bạn một số vật phẩm, hãy đến phần chế tạo để chế tạo một loại thuốc, bạn có thể làm điều đó thủ công hoặc trực tiếp bằng cách nhấn vào loại thuốc bạn muốn."
+        "str": "Tôi đã đưa cho bạn một số vật phẩm, hãy vào phần thủ công để chế tạo thuốc tiên, bạn có thể làm thủ công hoặc trực tiếp bằng cách nhấn vào thuốc tiên bạn muốn."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3261,7 +3261,7 @@
         "key": "E9F12A4243E6AE323515DE8E9AA0162B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Specter",
-        "str": "Ma Quái"
+        "str": "bóng ma"
     },
     {
         "key": "EABE87674E476F817EEF85B6E5E00296",
@@ -3273,7 +3273,7 @@
         "key": "EB61DE2843D60E7D5AF23EB48A67DE8B",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_21.Text",
         "id": "Rank",
-        "str": "Hạng"
+        "str": "Thứ hạng"
     },
     {
         "key": "ECA7B6BD4DC5448D5BC007A0A56EFE97",
@@ -3291,7 +3291,7 @@
         "key": "EDA5294F43DB42C2856059B83C9A6BF5",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
         "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-        "str": "Khả năng này sẽ tiềm ẩn mỗi khi bạn di chuyển; bạn có thể gặp một cái hộp có chứa đồ bên trong."
+        "str": "Xác suất này sẽ tiềm ẩn mỗi khi bạn đi du lịch; "
     },
     {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
@@ -3309,7 +3309,7 @@
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "Lặn"
+        "str": "Hoàng hôn"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3321,31 +3321,31 @@
         "key": "F167859643FD37B593110B9A866E9EB3",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text",
         "id": "Endless",
-        "str": "Vô tận"
+        "str": "vô tận"
     },
     {
         "key": "F1D636544DE5ADC7945E9789ACC63D6C",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van wall",
-        "str": "Tường xe van"
+        "str": "Tường Văn"
     },
     {
         "key": "F21C143F425251C3614B29BD90BD710D",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_0 [Script Bytecode]",
         "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
-        "str": "Tỷ lệ càng thấp, càng nhiều thông tin về búp bê sẽ được tiết lộ ban đầu (từ 2 đến 10)"
+        "str": "Tỷ lệ càng thấp thì thông tin ban đầu về búp bê sẽ được tiết lộ càng nhiều (từ 2 đến 10)"
     },
     {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Frightening",
-        "str": "Đáng sợ"
+        "str": "sự đáng sợ"
     },
     {
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "Bảng Ouija"
+        "str": "cầu cơ"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
@@ -3357,19 +3357,19 @@
         "key": "F28247BF4A488DEE853285BA1EBC6188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_0.name_18_82096130492E34A890A0138C4910D929",
         "id": "House",
-        "str": "Nhà"
+        "str": "Căn nhà"
     },
     {
         "key": "F28B41324F202FA2E02A0DB59579D291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wretched",
-        "str": "Khốn Khổ"
+        "str": "Người khốn khổ"
     },
     {
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "Một chất lỏng vàng ngọt ngào."
+        "str": "Một chất lỏng màu vàng và ngọt ngào."
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3387,19 +3387,19 @@
         "key": "F343C45143C6D6F84AC69C85B3A85B2F",
         "location": "/Game/enums/actions.actions.DisplayNameMap(7 - Value).DisplayNameMap",
         "id": "Tv",
-        "str": "Ti vi"
+        "str": "TV"
     },
     {
         "key": "F3539C0B4A4D262BEEADFCBC91E58848",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Toad Bile",
-        "str": "Mật Cóc"
+        "str": "Mật cóc"
     },
     {
         "key": "F398437D44CE91CF11D919A1208038ED",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.sections_22_4031E9264112E4E86BC48BA9D729A311(2).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Size",
-        "str": "Kích thước"
+        "str": "Kích cỡ"
     },
     {
         "key": "F4678833417F67BF4FB742B959AD7E80",
@@ -3411,61 +3411,61 @@
         "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Inventory",
-        "str": "Kho đồ"
+        "str": "Hàng tồn kho"
     },
     {
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ringmaster",
-        "str": "Người quản lý xiếc"
+        "str": "Người quản lý nhạc chuông"
     },
     {
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperer",
-        "str": "Kẻ Thì Thầm"
+        "str": "Người thì thầm"
     },
     {
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "Xấu xa"
+        "str": "nỗi kinh hoàng"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Nettle",
-        "str": "Cây tầm ma"
+        "str": "cây tầm ma"
     },
     {
         "key": "F63BB439446A93B294D5789005AB927F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Crow's Heart",
-        "str": "Tim quạ"
+        "str": "Tim Quạ"
     },
     {
         "key": "F66992CC4272E9FD176972AE7A324010",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "Did you understand the tutorial well?",
-        "str": "Bạn đã hiểu rõ hướng dẫn chưa?"
+        "str": "Bạn có hiểu rõ hướng dẫn không?"
     },
     {
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mandrake Root",
-        "str": "Rễ cây mandrake"
+        "str": "Rễ nhân sâm"
     },
     {
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "Bóng tối"
+        "str": "cuộc lặn"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Bạn sẽ có một trường hợp có sẵn với các thông số động khác nhau. Nó sẽ hiển thị thông tin giống như thông tin hiện tại và nếu bạn không thích, bạn có thể tìm kiếm một trường hợp mới để đổi lấy tiền. Hiện tại, trong chế độ hướng dẫn, chúng tôi đã hạn chế các tương tác của bạn; bạn sẽ không thể mua, chế tạo, rời khỏi trường hợp hoặc tìm kiếm một trường hợp mới."
+        "str": "Bạn sẽ có sẵn một chiếc ốp lưng với nhiều thông số động khác nhau. Nó sẽ hiển thị thông tin giống như thông tin hiện tại và nếu không thích, bạn có thể tìm kiếm một chiếc ốp lưng mới để đổi lấy tiền. Hiện tại, ở chế độ hướng dẫn, chúng tôi đã hạn chế sự tương tác của bạn "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3477,13 +3477,13 @@
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "Nọc bọ cạp"
+        "str": "Cánh hoa hồng mềm và thơm."
     },
     {
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Bây giờ chúng ta sẽ sử dụng vật phẩm Sách Linh Hồn. Vật phẩm này sẽ chính thức bắt đầu trò chơi. Cách sử dụng rất đơn giản: khi bạn sử dụng cuốn sách này, ai là kẻ giả mạo (trong trường hợp này là Lil) sẽ bắt đầu hành động. Lúc này, bạn cần so sánh thông tin với những gì đang xảy ra, giống như trong chế độ gốc. Hãy nhớ rằng bạn có 180 giây, và nếu thời gian về 0, nó sẽ giết bạn."
+        "str": "Bây giờ chúng ta sẽ sử dụng vật phẩm Soul Book. Vật phẩm này sẽ chính thức bắt đầu trò chơi. Cách sử dụng của nó rất đơn giản: khi bạn sử dụng cuốn sách này, bất kể kẻ mạo danh là ai (trong trường hợp này là Lil) sẽ bắt đầu thực hiện các hành động. Tại thời điểm này, bạn sẽ "
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3495,37 +3495,37 @@
         "key": "F83E76BC49FC84244322C382556B6E5F",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
-        "str": "Ôi không..."
+        "str": "Ồ không._DOT_."
     },
     {
         "key": "F880818144C667A994BEEF9200987EF4",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Chest",
-        "str": "Hòm"
+        "str": "Ngực"
     },
     {
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "Chất lỏng trong suốt và chết người."
+        "str": "Chất lỏng trong suốt và gây chết người."
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_26.Text",
         "id": "Main Menu",
-        "str": "Trình đơn chính"
+        "str": "Thực đơn chính"
     },
     {
         "key": "FA4E21624A2D966B1B2ED19005131257",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traditional",
-        "str": "Người truyền thống"
+        "str": "truyền thống"
     },
     {
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Trước khi bạn đi, tôi muốn làm sáng tỏ rằng trong chế độ chơi này, bạn có thể quay lại nơi trú ẩn bằng cách lái xe van. Cuối cùng, những gì chúng tôi đã làm với Lil trong chế độ này sẽ cần phải được thực hiện cho mỗi búp bê để xác định kẻ mạo danh. Hãy nhớ rằng chế độ chiến dịch được thiết kế để là một trải nghiệm cộng tác trong tương lai, vì vậy quan trọng là nó không ngắn gọn hoặc nhanh chóng. Mỗi trường hợp có thể mất cho bạn nhiều ngày để giải quyết, nhưng nó là không đồng bộ, có nghĩa là bạn có thể thoát bất cứ lúc nào bạn muốn và tiếp tục chơi sau, và mọi thứ sẽ vẫn giữ nguyên như bạn đã rời khỏi."
+        "str": "Trước khi bạn đi, tôi muốn làm rõ rằng trong chế độ trò chơi này, bạn có thể quay trở lại nơi ẩn náu bằng cách lái đoàn lữ hành. Cuối cùng, những gì chúng tôi đã làm với Lil trong chế độ này sẽ cần phải được thực hiện đối với từng con búp bê để xác định kẻ mạo danh. "
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3543,31 +3543,31 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Chúng ta có Ricky trên ghế sofa và Monty tại piano, vì vậy chúng ta đã có 2 ứng viên khả thi. Tuy nhiên, chúng ta sẽ không mạo hiểm 50%. Hãy quay lại phòng để loại trừ kẻ không thể là và chờ đợi sự kiện tiếp theo của hắn."
+        "str": "Chúng ta có Ricky trên ghế dài và Monty bên cây đàn piano, vì vậy chúng ta đã có 2 ứng cử viên khả thi. Tuy nhiên, chúng ta sẽ không chấp nhận rủi ro 50%. Hãy quay lại phòng để loại trừ trường hợp không thể xảy ra và chờ đợi "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
         "id": "Chaos consumes us",
-        "str": "Sự hỗn loạn đang nuốt chửng chúng ta"
+        "str": "Sự hỗn loạn tiêu thụ chúng ta"
     },
     {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
         "id": "Graphic Preset",
-        "str": "Thiết lập đồ họa"
+        "str": "cài sẵn đồ họa"
     },
     {
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "Bạn đã có {new} đêm, bạn chưa thể vượt qua kỷ lục {old} đêm của mình"
+        "str": "Bạn đã có {mới} đêm, bạn vẫn chưa thể vượt qua kỷ lục về số đêm {cũ} của mình"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_5.Text",
         "id": "Master Volume",
-        "str": "Âm lượng chính"
+        "str": "Khối lượng chính"
     },
     {
         "key": "FD27A6D94DD43A861953BA81606B6B11",
@@ -3579,25 +3579,25 @@
         "key": "FD50C07D436B39761D90A28961DE809F",
         "location": "/Game/enums/actions.actions.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Open Boxes",
-        "str": "Mở hộp"
+        "str": "Hộp mở"
     },
     {
         "key": "FD5D53AB4A626CFD46CF4E93053F9719",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Vulture's feather",
-        "str": "Lông Kền Kền"
+        "str": "Lông kền kền"
     },
     {
         "key": "FE11E6ED4FA63C5B12631383E56A20B5",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the {map} Map!",
-        "str": "Bạn đã mở khóa bản đồ {map}!"
+        "str": "Bạn đã mở khóa Bản đồ {map}!"
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
-        "str": "Bạn Thua"
+        "str": "BẠN THUA"
     },
     {
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
@@ -3609,13 +3609,13 @@
         "key": "FEEFC0A44A89E6CC7163CEB1F9C3F1B8",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_15.Text",
         "id": "XP Earned",
-        "str": "Điểm Kinh Nghiệm Nhận Được"
+        "str": "XP kiếm được"
     },
     {
         "key": "FF2636BB4F223BBD00D531A30CF9EB06",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "Case History",
-        "str": "Lịch sử vụ án"
+        "str": "Lịch sử trường hợp"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
@@ -3627,12 +3627,12 @@
         "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Paper",
-        "str": "Cánh hoa hồng mềm mại và thơm ngát"
+        "str": "Giấy linh hồn"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
         "location": "/Game/enums/actions.actions.DisplayNameMap(19 - Value).DisplayNameMap",
         "id": "Carousel with friends",
-        "str": "Vòng quay với bạn bè"
+        "str": "Băng chuyền với bạn bè"
     }
 ]
