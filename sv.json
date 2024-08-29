@@ -331,7 +331,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
         "str": "Avsluta"
     },
@@ -913,7 +913,7 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
         "str": "Inställningar"
     },
@@ -1009,7 +1009,7 @@
     },
     {
         "key": "4634F1C448A78E03F4AC7B94441281EB",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
+        "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_268.Text",
         "id": "Resume Game",
         "str": "Återuppta spelet"
     },
@@ -1028,8 +1028,8 @@
     {
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "Leave the room now and check everything that’s activated. You have 10 seconds to discover it. Write down everything you see in the doll's likes!",
-        "str": "Lämna rummet nu och kontrollera allt som är aktiverat. Du har 10 sekunder på dig att upptäcka det. Skriv ner allt du ser i dockans gillanden!"
+        "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
+        "str": "Lämna rummet nu och kolla allt som är aktiverat. Skriv ner allt du ser i dockans preferenser!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1432,6 +1432,12 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
         "id": "Brightness",
         "str": "ljusstyrka"
+    },
+    {
+        "key": "68AB17564B2909F81E4BDC9DA994883E",
+        "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
+        "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
+        "str": "Jag har skapat en mer avancerad guide som utforskar alla aspekter av Karriärsläget. Om du behöver mer hjälp rekommenderar jag att du kollar in den; det kommer att hjälpa dig att lösa dina framtida fall!"
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -3436,6 +3442,12 @@
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Crow's Heart",
         "str": "Kråkhjärta"
+    },
+    {
+        "key": "F66992CC4272E9FD176972AE7A324010",
+        "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
+        "id": "Did you understand the tutorial well?",
+        "str": "Förstod du handledningen väl?"
     },
     {
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
