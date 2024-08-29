@@ -3,13 +3,13 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "Csont"
+        "str": "A hátborzongató"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
         "location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Tea with friends",
-        "str": "Tea barátokkal"
+        "str": "Tea a barátokkal"
     },
     {
         "key": "008C17DA426E713F7F3A418B4FDE1BE4",
@@ -21,7 +21,7 @@
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "Ijesztő"
+        "str": "A Darkling"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -33,7 +33,7 @@
         "key": "01A2125C4F867B60C4E289ACD43FEBF9",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Mentor",
-        "str": "A mentor"
+        "str": "A Mentor"
     },
     {
         "key": "01C8EACC48F42AB3BC9A26B9A45C3E10",
@@ -45,7 +45,7 @@
         "key": "02384976426960372C5EAE9FE9459154",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_3.Text",
         "id": "Your inventory",
-        "str": "A készleted"
+        "str": "Az Ön készlete"
     },
     {
         "key": "0285258748FED1BC6E542F80A9097CE9",
@@ -57,13 +57,13 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "Alkonyat"
+        "str": "Az Echo"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(1).Options.Label",
         "id": "Borderless",
-        "str": "Keret nélküli"
+        "str": "Határtalan"
     },
     {
         "key": "0375A2D542A72CFAD4E4CA8A30C56CC4",
@@ -75,13 +75,13 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Úgy tűnik, a csaló néhány eseményt végzett. Ezek megjelennek a bal oldali panelen. Nézd át őket, majd térj vissza a szobába."
+        "str": "Úgy tűnik, a csaló végrehajtott néhány eseményt. "
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "Grimasz"
+        "str": "A Morbid"
     },
     {
         "key": "056842694B3EB37BD05F159542C5CE41",
@@ -93,43 +93,43 @@
         "key": "0593C38042D49BC9D0958EB990324EFA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
         "id": "Jail Self",
-        "str": "Magad bebörtönzése"
+        "str": "Börtön Self"
     },
     {
         "key": "05AD525F49BFE5E3D0E076B33A48FCF0",
         "location": "/Game/UI/confirm.Default__confirm_C.DismissButton",
         "id": "Deny",
-        "str": "Elutasítás"
+        "str": "Megtagadás"
     },
     {
         "key": "0600D2134F5944FF6E3102866C348F23",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigma",
-        "str": "Titokzatos"
+        "str": "Az Enigma"
     },
     {
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "Szellem 28"
+        "str": "A Gasp"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(31 - Value).DisplayNameMap",
         "id": "Seesaws",
-        "str": "Libikókák"
+        "str": "Likókák"
     },
     {
         "key": "073BF882481ECDE57F50FF98957A3C22",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new difficulty!",
-        "str": "Új nehézségi szintet oldottál fel!"
+        "str": "Új nehézséget nyitottál meg!"
     },
     {
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "A költségek a boltban lévő tárgyak áraiban tükröződnek"
+        "str": "A költségek az üzletben található termékek áraiban jelennek meg"
     },
     {
         "key": "0860FF434B759F0DDD299AAD5097224D",
@@ -141,7 +141,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Ne felejtsd el zárva tartani az ajtót a reteszel. Ha nem teszed, a babák kijöhetnek, megváltoztathatják a tesztjeidet, és akár meg is ölhetnek."
+        "str": "Ne felejtse el zárva tartani az ajtót a reteszt. "
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -153,13 +153,13 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Most elfogadtad az esetet. Az oktatóanyagon kívül bármikor feladhatod az esetet, de miután elfogadtad, nem találhatsz új eseteket. Ha ez megoldódott, utazz a helyszínre, amikor készen állsz."
+        "str": "Ön most elfogadta az ügyet. "
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "Ez a babák szobája. Itt láthatod, mit csináltak, amíg aludtál. Nézd meg őket, majd térjünk vissza a szobába."
+        "str": "Ez a babaszoba. "
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -171,7 +171,7 @@
         "key": "09CCC43B450A924B1414CEA6C17A4E5D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_137.Text",
         "id": "Language",
-        "str": "Utálja"
+        "str": "Nyelv"
     },
     {
         "key": "0A3D5EC2435134BB35A189A4B69C4101",
@@ -183,7 +183,7 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "Egy illatos vaníliarúd."
+        "str": "Illatos vaníliarúd."
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -207,13 +207,13 @@
         "key": "0CA5844D4070A29607D91D9C17419FCD",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Skip all hours",
-        "str": "Ugord át az összes órát"
+        "str": "Kihagy minden órát"
     },
     {
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "Sötét lélekpapír"
+        "str": "Bolt"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
@@ -237,25 +237,25 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Magad hintáztatása"
+        "str": "Swing Self"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "Térjünk vissza a panelhez, és kezdjük el kiszűrni azokat a gyanúsítottakat, akik nem illenek a bizonyítékainkhoz."
+        "str": "Térjünk vissza a testülethez, és kezdjük el kiszűrni azokat a gyanúsítottakat, akik nem egyeznek a bizonyítékainkkal."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Dreadful",
-        "str": "A Félelmetes"
+        "str": "A Rettenetes"
     },
     {
         "key": "109D973D484D997685448980DCB79533",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_2.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Floor",
-        "str": "Padló"
+        "str": "Emelet"
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
@@ -267,7 +267,7 @@
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
-        "str": "A szép"
+        "str": "A Gyönyörű"
     },
     {
         "key": "14427A08459289522231F5B3835D2594",
@@ -279,25 +279,25 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "Egy fehér virág, puha szirmokkal."
+        "str": "Fehér virág puha szirmokkal."
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigmatic",
-        "str": "Pislákolás"
+        "str": "A rejtélyes"
     },
     {
         "key": "156635BF49E1B3C111682A92C49899D7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmur",
-        "str": "Árnyas suttogás"
+        "str": "A Mormogás"
     },
     {
         "key": "158063504E027E4AF2D595A2CE468770",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantasm",
-        "str": "Suttogások"
+        "str": "A fantazma"
     },
     {
         "key": "158F6D234AF05145B4905F942285D978",
@@ -315,25 +315,25 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "Nagyon jól, minden tárgyat használtál a babán. Ezúttal azok a dolgok, amiket Lil nem szeretett: {items}"
+        "str": "Nagyon jó, a babán lévő összes elemet felhasználtad. "
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(3).Options.Label",
         "id": "Extreme",
-        "str": "Extrém"
+        "str": "Szélső"
     },
     {
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Kiságy"
+        "str": "Van Bed"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
-        "str": "Kilépés"
+        "str": "Kijárat"
     },
     {
         "key": "16A84C9B486F4A520142D791EC349B4F",
@@ -345,31 +345,31 @@
         "key": "16B725324055549E77710CACDD3325FF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now move the picture closest to the living room door.",
-        "str": "Most mozgassa a képet a legközelebb a nappali ajtajához"
+        "str": "Most mozgassa a képet a nappali ajtajához legközelebb."
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_23.Text",
         "id": "Run",
-        "str": "Futás"
+        "str": "Fut"
     },
     {
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "Reszketés"
+        "str": "Az Obscura"
     },
     {
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "Egy csavart és baljós gyökér."
+        "str": "Göcsörtös és baljós gyökér."
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
         "location": "/Game/enums/actions.actions.DisplayNameMap(48 - Value).DisplayNameMap",
         "id": "Magic trick",
-        "str": "Bűvésztrükk"
+        "str": "Varázstrükk"
     },
     {
         "key": "19750FC24F8A0B2279246B801F612D34",
@@ -381,7 +381,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Ügy elvetése"
+        "str": "Drop Case"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -393,19 +393,19 @@
         "key": "1AEE02D7485216A7EBEC93AD95D81A25",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Right Side",
-        "str": "PC jobb oldala"
+        "str": "PC jobb oldalon"
     },
     {
         "key": "1AF5392F481406F80C566FB0740D5D3D",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shady",
-        "str": "A Komor"
+        "str": "The Shady"
     },
     {
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "Szellem 37"
+        "str": "A Szellem"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
@@ -417,13 +417,13 @@
         "key": "1C4788334C67D107A7BE1F931C0A749E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_24.Text",
         "id": "Your election",
-        "str": "A te választásod"
+        "str": "A megválasztásod"
     },
     {
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "Ez a baba hatás alatt van, várj, amíg a hatás véget ér, mielőtt egy másikat alkalmaznál"
+        "str": "Ez a baba effektus alatt áll, várja meg, amíg a hatás véget ér, hogy egy másikat alkalmazzon"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -441,7 +441,7 @@
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_33.Text",
         "id": "Screen Percentage",
-        "str": "Képernyő százaléka"
+        "str": "Képernyő százalék"
     },
     {
         "key": "1DFB0F2649F857BCBC918D9215167D9B",
@@ -453,37 +453,37 @@
         "key": "1E5D3DCD4F80B7273B0E9882F51B5270",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Howl",
-        "str": "Baljós"
+        "str": "Az Üvöltés"
     },
     {
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "Mosoly"
+        "str": "A Glint"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
         "location": "/Game/enums/actions.actions.DisplayNameMap(35 - Value).DisplayNameMap",
         "id": "Sandbox",
-        "str": "Homokozó"
+        "str": "Sandbox"
     },
     {
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "A Suttogások"
+        "str": "A Suttogók"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "Üvöltés"
+        "str": "A grimasz"
     },
     {
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Ezek az elixírek kapcsolatokat fednek fel a babák között. Mindannyiuknak vannak kapcsolataik, és ez az egyetlen módja annak, hogy felfedezzük őket. Kezdjük el a Lil szerelmi kapcsolatát a többi babával tesztelni. Egyszerűen alkalmazza az elixírt Lilre, és figyelje meg a hatásokat. Mindazok, akik reagálnak Lil hatásaira, azok, akiket Lil szeret."
+        "str": "Ezek az elixírek feltárják a babák közötti kapcsolatokat. "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -495,31 +495,31 @@
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cackle",
-        "str": "Jegyzeteld a babák viselkedését"
+        "str": "A Cackle"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
         "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
         "id": "Loves",
-        "str": "Szereti"
+        "str": "Szerelmek"
     },
     {
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "Minden nyom és információ rendelkezésedre áll a babákról, de ez minden babánál teljesen véletlenszerű."
+        "str": "Minden nyom és információ birtokában van a babákkal kapcsolatban, de ez teljesen véletlenszerű minden babánál."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
         "id": "Tea with enemies",
-        "str": "Tea az ellenségekkel"
+        "str": "Tea ellenségekkel"
     },
     {
         "key": "22B8C07045CAEA974D03AD9C0D933A4E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Bar",
-        "str": "Aranyrúd"
+        "str": "Gold Bar"
     },
     {
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
@@ -531,25 +531,25 @@
         "key": "230AAACD49536A9594B0CBB4CA653C76",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the tv",
-        "str": "Most a TV"
+        "str": "Most a tv"
     },
     {
         "key": "232AD0824B82F9E7EF1AA1B176CE4C01",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_10.Text",
         "id": "Case Number",
-        "str": "Ügy száma"
+        "str": "Ügyszám"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
         "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_31.Text",
         "id": "Doll List",
-        "str": "Babák listája"
+        "str": "Baba lista"
     },
     {
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "Több célpont jelent meg a képen; próbálj közelebb menni, és csak a kívánt célpontra összpontosítani."
+        "str": "Több célpont is megjelent a fotón; "
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -573,97 +573,97 @@
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_10.Text",
         "id": "Camera Sensivity",
-        "str": "Kamera érzékenység"
+        "str": "Kamera érzékenysége"
     },
     {
         "key": "267DB35B4828F6D27920F0A6E4892E5A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_35.Text",
         "id": "Reflection Method",
-        "str": "Visszaverődési módszer"
+        "str": "Reflexiós módszer"
     },
     {
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "A célt nem érzékelték, próbálj meg jobban összpontosítani, és tarts egy bizonyos távolságot, ahol az egész cél látható"
+        "str": "A célpont nem észlelhető, próbáljon jobban fókuszálni, és maradjon egy meghatározott távolságban, ahol a teljes cél látható"
     },
     {
         "key": "273F474146E53E4EF26ED18EF748B092",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
         "id": "Results",
-        "str": "Szereld fel a biztosítékot, és menj a ház hátuljába, hogy aktiváld azt"
+        "str": "Eredmények"
     },
     {
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "Az Üldöző"
+        "str": "A Stalker"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(0).Options.Label",
         "id": "Off",
-        "str": "Ki"
+        "str": "Le"
     },
     {
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "Csend"
+        "str": "A vigyor"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "A Suttogó Szél"
+        "str": "A Suttogószél"
     },
     {
         "key": "2A85705945159E3B98E06BB40B5CA820",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the book",
-        "str": "Most a köny"
+        "str": "Most a könyv"
     },
     {
         "key": "2AD4B4974FD1B23943AF91A6E5D447E8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghoul",
-        "str": "Homály"
+        "str": "A Ghoul"
     },
     {
         "key": "2BB11678432B1B25F353A1A7B4A35E7E",
         "location": "/Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text",
         "id": "Reset",
-        "str": "Visszaállítás"
+        "str": "Reset"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "Kiválóság Asszonya"
+        "str": "Ms. Kiválóság"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Demon",
-        "str": "A Démon"
+        "str": "A démon"
     },
     {
         "key": "2D10309A4AE3A7B38D67BC894C9A5B97",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
         "id": "View Distance Quality",
-        "str": "Látótávolság minősége"
+        "str": "Távolságminőség megtekintése"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
         "id": "Hard",
-        "str": "Nehéz"
+        "str": "Kemény"
     },
     {
         "key": "2DE4F4264AEB90D45B2363B38034FA9E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_48.Text",
         "id": "Music Volume",
-        "str": "Zene hangerő"
+        "str": "Zene hangereje"
     },
     {
         "key": "2DEA68154A30209AA0698497E47F9DA9",
@@ -675,13 +675,13 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "Kígyóvér"
+        "str": "Soul Sötét Papír"
     },
     {
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Egy táskát is adtam neked. Ez a táska segít majd elfogni az utánzót. Ha elkapod, a játék véget ér (ha ezt az időkorláton belül megteszed). Hagylak, hogy befejezd a tutorial ezen részét. Nyerj vagy veszíts, kész vagy. Sok szerencsét!"
+        "str": "Adtam egy táskát is. "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -693,7 +693,7 @@
         "key": "2F29E9E841620DC6B54893A7BE60FE77",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Desktop",
-        "str": "Asztal"
+        "str": "Asztali"
     },
     {
         "key": "2F564E2B4FB1B7CB88A558A4D73A0B22",
@@ -705,7 +705,7 @@
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lie bytes",
-        "str": "A Hazugság bájtjai"
+        "str": "A Lie bájtok"
     },
     {
         "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -723,37 +723,37 @@
         "key": "31F30B9A42A2AFBDA2E46A82CAD31875",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_43.Text",
         "id": "Total Actions",
-        "str": "Összes Akció"
+        "str": "Összes akciók"
     },
     {
         "key": "32053A4646B4374EA4DBD3BC64CB936C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Spirit",
-        "str": "A Lélek"
+        "str": "A Szellem"
     },
     {
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "Ringatás"
+        "str": "Scorpion Venom"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twilight",
-        "str": "A Szürkület"
+        "str": "Az Alkonyat"
     },
     {
         "key": "336B557643CBA00B5138539520DCBB04",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's start with the chair outside.",
-        "str": "Kezdjük a székkel kint."
+        "str": "Kezdjük a kinti székkel."
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Quartz crystal",
-        "str": "Kvarckristály"
+        "str": "Kvarc kristály"
     },
     {
         "key": "34568E7B486905A5400643A88FA2E8A8",
@@ -765,19 +765,19 @@
         "key": "34AFF09749F832F67360E0923F227F4F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Discards",
-        "str": "Kiselejtezések"
+        "str": "Eldobások"
     },
     {
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "Pontszám"
+        "str": "Snake's Blood"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Malicious",
-        "str": "A Rosszindulatú"
+        "str": "A rosszindulatú"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
@@ -795,31 +795,31 @@
         "key": "37B6780C449B80C581D1478BD1CB6A4A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veiled",
-        "str": "A Befedett"
+        "str": "A fátyolos"
     },
     {
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "Rejtély"
+        "str": "A nyögés"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
-        "str": "Kedvel"
+        "str": "Tetszik"
     },
     {
         "key": "3837591C42D92A7775C0598726DC6D31",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_29.Text",
         "id": "FPS Limit",
-        "str": "FPS korlát"
+        "str": "FPS limit"
     },
     {
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "Már csak 3 maradt. Menjünk a szobába, hogy megnézzük, ki mozdult el, és kit mozdítottak el."
+        "str": "Már csak 3 van hátra. "
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -831,31 +831,31 @@
         "key": "3AEB5BB747D3C431D54680AEFDB7D404",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silent",
-        "str": "A Csendes"
+        "str": "A Néma"
     },
     {
         "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An ancient piece of paper.",
-        "str": "Egy régi papírdarab."
+        "str": "Egy ősi papírdarab."
     },
     {
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
         "location": "/Game/data-tables/itemList.itemList.NewRow_33.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Spacious bag",
-        "str": "Lélekkönyv"
+        "str": "Tágas táska"
     },
     {
         "key": "3BF4F9F24361A6C9205652911A0DA864",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_42.Text",
         "id": "Reflection Quality",
-        "str": "Reflexió minősége"
+        "str": "Reflexió minőség"
     },
     {
         "key": "3C68D11C43CC3EA53113F48A08FDF3AD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the wall clock",
-        "str": "Most a fali óra"
+        "str": "Most a falióra"
     },
     {
         "key": "3D3092E04B30FAE9F91970831F869B44",
@@ -867,7 +867,7 @@
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "Sikoly"
+        "str": "A gyászos"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -885,13 +885,13 @@
         "key": "3E796087492560DF199BD58F4D3A3731",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_14.Text",
         "id": "Move Backward",
-        "str": "Mozogj hátra"
+        "str": "Mozgás hátra"
     },
     {
         "key": "3E8440AC413D7725FE75218355F55B7B",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-        "str": "Nagyszerű! Adtam neked a sötét papírt. Használd Lil-en, és írd le mindent, amit látsz. Emlékezz, ezek azok a dolgok, amiket nem szeret, tehát bármi, amit elolt, az az ő nem kedveléseit fogja jelenteni."
+        "str": "Nagy! "
     },
     {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
@@ -903,7 +903,7 @@
         "key": "3F845D654ED6C33DC540F4BC414F7994",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ebon",
-        "str": "Félelem"
+        "str": "Az Ebon"
     },
     {
         "key": "3FAB1E074AD22684E3F78785D85679FA",
@@ -915,7 +915,7 @@
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
-        "str": "Beállítások"
+        "str": "Beállítások elemre"
     },
     {
         "key": "4020C7B84456D9F178DC488EAB546977",
@@ -927,19 +927,19 @@
         "key": "40CA9F4E4306D720405AF5BA3B5DFEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Bone",
-        "str": "Vedd fel a zseblámpát"
+        "str": "A Csont"
     },
     {
         "key": "411476E94611E3ECBFFCB29460596681",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_17.Text",
         "id": "Move Right",
-        "str": "Mozogj jobbra"
+        "str": "Mozgás Jobbra"
     },
     {
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "Egy serleg alakú trófea, általában arany, amelyet sportversenyeken vagy rangos ünnepségeken győzelmi szimbólumként adnak át."
+        "str": "Kupa alakú, általában arany színű trófea, amelyet a sportversenyeken vagy rangos ceremóniákon a győzelem szimbólumaként osztanak ki."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -957,25 +957,25 @@
         "key": "420F5BCA40413C0383C7AA9583EEC5C0",
         "location": "/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap",
         "id": "Mislead",
-        "str": "Félrevezetés"
+        "str": "Félrevezetni"
     },
     {
         "key": "433A6CE84E4955044C7FB38105FA63BF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
         "id": "Footsteps Volume",
-        "str": "Lépészaj hangerő"
+        "str": "Lépések kötet"
     },
     {
         "key": "43B95535434D97B9189B93A2A4594202",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_1.Text",
         "id": "Amount of Information discovered",
-        "str": "Felfedezett információk mennyisége"
+        "str": "A felfedezett információ mennyisége"
     },
     {
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "Leselkedő"
+        "str": "A Hauntling"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -993,13 +993,13 @@
         "key": "45C632DB4CE38CCF91E0E89A3C83E11B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Video Settings",
-        "str": "Videóbeállítások"
+        "str": "Videó beállítások"
     },
     {
         "key": "45DB611B482D35EE05ADE98331F2EC20",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Haunting",
-        "str": "A Kísértő"
+        "str": "A kísérteties"
     },
     {
         "key": "460FFB13421148C8493D69A72A81E93C",
@@ -1017,25 +1017,25 @@
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock.Text",
         "id": "Most won map",
-        "str": "Legtöbbet nyert térkép"
+        "str": "A legtöbb nyert térkép"
     },
     {
         "key": "46CE50D24305DF8EE5E3069A686AD62E",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(4).texts",
         "id": "What do we have left?",
-        "str": "Mi maradt nekünk?"
+        "str": "Mi marad nekünk?"
     },
     {
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Hagyja el most a szobát, és ellenőrizze az összes aktivált dolgot. Írjon le mindent, amit a baba kedvencei között lát!"
+        "str": "Hagyja el a szobát most, és ellenőrizze, hogy minden aktiválva van. "
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-        "str": "Végigvitted az oktatót, ismered az alapokat! Az oktató befejezéséhez menj az ágyhoz és aludj. Az biztonsági zónádba mész. Használd a számítógépet a játék indításához!"
+        "str": "Sikerült az oktatóanyagon, ismeri az alapokat! "
     },
     {
         "key": "4798B1E54C73C4932878B1A4630376ED",
@@ -1047,13 +1047,13 @@
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Belladonna leaves",
-        "str": "Belladonna levelek"
+        "str": "Belladonna távozik"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ominous",
-        "str": "A Baljóslatú"
+        "str": "Az ominózus"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -1071,7 +1071,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "Halotti lepel"
+        "str": "The Nightfall"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -1083,7 +1083,7 @@
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "Függő baba"
+        "str": "Van Lógó baba"
     },
     {
         "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
@@ -1095,25 +1095,25 @@
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Select those objects to craft another one.",
-        "str": "Válassza ki ezeket a tárgyakat egy másik készítéséhez."
+        "str": "Válassza ki ezeket az objektumokat egy másik létrehozásához."
     },
     {
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A clear and pure crystal.",
-        "str": "Egy tiszta és tiszta kristály."
+        "str": "Tiszta és tiszta kristály."
     },
     {
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "Egy noteszt adtam neked, ahol láthatod az összes részletet a babákról és teljes információkat. Nézd meg, és amikor készen állsz, térj vissza a babákhoz."
+        "str": "Adtam neked egy jegyzetfüzetet, amelyben láthatod a babákkal kapcsolatos összes részletet és a teljes információt. "
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Veil",
-        "str": "A Fátyol"
+        "str": "A fátyol"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -1131,7 +1131,7 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "A Különös"
+        "str": "A Uncanny"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -1143,25 +1143,25 @@
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_19.Text",
         "id": "Turn Left",
-        "str": "Balra fordulás"
+        "str": "Forduljon balra"
     },
     {
         "key": "51B58C89473E1AE2A37E6A8118DC37C1",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-        "str": "Valaha elgondolkodtál azon, hogy honnan származik a babákra vonatkozó információ? A karrier módban végtelen esetekkel, gazdasággal, szintekkel, boltokkal, készítéssel és sok mással felfedezheted a babákra vonatkozó információkat!"
+        "str": "Gondolkozott már azon, hogy honnan származnak a babákkal kapcsolatos információk? "
     },
     {
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "Ügyes vagy, befejezted az elixíreket. Nem ellenőrzöm a jegyzeteidet, de biztos vagyok benne, hogy nagyszerűek!"
+        "str": "Jól tetted, elkészítetted az elixíreket. "
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Te vagy a babák őrzője, egyikük él és meg akar ölni téged. Meg kell találnod, melyik az, mielőtt 09:00 lesz."
+        "str": "Te vagy a babák gyámja, egyikük él, és meg akar ölni. "
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1173,13 +1173,13 @@
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "Tökéletes, már csak 5 gyanúsítottunk van. Menjünk aludni újra."
+        "str": "Tökéletes, 5 gyanúsítottunk maradt. "
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "Bolt"
+        "str": "Vegyél zseblámpát"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
@@ -1191,7 +1191,7 @@
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Lights",
-        "str": "Kisbusz fények"
+        "str": "Van Lights"
     },
     {
         "key": "554BB9D046155183D4DCF7A14F96171E",
@@ -1209,67 +1209,67 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "Mielőtt átadnám neked a sötét papírt, aktiváljuk és kapcsoljuk be mindent. Így könnyebb lesz látnunk, hogy mi az, amit a baba nem szeret, amikor megállítjuk."
+        "str": "Mielőtt odaadnánk a sötét papírt, aktiváljunk és kapcsoljunk be mindent. "
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals love",
-        "str": "Szerelmet felfedő elixír"
+        "str": "Elixír, amely felfedi a szerelmet"
     },
     {
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
         "id": "Camp with enemies",
-        "str": "Tábor ellenségekkel"
+        "str": "Táborozni az ellenségekkel"
     },
     {
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
         "id": "Most Earned Doll",
-        "str": "Legtöbbet szerzett baba"
+        "str": "Legtöbbet megkeresett baba"
     },
     {
         "key": "5981A77041F835414316E0BEA0C3C8F8",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
-        "str": "NYERTÉL"
+        "str": "NYERSZ"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_5.Text",
         "id": "Buy All",
-        "str": "Mindent megvesz"
+        "str": "Vásároljon mindent"
     },
     {
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Véletlenszerű, de végtelen mód, 3 perces időzítőd van az eset megoldására, és van egy ranglista"
+        "str": "Véletlenszerű, de végtelen mód, van egy 3 perces időzítője az eset javításához, és van egy ranglista a vezetőkről"
     },
     {
         "key": "5A9082C24056C8BFE9DE8EA9069EF292",
         "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
         "id": "For the changes to take effect, restart the game",
-        "str": "A változások érvénybe lépéséhez indítsd újra a játékot"
+        "str": "A változtatások életbe léptetéséhez indítsa újra a játékot"
     },
     {
         "key": "5AC930984185A24BC84F5EB1E734B80E",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
-        "str": "A Csősapkák"
+        "str": "A Tubesocks"
     },
     {
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Használnod kell a lelkek könyvét, mielőtt elmented a csaló babát"
+        "str": "Használnod kell a lelkek könyvét, mielőtt megmented a szélhámos babát"
     },
     {
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap",
         "id": "Move Others",
-        "str": "Mások mozgatása"
+        "str": "Move Others"
     },
     {
         "key": "5E0DC4AE4575000AC0171F95AD85CADA",
@@ -1281,31 +1281,31 @@
         "key": "5E1C23674444BB331554B39281C7EA20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
-        "str": "Mások hintáztatása"
+        "str": "Swing Mások"
     },
     {
         "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_52.Text",
         "id": "Invert Camera",
-        "str": "Kamera megfordítása"
+        "str": "Invert kamera"
     },
     {
         "key": "5E6EA38E411F23949A2E5D828B409DDF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Umbral",
-        "str": "A Sötét"
+        "str": "Az Umbrál"
     },
     {
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "Eredmények"
+        "str": "Ringázás"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Widow",
-        "str": "Az özvegy"
+        "str": "Az Özvegy"
     },
     {
         "key": "60929102471030286F6536A92C1EC5C8",
@@ -1323,7 +1323,7 @@
         "key": "611C7265455A03D1E36711A53C897A09",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Detective",
-        "str": "Detektív"
+        "str": "Nyomozó"
     },
     {
         "key": "612C02664338E6F05B4191AC77E63DA9",
@@ -1335,7 +1335,7 @@
         "key": "61579A7B4A7A797C38911980E669DE96",
         "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
         "id": "Jail Others",
-        "str": "Mások bebörtönzése"
+        "str": "Börtönben Mások"
     },
     {
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
@@ -1347,7 +1347,7 @@
         "key": "62E75F3344325D96C309BFB52949F95A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(57 - Value).DisplayNameMap",
         "id": "Stuffed Animals",
-        "str": "Lélekpapír"
+        "str": "Kitömött állatok"
     },
     {
         "key": "63063D214706E5FBBE2227836F1BE194",
@@ -1359,43 +1359,43 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "Amikor elkezdesz egy esetet, felszerelheted magad azokkal az elemekkel, amelyeket vásároltál vagy készítettél. Ehhez lépj be a mögötted lévő ládába. Jelenleg üresnek fogod látni, de ne aggódj, elemeket fogok adni neked, hogy megismerkedj velük!"
+        "str": "Amikor elindít egy ügyet, fel tudja magát szerelni a vásárolt vagy elkészített tárgyakkal. "
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
         "id": "Look Up",
-        "str": "Felfelé néz"
+        "str": "Nézz fel"
     },
     {
         "key": "63D67BF743D308E3537D9794B417B76A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_5.Text",
         "id": "Nightmare",
-        "str": "Rémálom"
+        "str": "Lidércnyomás"
     },
     {
         "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
-        "str": "A Szellem"
+        "str": "A lidérc"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "Sötét és csípős hagyma."
+        "str": "Sötét és csípős izzó."
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "A szokásos nehézségi szint minden játékos számára, minden nyom 08:00-kor kerül megadásra, lehetőséged van látni a babák nevét és az imposztor cselekedeteinek listáját"
+        "str": "A standard nehézség minden játékos számára, minden nyom 08:00-kor történik, lehetősége van megnézni a babák nevét és a csaló akcióinak listáját"
     },
     {
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Riddle",
-        "str": "A Rejtély"
+        "str": "A talány"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
@@ -1407,37 +1407,37 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Ez az utolsó óra. Csak ez az esélyünk van rájönni. Menjünk a szobába."
+        "str": "Ez az utolsó óra. "
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
         "location": "/Game/enums/actions.actions.DisplayNameMap(58 - Value).DisplayNameMap",
         "id": "Animated Stuffed animal",
-        "str": "Animált plüssállat"
+        "str": "Animált kitömött állat"
     },
     {
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twisted",
-        "str": "A Torzult"
+        "str": "A Twisted"
     },
     {
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "Nagyon jól, most a megmaradt gyertya."
+        "str": "Nos, most a maradék gyertya."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
         "id": "Brightness",
-        "str": "fényerő"
+        "str": "Fényesség"
     },
     {
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Létrehoztam egy fejlettebb útmutatót, amely bemutatja a Karrier mód minden aspektusát. Ha további segítségre van szükséged, ajánlom, hogy nézd meg; segíteni fog a jövőbeni eseteid megoldásában!"
+        "str": "Készítettem egy fejlettebb útmutatót, amely a Karrier mód minden aspektusát feltárja. "
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Tökéletes, most vizsgáljuk meg az egyik babát. Adtam neked egy kamerát; készítsünk egy képet Lilről."
+        "str": "Tökéletes, most vizsgáljuk meg az egyik babát. "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1461,13 +1461,13 @@
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "Sóhaj"
+        "str": "A Siralom"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_3.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Object",
-        "str": "Tárgy"
+        "str": "Objektum"
     },
     {
         "key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
@@ -1479,19 +1479,19 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "Rejtélyes"
+        "str": "A Dire"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
         "id": "Play tutorial",
-        "str": "Játssza a bemutatót"
+        "str": "Lejátszás oktatóanyag"
     },
     {
         "key": "6B78310947BA56A4D0322EAFBC650458",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Macabre",
-        "str": "A Hátborzongató"
+        "str": "A Macabre"
     },
     {
         "key": "6BF7F5344FD96A246EE841869E9C0DB0",
@@ -1503,7 +1503,7 @@
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "Lélek"
+        "str": "Az Éjfél"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
@@ -1515,37 +1515,37 @@
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
         "id": "Effects Volume",
-        "str": "Effekthangerő"
+        "str": "Hatások Hangerő"
     },
     {
         "key": "6E900D00499A2A657789138FBA3BD69E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_49.Text",
         "id": "Previous Equipment",
-        "str": "Előző felszerelés"
+        "str": "Korábbi felszerelés"
     },
     {
         "key": "6F62E8EE4D6306627A7D92B69CABCC13",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Lily flower",
-        "str": "Liliomvirág"
+        "str": "Liliom virág"
     },
     {
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hallowed",
-        "str": "Panasz"
+        "str": "A megszentelt"
     },
     {
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "Rózsaszirmok"
+        "str": "Kicsi és lédús gyümölcsök."
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "Pislákolás"
+        "str": "A Szellem"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -1557,19 +1557,19 @@
         "key": "7095C09D4014D1FB9E4C1D9529586155",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_7.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Left Side",
-        "str": "PC bal oldala"
+        "str": "PC bal oldal"
     },
     {
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "Grimasz"
+        "str": "The Glare"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
         "id": "Volumetric Fog Quality",
-        "str": "Köd minősége"
+        "str": "Volumetrikus köd minőség"
     },
     {
         "key": "72400A564910846D7B2ECEAD2631331D",
@@ -1581,19 +1581,19 @@
         "key": "7286FEC6469CF65A5584DB896D227680",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(0).Options.Label",
         "id": "Windowed",
-        "str": "Ablakos mód"
+        "str": "Ablakos"
     },
     {
         "key": "733845AE414C327753B93094F83BF162",
         "location": "/Game/enums/actions.actions.DisplayNameMap(49 - Value).DisplayNameMap",
         "id": "Balloon",
-        "str": "Lufi"
+        "str": "Ballon"
     },
     {
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Üdvözöljük a Karrier Módban. Ebben a játékmódban fel kell fednie a babákkal kapcsolatos információkat, és helyesen kell megoldania minden esetet."
+        "str": "Üdvözöljük a Karrier módban. "
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1629,13 +1629,13 @@
         "key": "75A0760B4CF756F7572751980578A7E4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Single",
-        "str": "Az egyedülálló"
+        "str": "A szingli"
     },
     {
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Nyomozó szerepet fogsz betölteni, amelyben meg kell határoznod, a bal oldali panelen felsorolt csaló kedvelései és nemkedvelései alapján, mit szeret és mit nem, kik az ellenségei, barátai, szerelmei vagy gyűlölt személyei."
+        "str": "Nyomozói szerepköre lesz, amelyben a bal oldali panelen felsorolt, a csaló tetszései és nemtetszései alapján meg kell határoznia, hogy mit szeret és mit nem, kik az ellenségei, barátai, szerelmei vagy utált személyei. "
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1647,7 +1647,7 @@
         "key": "773B946148501068D9A5B3A814B81ECD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_16.Text",
         "id": "Move Left",
-        "str": "Mozogj balra"
+        "str": "Mozgás balra"
     },
     {
         "key": "77597C9F40C4017557D06AA387E711B0",
@@ -1659,49 +1659,49 @@
         "key": "77DAE76A48EC13E45F2983881F23E808",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Gameplay Settings",
-        "str": "Játékbeállítások"
+        "str": "Játékmenet beállításai"
     },
     {
         "key": "77FB63CC4DE70AC03435D38AAA0FDBE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echosong",
-        "str": "Kísérteties"
+        "str": "Az Echosong"
     },
     {
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Ijesztés hangerő"
+        "str": "Jumpscares kötet"
     },
     {
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(1).texts",
         "id": "Where is the hope?",
-        "str": "Hol van a remény?"
+        "str": "Hol a remény?"
     },
     {
         "key": "7954AA374982804CD0C829A2D5575131",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_17.Text",
         "id": "Money Earned",
-        "str": "Megszerzett pénz"
+        "str": "Keresett pénz"
     },
     {
         "key": "7969D08443D6AB359F1A76AFDC805E0F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murmurer",
-        "str": "Árnyék"
+        "str": "A Mormogó"
     },
     {
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
         "id": "Go to Safe House",
-        "str": "Menj a biztonságos házba"
+        "str": "Menjen a Biztonságos Házhoz"
     },
     {
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Itt mindent felhasználtál, amire szükséged volt"
+        "str": "Mindent felhasznált, amire szüksége volt az itteni használathoz."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1713,55 +1713,55 @@
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "Fenyegetés"
+        "str": "The Hush"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "Komor"
+        "str": "A Lurk"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Menacing",
-        "str": "A Fenyegető"
+        "str": "A fenyegető"
     },
     {
         "key": "7B965EEB441BE13C098439BB745C2F25",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You're short of ingredients to make this",
-        "str": "Hiányoznak az összetevők ennek elkészítéséhez"
+        "str": "Kevés az összetevőkből az elkészítéséhez"
     },
     {
         "key": "7C103CB840F8E092D02937A8D8ACCCCF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
         "id": "Nothing makes sense anymore",
-        "str": "Semmi sem tűnik többé értelmesnek"
+        "str": "Már semminek sincs értelme"
     },
     {
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "Amint befejezed az oktatót, pénzügyi nehézségekkel szembesülhetsz. Ennek kezelésére játszhatod a klasszikus módot, amely a nehézségi szinttől függően több vagy kevesebb pénzt biztosít az esetekhez."
+        "str": "Miután befejezte az oktatóprogramot, pénzügyi nehézségekkel szembesülhet. "
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-        "str": "Csak szakemberek számára alkalmas, 08:00-kor kezdődik, és csak 3 hatékony nyomot tartalmaz, nincsenek fotók vagy segédeszközök, néhány adat rejtett, korlátozott hozzáférésed van a térképhez"
+        "str": "Csak szakemberek számára alkalmas, 08:00-kor kezdődik és csak 3 hatékony nyoma van, nincsenek fényképek vagy segédanyagok, az adatok egy része rejtve van, korlátozott hozzáférése van a térképhez"
     },
     {
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(1).Options.Label",
         "id": "On",
-        "str": "Be"
+        "str": "On"
     },
     {
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "Bal oldali kisbusz"
+        "str": "Van bal oldal"
     },
     {
         "key": "7D39CA6640F288A9002846AE7D7F4041",
@@ -1773,61 +1773,61 @@
         "key": "7EB47B9449369EB3E3F18C972CC18786",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals enmity",
-        "str": "Ellenségességet felfedő elixír"
+        "str": "Elixír, amely felfedi az ellenségeskedést"
     },
     {
         "key": "7EBE45E64B8119C2AA017590BE5B8563",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text",
         "id": "Anti Aliasing Quality",
-        "str": "Élsimítási minőség"
+        "str": "Anti-aliasing minőség"
     },
     {
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Állítsunk csapdát a csalónak. Már tudjuk, hogy szereti a tévét és a zenét. Kapcsold fel a lámpákat."
+        "str": "Állítsunk csapdát a szélhámosnak. "
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "A hatások elmúltak. Ha nem sikerült leírnod, Lil szerelmei: {people}"
+        "str": "A hatások elkoptak. "
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(8).texts",
         "id": "The silence is deafening",
-        "str": "A csend süketítő"
+        "str": "A csend fülsiketítő"
     },
     {
         "key": "80178DF845B4F8C8D4B5DABBDC29F983",
         "location": "/Game/enums/actions.actions.DisplayNameMap(52 - Value).DisplayNameMap",
         "id": "Firecrackers",
-        "str": "Petárdák"
+        "str": "Petárdákat"
     },
     {
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show jumpscares",
-        "str": "Ugratások megjelenítése"
+        "str": "Show jumpscares"
     },
     {
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van floor",
-        "str": "Kisbusz padló"
+        "str": "Furgon padló"
     },
     {
         "key": "806D1B0C4EFCAD5D435AD6A24A208010",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(10).texts",
         "id": "Who will listen to us?",
-        "str": "Ki hallgat meg minket?"
+        "str": "Ki fog hallgatni minket?"
     },
     {
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Megdöntötted az új rekordodat {new} éjszakával! Az előző rekordod {old} éjszaka volt!"
+        "str": "Megdöntötte új rekordját {new} éjszakával! "
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -1839,7 +1839,7 @@
         "key": "814D9929402ED9670B11B8A5F77DD89E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Dove's feather",
-        "str": "Galambtoll"
+        "str": "galamb toll"
     },
     {
         "key": "815797D840D1A6AEC45401A9A3996DE0",
@@ -1851,13 +1851,13 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "Lélek"
+        "str": "A sápadt"
     },
     {
         "key": "821C250E485ED0C26041C8830F8E0625",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A durable and flexible material.",
-        "str": "Egy tartós és rugalmas anyag."
+        "str": "Tartós és rugalmas anyag."
     },
     {
         "key": "82B77C5A456740B0D72910B21AF4A463",
@@ -1875,37 +1875,37 @@
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "Most kipróbálhatja a számítógépen"
+        "str": "Most kipróbálhatja PC-n"
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text",
         "id": "Foliage Quality",
-        "str": "Növényzet minősége"
+        "str": "Lombozat minősége"
     },
     {
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "Látó"
+        "str": "A homály"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tactician",
-        "str": "A taktikus"
+        "str": "A Taktikus"
     },
     {
         "key": "84B3B484489A7A0017B755B62F30FC82",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text",
         "id": "Accept Case",
-        "str": "Ügy elfogadása"
+        "str": "Case elfogadása"
     },
     {
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "Áram bekapcsolva! Menj vissza a házba."
+        "str": "Villany bekapcsolva! "
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
@@ -1923,19 +1923,19 @@
         "key": "86BE55834614BDEE6BACCD821A069F89",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-        "str": "Egy elegáns ékszer, amely kerek gyöngyökből áll, ismert lágy fényéről, és a kifinomultsággal és luxussal társítják."
+        "str": "Kerek gyöngysorból álló elegáns ékszer, amely lágy csillogásukról ismert, és a kifinomultsághoz és a luxushoz kapcsolódik."
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_19.Text",
         "id": "Score",
-        "str": "Amikor készen állsz, kattints az Elfogadás gombra, hogy vállald ezt az ügyet"
+        "str": "Pontszám"
     },
     {
         "key": "8772BC8B4A8B67D8026B5D806054E488",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_27.Text",
         "id": "Sell All",
-        "str": "Mindent elad"
+        "str": "Mindent eladni"
     },
     {
         "key": "8785C0644A30D7680DD4668FB916A03A",
@@ -1965,7 +1965,7 @@
         "key": "8841057C4E79D1D004AE35BDDA5930D6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals hatred",
-        "str": "Gyűlöletet felfedő elixír"
+        "str": "Elixír, amely felfedi a gyűlöletet"
     },
     {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
@@ -1977,31 +1977,31 @@
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Acrobat",
-        "str": "Az akrobata"
+        "str": "Az Acrobat"
     },
     {
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "Leselkedés"
+        "str": "A Hollow"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Well done!",
-        "str": "Jól van!"
+        "str": "Gratulálok!"
     },
     {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
-        "str": "Vissza a biztonságos házhoz"
+        "str": "Vissza a széfbe"
     },
     {
         "key": "8CAC065540B47C971DC8E0B801B69618",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_40.Text",
         "id": "Shadow Quality",
-        "str": "Árnyék minősége"
+        "str": "Árnyék minőség"
     },
     {
         "key": "8D62136643D4EAA319AD22BBFD4C8FD1",
@@ -2013,13 +2013,13 @@
         "key": "8D70CD774E635393573985830A5099B8",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Crystal Bottle",
-        "str": "Kristálypalack"
+        "str": "Kristályüveg"
     },
     {
         "key": "8DDD1FD04F1754E2F728208EBEF897FC",
         "location": "/Game/enums/actions.actions.DisplayNameMap(33 - Value).DisplayNameMap",
         "id": "Camp with friends",
-        "str": "Tábor barátokkal"
+        "str": "Táborozás a barátokkal"
     },
     {
         "key": "8E2C567C4DD801B3FD73AFB9C374D6B4",
@@ -2049,7 +2049,7 @@
         "key": "91B3AF44465FA4D4F6976EA74F572B41",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show names",
-        "str": "Név megjelenítése"
+        "str": "Nevek megjelenítése"
     },
     {
         "key": "91E782534C65C15F2165A692F6DD50F6",
@@ -2061,31 +2061,31 @@
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "Homályos"
+        "str": "A Leselkedés"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_13.Text",
         "id": "Move Forward",
-        "str": "Mozogj előre"
+        "str": "Mozgás Előre"
     },
     {
         "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_8.Text",
         "id": "Easy",
-        "str": "Könnyű"
+        "str": "Könnyen"
     },
     {
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals likes",
-        "str": "Papír, amely felfedi a kedvenceket"
+        "str": "Papír, amely felfedi a lájkokat"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals dislikes",
-        "str": "Papír, amely felfedi a nem kedvelt dolgokat"
+        "str": "Papír, amely felfedi az ellenszenvet"
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -2109,7 +2109,7 @@
         "key": "9472CB7546EB19A64D00B9B40CF7BC7D",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new extra mode!",
-        "str": "Új extra módot oldott fel!"
+        "str": "Új extra módot nyitottál!"
     },
     {
         "key": "95529FFB4B5C7B8BF0D230810B54E147",
@@ -2121,7 +2121,7 @@
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text",
         "id": "Random",
-        "str": "Véletlenszerű"
+        "str": "Véletlen"
     },
     {
         "key": "9639E2074CB67CEC4666A4AF3A4FC559",
@@ -2133,31 +2133,31 @@
         "key": "966BA2A948A2BC025A15EBA7AD8767E0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diabolic",
-        "str": "Az Ördögi"
+        "str": "Az ördögi"
     },
     {
         "key": "96BE28504D901245DE1115BF00D47E10",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
         "id": "Action Details",
-        "str": "Akció részletei"
+        "str": "A művelet részletei"
     },
     {
         "key": "9806DB6E4107A01E3979C1BBEF780A91",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_41.Text",
         "id": "Global Illumination Quality",
-        "str": "Globális megvilágítás minősége"
+        "str": "Globális világítási minőség"
     },
     {
         "key": "986FE18441EBE7BFF160D38E25BEF05E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom Breeze",
-        "str": "A Fantom Szellő"
+        "str": "A Phantom Breeze"
     },
     {
         "key": "996579D246DE71F2608BB5BF8C353DA4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Kid",
-        "str": "A gyerek"
+        "str": "A Kölyök"
     },
     {
         "key": "99AE0DEC47710525BAF347ABFE8339AB",
@@ -2169,19 +2169,19 @@
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "A Sikoly"
+        "str": "A Screech"
     },
     {
         "key": "9A3A87B047A1CC933C4F6197811B657B",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Cup",
-        "str": "Arany serleg"
+        "str": "Arany Kupa"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.name_18_82096130492E34A890A0138C4910D929",
         "id": "Daycare",
-        "str": "Napközi"
+        "str": "Óvoda"
     },
     {
         "key": "9AA78476434241C7EE4929A6B33EE813",
@@ -2199,13 +2199,13 @@
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "Suttogás"
+        "str": "A fenyegetés"
     },
     {
         "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixir applied! Check the dolls around to determine whom Lil loves.",
-        "str": "Elixír alkalmazva! Nézd meg a babákat, hogy meghatározd, kit szeret Lil."
+        "str": "Elixírt alkalmaztak! "
     },
     {
         "key": "9C3A179A4105F07AF02DAF9565B1CB02",
@@ -2217,19 +2217,19 @@
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "Egy átlátszó és elegáns tartály."
+        "str": "Átlátszó és elegáns tartály."
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "Kísértet"
+        "str": "The Gloaming"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Awkward",
-        "str": "Kényelmetlen"
+        "str": "A kínos"
     },
     {
         "key": "9CE4FD774DFBE4C84DC711A634666FA7",
@@ -2253,37 +2253,37 @@
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "Átkereszteljük Lil-t, mivel ez a baba, amelyet vizsgálni fogunk."
+        "str": "Tegyük keresztbe Lilt, mert ez az a baba, akit nyomozni fogunk."
     },
     {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscure",
-        "str": "Csend"
+        "str": "A homályos"
     },
     {
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "A kép fejlesztéséhez mozgatnia kell. Amint 100% -ban fejlesztett, egyszerűen nyomja meg a használat gombot, és el lesz mentve."
+        "str": "A%20fotó%20fejlesztéséhez%20meg kell%20mozgatni%20.%20Once%20it%27s%20100%%20fejlett,%20egyszerűen%20nyomja meg%20a%20használja%20gombot,%20%20%20 "
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_9.Text",
         "id": "Location",
-        "str": "Helyszín"
+        "str": "Elhelyezkedés"
     },
     {
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "Csaló kiválasztva"
+        "str": "Imposztor kiválasztva"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but in race mode with medals",
-        "str": "Véletlenszerű mód, de verseny módban érmekkel"
+        "str": "Véletlenszerű módban, de verseny módban érmekkel"
     },
     {
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
@@ -2295,61 +2295,61 @@
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "A Gonosz"
+        "str": "A gonoszok"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
         "id": "Can you help me with a positive review?",
-        "str": "Tudna segíteni egy pozitív értékelésben?"
+        "str": "Tudnátok segíteni egy pozitív értékeléssel?"
     },
     {
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
         "id": "Film Grain",
-        "str": "Filmkocka"
+        "str": "Film Gabona"
     },
     {
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grim",
-        "str": "A Komor"
+        "str": "A zord"
     },
     {
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Abyss",
-        "str": "Készíts képeket a babákról, hogy kitöltsd a nyomokat"
+        "str": "A mélység"
     },
     {
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
-        "str": "Árnyék"
+        "str": "A homályos"
     },
     {
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "Lejárt az idő! Ha nem sikerült mindent leírni, itt van, amit megfigyeltek: {actions}"
+        "str": "Lejárt az idő! "
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
         "id": "Travel",
-        "str": "Utazás"
+        "str": "Utazási"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Star",
-        "str": "A sztár"
+        "str": "A Csillag"
     },
     {
         "key": "A7121AED466C7D8F9486A89DECB2409C",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "Üdvözöljük a menedékhelyen! Ez az ön biztonsági zónája. Itt új játékot indíthat a számítógépen, megtekintheti a babák és trófeák gyűjteményét, valamint testre szabhatja ezt a helyet az asztalon található színpaletta ikonra kattintva!"
+        "str": "Isten hozott a menhelyen! "
     },
     {
         "key": "A7C36D644573AD30716F4283EBBE53D2",
@@ -2361,7 +2361,7 @@
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dark",
-        "str": "Borzongás"
+        "str": "A Sötét"
     },
     {
         "key": "A87033014B68DAC4F5312BB46BEB28AF",
@@ -2373,13 +2373,13 @@
         "key": "A97B724146EEB86D384D6A85A4F8931C",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Craft",
-        "str": "Kézművesség"
+        "str": "Hajó"
     },
     {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Move Self",
-        "str": "Mozgasd magad"
+        "str": "Move Self"
     },
     {
         "key": "AB25CB294CD7BEF8559DFA89B96B8F9B",
@@ -2415,67 +2415,67 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "Indítsd el a végső csatát a csaló leleplezéséhez."
+        "str": "Aktiváld az utolsó csatát, hogy felfedd a csalót."
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "Egy kicsi, sötét és aszott szív."
+        "str": "Kicsi, sötét és töpörödött szív."
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Rose Petals",
-        "str": "Tekintsd át a különböző lapokat, hogy megismerkedj velük"
+        "str": "Rózsaszirom"
     },
     {
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To sleep, simply point at the bed and click on it.",
-        "str": "Az alváshoz egyszerűen mutass az ágyra és kattints rá."
+        "str": "Aludni egyszerűen mutasson az ágyra, és kattintson rá."
     },
     {
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "A teljes jutalom 90%-át elvesztetted a hiányzó képek miatt"
+        "str": "  elveszett 90  a teljes jutalom esedékes  hiányzó fotókig."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Rendben, megadom neked a maradék elixíreket, hogy alkalmazd Lil-re. Az Amicitia a barátságot, az Inimicitia az ellenségeskedést, az Odium pedig a gyűlöletet képviseli. Mindegyikük, saját színével, feltárja Lil kapcsolatait. Írd le mindent, amit megfigyelsz, és emlékezz arra, hogy néhány esetben Lilnek nem feltétlenül van kapcsolata egy adott szereppel."
+        "str": "Rendben, odaadom a maradék elixírt, hogy Lilre kenje. "
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
-        "str": "Újrajátszás"
+        "str": "Visszajátszás"
     },
     {
         "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grump",
-        "str": "A morcos"
+        "str": "A Grump"
     },
     {
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "Zihálás"
+        "str": "A Flicker"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "Az Árnyékolt Suttogás"
+        "str": "Az árnyékos suttogás"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
         "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-        "str": "Egy további lépés a nehézségi szinten, nincs extra nyom, nem látod a neveket vagy a listát"
+        "str": "Még egy nehézségi lépés, nincs extra nyom, nem látod a neveket vagy a listát"
     },
     {
         "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
@@ -2487,13 +2487,13 @@
         "key": "B300BE9147F822906E54C7A227BF23BA",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Welcome to Doll Impostor!",
-        "str": "Üdvözöljük a \nBaba Impostorban\n!"
+        "str": "Üdvözöljük a Doll Impostor oldalán!"
     },
     {
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "Átadtam neked egy öngyújtót. Használd a maradék cselekvésekhez."
+        "str": "Adtam öngyújtót. "
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
@@ -2505,13 +2505,13 @@
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals friendship",
-        "str": "Barátságot felfedő elixír"
+        "str": "Elixír, amely felfedi a barátságot"
     },
     {
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "Imposztor"
+        "str": "Szélhámos"
     },
     {
         "key": "B41DE7E344BBE9E3F4ED828B3AC5DE1A",
@@ -2523,7 +2523,7 @@
         "key": "B4559452445FD99D5366B68268BCFC9E",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Congratulations!",
-        "str": "Gratulálunk!"
+        "str": "Gratulálok!"
     },
     {
         "key": "B46005B1494B233FC63D6C92DB922873",
@@ -2535,7 +2535,7 @@
         "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Terrifying",
-        "str": "A Rettenetes"
+        "str": "A Félelmetes"
     },
     {
         "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
@@ -2559,25 +2559,25 @@
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "A Suttogott"
+        "str": "A Suttogó"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Energia szükséges"
+        "str": "Tekintse át a különböző lapokat, hogy megismerje őket. "
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Scowl",
-        "str": "A Homlokráncolás"
+        "str": "A Scowl"
     },
     {
         "key": "B7532CB642D1303CB57FF89D855B8189",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_14.Text",
         "id": "Days elapsed",
-        "str": "Eltelt napok"
+        "str": "Napok teltek el"
     },
     {
         "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
@@ -2601,25 +2601,25 @@
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghoster",
-        "str": "A Kísérteties"
+        "str": "A Szellem"
     },
     {
         "key": "B9B809EC40076554656E1A8C91157931",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Patriot",
-        "str": "A hazafi"
+        "str": "A Patriot"
     },
     {
         "key": "BAD425AD48B5C8A24B0663948D13EA94",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Planner",
-        "str": "A tervező"
+        "str": "A Tervező"
     },
     {
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Most le kell írnod őket a jegyzetfüzet jegyzeteibe. Ezenkívül, ha billentyűzettel és egérrel használod, és kattintasz a jegyzeteken kívül, a baba oldala nyitva marad."
+        "str": "Most le kell írnia őket a jegyzettömb jegyzeteibe. "
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2631,61 +2631,61 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "Elfogtuk Lil-t. Folytathatod a többi baba fényképezését. Amikor készen állsz, menj a lakókocsiba, hogy megtekintsd a fényképeket."
+        "str": "Elfogtuk Lilt. "
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
         "location": "/Game/functions/interfaceFunctions.interfaceFunctions_C:showPopup [Script Bytecode]",
         "id": "OK",
-        "str": "OK"
+        "str": "RENDBEN"
     },
     {
         "key": "BCB8724F4D70F43E391D0FB8984329C6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Diva",
-        "str": "A díva"
+        "str": "A Díva"
     },
     {
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "Kezdetben 20 baba van. Ellenőrizd őket a táblán, és amikor készen állsz, menj a szobába, hogy találkozz velük."
+        "str": "Kezdésként 20 baba van. "
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "Menj aludni, és nézzük meg, megoldódik-e a nyom a következő órában."
+        "str": "Menj aludni, és meglátjuk, megoldódik-e a nyom a következő órában."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_21.Text",
         "id": "Look Down",
-        "str": "Lefelé néz"
+        "str": "Nézz le"
     },
     {
         "key": "BED88CC84349A7555F6F8F8702DFC716",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_44.Text",
         "id": "Visual Effects Quality",
-        "str": "Vizuális effektek minősége"
+        "str": "Vizuális effektusok minősége"
     },
     {
         "key": "BEF09CA34BAE3DC7635E8485BB667E28",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van exterior",
-        "str": "Kisbusz külső"
+        "str": "Furgon külső"
     },
     {
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "Egy értékes drágakő, amelyet rendkívüli keménységéről és ragyogásáról ismernek, gyakran használják ékszerekben, és tisztasága és ritkasága miatt értékelik."
+        "str": "Értékes drágakő, amely rendkívüli keménységéről és ragyogásáról ismert, ékszerekben gyakran használják, tisztasága és ritkasága miatt értékelik."
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sinister",
-        "str": "A Gonosz"
+        "str": "A Sinister"
     },
     {
         "key": "BF4FA5364C39224BE93EC080C21FF285",
@@ -2697,19 +2697,19 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Egyértelmű, hogy szereti a vért. Lehet, hogy bármelyik a kettő közül, de ellenőrizze a dobozokat. Freddy eltűnt, és a doboza tele van vérrel. Ezt az ítéletet neked hagyta. Amikor biztos vagy benne, vess el a jelöltet."
+        "str": "Egyértelmű, hogy szereti a vért. "
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now table chess",
-        "str": "Most táblás sakk"
+        "str": "Most asztali sakk"
     },
     {
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "Talány"
+        "str": "A hátborzongató"
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
@@ -2727,55 +2727,55 @@
         "key": "C158D252413F592114D488BB11C8055E",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
-        "str": "Most kapcsoljuk be az áramot"
+        "str": "Energiát igényel"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
-        "str": "Fókusz látómező"
+        "str": "Fókusz FOV"
     },
     {
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text",
         "id": "Number of photographs taken of dolls",
-        "str": "A babákról készített fényképek száma"
+        "str": "A babákról készült fényképek száma"
     },
     {
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "Egy fehér és finom toll."
+        "str": "Fehér és finom toll."
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
         "id": "God, Save Us",
-        "str": "Isten, ments meg minket"
+        "str": "Istenem, ments meg minket"
     },
     {
         "key": "C380BEFB4806636D471F28BC3C7CE999",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul Papers",
-        "str": "Lélek papírok"
+        "str": "Lélekpapírok"
     },
     {
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "Egy tömb tisztított arany, nagyon tiszta, befektetésként vagy értékraktárként használják, súlya és aranyló csillogása jellemzi."
+        "str": "Tömör finomított aranytömb, rendkívül tiszta, befektetésként vagy értéktárolóként használt, súlya és arany fénye jellemzi."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
-        "str": "Jobb oldali kisbusz"
+        "str": "Van jobb oldal"
     },
     {
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "Az Árny"
+        "str": "Az Árnyékolás"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2787,19 +2787,19 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "Hordozható eszköz, amely lángot hoz létre a tűzgyújtáshoz"
+        "str": "Hordozható eszköz, amely lángot hoz létre, hogy tüzet gyújtson."
     },
     {
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "Nagyon jól, menjünk vissza a házba. Felfedezünk dolgokat Lil-ről. Nyisd ki a dobozát, és folytassuk az elixírek alkalmazását."
+        "str": "Na jó, menjünk vissza a házba. "
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Egy zseblámpát adtam neked, ami elég fontos ebben a módban a sűrű sötétség miatt. Figyelj a képernyő alján lévő számokra; legfeljebb 10 elemet tudsz felszerelni, az első hely mindig a kezed. Az előző és a következő felszerelési billentyűk megnyomásával vagy a szám billentyűk vagy az egér görgőjének használatával navigálhatsz az állományodon keresztül."
+        "str": "Adtam neked egy zseblámpát, ami ebben a módban nagyon fontos a nagy sötétség miatt. "
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2811,13 +2811,13 @@
         "key": "C8A00764485261B746BFEE94C58D6ECA",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Scary",
-        "str": "A Rémisztő"
+        "str": "Az Ijesztő"
     },
     {
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_22.Text",
         "id": "Crouch",
-        "str": "Guggolás"
+        "str": "Lekuporodik"
     },
     {
         "key": "C9DD78084F647953E55A8196CE872921",
@@ -2829,19 +2829,19 @@
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "Kicsi és lédús gyümölcsök"
+        "str": "Lélekkönyv"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "Beleesett a csapdánkba és lekapcsolta a lámpákat. Most elvethetjük mindazokat, akik szeretik a fényt."
+        "str": "A csapdánkba esett, és lekapcsolta a villanyt. "
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Sweet",
-        "str": "Az édes"
+        "str": "Az Édes"
     },
     {
         "key": "CB775D1F41F692F4946D738AA83BB23E",
@@ -2853,31 +2853,31 @@
         "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "Dropped",
-        "str": "Elvetve"
+        "str": "Leesett"
     },
     {
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_19.Text",
         "id": "Ratio",
-        "str": "Arány"
+        "str": "Hányados"
     },
     {
         "key": "CE5521734152BB8FDF36949D84AA7F39",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghastly",
-        "str": "Az Iszonyú"
+        "str": "A Szörnyű"
     },
     {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
         "id": "Stats",
-        "str": "Statisztikák"
+        "str": "Statisztika"
     },
     {
         "key": "CEB55E1E480248C3E1553AB0E3E06BA3",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Parchment",
-        "str": "Pergamen"
+        "str": "Pergament"
     },
     {
         "key": "CF3A6ECB45A9488C10D246A3FD143977",
@@ -2895,19 +2895,19 @@
         "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Spooky",
-        "str": "A Kísérteties"
+        "str": "A Spooky"
     },
     {
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "Kuncogás"
+        "str": "A Kriptikus"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
-        "str": "A Hideg"
+        "str": "A Hűtés"
     },
     {
         "key": "D107C133465E950C0D0B42BAAA8BDF09",
@@ -2919,13 +2919,13 @@
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
-        "str": "Visszhang"
+        "str": "A visszhangzó"
     },
     {
         "key": "D249146742516BB46178BA859A421873",
         "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take doll photos for fill the clues",
-        "str": "Tágas táska"
+        "str": "Készítsen babafotókat, hogy kitöltse a nyomokat"
     },
     {
         "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -2937,31 +2937,31 @@
         "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
         "id": "Win cases",
-        "str": "Eseteket nyer"
+        "str": "Nyertes ügyek"
     },
     {
         "key": "D2EAFC9348E348C7516300BF122B9702",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_5.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Right Place",
-        "str": "Jobb hely"
+        "str": "Helyes Hely"
     },
     {
         "key": "D3B042044111E5CC7AE8239FB511F147",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(3).texts",
         "id": "Darkness surrounds us",
-        "str": "A sötétség körülvesz minket"
+        "str": "Sötétség vesz körül bennünket"
     },
     {
         "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "Some of the elements you already have equipped",
-        "str": "Néhány elemet már felszereltél"
+        "str": "Néhány elem, amelyet már felszerelt"
     },
     {
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "Üresség"
+        "str": "A homály"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2973,31 +2973,31 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "menj be a házba, és találd meg a babaszobát."
+        "str": "Lépjen be a házba, és keresse meg a babaszobát."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "Mélység"
+        "str": "A Creep"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "A Rémület"
+        "str": "A Reszketés"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "Bús"
+        "str": "A Lurker"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
         "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take notes on the behavior of the dolls",
-        "str": "Plüssállatok"
+        "str": "Jegyezze fel a babák viselkedését"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -3015,13 +3015,13 @@
         "key": "D627A24C4957566043D3F0ADF0F70B9E",
         "location": "/Game/enums/actions.actions.DisplayNameMap(29 - Value).DisplayNameMap",
         "id": "Playgrounds",
-        "str": "Játszótér"
+        "str": "Játszóterek"
     },
     {
         "key": "D637C70741EFAAB1C70592A3E73D29E3",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_48.Text",
         "id": "Actions left",
-        "str": "Hátralévő műveletek"
+        "str": "A műveletek hátra vannak"
     },
     {
         "key": "D8A8DBB34AAD96AC66B54A87365822C9",
@@ -3033,13 +3033,13 @@
         "key": "D8CB256A4FC1286A3BD465B95B7398D6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Flirt",
-        "str": "A flört"
+        "str": "A Flört"
     },
     {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
         "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
         "id": "Hide Self",
-        "str": "Magad elrejtése"
+        "str": "Self elrejtése"
     },
     {
         "key": "D8F293214EA6402451DED28B75ADA37E",
@@ -3051,19 +3051,19 @@
         "key": "D955FAE74433E108EB3C078EF42B2DC8",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Quiet",
-        "str": "A csendes"
+        "str": "A Csendes"
     },
     {
         "key": "D9B2458843A82DBB9843FBBB36327D9A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_18.Text",
         "id": "Turn Right",
-        "str": "Jobbra fordulás"
+        "str": "Forduljon Jobbra"
     },
     {
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wisp",
-        "str": "A Pislantás"
+        "str": "A Wisp"
     },
     {
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
@@ -3081,19 +3081,19 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "A lelki papírok misztikus pergamenek, rendkívül egyedülállóak, és két típusúak: Lelki papírok és Lelki sötét papírok. Más szóval a Lelki tekercs és annak sötét verziója. Ezek a tekercsek feltárják a babák kedvenceit és nem kedvenceit. Elkezdjük a normál tekercsel. Alkalmazd a tekercset a babára."
+        "str": "A lélekpapírok misztikus tekercsek, rendkívül egyediek, és két típusuk van: Soul Papers és Soul Dark Papers. "
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unsettling",
-        "str": "A Nyugtalanító"
+        "str": "A nyugtalanító"
     },
     {
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "Nem tudod megcsinálni ezt, ez nem illik egyetlen recepthez sem"
+        "str": "Ezt nem tudod elkészíteni, semmilyen recepthez nem illik"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -3111,25 +3111,25 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Ne feledd, hogy jelenleg nem tudsz semmivel interakcióba lépni, mivel ez az oktatóanyag"
+        "str": "Ne feledje, hogy jelenleg nem fog tudni kommunikálni semmivel, mivel ez az oktatóanyag. "
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
         "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-        "str": "Szakértő mód, 06:00-kor kezded, nincs extra nyom és nincs fénykép"
+        "str": "Szakértői mód, 06:00-tól indul, nincsenek extra nyomok és fényképek"
     },
     {
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The New",
-        "str": "Az új"
+        "str": "Az Új"
     },
     {
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "Ha visszatérsz a biztonságos házba, a ház visszaállítja az állapotát, és elveszíted a felszerelt tárgyakat."
+        "str": "Ha visszatér a széfbe, a ház helyreállítja állapotát, és elveszíti a felszerelt tárgyakat"
     },
     {
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
@@ -3153,7 +3153,7 @@
         "key": "E238A88B4FBC7C4641B8E9A95353B1C0",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Indecent",
-        "str": "Az illetlen"
+        "str": "Az Indecent"
     },
     {
         "key": "E2D484854A1C9DB14835A6AD457B6207",
@@ -3183,25 +3183,25 @@
         "key": "E672CE194312B524EAE5218F788B97F4",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Stiff",
-        "str": "A Merev"
+        "str": "A merev"
     },
     {
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "Frissítő zöld levelek"
+        "str": "Frissítő zöld levelek."
     },
     {
         "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "You can only equip a maximum of 10 items",
-        "str": "maximum 10 elemet tudsz felszerelni"
+        "str": "Legfeljebb 10 elemet tud felszerelni"
     },
     {
         "key": "E75E972A4F2C8D92EC495294816B3C8D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_32.Text",
         "id": "Temporal Upsample",
-        "str": "Időbeli felbontásnövelés"
+        "str": "Időbeli felminta"
     },
     {
         "key": "E7D75C9A40FB9B41721A46B5B7198EF1",
@@ -3213,13 +3213,13 @@
         "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
         "id": "As you unlock new levels, new ones will appear!",
-        "str": "Ahogy új szinteket nyitsz meg, újak fognak megjelenni!"
+        "str": "Ahogy új szinteket nyit meg, újak jelennek meg!"
     },
     {
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "Gonosz"
+        "str": "Az Ómen"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
@@ -3231,7 +3231,7 @@
         "key": "E8BEC2F04785EFD5186984BE67C4B88A",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Earn Money",
-        "str": "Pénzt keresni"
+        "str": "Keress pénzt"
     },
     {
         "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -3243,13 +3243,13 @@
         "key": "E96A210546B4B0647B0763843052BBF8",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
         "id": "Head Bobbing",
-        "str": "Fejmozgás"
+        "str": "Fej billeg"
     },
     {
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "Néhány tárgyat adtam neked, menj a kézműves részlegre, hogy elkészíts egy elixírt, manuálisan vagy közvetlenül az elixírre kattintva."
+        "str": "Adtam neked néhány tárgyat, menj a kézműves részlegbe elixír készítéséhez, ezt megteheted kézzel vagy közvetlenül a kívánt elixír megnyomásával."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3291,13 +3291,13 @@
         "key": "EDA5294F43DB42C2856059B83C9A6BF5",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
         "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-        "str": "Ez a valószínűség minden alkalommal lappang, amikor utazik; találkozhat egy dobozzal, amelyben dolgok vannak."
+        "str": "Ez a valószínűség minden utazáskor látens lesz; "
     },
     {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Elvesztetted a jutalom 75%-át, mert nem találtad meg a csalót"
+        "str": "Te%20%20elveszett%2075%%20mert%20not%20felfedezted%20az imposztort"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3309,7 +3309,7 @@
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "Merülés"
+        "str": "Az alkonyat"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3327,19 +3327,19 @@
         "key": "F1D636544DE5ADC7945E9789ACC63D6C",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van wall",
-        "str": "Kisbusz fal"
+        "str": "Van fal"
     },
     {
         "key": "F21C143F425251C3614B29BD90BD710D",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_0 [Script Bytecode]",
         "id": "The lower the ratio, the more information about the dolls will be released initially (from 2 to 10)",
-        "str": "Minél alacsonyabb az arány, annál több információt kapunk a babákról kezdetben (2-10)"
+        "str": "Minél alacsonyabb az arány, annál több információ jelenik meg kezdetben a babákról (2-től 10-ig)"
     },
     {
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Frightening",
-        "str": "Az Ijesztő"
+        "str": "Az ijesztő"
     },
     {
         "key": "F234C7F94700549E267ADA87AC492287",
@@ -3351,7 +3351,7 @@
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "Egy keserű és viszkózus folyadék."
+        "str": "Keserű és viszkózus folyadék."
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3363,13 +3363,13 @@
         "key": "F28B41324F202FA2E02A0DB59579D291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wretched",
-        "str": "A Nyomorult"
+        "str": "A nyomorult"
     },
     {
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "Egy aranyszínű és édes folyadék."
+        "str": "Arany színű és édes folyadék."
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3393,7 +3393,7 @@
         "key": "F3539C0B4A4D262BEEADFCBC91E58848",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Toad Bile",
-        "str": "Varangy epe"
+        "str": "Varangy Epe"
     },
     {
         "key": "F398437D44CE91CF11D919A1208038ED",
@@ -3405,19 +3405,19 @@
         "key": "F4678833417F67BF4FB742B959AD7E80",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock.Text",
         "id": "Only items that can be equipped will appear",
-        "str": "Csak a felszerelhető tárgyak jelennek meg"
+        "str": "Csak a felszerelhető tételek jelennek meg"
     },
     {
         "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Inventory",
-        "str": "Készlet"
+        "str": "Leltár"
     },
     {
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ringmaster",
-        "str": "A cirkuszigazgató"
+        "str": "A Gyűrűmester"
     },
     {
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
@@ -3429,7 +3429,7 @@
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "Baljós"
+        "str": "A rettegés"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
@@ -3447,25 +3447,25 @@
         "key": "F66992CC4272E9FD176972AE7A324010",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "Did you understand the tutorial well?",
-        "str": "Jól megértetted az oktatóanyagot?"
+        "str": "Jól értetted az oktatóanyagot?"
     },
     {
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mandrake Root",
-        "str": "Mandragóragyökér"
+        "str": "Mandragógyökér"
     },
     {
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "Sötétség"
+        "str": "A merülés"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Lesz egy eset, amely különböző dinamikus paraméterekkel érhető el. Információkat jelenít meg, mint a jelenlegi eset, és ha nem tetszik, pénzért kereshetsz új esetet. Jelenleg korlátoztuk az interakciókat az oktatóanyag módban; nem tudsz vásárolni, készíteni, elhagyni az esetet vagy új esetet keresni."
+        "str": "Különféle dinamikus paraméterekkel rendelkező tok áll rendelkezésére. "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3477,13 +3477,13 @@
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "Skorpióméreg"
+        "str": "Lágy és illatos rózsaszirom."
     },
     {
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Most használni fogjuk a Lélekkönyv tárgyat. Ez a tárgy hivatalosan elindítja a játékot. Használata egyszerű: amikor használod ezt a könyvet, az imposztor (jelen esetben Lil) cselekedni kezd. Ebben a pontban össze kell hasonlítanod az információkat azzal, ami történik, ugyanúgy, mint az eredeti módban. Ne feledd, hogy 180 másodperced van, és ha az idő eléri a nullát, megöl téged."
+        "str": "Most a Lélekkönyv elemet fogjuk használni. "
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3495,13 +3495,13 @@
         "key": "F83E76BC49FC84244322C382556B6E5F",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
-        "str": "Ó, ne..."
+        "str": "Ó nem..."
     },
     {
         "key": "F880818144C667A994BEEF9200987EF4",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Chest",
-        "str": "láda"
+        "str": "Mellkas"
     },
     {
         "key": "F9560AD34A829952AE5F5498756E174C",
@@ -3519,13 +3519,13 @@
         "key": "FA4E21624A2D966B1B2ED19005131257",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traditional",
-        "str": "A hagyományos"
+        "str": "A Hagyományos"
     },
     {
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Mielőtt elindulsz, tisztázni szeretném, hogy ebben a játékmódban visszatérhetsz a menedékbe a lakókocsival. Végül, amit Lil-vel ebben a módban tettünk, minden babánál meg kell tenned, hogy azonosítsd a csalót. Tartsd észben, hogy a kampánymód arra szolgál, hogy együttműködő élmény legyen a jövőben, ezért fontos, hogy ne legyen rövid vagy gyors. Minden eset napokig tarthat, de aszinkron, ami azt jelenti, hogy bármikor kiléphetsz, és később folytathatod a játékot, és minden úgy marad, ahogy otthagytad."
+        "str": "Mielőtt elmész, szeretném tisztázni, hogy ebben a játékmódban a lakókocsi vezetésével visszatérhetsz a menhelyre. "
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3537,67 +3537,67 @@
         "key": "FACAB65943781B084CD803A77E0F7266",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gurl",
-        "str": "A Lány"
+        "str": "A Gurl"
     },
     {
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Ricky a kanapén van, Monty pedig a zongoránál, így már van 2 lehetséges jelöltünk. Azonban nem vállaljuk az 50%-os kockázatot. Térjünk vissza a szobába, hogy kizárjuk azt, aki nem lehet, és várjuk meg a következő eseményét."
+        "str": "Nekünk            a a kanapén   Monty  a a          már      lehet  jelöltünk.   0  "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
         "id": "Chaos consumes us",
-        "str": "A káosz elnyel minket"
+        "str": "A káosz felemészt minket"
     },
     {
         "key": "FC57D0154C6E70C0D8C839B6EA15B4B1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text",
         "id": "Graphic Preset",
-        "str": "Grafikus előbeállítás"
+        "str": "Grafikus előre beállított"
     },
     {
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "Megvan a {new} éjszakád, nem sikerült megdöntened a rekordodat, ami {old} éjszaka volt"
+        "str": "{new} éjszakád van, de nem sikerült megdöntened a {old} éjszakás rekordodat"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_5.Text",
         "id": "Master Volume",
-        "str": "Fő hangerő"
+        "str": "Mester kötet"
     },
     {
         "key": "FD27A6D94DD43A861953BA81606B6B11",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant cinnamon stick.",
-        "str": "Egy illatos fahéjrúd."
+        "str": "Illatos fahéjrúd."
     },
     {
         "key": "FD50C07D436B39761D90A28961DE809F",
         "location": "/Game/enums/actions.actions.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Open Boxes",
-        "str": "Dobozok kinyitása"
+        "str": "Nyissa meg a dobozokat"
     },
     {
         "key": "FD5D53AB4A626CFD46CF4E93053F9719",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Vulture's feather",
-        "str": "Keselyű toll"
+        "str": "Keselyű tolla"
     },
     {
         "key": "FE11E6ED4FA63C5B12631383E56A20B5",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the {map} Map!",
-        "str": "Feloldotta a {map} térképet!"
+        "str": "Feloldotta a {map} térkép zárolását!"
     },
     {
         "key": "FE160B74470133E4B513D18D4566D063",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
-        "str": "VESZTETTÉL"
+        "str": "VESZTESZ"
     },
     {
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
@@ -3609,13 +3609,13 @@
         "key": "FEEFC0A44A89E6CC7163CEB1F9C3F1B8",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_15.Text",
         "id": "XP Earned",
-        "str": "Szerzett XP"
+        "str": "XP szerzett"
     },
     {
         "key": "FF2636BB4F223BBD00D531A30CF9EB06",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "Case History",
-        "str": "Esettörténet"
+        "str": "Kórtörténet"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
@@ -3627,12 +3627,12 @@
         "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Paper",
-        "str": "Puha és illatos rózsaszirmok"
+        "str": "Lélekpapír"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",
         "location": "/Game/enums/actions.actions.DisplayNameMap(19 - Value).DisplayNameMap",
         "id": "Carousel with friends",
-        "str": "Körhinta barátokkal"
+        "str": "Körhinta a barátokkal"
     }
 ]
