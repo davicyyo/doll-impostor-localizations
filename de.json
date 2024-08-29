@@ -237,7 +237,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Swing Self"
+        "str": "Sich selbst schaukeln"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -327,7 +327,7 @@
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Van Bed"
+        "str": "Lieferwagen Bett"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
@@ -3003,7 +3003,7 @@
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting.Options(1).Options.Label",
         "id": "Medium",
-        "str": "Medium"
+        "str": "Mittel"
     },
     {
         "key": "D618A4A346B0EA7CBABE00AA94C80485",

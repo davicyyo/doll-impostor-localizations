@@ -237,7 +237,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Swing Self"
+        "str": "Розгойдувати себе"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -405,7 +405,7 @@
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "The Ghast"
+        "str": "Привид 37"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
@@ -471,7 +471,7 @@
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "The Whispers"
+        "str": "Шепоти"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
@@ -639,7 +639,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "Ms. Excellence"
+        "str": "Міс Досконалість"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -975,7 +975,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "The Hauntling"
+        "str": "Той, хто підкрадається"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -1419,7 +1419,7 @@
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twisted",
-        "str": "The Twisted"
+        "str": "Скручений"
     },
     {
         "key": "67CC4CE342660CF969980E8F00DC0788",
@@ -1719,7 +1719,7 @@
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "The Lurk"
+        "str": "Похмурий"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
@@ -2061,7 +2061,7 @@
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "The Lurking"
+        "str": "Темний"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -2457,7 +2457,7 @@
         "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grump",
-        "str": "The Grump"
+        "str": "Буркотун"
     },
     {
         "key": "B16BD65740B9A94C398B138BCEEA9678",
@@ -2559,7 +2559,7 @@
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "The Whispered"
+        "str": "Прошептаний"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
@@ -2775,7 +2775,7 @@
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "The Shadowling"
+        "str": "Маленька Тінь"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2991,7 +2991,7 @@
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "The Lurker"
+        "str": "Сумний"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",

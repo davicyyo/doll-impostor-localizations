@@ -2979,7 +2979,7 @@
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "The Creep"
+        "str": "Vực thẳm"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
@@ -3063,7 +3063,7 @@
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wisp",
-        "str": "The Wisp"
+        "str": "Tia Sáng"
     },
     {
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
@@ -3099,7 +3099,7 @@
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Vanilla",
-        "str": "Vanilla"
+        "str": "Vani"
     },
     {
         "key": "DE011C1944710509D6330C8C62491DBA",
@@ -3141,7 +3141,7 @@
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
         "location": "/Game/enums/actions.actions.DisplayNameMap(38 - Value).DisplayNameMap",
         "id": "Radio",
-        "str": "Radio"
+        "str": "Đài radio"
     },
     {
         "key": "E1BED414427264B22F7080B7ED0D0CF9",
@@ -3537,7 +3537,7 @@
         "key": "FACAB65943781B084CD803A77E0F7266",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gurl",
-        "str": "The Gurl"
+        "str": "Cô gái"
     },
     {
         "key": "FAD096A047C791A2435446A372491A59",

@@ -21,7 +21,7 @@
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "The Darkling"
+        "str": "Τρομακτικό"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
@@ -237,7 +237,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Swing Self"
+        "str": "Κουνήστε τον εαυτό σας"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -249,7 +249,7 @@
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Dreadful",
-        "str": "The Dreadful"
+        "str": "Το Φοβερό"
     },
     {
         "key": "109D973D484D997685448980DCB79533",
@@ -327,7 +327,7 @@
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Van Bed"
+        "str": "Κρεβάτι βαν"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
@@ -459,13 +459,13 @@
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "The Glint"
+        "str": "Χαμόγελο"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
         "location": "/Game/enums/actions.actions.DisplayNameMap(35 - Value).DisplayNameMap",
         "id": "Sandbox",
-        "str": "Sandbox"
+        "str": "Αμμοδόχος"
     },
     {
         "key": "1F7140B7494998788B096E85BEA451B4",
@@ -609,13 +609,13 @@
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "The Grin"
+        "str": "Σιωπή"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "The Whisperwind"
+        "str": "Ο Ψιθυριστός Άνεμος"
     },
     {
         "key": "2A85705945159E3B98E06BB40B5CA820",
@@ -705,7 +705,7 @@
         "key": "2FEF48E44B224E75C8DE41B0CF76566A",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lie bytes",
-        "str": "The Lie bytes"
+        "str": "Τα Ψηφιακά Ψέματα"
     },
     {
         "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -771,7 +771,7 @@
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "Snake's Blood"
+        "str": "Βαθμολογία"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
@@ -975,7 +975,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "The Hauntling"
+        "str": "Καραδοκώ"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -999,7 +999,7 @@
         "key": "45DB611B482D35EE05ADE98331F2EC20",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Haunting",
-        "str": "The Haunting"
+        "str": "Το Στοιχειωμένο"
     },
     {
         "key": "460FFB13421148C8493D69A72A81E93C",
@@ -1041,7 +1041,7 @@
         "key": "4798B1E54C73C4932878B1A4630376ED",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering",
-        "str": "The Whispering"
+        "str": "Το Ψιθυριστό"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
@@ -1131,7 +1131,7 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "The Uncanny"
+        "str": "Το Uncanny"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -1281,7 +1281,7 @@
         "key": "5E1C23674444BB331554B39281C7EA20",
         "location": "/Game/enums/actions.actions.DisplayNameMap(23 - Value).DisplayNameMap",
         "id": "Swing Others",
-        "str": "Swing Others"
+        "str": "Κουνήστε άλλους"
     },
     {
         "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
@@ -1479,7 +1479,7 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "The Dire"
+        "str": "Κρυπτικό"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1545,7 +1545,7 @@
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghostly",
-        "str": "The Ghostly"
+        "str": "Σπινθηροβόλημα"
     },
     {
         "key": "708EA77A4ED05FDA2A6E7D9E75FCEB5C",
@@ -1671,7 +1671,7 @@
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Jumpscares Volume"
+        "str": "Ένταση τρόμου"
     },
     {
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
@@ -1719,7 +1719,7 @@
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "The Lurk"
+        "str": "Σκοτεινός"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
@@ -1761,7 +1761,7 @@
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "Van Left Side"
+        "str": "Αριστερή πλευρά βαν"
     },
     {
         "key": "7D39CA6640F288A9002846AE7D7F4041",
@@ -1887,7 +1887,7 @@
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "The Murk"
+        "str": "Μάντης"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -1953,7 +1953,7 @@
         "key": "87B1E3F54AA52AE964B7BDAF99914042",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering Breeze",
-        "str": "The Whispering Breeze"
+        "str": "Το Ψιθυριστό Αεράκι"
     },
     {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
@@ -1983,7 +1983,7 @@
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "The Hollow"
+        "str": "Ενέδρα"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
@@ -2187,7 +2187,7 @@
         "key": "9AA78476434241C7EE4929A6B33EE813",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shifting Shadow",
-        "str": "The Shifting Shadow"
+        "str": "Η Μεταβαλλόμενη Σκιά"
     },
     {
         "key": "9B0C4F0544EED1171CEEF59539778188",
@@ -2313,7 +2313,7 @@
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grim",
-        "str": "The Grim"
+        "str": "Το Σκοτεινό"
     },
     {
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
@@ -2469,7 +2469,7 @@
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "The Shadowed Whisper"
+        "str": "Το Σκιώδες Ψίθυρο"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -2559,7 +2559,7 @@
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "The Whispered"
+        "str": "Ο Ψιθυριστός"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
@@ -2775,7 +2775,7 @@
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "The Shadowling"
+        "str": "Ο Σκιώδης"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2895,7 +2895,7 @@
         "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Spooky",
-        "str": "The Spooky"
+        "str": "Το Στοιχειωμένο"
     },
     {
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
@@ -2907,7 +2907,7 @@
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
-        "str": "The Chilling"
+        "str": "Το Ψυχρό"
     },
     {
         "key": "D107C133465E950C0D0B42BAAA8BDF09",
@@ -2961,7 +2961,7 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "The Gloom"
+        "str": "Κενό"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2979,7 +2979,7 @@
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "The Creep"
+        "str": "Άβυσσος"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
@@ -3225,7 +3225,7 @@
         "key": "E85D23F14D7C46E45DA387A747928F07",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisper",
-        "str": "The Whisper"
+        "str": "Ο Ψίθυρος"
     },
     {
         "key": "E8BEC2F04785EFD5186984BE67C4B88A",
@@ -3423,7 +3423,7 @@
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperer",
-        "str": "The Whisperer"
+        "str": "Ο Ψιθυριστής"
     },
     {
         "key": "F58DB0B646AB1214A995FD9D228448FD",

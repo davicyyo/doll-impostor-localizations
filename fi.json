@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "The Creepy"
+        "str": "Luu"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -213,7 +213,7 @@
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "Store"
+        "str": "Tumma sielupaperi"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
@@ -237,7 +237,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Swing Self"
+        "str": "Heiluta itseäsi"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -249,7 +249,7 @@
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Dreadful",
-        "str": "The Dreadful"
+        "str": "Kauhea"
     },
     {
         "key": "109D973D484D997685448980DCB79533",
@@ -327,7 +327,7 @@
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Van Bed"
+        "str": "Pakettiauton sänky"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
@@ -459,7 +459,7 @@
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "The Glint"
+        "str": "Hymy"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
@@ -669,7 +669,7 @@
         "key": "2DEA68154A30209AA0698497E47F9DA9",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
         "id": "Leaderboard Endless",
-        "str": "Leaderboard Endless"
+        "str": "Loputon tulostaulu"
     },
     {
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
@@ -735,7 +735,7 @@
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "Scorpion Venom"
+        "str": "Keinunta"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
@@ -1299,7 +1299,7 @@
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "Rocking"
+        "str": "Tulokset"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -1419,7 +1419,7 @@
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twisted",
-        "str": "The Twisted"
+        "str": "Vääristynyt"
     },
     {
         "key": "67CC4CE342660CF969980E8F00DC0788",
@@ -1479,7 +1479,7 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "The Dire"
+        "str": "Koodattu"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1671,7 +1671,7 @@
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Jumpscares Volume"
+        "str": "Järkytyksen äänenvoimakkuus"
     },
     {
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
@@ -2169,7 +2169,7 @@
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "The Screech"
+        "str": "Kirkaisu"
     },
     {
         "key": "9A3A87B047A1CC933C4F6197811B657B",
@@ -2223,7 +2223,7 @@
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "The Gloaming"
+        "str": "Vainoharhainen"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -2625,7 +2625,7 @@
         "key": "BC06960A474C65DE361B3CB2C89626B3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
         "id": "Ambient Volume",
-        "str": "Ambient Volume"
+        "str": "Ympäristön äänenvoimakkuus"
     },
     {
         "key": "BC337075457AE8659374D6BF82D6E51D",
@@ -2895,7 +2895,7 @@
         "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Spooky",
-        "str": "The Spooky"
+        "str": "Kauhistuttava"
     },
     {
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
@@ -2961,7 +2961,7 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "The Gloom"
+        "str": "Ontto"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2985,7 +2985,7 @@
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "The Shudder"
+        "str": "Värinä"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
@@ -3429,7 +3429,7 @@
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "The Dread"
+        "str": "Pahanenteinen"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
@@ -3567,7 +3567,7 @@
         "key": "FCA446264B23A96037F05F8D786E8199",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_5.Text",
         "id": "Master Volume",
-        "str": "Master Volume"
+        "str": "Päääänenvoimakkuus"
     },
     {
         "key": "FD27A6D94DD43A861953BA81606B6B11",

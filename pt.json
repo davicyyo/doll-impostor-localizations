@@ -681,7 +681,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Eu também te dei uma bolsa. Esta bolsa irá ajudá-lo a capturar o impostor. Depois de pegá-lo, o jogo terminará (se você fizer isso dentro do prazo). Deixo você terminar esta parte do tutorial. Se você "
+        "str": "Eu também lhe dei uma bolsa. Esta bolsa irá ajudá-lo a capturar o impostor. Depois de pegá-lo, o jogo terminará (se você fizer isso dentro do prazo). Deixo você terminar esta parte do tutorial. Se você "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -3345,7 +3345,7 @@
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "Ouija"
+        "str": "Tábua Ouija"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",

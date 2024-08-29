@@ -237,7 +237,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Swing Self"
+        "str": "Magad hintáztatása"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -327,7 +327,7 @@
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Van Bed"
+        "str": "Kiságy"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
@@ -381,7 +381,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Drop Case"
+        "str": "Ügy elvetése"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -399,7 +399,7 @@
         "key": "1AF5392F481406F80C566FB0740D5D3D",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shady",
-        "str": "The Shady"
+        "str": "A Komor"
     },
     {
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
@@ -465,7 +465,7 @@
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
         "location": "/Game/enums/actions.actions.DisplayNameMap(35 - Value).DisplayNameMap",
         "id": "Sandbox",
-        "str": "Sandbox"
+        "str": "Homokozó"
     },
     {
         "key": "1F7140B7494998788B096E85BEA451B4",
@@ -519,7 +519,7 @@
         "key": "22B8C07045CAEA974D03AD9C0D933A4E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Bar",
-        "str": "Gold Bar"
+        "str": "Aranyrúd"
     },
     {
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
@@ -633,7 +633,7 @@
         "key": "2BB11678432B1B25F353A1A7B4A35E7E",
         "location": "/Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text",
         "id": "Reset",
-        "str": "Reset"
+        "str": "Visszaállítás"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -735,7 +735,7 @@
         "key": "32F257464B93572E3D0BF293BA036023",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Scorpion Venom",
-        "str": "Scorpion Venom"
+        "str": "Ringatás"
     },
     {
         "key": "3353AF434D2A72322E22DB981CE05EAA",
@@ -771,7 +771,7 @@
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Snake's Blood",
-        "str": "Snake's Blood"
+        "str": "Pontszám"
     },
     {
         "key": "367FB31C49B8F835CBA9AAAF25735FD8",
@@ -1071,7 +1071,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "The Nightfall"
+        "str": "Halotti lepel"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -1191,7 +1191,7 @@
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Lights",
-        "str": "Van Lights"
+        "str": "Kisbusz fények"
     },
     {
         "key": "554BB9D046155183D4DCF7A14F96171E",
@@ -1269,7 +1269,7 @@
         "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap",
         "id": "Move Others",
-        "str": "Move Others"
+        "str": "Mások mozgatása"
     },
     {
         "key": "5E0DC4AE4575000AC0171F95AD85CADA",
@@ -1563,7 +1563,7 @@
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "The Glare"
+        "str": "Grimasz"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -1713,7 +1713,7 @@
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "The Hush"
+        "str": "Fenyegetés"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
@@ -1755,7 +1755,7 @@
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(1).Options.Label",
         "id": "On",
-        "str": "On"
+        "str": "Be"
     },
     {
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
@@ -1809,7 +1809,7 @@
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show jumpscares",
-        "str": "Show jumpscares"
+        "str": "Ugratások megjelenítése"
     },
     {
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
@@ -2223,7 +2223,7 @@
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "The Gloaming"
+        "str": "Kísértet"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -2379,7 +2379,7 @@
         "key": "AA8520BE4876828E544192BFA8F98EE7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Move Self",
-        "str": "Move Self"
+        "str": "Mozgasd magad"
     },
     {
         "key": "AB25CB294CD7BEF8559DFA89B96B8F9B",

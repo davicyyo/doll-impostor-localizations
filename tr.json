@@ -381,7 +381,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Drop Case"
+        "str": "Davayı bırak"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -2295,7 +2295,7 @@
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "The Wicked"
+        "str": "Kötü"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -3345,7 +3345,7 @@
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "Ouija"
+        "str": "Ouija tahtası"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",

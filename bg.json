@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "The Creepy"
+        "str": "Кост"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -81,7 +81,7 @@
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "The Morbid"
+        "str": "Гримаса"
     },
     {
         "key": "056842694B3EB37BD05F159542C5CE41",
@@ -111,7 +111,7 @@
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "The Gasp"
+        "str": "Призрак 28"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -237,7 +237,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Swing Self"
+        "str": "Люлейте себе си"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -405,7 +405,7 @@
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Ghast",
-        "str": "The Ghast"
+        "str": "Призрак 37"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
@@ -471,7 +471,7 @@
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "The Whispers"
+        "str": "Шепотите"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
@@ -675,7 +675,7 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "Soul Dark Paper"
+        "str": "Кръв от змия"
     },
     {
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
@@ -975,7 +975,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "The Hauntling"
+        "str": "Притаен"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -999,7 +999,7 @@
         "key": "45DB611B482D35EE05ADE98331F2EC20",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Haunting",
-        "str": "The Haunting"
+        "str": "Обитаването от духове"
     },
     {
         "key": "460FFB13421148C8493D69A72A81E93C",
@@ -1071,7 +1071,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "The Nightfall"
+        "str": "Саван"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -1131,7 +1131,7 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "The Uncanny"
+        "str": "Непонятният"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -1419,7 +1419,7 @@
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twisted",
-        "str": "The Twisted"
+        "str": "Извратеният"
     },
     {
         "key": "67CC4CE342660CF969980E8F00DC0788",
@@ -1479,7 +1479,7 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "The Dire"
+        "str": "Криптичен"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1719,7 +1719,7 @@
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "The Lurk"
+        "str": "Мрачен"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
@@ -2223,7 +2223,7 @@
         "key": "9CD486614893E83F1AC2D3AA683226F0",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloaming",
-        "str": "The Gloaming"
+        "str": "Преследване"
     },
     {
         "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -2295,7 +2295,7 @@
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "The Wicked"
+        "str": "Злият"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -2457,7 +2457,7 @@
         "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grump",
-        "str": "The Grump"
+        "str": "Мрънкачът"
     },
     {
         "key": "B16BD65740B9A94C398B138BCEEA9678",
@@ -2469,7 +2469,7 @@
         "key": "B190DC8C4B38B72150B586B737F83910",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowed Whisper",
-        "str": "The Shadowed Whisper"
+        "str": "Засенченото шепнене"
     },
     {
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
@@ -2559,7 +2559,7 @@
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispered",
-        "str": "The Whispered"
+        "str": "Прошепнатото"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
@@ -2775,7 +2775,7 @@
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "The Shadowling"
+        "str": "Сенчестият"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2865,7 +2865,7 @@
         "key": "CE5521734152BB8FDF36949D84AA7F39",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghastly",
-        "str": "The Ghastly"
+        "str": "Призрачното"
     },
     {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -2901,7 +2901,7 @@
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "The Cryptic"
+        "str": "Кикот"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
@@ -2979,7 +2979,7 @@
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "The Creep"
+        "str": "Бездна"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
@@ -2991,7 +2991,7 @@
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "The Lurker"
+        "str": "Тъжен"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
@@ -3627,7 +3627,7 @@
         "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Paper",
-        "str": "Soul Paper"
+        "str": "Меки и ароматни розови венчелистчета"
     },
     {
         "key": "FF934248449771227CA5E6BAC5FBE7AF",

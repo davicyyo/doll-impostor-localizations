@@ -711,7 +711,7 @@
         "key": "31D2289342B165F56F2435A9CDCEB36A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_30.Text",
         "id": "VSync",
-        "str": "VSync"
+        "str": "تزامن عمودي"
     },
     {
         "key": "31D983AD40E7D0F0976B7CAC11BD3D12",

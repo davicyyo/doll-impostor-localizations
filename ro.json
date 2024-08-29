@@ -111,7 +111,7 @@
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "The Gasp"
+        "str": "Fantomă 28"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -237,7 +237,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Swing Self"
+        "str": "Leagănă-te"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -381,7 +381,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Drop Case"
+        "str": "Renunță la caz"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -615,7 +615,7 @@
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whisperwind",
-        "str": "The Whisperwind"
+        "str": "Vântul Șoptitor"
     },
     {
         "key": "2A85705945159E3B98E06BB40B5CA820",
@@ -675,7 +675,7 @@
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Dark Paper",
-        "str": "Soul Dark Paper"
+        "str": "Sânge de șarpe"
     },
     {
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
@@ -1191,7 +1191,7 @@
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Lights",
-        "str": "Van Lights"
+        "str": "Lumini dubă"
     },
     {
         "key": "554BB9D046155183D4DCF7A14F96171E",
@@ -1257,7 +1257,7 @@
         "key": "5AC930984185A24BC84F5EB1E734B80E",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
-        "str": "The Tubesocks"
+        "str": "Șosetele Tub"
     },
     {
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
@@ -1377,7 +1377,7 @@
         "key": "63E5DF9A4DC914E24DCDA8B02FC0A001",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wraith",
-        "str": "The Wraith"
+        "str": "Fantoma"
     },
     {
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
@@ -1419,7 +1419,7 @@
         "key": "67B677CF4F7F5F5336B2A5A78A824E51",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Twisted",
-        "str": "The Twisted"
+        "str": "Torsionat"
     },
     {
         "key": "67CC4CE342660CF969980E8F00DC0788",
@@ -1473,13 +1473,13 @@
         "key": "6AA4F0964EAA8B9B6AE3B3A2B62504C1",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_25.Text",
         "id": "Focus / Zoom",
-        "str": "Focus / Zoom"
+        "str": "Focalizare / Zoom"
     },
     {
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "The Dire"
+        "str": "Criptic"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1719,7 +1719,7 @@
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurk",
-        "str": "The Lurk"
+        "str": "Sumbru"
     },
     {
         "key": "7B6CC6BA4D259033F5B946A472D9AB10",
@@ -1851,7 +1851,7 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "The Pale"
+        "str": "Suflet"
     },
     {
         "key": "821C250E485ED0C26041C8830F8E0625",
@@ -1887,7 +1887,7 @@
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "The Murk"
+        "str": "Clarvăzător"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -2061,7 +2061,7 @@
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurking",
-        "str": "The Lurking"
+        "str": "Întunecat"
     },
     {
         "key": "928D8B36495F7CA7451ECC8DA2DD1850",
@@ -2313,7 +2313,7 @@
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grim",
-        "str": "The Grim"
+        "str": "Sumbru"
     },
     {
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
@@ -2325,7 +2325,7 @@
         "key": "A5B8E42E465FF909827ACBAEAFD09986",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murky",
-        "str": "The Murky"
+        "str": "Umbră"
     },
     {
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
@@ -2733,7 +2733,7 @@
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_11.Text",
         "id": "Focus FOV",
-        "str": "Focus FOV"
+        "str": "Focalizare câmp vizual"
     },
     {
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
@@ -2775,7 +2775,7 @@
         "key": "C6298185486DF0A5C64519AD8B518D4C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadowling",
-        "str": "The Shadowling"
+        "str": "Umbrele"
     },
     {
         "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -2979,7 +2979,7 @@
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "The Creep"
+        "str": "Abis"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
@@ -2991,7 +2991,7 @@
         "key": "D54AD32246C068D95A3BF5911FDC1807",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lurker",
-        "str": "The Lurker"
+        "str": "Trist"
     },
     {
         "key": "D597FBE342A7B8B23676A3BB4B81D863",
@@ -3063,7 +3063,7 @@
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wisp",
-        "str": "The Wisp"
+        "str": "Licărul"
     },
     {
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
@@ -3183,7 +3183,7 @@
         "key": "E672CE194312B524EAE5218F788B97F4",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Stiff",
-        "str": "The Stiff"
+        "str": "Înțepenitul"
     },
     {
         "key": "E67B208049756CC3B5F16089AC41B470",
@@ -3393,7 +3393,7 @@
         "key": "F3539C0B4A4D262BEEADFCBC91E58848",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Toad Bile",
-        "str": "Toad Bile"
+        "str": "Bilă de broască"
     },
     {
         "key": "F398437D44CE91CF11D919A1208038ED",
