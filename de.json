@@ -75,7 +75,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Es sieht so aus, als hätte der Betrüger einige Ereignisse gemacht. Diese werden auf deinem linken Panel angezeigt. Überprüfe sie und gehe dann wieder in den Raum."
+        "str": "Es sieht so aus, als hätte der Betrüger einige Dinge getan. Diese werden auf deinem linken Panel angezeigt. Überprüfe sie und gehe dann wieder in den Raum."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
@@ -171,7 +171,7 @@
         "key": "09CCC43B450A924B1414CEA6C17A4E5D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_137.Text",
         "id": "Language",
-        "str": "Hasst"
+        "str": "Sprache"
     },
     {
         "key": "0A3D5EC2435134BB35A189A4B69C4101",
@@ -331,7 +331,7 @@
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
         "str": "Beenden"
     },
@@ -507,7 +507,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "Du hast alle Hinweise und alle Informationen über die Puppen, aber das ist bei jeder Puppe völlig zufällig."
+        "str": "Du hast alle Hinweise und alle Informationen über die Puppen, aber sie sind bei jeder Puppe völlig zufällig."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "Wir haben nur noch 3 übrig. Lass uns in den Raum gehen, um zu sehen, wer sich bewegt hat und wer bewegt wurde."
+        "str": "Wir haben nur noch 3 übrig. Lass uns in den Raum gehen, um zu sehen, wer sich bewegt hat und wer bewegt worden ist."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -913,7 +913,7 @@
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
         "id": "Settings",
         "str": "Einstellungen"
     },
@@ -1009,7 +1009,7 @@
     },
     {
         "key": "4634F1C448A78E03F4AC7B94441281EB",
-        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
+        "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_268.Text",
         "id": "Resume Game",
         "str": "Spiel fortsetzen"
     },
@@ -1028,14 +1028,14 @@
     {
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
-        "id": "Leave the room now and check everything that’s activated. You have 10 seconds to discover it. Write down everything you see in the doll's likes!",
-        "str": "Verlasse den Raum jetzt und überprüfe alles, was aktiviert ist. Du hast 10 Sekunden Zeit, um es zu entdecken. Schreibe alles auf, was du in den Vorlieben der Puppe siehst!"
+        "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
+        "str": "Verlassen Sie den Raum jetzt und überprüfen Sie alles, was aktiviert ist. Schreiben Sie alles auf, was Sie in den Vorlieben der Puppe sehen!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-        "str": "Du hast das Tutorial abgeschlossen, du kennst die Grundlagen! Um das Tutorial zu beenden, gehe ins Bett und schlafe. Du wirst in deine sichere Zone gehen. Benutze den Computer, um ein Spiel zu starten!"
+        "str": "Du hast das Tutorial abgeschlossen und kennst nun die Grundlagen! Um das Tutorial zu beenden, gehe ins Bett und schlafe. Du wirst in deine sichere Zone gehen. Benutze den Computer, um ein Spiel zu starten!"
     },
     {
         "key": "4798B1E54C73C4932878B1A4630376ED",
@@ -1161,7 +1161,7 @@
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Du bist der Wächter der Puppen, eine von ihnen ist lebendig und beabsichtigt, dich zu töten. Du musst herausfinden, wer es ist, bevor 09:00 Uhr."
+        "str": "Du bist der Wächter der Puppen, eine von ihnen ist lebendig und beabsichtigt, dich zu töten. Du musst vor 09:00 Uhr herausfinden, wer es ist."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1245,7 +1245,7 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Zufällig, aber endloser Modus, du hast einen 3-Minuten-Timer, um den Fall zu lösen, und es gibt eine Bestenliste"
+        "str": "Zufälliger, aber endloser Modus. Du hast einen 3-Minuten-Timer, um den Fall zu lösen und es gibt eine Bestenliste."
     },
     {
         "key": "5A9082C24056C8BFE9DE8EA9069EF292",
@@ -1389,7 +1389,7 @@
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "Der Standard-Schwierigkeitsgrad für jeden Spieler, alle Hinweise werden um 08:00 gemacht, du hast die Möglichkeit, die Namen der Puppen und die Liste der Aktionen des Betrügers zu sehen"
+        "str": "Der Standard-Schwierigkeitsgrad für jeden Spieler. Du bekommst alle Hinsweise um 08:00 Uhr. Du hast die Möglichkeit, die Namen der Puppen und die Liste der Aktionen des Betrügers zu sehen"
     },
     {
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
@@ -1407,7 +1407,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Es ist die letzte Stunde. Wir haben nur diese Chance, es herauszufinden. Lass uns in den Raum gehen."
+        "str": "Dies ist die letzte Stunde. Wir haben nur diese eine Chance, den Betrüger herauszufinden. Lass uns in den Raum gehen."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1432,6 +1432,12 @@
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_31.Text",
         "id": "Brightness",
         "str": "Helligkeit"
+    },
+    {
+        "key": "68AB17564B2909F81E4BDC9DA994883E",
+        "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
+        "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
+        "str": "Ich habe einen fortgeschrittenen Leitfaden erstellt, der alle Aspekte des Karrieremodus behandelt. Wenn Sie weitere Hilfe benötigen, empfehle ich Ihnen, ihn sich anzusehen; er wird Ihnen helfen, Ihre zukünftigen Fälle zu lösen!"
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1629,7 +1635,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Du wirst die Rolle eines Detektivs haben, bei der du basierend auf den Vorlieben und Abneigungen des Betrügers, die auf dem Panel links aufgelistet sind, bestimmen musst, was er mag und nicht mag, wer seine Feinde, Freunde, Lieben oder gehassten Personen sind."
+        "str": "Du wirst die Rolle eines Detektivs haben, bei der du basierend auf den Vorlieben und Abneigungen des Betrügers, die auf dem Panel links aufgelistet sind, bestimmen musst, was er mag und was er nicht mag, wer seine Feinde, Freunde, geliebten oder gehassten Personen sind."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1665,7 +1671,7 @@
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Schrecken Lautstärke"
+        "str": "Jumpscares Lautstärke"
     },
     {
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
@@ -1743,7 +1749,7 @@
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-        "str": "Nur für Profis geeignet, beginnt um 08:00 und hat nur 3 effektive Hinweise, es gibt keine Fotos oder Hilfsmittel, einige Daten sind verborgen, du hast begrenzten Zugang zur Karte"
+        "str": "Nur für Profis geeignet. Beginnt um 08:00 Uhr und hat nur 3 effektive Hinweise. Es gibt keine Fotos oder Hilfsmittel und einige Daten sind verborgen. Zudem hast du nur begrenzten Zugang zur Karte."
     },
     {
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
@@ -1803,7 +1809,7 @@
         "key": "8048C27C4B137230FE4708ADFD1AD7F4",
         "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
         "id": "Show jumpscares",
-        "str": "Erschrecken anzeigen"
+        "str": "Jumpscares anzeigen"
     },
     {
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
@@ -1821,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Du hast deinen neuen Rekord mit {new} Nächten gebrochen! Vorher waren es {old} Nächte!"
+        "str": "Du hast deinen neuen Rekord mit {new} Nächten ausgestellt! Vorher waren es {old} Nächte!"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -1869,7 +1875,7 @@
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You can try it now in PC",
-        "str": "Du kannst es jetzt auf dem PC ausprobieren"
+        "str": "Du kannst es jetzt auf dem PC ausprobieren."
     },
     {
         "key": "84658DA54182C8A664927696DBF0C2C1",
@@ -2277,7 +2283,7 @@
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but in race mode with medals",
-        "str": "Zufallsmodus, aber im Rennmodus mit Medaillen"
+        "str": "Zufallsmodus, aber auf Zeit mit Medaillen"
     },
     {
         "key": "A1DAA0264F4E98D0E7FF1E89CCEF4110",
@@ -2295,7 +2301,7 @@
         "key": "A2C08BE6447E2720D3051F8CA460E102",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_6.Text",
         "id": "Can you help me with a positive review?",
-        "str": "Können Sie mir mit einer positiven Bewertung helfen?"
+        "str": "Würden Sie mir mit einer positiven Bewertung helfen?"
     },
     {
         "key": "A31A353942F325B2C7CB09AA525BB7CF",
@@ -2343,7 +2349,7 @@
         "key": "A7121AED466C7D8F9486A89DECB2409C",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "Willkommen im Zufluchtsort! Dies ist deine sichere Zone. Hier kannst du ein neues Spiel auf dem Computer starten, deine Sammlung von Puppen und Trophäen ansehen und diesen Ort anpassen, indem du auf das Farbpallett-Symbol auf deinem Desktop klickst!"
+        "str": "Willkommen im Zufluchtsort! Dies ist deine sichere Zone. Hier kannst du ein neues Spiel auf dem Computer starten, deine Sammlung von Puppen und Trophäen ansehen und diesen Ort anpassen, indem du auf das Farbpallette auf deinem Desktop klickst!"
     },
     {
         "key": "A7C36D644573AD30716F4283EBBE53D2",
@@ -2469,7 +2475,7 @@
         "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
         "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-        "str": "Ein weiterer Schwierigkeitsgrad, es gibt keine zusätzlichen Hinweise, du kannst die Namen oder die Liste nicht sehen"
+        "str": "Ein weiterer Schwierigkeitsgrad, es gibt keine zusätzlichen Hinweise, du kannst die Namen oder die Liste nicht mehr sehen."
     },
     {
         "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
@@ -2649,7 +2655,7 @@
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "Geh schlafen und lass uns sehen, ob der Hinweis in der nächsten Stunde gelöst wird."
+        "str": "Geh schlafen und lass uns sehen, ob die Falle in der nächsten Stunde zuschnappt."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -2691,7 +2697,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Es ist klar, dass er Blut mag. Es könnte einer der beiden sein, aber überprüfe die Kästchen. Freddy fehlt und seine Kiste ist voller Blut. Er hat dieses Urteil für dich hinterlassen. Wenn du dir sicher bist, verwerfe den Kandidaten."
+        "str": "Es ist klar, dass er Blut mag. Es könnte einer der beiden sein, aber überprüfe die Kisten. Freddy fehlt und seine Kiste ist voller Blut. Er hat dieses Urteil für dich hinterlassen. Wenn du dir sicher bist, verwerfe den Kandidaten."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
@@ -2829,7 +2835,7 @@
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "Er ist in unsere Falle getappt und hat das Licht ausgeschaltet. Wir können jetzt alle verwerfen, die das Licht mögen."
+        "str": "Er ist in unsere Falle getappt und hat das Licht ausgeschaltet. Wir können jetzt alle ausschließen, die das Licht mögen."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -3111,7 +3117,7 @@
         "key": "DFC327DA4616540509FBF6AA40D0458B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
         "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-        "str": "Expertenmodus, du beginnst um 06:00, es gibt keine zusätzlichen Hinweise und keine Fotos"
+        "str": "Expertenmodus. Du beginnst um 06:00 Uhr. Es gibt keine zusätzlichen Hinweise und keine Fotos."
     },
     {
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
@@ -3438,6 +3444,12 @@
         "str": "Ravnehjerte"
     },
     {
+        "key": "F66992CC4272E9FD176972AE7A324010",
+        "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
+        "id": "Did you understand the tutorial well?",
+        "str": "Haben Sie das Tutorial gut verstanden?"
+    },
+    {
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Mandrake Root",
@@ -3531,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Wir haben Ricky auf dem Sofa und Monty am Klavier, also haben wir bereits die 2 möglichen Kandidaten. Wir werden jedoch kein Risiko von 50 % eingehen. Lass uns in den Raum zurückkehren, um den auszuschließen, der es nicht sein kann, und auf sein nächstes Ereignis warten."
+        "str": "Ricky sitzt auf dem Sofa und Monty am Klavier. Wir haben also bereits die 2 möglichen Kandidaten. Wir werden jedoch kein Risiko von 50 % eingehen. Lass uns in den Raum zurückkehren, um den auszuschließen, der es nicht sein kann und auf sein nächstes Ereignis warten."
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
@@ -3549,7 +3561,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "Du hast {new} Nächte erreicht, du hast deinen Rekord von {old} Nächten nicht übertroffen"
+        "str": "Du hast {new} Nächte erreicht, du hast deinen Rekord von {old} Nächten nicht übertroffen."
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
