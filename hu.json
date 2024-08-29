@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "A%20fotó%20fejlesztéséhez%20meg kell%20mozgatni%20.%20Once%20it%27s%20100%%20fejlett,%20egyszerűen%20nyomja meg%20a%20használja%20gombot,%20%20%20 "
+        "str": "A fénykép előhívásához mozgatnia kell. "
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2439,7 +2439,7 @@
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "  elveszett 90  a teljes jutalom esedékes  hiányzó fotókig."
+        "str": "Elveszítetted a teljes jutalom 90%-át a hiányzó fotók miatt."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
@@ -3297,7 +3297,7 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Te%20%20elveszett%2075%%20mert%20not%20felfedezted%20az imposztort"
+        "str": "75%-t vesztettél, amiért nem fedezted fel a csalót"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Nekünk            a a kanapén   Monty  a a          már      lehet  jelöltünk.   0  "
+        "str": "Nálunk Ricky a kanapén, Monty pedig a zongoránál van, így már megvan a 2 lehetséges jelölt. "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",

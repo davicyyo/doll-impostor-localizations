@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "%20kehittääksesi%20valokuvan,%20sinun%20on%20%20siirrä%20se.%20Kerran%20it%27s%20100%%20kehitetty,%20yksinkertaisesti%20paina%20%20käytä%20painiketta,%20%20ja tulen%20 "
+        "str": "Kehittääksesi valokuvaa, sinun on siirrettävä sitä. "
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2439,7 +2439,7 @@
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "Sinulla%20olet%20menetetty%2090%%20%20%20%20koko%20palkkiosta%20erätty%20%20puuttuu%20kuvista."
+        "str": "Olet menettänyt 90% koko palkinnosta puuttuvien kuvien vuoksi."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
@@ -3297,7 +3297,7 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Olet%20%20menettänyt%2075%%20et%20et%20löytänyt%20huijarin"
+        "str": "Olet menettänyt 75%, koska et löytänyt huijaria"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Meillä        sohvalla ja Monty  the pianolla, niin me jo on     mahdollista ehdokasta.  ei kuitenkaan00  "
+        "str": "Meillä on Ricky sohvalla ja Monty pianon ääressä, joten meillä on jo 2 mahdollista ehdokasta. "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",

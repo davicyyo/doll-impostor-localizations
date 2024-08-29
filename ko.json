@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "%20develop%20the%20photo,%20you%20need%20to%20move%20it.%20Once%20it%27s%20100%%20developing,%20simply%20press%20the%20use%20button,%20and%20it%20will%20be "
+        "str": "사진을 현상하려면 사진을 이동해야 합니다. "
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2439,7 +2439,7 @@
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "당신은%20%20잃어버린%2090%%20%20%20전체%20보상%20기한%20to%20누락%20사진을 가지고 있습니다."
+        "str": "사진 누락으로 인해 전체 보상의 90%을(를) 잃었습니다."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
@@ -3297,7 +3297,7 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "당신은%20가%20잃어버린%2075%%20%20%20%20발견하지%20%20사기꾼"
+        "str": "사기꾼을 발견하지 못해 75%을 잃었습니다."
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "우리는 have Ricky on the couch and Monty at the piano, so we 이미 have the 2 가능한 후보자. 그러나, 우리 는 아닙니다  "
+        "str": "소파에는 Ricky가 있고 피아노에는 Monty가 있으므로 이미 2명의 가능한 후보가 있습니다. "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",

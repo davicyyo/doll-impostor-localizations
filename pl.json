@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "Aby%20rozwinąć%20%20zdjęcie,%20ty%20potrzebujesz%20do%20przesuń%20it.%20Raz%20it%27s%20100%%20rozwinięte,%20po prostu%20naciśnij%20%20użyj%20przycisku,%20i%20it%20will%20be "
+        "str": "Aby wywołać zdjęcie należy je przesunąć. "
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2439,7 +2439,7 @@
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "Masz%20%20stracone%2090%%20z%20%20całe%20nagroda%20z powodu%20do%20brakujących%20 zdjęć."
+        "str": "Straciłeś 90% całej nagrody z powodu brakujących zdjęć."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
@@ -3297,7 +3297,7 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Ty%20masz%20straciłeś%2075%%20za%20nie%20odkrywasz%20%20oszust"
+        "str": "Straciłeś 75% za to, że nie odkryłeś oszusta"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Mamy mamy Ricky na  kanapę i Monty at  piano, so my już ma  2 możliwe kandydatów. Jednak my jesteśmy nie w trakcie "
+        "str": "Mamy Ricky'ego na kanapie i Monty'ego przy pianinie, więc mamy już dwóch możliwych kandydatów. "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",

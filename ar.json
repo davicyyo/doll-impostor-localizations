@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "ل%20تطوير%20%20صورة،%20تحتاج%20%20 إلى%20نقل%20it.%20مرة واحدة%20it%27s%20100%%20تم تطويره،%20ببساطة%20اضغط%20the%20استخدم%20زر،%20و%20it%20will%20be "
+        "str": "لتطوير الصورة، تحتاج إلى نقلها. "
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2439,7 +2439,7 @@
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "لقد%20لديك%20فقدت%2090%%20من%20%20كامل%20مكافأة%20مستحقة%20 إلى%20 مفقودة%20 صورة."
+        "str": "لقد خسرت 90% من المكافأة بأكملها بسبب فقدان الصور."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
@@ -3297,7 +3297,7 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "لقد%20لقد%20فقدت%2075%%20لـ%20ليس%20اكتشاف%20%20المحتال"
+        "str": "لقد خسرت 75% لعدم اكتشاف المحتال"
     },
     {
         "key": "EE03EF0F4EEDD6D027A9A894BCB0944E",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "نحن لدينا ريكي on the couch  و مونتي في the بيانو، so we بالفعل لدينا the 2 ممكن  مرشحين. ومع ذلك، we are not  ذاهبون "
+        "str": "لدينا ريكي على الأريكة ومونتي يعزف على البيانو، لذا لدينا بالفعل المرشحين المحتملين. "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
