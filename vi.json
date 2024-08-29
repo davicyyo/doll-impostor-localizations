@@ -75,7 +75,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Có vẻ như kẻ mạo danh đã thực hiện một số sự kiện. "
+        "str": "Có vẻ như kẻ mạo danh đã thực hiện một số sự kiện. Những sự kiện này sẽ được hiển thị trên bảng điều khiển bên trái của bạn. Xem lại chúng và sau đó truy cập lại vào phòng."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
@@ -141,7 +141,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Hãy nhớ khóa cửa bằng chốt. "
+        "str": "Hãy nhớ khóa cửa bằng chốt. Nếu bạn không làm như vậy, búp bê có thể xuất hiện, thay đổi bài kiểm tra của bạn và thậm chí giết chết bạn."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -153,13 +153,13 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Bây giờ bạn đã chấp nhận vụ việc. "
+        "str": "Bây giờ bạn đã chấp nhận trường hợp. Ngoài phần hướng dẫn, bạn có thể từ bỏ trường hợp này bất kỳ lúc nào nhưng bạn sẽ không thể tìm thấy các trường hợp mới sau khi đã chấp nhận. Sau khi giải quyết xong vấn đề này, hãy di chuyển đến địa điểm khi bạn đã sẵn sàng."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "Đây là phòng của búp bê. "
+        "str": "Đây là phòng của búp bê. Ở đây bạn sẽ thấy những gì chúng đã làm khi bạn ngủ. Hãy nhìn chúng và sau đó quay lại phòng."
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -183,7 +183,7 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "Một quả vani thơm."
+        "str": "Một quả vani thơm ngát."
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -243,7 +243,7 @@
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "Hãy quay trở lại hội thảo và bắt đầu loại bỏ những nghi phạm không phù hợp với bằng chứng của chúng ta."
+        "str": "Hãy quay lại hội thảo và bắt đầu loại bỏ những nghi phạm không phù hợp với bằng chứng của chúng ta."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
@@ -279,7 +279,7 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "Một bông hoa màu trắng với những cánh hoa mềm mại."
+        "str": "Một bông hoa trắng với những cánh hoa mềm mại."
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
@@ -315,7 +315,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "Rất tốt, bạn đã sử dụng hết vật phẩm trên búp bê. "
+        "str": "Tốt lắm, bạn đã sử dụng hết đồ trên búp bê. Lần này, những thứ Lil không thích là: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -363,7 +363,7 @@
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "Một gốc rễ xương xẩu và nham hiểm."
+        "str": "Một cái rễ xương xẩu và nham hiểm."
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
@@ -483,7 +483,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Những loại thuốc tiên này tiết lộ mối quan hệ giữa những con búp bê. "
+        "str": "Những thuốc tiên này tiết lộ mối quan hệ giữa những con búp bê. Chúng đều có mối quan hệ và đây là cách duy nhất để khám phá chúng. Hãy bắt đầu bằng cách kiểm tra mối quan hệ tình yêu của Lil với những con búp bê khác. Đơn giản chỉ cần bôi thuốc tiên lên Lil và quan sát hiệu ứng. Tất cả những người phản ứng với tác dụng của Lil đều "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -639,7 +639,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "Cô xuất sắc"
+        "str": "Ms. Xuất sắc"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -681,7 +681,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Tôi cũng đã đưa cho bạn một cái túi. "
+        "str": "Tôi cũng đã đưa cho bạn một chiếc túi. Chiếc túi này sẽ giúp bạn bắt được kẻ mạo danh. Khi bạn bắt được nó, trò chơi sẽ kết thúc (nếu bạn làm như vậy trong thời gian giới hạn). Tôi sẽ để bạn hoàn thành phần hướng dẫn này. Cho dù bạn "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "Chúng tôi chỉ còn lại 3. "
+        "str": "Chúng ta chỉ còn 3 người. Cùng vào phòng xem ai đã chuyển và ai đã được chuyển."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -909,7 +909,7 @@
         "key": "3FAB1E074AD22684E3F78785D85679FA",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the nearest candle.",
-        "str": "Bây giờ là ngọn nến gần nhất."
+        "str": "Bây giờ là cây nến gần nhất."
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -939,7 +939,7 @@
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "Một chiếc cúp có hình chiếc cốc, thường bằng vàng, được trao như biểu tượng chiến thắng trong các cuộc thi thể thao hoặc các nghi lễ danh giá."
+        "str": "Một chiếc cúp có hình chiếc cốc, thường có màu vàng, được trao như biểu tượng của chiến thắng trong các cuộc thi thể thao hoặc các nghi lễ danh giá."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -1029,7 +1029,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Hãy rời khỏi phòng ngay bây giờ và kiểm tra mọi thứ đã được kích hoạt. "
+        "str": "Hãy rời khỏi phòng ngay bây giờ và kiểm tra mọi thứ đã được kích hoạt. Viết ra mọi thứ bạn nhìn thấy theo lượt thích của búp bê!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1107,7 +1107,7 @@
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "Tôi đã đưa cho bạn một cuốn sổ để bạn có thể xem tất cả thông tin chi tiết về búp bê và thông tin đầy đủ. "
+        "str": "Tôi đã đưa cho bạn một cuốn sổ để bạn có thể xem tất cả thông tin chi tiết về búp bê và thông tin đầy đủ. Hãy xem và khi bạn đã sẵn sàng, hãy quay lại với búp bê."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1155,13 +1155,13 @@
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "Làm tốt lắm, bạn đã hoàn thành thuốc tiên. "
+        "str": "Làm tốt lắm, bạn đã hoàn thành thuốc tiên. Tôi sẽ không kiểm tra ghi chú của bạn, nhưng tôi chắc chắn rằng chúng rất tuyệt!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Bạn là người bảo vệ những con búp bê, một trong số chúng còn sống và có ý định giết bạn. "
+        "str": "Bạn là người bảo vệ những con búp bê, một trong số chúng còn sống và có ý định giết bạn. Bạn phải khám phá xem đó là con nào trước 09:00."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1173,7 +1173,7 @@
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "Hoàn hảo, chúng ta còn lại 5 nghi phạm. "
+        "str": "Hoàn hảo, chúng ta còn lại 5 nghi phạm. Cùng đi ngủ thôi."
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
@@ -1209,7 +1209,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "Trước khi đưa cho bạn tờ giấy tối màu, hãy kích hoạt và bật mọi thứ lên. "
+        "str": "Trước khi đưa cho bạn tờ giấy màu tối, hãy kích hoạt và bật mọi thứ. Bằng cách này, chúng ta sẽ dễ dàng biết được con búp bê không thích điều gì khi chúng ta dừng nó lại."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1359,7 +1359,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "Khi bắt đầu một vụ án, bạn sẽ có thể trang bị cho mình những vật phẩm bạn đã mua hoặc chế tạo. "
+        "str": "Khi bắt đầu một vụ án, bạn sẽ có thể trang bị cho mình những vật phẩm bạn đã mua hoặc chế tạo. Để làm điều này, hãy truy cập vào chiếc rương phía sau bạn. Ngay bây giờ, bạn sẽ thấy nó trống rỗng, nhưng đừng lo, tôi' "
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1383,7 +1383,7 @@
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "Bóng đèn tối và hăng."
+        "str": "Củ sẫm màu và hăng."
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
@@ -1407,7 +1407,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Giờ cuối cùng rồi. "
+        "str": "Giờ cuối cùng rồi. Chúng ta chỉ có cơ hội này để tìm hiểu. Về phòng thôi."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Tôi đã tạo một hướng dẫn nâng cao hơn để khám phá tất cả các khía cạnh của Chế độ nghề nghiệp. "
+        "str": "Tôi đã tạo một hướng dẫn nâng cao hơn để khám phá tất cả các khía cạnh của Chế độ nghề nghiệp. Nếu bạn cần thêm trợ giúp, tôi khuyên bạn nên xem qua; "
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Hoàn hảo, bây giờ chúng ta hãy điều tra một trong những con búp bê. "
+        "str": "Hoàn hảo, bây giờ chúng ta hãy điều tra một trong những con búp bê. Tôi đã đưa cho bạn một chiếc máy ảnh; "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1593,7 +1593,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Chào mừng bạn đến với Chế độ nghề nghiệp. "
+        "str": "Chào mừng bạn đến với Chế độ nghề nghiệp. Trong chế độ trò chơi này, bạn sẽ cần khám phá thông tin về búp bê và giải quyết từng trường hợp một cách chính xác."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1635,7 +1635,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Bạn sẽ có một vai thám tử, trong đó bạn sẽ phải xác định, dựa trên những điều thích và không thích của kẻ mạo danh được liệt kê trên bảng bên trái của bạn, hắn thích và không thích gì, kẻ thù, bạn bè, người yêu hoặc những người bị ghét của hắn là ai "
+        "str": "Bạn sẽ có một vai thám tử, trong đó bạn sẽ phải xác định, dựa trên những điều thích và không thích của kẻ mạo danh được liệt kê trên bảng bên trái của bạn, hắn thích và không thích gì, kẻ thù, bạn bè, người yêu hoặc những cá nhân bị ghét của hắn là ai."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1743,7 +1743,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "Sau khi hoàn thành phần hướng dẫn, bạn có thể gặp khó khăn về tài chính. "
+        "str": "Sau khi hoàn thành phần hướng dẫn, bạn có thể gặp khó khăn về tài chính. Để giải quyết vấn đề này, bạn có thể chơi chế độ cổ điển và tùy thuộc vào mức độ khó, nó sẽ cấp cho bạn nhiều hay ít tiền để sử dụng trong các trường hợp."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1785,13 +1785,13 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Hãy đặt một cái bẫy cho kẻ mạo danh. "
+        "str": "Hãy đặt bẫy kẻ mạo danh. Chúng ta đã biết rằng hắn thích TV và âm nhạc. Bật đèn."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "Các hiệu ứng đã biến mất. "
+        "str": "Hiệu ứng đã hết. Nếu bạn không viết được nó ra thì tình yêu của Lil là: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1857,7 +1857,7 @@
         "key": "821C250E485ED0C26041C8830F8E0625",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A durable and flexible material.",
-        "str": "Một vật liệu bền và linh hoạt."
+        "str": "Chất liệu bền và dẻo."
     },
     {
         "key": "82B77C5A456740B0D72910B21AF4A463",
@@ -1971,7 +1971,7 @@
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "Lá xanh và nhức nhối."
+        "str": "Lá xanh nhức nhối."
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -2217,7 +2217,7 @@
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "Hộp đựng trong suốt và sang trọng."
+        "str": "Hộp đựng trong suốt và trang nhã."
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "Để phát triển bức ảnh, bạn cần di chuyển nó. "
+        "str": "Để phát triển ảnh, bạn cần di chuyển nó. Khi nó được phát triển 100%, chỉ cần nhấn nút sử dụng và nó sẽ được lưu."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2421,7 +2421,7 @@
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "Một trái tim nhỏ bé, tối tăm và teo tóp."
+        "str": "Một trái tim nhỏ bé, đen tối và teo tóp."
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
@@ -2445,7 +2445,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Được rồi, tôi sẽ đưa cho bạn số thuốc tiên còn lại để áp dụng cho Lil. "
+        "str": "Được rồi, tôi sẽ đưa cho bạn phần thuốc tiên còn lại để áp dụng cho Lil. Amicitia tượng trưng cho tình bạn, Inimicitia tượng trưng cho sự thù địch và Odium tượng trưng cho sự thù hận. Mỗi loại thuốc trong số này, với màu sắc cụ thể, sẽ tiết lộ các mối quan hệ của Lil. Viết ra tất cả những gì bạn quan sát được và ghi nhớ điều đó "
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2493,7 +2493,7 @@
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "Tôi đã đưa cho bạn một cái bật lửa. "
+        "str": "Tôi đã đưa cho bạn một cái bật lửa. Hãy sử dụng nó cho những hành động còn lại."
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
@@ -2565,7 +2565,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Xem lại các tab khác nhau để làm quen với chúng. "
+        "str": "Xem lại các tab khác nhau để làm quen với chúng. Khi bạn đã sẵn sàng, hãy nhấp vào nút Chấp nhận để xử lý trường hợp này."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2619,7 +2619,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Bây giờ bạn nên viết chúng vào ghi chú của notepad. "
+        "str": "Bây giờ bạn nên ghi chúng vào ghi chú của sổ ghi chú. Ngoài ra, nếu bạn đang sử dụng bàn phím và chuột và nhấp chuột ra bên ngoài ghi chú, trang của búp bê sẽ vẫn mở."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2631,7 +2631,7 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "Chúng tôi đã bắt được Lil. "
+        "str": "Chúng tôi đã chụp được Lil. Bạn có thể tiếp tục chụp ảnh những con búp bê còn lại. Khi bạn đã sẵn sàng, hãy đến đoàn lữ hành để xem ảnh."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2649,13 +2649,13 @@
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "Để bắt đầu, có 20 con búp bê. "
+        "str": "Để bắt đầu, có 20 con búp bê. Kiểm tra chúng trên bảng và khi bạn đã sẵn sàng, hãy vào phòng để gặp chúng."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "Hãy đi ngủ và xem liệu manh mối có được giải quyết trong một giờ tới hay không."
+        "str": "Hãy đi ngủ và xem liệu manh mối có được giải quyết trong một giờ tới."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -2679,7 +2679,7 @@
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "Một loại đá quý quý được biết đến với độ cứng và độ sáng cực cao, thường được sử dụng trong đồ trang sức và có giá trị vì độ tinh khiết và độ hiếm của nó."
+        "str": "Một loại đá quý được biết đến với độ cứng và độ sáng cực cao, thường được sử dụng trong đồ trang sức và có giá trị vì độ tinh khiết và độ hiếm."
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
@@ -2697,7 +2697,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Rõ ràng là anh ấy thích máu. "
+        "str": "Rõ ràng là anh ấy thích máu. Có thể là một trong hai, nhưng hãy đánh dấu vào các ô. Freddy bị mất và hộp của anh ấy đầy máu. Anh ấy để lại phán quyết này cho bạn. Khi bạn chắc chắn, hãy loại bỏ ứng cử viên."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
@@ -2763,7 +2763,7 @@
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "Một khối vàng tinh chế rắn, có độ tinh khiết cao, được sử dụng như một khoản đầu tư hoặc kho lưu trữ giá trị, được đặc trưng bởi trọng lượng và ánh vàng của nó."
+        "str": "Một khối vàng tinh chế rắn, có độ tinh khiết cao, được sử dụng như một khoản đầu tư hoặc lưu trữ giá trị, được đặc trưng bởi trọng lượng và độ bóng vàng."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2793,13 +2793,13 @@
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "Tốt lắm, chúng ta hãy trở về nhà thôi. "
+        "str": "Được rồi, hãy quay trở lại ngôi nhà. Chúng ta sẽ khám phá những điều về Lil. Mở hộp của cô ấy và chúng ta sẽ tiến hành bôi thuốc tiên."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Tôi đã đưa cho bạn một chiếc đèn pin, nó khá quan trọng trong chế độ này do trời tối quá. "
+        "str": "Tôi đã đưa cho bạn một chiếc đèn pin, điều này khá quan trọng trong chế độ này do bóng tối dày đặc. Hãy chú ý đến các con số trên giao diện người dùng của bạn ở phía dưới; "
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2835,7 +2835,7 @@
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "Anh ta đã rơi vào bẫy của chúng tôi và tắt đèn. "
+        "str": "Anh ta đã rơi vào bẫy của chúng ta và tắt đèn. Bây giờ chúng ta có thể loại bỏ tất cả những người thích ánh sáng."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -3081,7 +3081,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Giấy linh hồn là những cuộn giấy thần bí, cực kỳ độc đáo và có hai loại: Giấy linh hồn và Giấy linh hồn đen tối. "
+        "str": "Giấy linh hồn là những cuộn giấy thần bí, cực kỳ độc đáo và có hai loại: Giấy linh hồn và Giấy linh hồn đen tối. Nói cách khác, Cuộn giấy linh hồn và phiên bản đen tối của nó. Những cuộn giấy này tiết lộ sở thích và không thích của búp bê. Chúng ta sẽ bắt đầu với cuộn giấy thông thường. "
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3111,7 +3111,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Hãy nhớ rằng bạn sẽ không thể tương tác với bất kỳ thứ gì ngay bây giờ vì đây là phần hướng dẫn. "
+        "str": "Hãy nhớ rằng bạn sẽ không thể tương tác với bất cứ thứ gì ngay bây giờ vì đây là hướng dẫn. Bây giờ, hãy bật điện. Trang bị cầu chì của bạn và đi ra phía sau nhà để kích hoạt nó."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3135,7 +3135,7 @@
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "Làm tốt lắm, cuối cùng, hãy đốt lò sưởi lên."
+        "str": "Làm tốt lắm, cuối cùng, hãy đốt lò sưởi."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3189,7 +3189,7 @@
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "Lá xanh tươi mát."
+        "str": "Lá xanh sảng khoái."
     },
     {
         "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
@@ -3351,7 +3351,7 @@
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "Một chất lỏng có vị đắng và nhớt."
+        "str": "Một chất lỏng đắng và nhớt."
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3465,7 +3465,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Bạn sẽ có sẵn một trường hợp với các thông số động khác nhau. "
+        "str": "Bạn sẽ có sẵn một chiếc ốp lưng với nhiều thông số động khác nhau. Nó sẽ hiển thị thông tin giống như thông tin hiện tại và nếu không thích, bạn có thể tìm kiếm một chiếc ốp lưng mới để đổi lấy tiền. Hiện tại, ở chế độ hướng dẫn, chúng tôi đã hạn chế sự tương tác của bạn "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3483,7 +3483,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Bây giờ chúng ta sẽ sử dụng vật phẩm Soul Book. "
+        "str": "Bây giờ chúng ta sẽ sử dụng vật phẩm Soul Book. Vật phẩm này sẽ chính thức bắt đầu trò chơi. Cách sử dụng của nó rất đơn giản: khi bạn sử dụng cuốn sách này, bất kể kẻ mạo danh là ai (trong trường hợp này là Lil) sẽ bắt đầu thực hiện các hành động. Tại thời điểm này, bạn sẽ "
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3495,7 +3495,7 @@
         "key": "F83E76BC49FC84244322C382556B6E5F",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
-        "str": "Ồ không..."
+        "str": "Ồ không._DOT_."
     },
     {
         "key": "F880818144C667A994BEEF9200987EF4",
@@ -3525,7 +3525,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Trước khi bạn đi, tôi muốn làm rõ rằng trong chế độ trò chơi này, bạn có thể quay trở lại nơi ẩn náu bằng cách lái đoàn lữ hành. "
+        "str": "Trước khi bạn đi, tôi muốn làm rõ rằng trong chế độ trò chơi này, bạn có thể quay trở lại nơi ẩn náu bằng cách lái đoàn lữ hành. Cuối cùng, những gì chúng tôi đã làm với Lil trong chế độ này sẽ cần phải được thực hiện đối với từng con búp bê để xác định kẻ mạo danh. "
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Chúng ta có Ricky ngồi trên ghế dài và Monty chơi piano, vì vậy chúng ta đã có 2 ứng cử viên khả thi. "
+        "str": "Chúng ta có Ricky trên ghế dài và Monty bên cây đàn piano, vì vậy chúng ta đã có 2 ứng cử viên khả thi. Tuy nhiên, chúng ta sẽ không chấp nhận rủi ro 50%. Hãy quay lại phòng để loại trừ trường hợp không thể xảy ra và chờ đợi "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",

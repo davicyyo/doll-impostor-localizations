@@ -75,7 +75,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "사기꾼이 어떤 사건을 저지른 것 같습니다. "
+        "str": "사기꾼이 어떤 이벤트를 한 것 같습니다. 왼쪽 패널에 표시됩니다. 검토한 후 다시 방에 접속하세요."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
@@ -141,7 +141,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "걸쇠로 문을 잠그는 것을 잊지 마십시오. "
+        "str": "걸쇠로 문을 잠그는 것을 잊지 마세요. 그렇지 않으면 인형이 튀어나와 테스트를 변경하고 심지어 당신을 죽일 수도 있습니다."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -153,13 +153,13 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "이제 해당 사례를 수락했습니다. "
+        "str": "이제 사례를 수락했습니다. 튜토리얼 외에 언제든지 사례를 포기할 수 있지만 일단 수락하면 새 사례를 찾을 수 없습니다.. 이 문제가 해결되면 준비가 되면 해당 위치로 이동합니다."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "이곳은 인형의 방입니다. "
+        "str": "여기가 인형방이에요. 당신이 자는 동안 그들이 무엇을 했는지 볼 수 있을 거예요. 구경하고 다시 방으로 돌아가자."
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -279,7 +279,7 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "부드러운 꽃잎을 지닌 흰 꽃입니다."
+        "str": "부드러운 꽃잎을 지닌 흰 꽃."
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
@@ -315,7 +315,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "좋습니다. 인형의 모든 아이템을 사용하셨습니다. "
+        "str": "좋습니다. 인형에 있는 아이템을 모두 사용하셨습니다. 이번에 Lil이 마음에 들지 않았던 것들은 다음과 같습니다: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -345,7 +345,7 @@
         "key": "16B725324055549E77710CACDD3325FF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now move the picture closest to the living room door.",
-        "str": "이제 거실 문에 가장 가까운 그림을 옮깁니다."
+        "str": "이제 거실 문에 가장 가까운 사진을 옮겨보세요."
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -435,7 +435,7 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "크고 회색빛이 나는 깃털."
+        "str": "크고 회색 빛이 나는 깃털."
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
@@ -483,7 +483,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "이 비약은 인형 간의 관계를 드러냅니다. "
+        "str": "이 비약들은 인형들 사이의 관계를 드러냅니다. 그들은 모두 관계가 있고, 이것이 그들을 발견할 수 있는 유일한 방법입니다. 다른 인형들과 릴의 사랑 관계를 테스트해 봅시다. 간단히 릴에게 비약을 바르고 효과를 관찰하세요. 릴의 효과에 반응하는 모든 사람들은 "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -507,7 +507,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "당신은 인형에 대한 모든 단서와 모든 정보를 가지고 있지만 이는 각 인형에 대해 완전히 무작위입니다."
+        "str": "당신은 인형에 대한 모든 단서와 모든 정보를 가지고 있지만 이것은 각 인형에 대해 완전히 무작위입니다."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -639,7 +639,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "미스 엑셀런스"
+        "str": "Ms. 우수함"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -681,7 +681,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "가방도 주셨어요 "
+        "str": "가방도 드려요. 이 가방은 사기꾼을 잡는 데 도움이 될 거예요. 일단 잡으면 게임이 종료됩니다(제한 시간 내에 그렇게 하면). 튜토리얼의 이 부분은 여러분에게 맡기겠습니다. "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -747,7 +747,7 @@
         "key": "336B557643CBA00B5138539520DCBB04",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's start with the chair outside.",
-        "str": "밖에 있는 의자부터 시작해 보겠습니다."
+        "str": "밖에 있는 의자부터 시작해볼까요."
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "이제 3개만 남았습니다. "
+        "str": "이제 3명 남았습니다. 방으로 가서 누가 이사했고 누가 옮겨졌는지 알아보자."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -837,7 +837,7 @@
         "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An ancient piece of paper.",
-        "str": "고대 종이 조각."
+        "str": "고대 종이."
     },
     {
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
@@ -909,7 +909,7 @@
         "key": "3FAB1E074AD22684E3F78785D85679FA",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the nearest candle.",
-        "str": "이제 가장 가까운 양초입니다."
+        "str": "이제 가장 가까운 양초."
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -939,7 +939,7 @@
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "스포츠 대회나 권위 있는 행사에서 승리의 상징으로 수여되는 컵 모양의 트로피(보통 황금색)입니다."
+        "str": "스포츠 경기나 명망 있는 행사에서 승리의 상징으로 수여되는 컵 모양의 트로피(주로 금색)."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -1029,7 +1029,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "지금 방에서 나와 활성화된 모든 항목을 확인하세요. "
+        "str": "지금 방에서 나가서 활성화된 모든 것을 확인해보세요. 인형의 좋아요에 보이는 모든 것을 적어보세요!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1107,7 +1107,7 @@
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "인형에 대한 모든 세부정보와 전체 정보를 볼 수 있는 노트를 드렸습니다. "
+        "str": "인형에 대한 모든 세부정보와 완전한 정보를 볼 수 있는 노트를 드렸습니다. 살펴보시고 준비가 되면 인형으로 다시 오세요."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1155,13 +1155,13 @@
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "잘하셨습니다. 비약을 완성하셨습니다. "
+        "str": "잘하셨습니다. 비약을 완성하셨습니다. 메모를 확인하지는 않지만 훌륭하다고 확신합니다!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "당신은 인형의 수호자입니다. 인형 중 하나가 살아 있고 당신을 죽이려고 합니다. "
+        "str": "당신은 인형의 수호자입니다. 인형 중 하나가 살아 있고 당신을 죽이려고 합니다. 09:00. 이전에 그것이 누구인지 알아내야 합니다."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1173,7 +1173,7 @@
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "완벽해요. 용의자는 5명 남았습니다. "
+        "str": "완벽해, 용의자는 5명 남았어. 다시 자자."
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
@@ -1209,7 +1209,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "어두운 종이를 주기 전에 모든 것을 활성화하고 켜봅시다. "
+        "str": "어두운 종이를 주기 전에 모든 것을 활성화하고 켜봅시다. 이렇게 하면 인형을 멈추었을 때 인형이 싫어하는 것이 무엇인지 더 쉽게 알 수 있습니다."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1359,7 +1359,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "케이스를 시작하면 구매하거나 제작한 아이템을 직접 장착할 수 있습니다. "
+        "str": "케이스를 시작하면 구매했거나 제작한 아이템을 장착할 수 있습니다. 그러려면 뒤에 있는 상자에 접근하세요. 지금 당장은 비어 있는 것처럼 보이지만 걱정하지 마세요. "
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1407,7 +1407,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "마지막 시간이에요. "
+        "str": "이제 마지막 시간이야. 알아낼 기회는 이번뿐이야. 방으로 가자."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1425,7 +1425,7 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "좋아요, 이제 남은 양초입니다."
+        "str": "좋습니다. 이제 남은 양초."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "저는 커리어 모드의 모든 측면을 탐구하는 고급 가이드를 만들었습니다. "
+        "str": "커리어 모드.의 모든 측면을 탐구하는 고급 가이드를 만들었습니다. 도움이 더 필요하시면 확인해 보시기 바랍니다. "
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "완벽합니다. 이제 인형 중 하나를 조사해 보겠습니다. "
+        "str": "완벽합니다. 이제 인형 중 하나를 조사해 보겠습니다. 제가 카메라를 드렸습니다. "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1539,7 +1539,7 @@
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "작고 육즙이 많은 과일."
+        "str": "작고 즙이 많은 과일."
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
@@ -1593,7 +1593,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "커리어 모드에 오신 것을 환영합니다. "
+        "str": "커리어 모드에 오신 것을 환영합니다. 이 게임 모드에서는 인형에 대한 정보를 찾아내고 각 사건을 올바르게 해결해야 합니다."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1617,7 +1617,7 @@
         "key": "743C50254A73CE29F7B3D7858FFBA46F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and thick liquid.",
-        "str": "어둡고 두꺼운 액체."
+        "str": "진하고 걸쭉한 액체."
     },
     {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
@@ -1635,7 +1635,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "당신은 왼쪽 패널에 나열된 사기꾼의 좋아하는 것과 싫어하는 것을 기반으로 그가 좋아하는 것과 싫어하는 것, 그의 적, 친구, 사랑 또는 미워하는 개인이 누구인지를 결정해야 하는 탐정 역할을 맡게 됩니다. "
+        "str": "당신은 왼쪽 패널에 나열된 사기꾼의 좋아하는 것과 싫어하는 것을 기반으로 그가 좋아하는 것과 싫어하는 것, 그의 적, 친구, 사랑하거나 미워하는 사람이 누구인지를 결정해야 하는 탐정 역할을 맡게 됩니다.."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1701,7 +1701,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "여기에서 사용하는 데 필요한 모든 것을 사용했습니다."
+        "str": "여기서 사용하는 데 필요한 모든 것을 사용했습니다."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1743,7 +1743,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "튜토리얼을 마치면 재정적 어려움에 직면할 수 있습니다. "
+        "str": "튜토리얼을 마치면 경제적 어려움에 직면할 수 있습니다. 이를 해결하기 위해 클래식 모드를 플레이할 수 있으며, 난이도에 따라 케이스에 사용할 수 있는 돈이 더 많거나 적게 지급됩니다."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1785,13 +1785,13 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "사기꾼을 잡기 위한 함정을 설치해 봅시다. "
+        "str": "사기꾼을 함정에 빠뜨리자. 우리는 그가 TV와 음악을 좋아한다는 것을 이미 알고 있습니다. 불을 켜세요."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "효과가 사라졌습니다. "
+        "str": "효과가 사라졌습니다. 적지 못했다면 Lil의 사랑은 다음과 같습니다: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1857,7 +1857,7 @@
         "key": "821C250E485ED0C26041C8830F8E0625",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A durable and flexible material.",
-        "str": "내구성이 뛰어나고 유연한 소재입니다."
+        "str": "내구성이 뛰어나고 유연한 소재."
     },
     {
         "key": "82B77C5A456740B0D72910B21AF4A463",
@@ -1923,7 +1923,7 @@
         "key": "86BE55834614BDEE6BACCD821A069F89",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-        "str": "둥근 진주 한줄로 이루어진 우아한 주얼리로, 부드러운 광택으로 세련미와 고급스러움을 연상시킵니다."
+        "str": "둥근 진주를 한줄로 엮어 만든 우아한 주얼리로 은은한 광택이 나며 세련미와 고급스러움을 연상시키는 ."
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
@@ -1971,7 +1971,7 @@
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "녹색과 따끔거리는 잎."
+        "str": "푸르고 따가운 나뭇잎."
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -2217,7 +2217,7 @@
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "투명하고 우아한 용기입니다."
+        "str": "투명하고 우아한 용기."
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "사진을 현상하려면 사진을 이동해야 합니다. "
+        "str": "사진을 현상하려면 사진을 옮겨야 합니다. 100% 현상이 완료되면 사용 버튼만 누르면 저장됩니다."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2415,13 +2415,13 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "사기꾼을 밝혀내기 위한 마지막 전투를 활성화하세요."
+        "str": "사기꾼.을 밝혀내기 위한 마지막 전투를 활성화하세요"
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "작고 어둡고 오그라든 마음."
+        "str": "작고 어둡고 쪼그라든 마음."
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
@@ -2433,7 +2433,7 @@
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To sleep, simply point at the bed and click on it.",
-        "str": "잠을 자려면 침대를 가리키고 클릭하면 됩니다."
+        "str": "잠을 자려면 침대를 가리키고 클릭하세요.."
     },
     {
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
@@ -2445,7 +2445,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "좋습니다. Lil에게 적용할 나머지 비약을 드리겠습니다. "
+        "str": "좋아요, Lil에게 적용할 나머지 비약을 드리겠습니다. Amicitia는 우정을, Inimicitia는 적대감을, Odium은 증오를 나타냅니다. 각각의 특정 색상은 Lil의 관계를 드러냅니다.. 관찰한 모든 것을 기록하고 기억하세요 "
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2493,7 +2493,7 @@
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "나는 당신에게 라이터를 주었습니다. "
+        "str": "라이터를 드렸습니다. 남은 활동에 사용하세요."
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
@@ -2565,7 +2565,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "다양한 탭을 검토하여 익숙해지세요. "
+        "str": "다양한 탭을 검토하여 익숙해지세요. 준비가 되면 수락 버튼을 클릭하여 이 케이스를 맡으세요."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2619,7 +2619,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "이제 메모장의 메모에 적어야 합니다. "
+        "str": "이제 메모장의 노트에 적어두시면 됩니다. 게다가 키보드와 마우스를 사용하여 노트 바깥쪽을 클릭하면 인형 페이지가 계속 열려있습니다."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2631,7 +2631,7 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "우리가 릴을 잡았어요. "
+        "str": "릴을 캡쳐했습니다. 나머지 인형도 계속 촬영해도 됩니다. 준비가 되면 캐러밴으로 가서 사진을 감상하세요."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2649,13 +2649,13 @@
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "시작하려면 인형이 20개 있습니다. "
+        "str": "시작하려면 20개의 인형이 있습니다. 보드에서 확인하고 준비가 되면 방으로 가서 만나보세요."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "자고 다음 시간 안에 단서가 해결되는지 봅시다."
+        "str": "자고 다음 한 시간 안에 문제가 해결되는지 봅시다."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -2679,7 +2679,7 @@
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "극도의 경도와 광채로 유명한 귀중한 보석으로, 일반적으로 보석에 사용되며 순도와 희귀성으로 인해 가치가 높습니다."
+        "str": "극도의 경도와 광채로 유명한 귀중한 원석으로, 일반적으로 주얼리에 사용되며 순도와 희귀성으로 인해 가치가 높습니다."
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
@@ -2697,7 +2697,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "그가 피를 좋아하는 것은 분명하다. "
+        "str": "그가 피를 좋아하는 것은 분명합니다. 둘 중 하나일 수 있지만 확인란을 선택하세요. 프레디가 없어졌고 그의 상자는 피로 가득 차 있습니다. 그는 당신을 위해 이 평결을 남겼습니다. 확신이 들면 후보자를 폐기하십시오."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
@@ -2763,7 +2763,7 @@
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "순도가 높은 정제된 금 덩어리로, 무게와 황금빛 광택이 특징으로 투자 또는 가치 저장 수단으로 사용됩니다."
+        "str": "순도가 높은 정제된 금 덩어리로 무게와 황금빛 광택이 특징이며 투자 또는 가치 저장 수단으로 사용됩니다."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2793,13 +2793,13 @@
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "알았어, 집으로 돌아가자. "
+        "str": "좋아요, 집으로 돌아가자. 우리는 Lil.에 대해 알아볼 것입니다 그녀의 상자를 열고 엘릭서를 적용하겠습니다."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "저는 여러분에게 손전등을 주었습니다. 이것은 짙은 어둠 때문에 이 모드에서는 매우 중요합니다. "
+        "str": "짙은 어둠 때문에 이 모드에서는 매우 중요한 손전등을 주었습니다.. 하단에 있는 UI의 숫자에 주의하세요. "
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2835,7 +2835,7 @@
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "그는 우리의 함정에 빠져 불을 껐습니다. "
+        "str": "그 사람이 우리의 함정에 빠져 불을 꺼버렸어요. 이제 빛을 좋아하는 사람들을 다 버릴 수 있어요."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -2973,7 +2973,7 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "집에 들어가 인형의 방을 찾으세요."
+        "str": "집에 들어가서 인형의 방을 찾으세요."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -3081,7 +3081,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "소울 페이퍼는 신비롭고 매우 독특한 두루마리이며, 소울 페이퍼와 소울 다크 페이퍼의 두 가지 유형이 있습니다. "
+        "str": "소울 페이퍼는 신비한 두루마리이며 매우 독특하며 두 가지 유형이 있습니다: 소울 페이퍼와 소울 다크 페이퍼. 즉, 소울 두루마리와 그 어두운 버전. 이 두루마리는 인형의 호불호를 드러냅니다. 일반 두루마리부터 시작하겠습니다. "
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3111,7 +3111,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "이것은 튜토리얼이므로 지금은 어떤 것과도 상호작용할 수 없다는 점을 기억하세요. "
+        "str": "튜토리얼이므로 지금은 어떤 것과도 상호작용할 수 없다는 점을 기억하세요. 이제 전기를 켜보겠습니다. 퓨즈를 장착하고 집 뒤쪽으로 가서 활성화하세요."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3135,7 +3135,7 @@
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "수고했어요. 마지막으로 벽난로를 켜세요."
+        "str": "수고했어요. 마지막으로 벽난로를 켜주세요."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3189,7 +3189,7 @@
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "상쾌한 녹색 잎."
+        "str": "상큼한 녹색 잎."
     },
     {
         "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
@@ -3249,7 +3249,7 @@
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "제가 몇 가지 아이템을 드렸으니, 제작 섹션으로 가서 비약을 만드세요. 원하는 비약을 눌러 직접 또는 수동으로 만들 수 있습니다."
+        "str": "제가 몇 가지 아이템을 드렸으니, 제작 섹션으로 이동하여 비약을 제작하세요. 원하는 비약을 눌러 직접 또는 수동으로 제작하실 수 있습니다."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3351,7 +3351,7 @@
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "쓴맛이 있고 점성이 있는 액체."
+        "str": "씁쓸하고 점성이 있는 액체."
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3369,7 +3369,7 @@
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "황금빛의 달콤한 액체."
+        "str": "황금빛 달콤한 액체."
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3465,7 +3465,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "다양한 동적 매개변수를 사용할 수 있는 케이스가 제공됩니다. "
+        "str": "다양한 동적 매개변수를 사용하여 케이스를 사용할 수 있습니다.. 현재와 같은 정보가 표시되며, 마음에 들지 않으면 돈을 대가로 새 케이스를 검색할 수 있습니다.. 현재 튜토리얼 모드에서는 상호 작용이 제한되어 있습니다. "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3483,7 +3483,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "이제 Soul Book 아이템을 사용해 보겠습니다. "
+        "str": "이제 Soul Book 아이템을 사용하겠습니다. 이 아이템은 공식적으로 게임을 시작합니다. 사용법은 간단합니다. 이 책을 사용하면 사기꾼(이 경우 Lil)이 누구이든 간에 조치를 취하기 시작합니다. 이 시점에서 "
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3495,7 +3495,7 @@
         "key": "F83E76BC49FC84244322C382556B6E5F",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
-        "str": "안 돼..."
+        "str": "아 안돼..."
     },
     {
         "key": "F880818144C667A994BEEF9200987EF4",
@@ -3525,7 +3525,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "가기 전에, 이 게임 모드에서는 캐러밴을 운전하여 피난처로 돌아갈 수 있다는 점을 분명히 하고 싶습니다. "
+        "str": "가기 전에, 이 게임 모드에서는 캐러밴을 운전하여 피난처로 돌아갈 수 있다는 점을 명확히 하고 싶습니다. 마지막으로, 이 모드에서 Lil과 함께 수행한 작업은 사기꾼을 식별하기 위해 각 인형에 대해 수행되어야 합니다. "
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "소파에는 Ricky가 있고 피아노에는 Monty가 있으므로 이미 2명의 가능한 후보가 있습니다. "
+        "str": "소파에는 Ricky가 있고 피아노에는 Monty가 있으므로 이미 2명의 가능한 후보가 있습니다. 그러나 우리는 50% 위험을 감수하지 않을 것입니다. 방으로 돌아가서 불가능한 것을 배제하고 기다리겠습니다. "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
@@ -3573,7 +3573,7 @@
         "key": "FD27A6D94DD43A861953BA81606B6B11",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant cinnamon stick.",
-        "str": "향기로운 계피 스틱."
+        "str": "향긋한 시나몬 스틱."
     },
     {
         "key": "FD50C07D436B39761D90A28961DE809F",

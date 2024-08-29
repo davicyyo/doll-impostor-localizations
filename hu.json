@@ -75,7 +75,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Úgy tűnik, a csaló végrehajtott néhány eseményt. "
+        "str": "Úgy tűnik, a csaló végrehajtott néhány eseményt. Ezek megjelennek a bal oldali panelen. Tekintse át őket, majd lépjen be újra a szobába."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
@@ -141,7 +141,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Ne felejtse el zárva tartani az ajtót a reteszt. "
+        "str": "Ne felejtse el zárva tartani az ajtót a retesszel. Ha nem teszi, a babák előkerülhetnek, megváltoztathatják a teszteket, és akár meg is ölhetnek."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -153,13 +153,13 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Ön most elfogadta az ügyet. "
+        "str": "Elfogadta az esetet. Az oktatóanyagon kívül bármikor felhagyhat az esettel, de miután elfogadta, nem fog tudni új eseteket találni. Ha ez megoldódott, utazzon a helyszínre, amikor készen áll."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "Ez a babaszoba. "
+        "str": "Ez a babák szobája. Itt láthatod, mit csináltak, amíg aludtál. Vess egy pillantást rájuk, majd menjünk vissza a szobába."
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -183,7 +183,7 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "Illatos vaníliarúd."
+        "str": "Egy illatos vaníliarúd."
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -315,7 +315,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "Nagyon jó, a babán lévő összes elemet felhasználtad. "
+        "str": "Nagyon jól, a babán lévő összes elemet felhasználtad. Ezúttal a következők nem tetszettek Lilnek: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -363,7 +363,7 @@
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "Göcsörtös és baljós gyökér."
+        "str": "Egy göcsörtös és baljós gyökér."
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
@@ -483,7 +483,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Ezek az elixírek feltárják a babák közötti kapcsolatokat. "
+        "str": "Ezek az elixírek felfedik a babák közötti kapcsolatokat. Mindegyiküknek van kapcsolata, és csak így fedezhetjük fel őket. Kezdjük azzal, hogy teszteljük Lil szerelmi kapcsolatát a többi babával. Egyszerűen vigye fel az elixírt Lilre, és figyelje meg a hatásokat. Mindazok, akik reagálnak Lil hatásaira, "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -507,7 +507,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "Minden nyom és információ birtokában van a babákkal kapcsolatban, de ez teljesen véletlenszerű minden babánál."
+        "str": "Minden nyom és minden információ megvan a babákkal kapcsolatban, de ez teljesen véletlenszerű minden babánál."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -681,7 +681,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Adtam egy táskát is. "
+        "str": "Adtam neked egy táskát is. Ez a táska segít elkapni a csalót. Ha elkapod, a játék véget ér (ha ezt a határidőn belül megteszed). Hagyom, hogy fejezd be a bemutató ezen részét. Akár "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -747,7 +747,7 @@
         "key": "336B557643CBA00B5138539520DCBB04",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's start with the chair outside.",
-        "str": "Kezdjük a kinti székkel."
+        "str": "Kezdjük a külső székkel."
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "Már csak 3 van hátra. "
+        "str": "Már csak 3 maradt. Menjünk a terembe, hogy megnézzük, ki költözött és ki költözött."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -939,7 +939,7 @@
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "Kupa alakú, általában arany színű trófea, amelyet a sportversenyeken vagy rangos ceremóniákon a győzelem szimbólumaként osztanak ki."
+        "str": "Kupa alakú, általában arany trófea, amelyet a sportversenyeken vagy rangos ceremóniákon a győzelem szimbólumaként osztanak ki."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -1029,7 +1029,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Hagyja el a szobát most, és ellenőrizze, hogy minden aktiválva van. "
+        "str": "Hagyd el a szobát most, és nézz meg mindent, ami aktiválva van. Írj le mindent, amit a baba lájkjai között látsz!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1107,7 +1107,7 @@
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "Adtam neked egy jegyzetfüzetet, amelyben láthatod a babákkal kapcsolatos összes részletet és a teljes információt. "
+        "str": "Adtam neked egy jegyzetfüzetet, ahol láthatod a babákkal kapcsolatos összes részletet és a teljes információt. Vessen egy pillantást, és ha készen áll, térjen vissza a babákhoz."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1155,13 +1155,13 @@
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "Jól tetted, elkészítetted az elixíreket. "
+        "str": "Szép munka, elkészítetted az elixíreket. Nem nézem a jegyzeteidet, de biztos vagyok benne, hogy nagyszerűek!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Te vagy a babák gyámja, egyikük él, és meg akar ölni. "
+        "str": "Te vagy a babák gyámja, egyikük él és meg akar ölni. 09:00 előtt ki kell derítened, melyik az.."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1173,7 +1173,7 @@
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "Tökéletes, 5 gyanúsítottunk maradt. "
+        "str": "Tökéletes, maradt 5 gyanúsítottunk. Menjünk újra aludni."
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
@@ -1209,7 +1209,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "Mielőtt odaadnánk a sötét papírt, aktiváljunk és kapcsoljunk be mindent. "
+        "str": "Mielőtt odaadnánk a sötét papírt, aktiváljunk és kapcsoljunk be mindent. Így könnyebben láthatjuk, mit nem szeret a baba, ha leállítjuk."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1359,7 +1359,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "Amikor elindít egy ügyet, fel tudja magát szerelni a vásárolt vagy elkészített tárgyakkal. "
+        "str": "Amikor elindít egy ügyet, fel tudja szerelni magát a vásárolt vagy elkészített tárgyakkal. Ehhez nyissa meg a mögötte lévő ládát. Most, üresen fogja látni, de ne aggódjon. "
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1407,7 +1407,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Ez az utolsó óra. "
+        "str": "Ez az utolsó óra. Csak erre van esélyünk, hogy megtudjuk. Menjünk a szobába."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1425,7 +1425,7 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "Nos, most a maradék gyertya."
+        "str": "Nagyon jó, most a maradék gyertya."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Készítettem egy fejlettebb útmutatót, amely a Karrier mód minden aspektusát feltárja. "
+        "str": "Létrehoztam egy fejlettebb útmutatót, amely a Karrier mód minden aspektusát feltárja. Ha további segítségre van szüksége, azt javaslom, tekintse meg; "
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Tökéletes, most vizsgáljuk meg az egyik babát. "
+        "str": "Tökéletes, most vizsgáljuk meg az egyik babát., amit adtam neked egy kamerát; "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1593,7 +1593,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Üdvözöljük a Karrier módban. "
+        "str": "Üdvözöljük a Karrier módban. Ebben a játékmódban információkat kell feltárnia a babákkal kapcsolatban, és minden esetet helyesen kell megoldania."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1635,7 +1635,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Nyomozói szerepköre lesz, amelyben a bal oldali panelen felsorolt, a csaló tetszései és nemtetszései alapján meg kell határoznia, hogy mit szeret és mit nem, kik az ellenségei, barátai, szerelmei vagy utált személyei. "
+        "str": "Nyomozói szerepkörben lesz része, amelyben a bal oldali panelen felsorolt ​​csaló tetszései és nemtetszései alapján meg kell határoznia, hogy mit szeret és mit nem, kik az ellenségei, barátai, szerelmei vagy utált személyei."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1701,7 +1701,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Mindent felhasznált, amire szüksége volt az itteni használathoz."
+        "str": "Mindent felhasznált, amire szüksége volt az itt való használathoz."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1743,7 +1743,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "Miután befejezte az oktatóprogramot, pénzügyi nehézségekkel szembesülhet. "
+        "str": "Miután befejezte az oktatóprogramot, pénzügyi nehézségekkel szembesülhet.. Ennek megoldására a klasszikus móddal játszhat, és a nehézségi szinttől függően több vagy kevesebb pénzt biztosít, hogy felhasználja a következő esetekben."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1785,13 +1785,13 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Állítsunk csapdát a szélhámosnak. "
+        "str": "Állítsunk csapdát a csalónak. Már tudjuk, hogy szereti a tévét és a zenét. Kapcsold fel a villanyt."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "A hatások elkoptak. "
+        "str": "Az effektusok elkoptak. Ha nem sikerült leírnod, Lil szerelmei a következők: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1923,7 +1923,7 @@
         "key": "86BE55834614BDEE6BACCD821A069F89",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-        "str": "Kerek gyöngysorból álló elegáns ékszer, amely lágy csillogásukról ismert, és a kifinomultsághoz és a luxushoz kapcsolódik."
+        "str": "Kerek gyöngysorból álló elegáns ékszer, amely lágy csillogásukról ismert, és kifinomultsághoz és luxushoz kapcsolódik."
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
@@ -2217,7 +2217,7 @@
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "Átlátszó és elegáns tartály."
+        "str": "Egy átlátszó és elegáns konténer."
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
@@ -2253,7 +2253,7 @@
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "Tegyük keresztbe Lilt, mert ez az a baba, akit nyomozni fogunk."
+        "str": "Tegyük keresztbe Lil-t, mivel ez az a baba, akit vizsgálni fogunk."
     },
     {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "A fénykép előhívásához mozgatnia kell. "
+        "str": "A fotó előhívásához el kell mozgatnia. Ha már 100% előhívott, egyszerűen nyomja meg a használati gombot, és a rendszer elmenti."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2415,13 +2415,13 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "Aktiváld az utolsó csatát, hogy felfedd a csalót."
+        "str": "Aktiválja a végső csatát, hogy felfedje a csalót."
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "Kicsi, sötét és töpörödött szív."
+        "str": "Egy kicsi, sötét és töpörödött szív."
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
@@ -2439,13 +2439,13 @@
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "Elveszítetted a teljes jutalom 90%-át a hiányzó fotók miatt."
+        "str": "Elveszítetted a teljes jutalom 90% részét a hiányzó fotók miatt."
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Rendben, odaadom a maradék elixírt, hogy Lilre kenje. "
+        "str": "Rendben, átadom a többi elixírt Lil-re.. Az Amicitia a barátságot, az Inimicitia az ellenségességet, az Odium pedig a gyűlöletet. Ezek mindegyike, sajátos színével felfedi Lil kapcsolatait. Írjon le mindent, amit megfigyel, és ne feledje, hogy "
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2493,7 +2493,7 @@
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "Adtam öngyújtót. "
+        "str": "Adtam egy öngyújtót. Használd a többi művelethez."
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
@@ -2565,7 +2565,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Tekintse át a különböző lapokat, hogy megismerje őket. "
+        "str": "Tekintse át a különböző lapokat, hogy megismerje őket. Ha készen áll, kattintson az Elfogadás gombra az eset kezeléséhez."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2619,7 +2619,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Most le kell írnia őket a jegyzettömb jegyzeteibe. "
+        "str": "Most le kell írnia őket a jegyzettömb jegyzeteibe. Ezenkívül, ha billentyűzetet és egeret használ, és a jegyzeteken kívülre kattint, a baba oldala nyitva marad."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2631,7 +2631,7 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "Elfogtuk Lilt. "
+        "str": "Megörökítettük Lilt. Folytathatod a többi baba fényképezését. Ha készen állsz, menj a lakókocsihoz, és nézd meg a képeket."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2649,7 +2649,7 @@
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "Kezdésként 20 baba van. "
+        "str": "Kezdésként 20 baba van. Ellenőrizze őket a táblán, és ha készen áll, menjen a szobába, hogy találkozzon velük."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
@@ -2697,7 +2697,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Egyértelmű, hogy szereti a vért. "
+        "str": "Egyértelmű, hogy szereti a vért. Lehet a kettő közül, de jelölje be a négyzeteket. Freddy hiányzik, és a doboza tele van vérrel. Ezt az ítéletet neked hagyta. Ha biztos vagy benne, dobd el a jelöltet."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
@@ -2745,7 +2745,7 @@
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "Fehér és finom toll."
+        "str": "Egy fehér és finom toll."
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
@@ -2763,7 +2763,7 @@
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "Tömör finomított aranytömb, rendkívül tiszta, befektetésként vagy értéktárolóként használt, súlya és arany fénye jellemzi."
+        "str": "Szilárd finomított aranytömb, nagyon tiszta, befektetésként vagy értéktárolóként használják, súlya és arany fénye jellemzi."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2793,13 +2793,13 @@
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "Na jó, menjünk vissza a házba. "
+        "str": "Nos, menjünk vissza a házba. Meg fogunk fedezni dolgokat Lilről. Nyisd ki a dobozát, és folytatjuk az elixírek alkalmazását."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Adtam neked egy zseblámpát, ami ebben a módban nagyon fontos a nagy sötétség miatt. "
+        "str": "Adtam neked egy zseblámpát, ami ebben a módban nagyon fontos a nagy sötétség miatt. Ügyelj a felhasználói felület alján lévő számokra; "
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2835,7 +2835,7 @@
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "A csapdánkba esett, és lekapcsolta a villanyt. "
+        "str": "A mi csapdánkba esett, és lekapcsolta a villanyt. Most már eldobhatjuk mindazokat, akik szeretik a fényt."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -2973,7 +2973,7 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "Lépjen be a házba, és keresse meg a babaszobát."
+        "str": "Lépj be a házba és keresd meg a babaszobát."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -3081,7 +3081,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "A lélekpapírok misztikus tekercsek, rendkívül egyediek, és két típusuk van: Soul Papers és Soul Dark Papers. "
+        "str": "A lélekpapírok misztikus tekercsek, rendkívül egyediek, és két típusuk van: Soul Papers és Soul Dark Papers. Más szóval a Soul Scroll és annak sötét változata. Ezek a tekercsek felfedik a babák tetszéseit és nemtetszéseit. Kezdjük a normál tekercssel____DOT "
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3111,7 +3111,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Ne feledje, hogy jelenleg nem fog tudni kommunikálni semmivel, mivel ez az oktatóanyag. "
+        "str": "Ne feledje, hogy most nem fog tudni kommunikálni semmivel, mivel ez a bemutató"
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3135,7 +3135,7 @@
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "Jó munka, végül gyújtsd meg a kandallót."
+        "str": "Jó munkát, végül gyújtsd meg a kandallót."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3249,7 +3249,7 @@
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "Adtam neked néhány tárgyat, menj a kézműves részlegbe elixír készítéséhez, ezt megteheted kézzel vagy közvetlenül a kívánt elixír megnyomásával."
+        "str": "Adtam neked néhány terméket, menj a kézműves részbe elixír készítéséhez, ezt megteheted kézzel vagy közvetlenül a kívánt elixír megnyomásával."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3369,7 +3369,7 @@
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "Arany színű és édes folyadék."
+        "str": "Arany és édes folyadék."
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3465,7 +3465,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Különféle dinamikus paraméterekkel rendelkező tok áll rendelkezésére. "
+        "str": "Különféle dinamikus paraméterekkel lesz elérhető egy tok. Az aktuálishoz hasonló információkat jelenít meg, és ha nem tetszik, kereshet új tokot pénzért cserébe. Jelenleg oktató módban korlátoztuk az interakcióit "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3483,7 +3483,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Most a Lélekkönyv elemet fogjuk használni. "
+        "str": "Most a Soul Book elemet fogjuk használni. Ez az elem fogja hivatalosan elindítani a játékot. Használata egyszerű: amikor ezt a könyvet használod, bárki is a csaló (jelen esetben Lil) elkezd cselekedni. Ezen a ponton "
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3495,7 +3495,7 @@
         "key": "F83E76BC49FC84244322C382556B6E5F",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
-        "str": "Ó nem..."
+        "str": "Ó, nem..."
     },
     {
         "key": "F880818144C667A994BEEF9200987EF4",
@@ -3525,7 +3525,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Mielőtt elmész, szeretném tisztázni, hogy ebben a játékmódban a lakókocsi vezetésével visszatérhetsz a menhelyre. "
+        "str": "Mielőtt elmész, szeretném tisztázni, hogy ebben a játékmódban a lakókocsi vezetésével visszatérhetsz a menedékhelyre. Végül, amit Lillel ebben a módban tettünk, azt minden babának meg kell tennie, hogy azonosítsa a csalót. "
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Nálunk Ricky a kanapén, Monty pedig a zongoránál van, így már megvan a 2 lehetséges jelölt. "
+        "str": "Ricky a kanapén, Monty a zongoránál, tehát már megvan a 2 lehetséges jelölt. Azonban nem vállaljuk az 50% kockázatot. Menjünk vissza a szobába, hogy kizárjuk azt, aki nem lehet, és várjunk "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
@@ -3573,7 +3573,7 @@
         "key": "FD27A6D94DD43A861953BA81606B6B11",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant cinnamon stick.",
-        "str": "Illatos fahéjrúd."
+        "str": "Egy illatos fahéjrúd."
     },
     {
         "key": "FD50C07D436B39761D90A28961DE809F",

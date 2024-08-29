@@ -75,7 +75,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Es sieht so aus, als hätte der Betrüger einige Ereignisse begangen. "
+        "str": "Es sieht so aus, als hätte der Betrüger einige Ereignisse begangen.. Diese werden in Ihrem linken Bereich angezeigt.. Überprüfen Sie sie und betreten Sie den Raum dann erneut.."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
@@ -141,7 +141,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Denken Sie daran, die Tür mit dem Riegel verschlossen zu halten. "
+        "str": "Denken Sie daran, die Tür mit dem Riegel verschlossen zu halten. Wenn Sie das nicht tun, können die Puppen herauskommen, Ihre Tests verändern und Sie sogar töten."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -153,13 +153,13 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Sie haben den Fall nun angenommen. "
+        "str": "Sie haben den Fall jetzt angenommen. Außerhalb des Tutorials können Sie den Fall jederzeit abbrechen, aber Sie werden keine neuen Fälle finden, sobald Sie ihn akzeptiert haben. Wenn dies geklärt ist, reisen Sie zum Standort, wenn Sie bereit sind."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "Das ist das Puppenzimmer. "
+        "str": "Das ist das Puppenzimmer. Hier wirst du sehen, was sie getan haben, während du geschlafen hast. Schau sie dir an und dann lass uns zurück ins Zimmer gehen."
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -243,7 +243,7 @@
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "Gehen wir zurück zum Gremium und fangen wir an, Verdächtige auszusortieren, die nicht zu unseren Beweisen passen."
+        "str": "Kehren wir zum Gremium zurück und beginnen mit der Aussonderung von Verdächtigen, die nicht mit unseren Beweisen übereinstimmen."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
@@ -315,7 +315,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "Sehr gut, Sie haben alle Gegenstände an der Puppe verwendet. "
+        "str": "Sehr gut, du hast alle Gegenstände auf der Puppe verwendet. Diesmal waren die Dinge, die Lil nicht gefielen: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -345,7 +345,7 @@
         "key": "16B725324055549E77710CACDD3325FF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now move the picture closest to the living room door.",
-        "str": "Bewegen Sie nun das Bild näher an die Wohnzimmertür."
+        "str": "Bewegen Sie nun das Bild so nah wie möglich an die Wohnzimmertür."
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -483,7 +483,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Diese Elixiere offenbaren Beziehungen zwischen den Puppen. "
+        "str": "Diese Elixiere offenbaren Beziehungen zwischen den Puppen. Sie alle haben Beziehungen, und nur so kann man sie entdecken. Beginnen wir damit, Lils Liebesbeziehung zu den anderen Puppen zu testen. Tragen Sie einfach das Elixier auf Lil auf und beobachten Sie die Wirkung. Alle, die auf Lils Wirkungen reagieren, sind es "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -507,7 +507,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "Sie haben alle Hinweise und alle Informationen zu den Puppen, aber diese sind für jede Puppe völlig zufällig."
+        "str": "Sie haben alle Hinweise und alle Informationen zu den Puppen, aber das ist für jede Puppe völlig zufällig."
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -639,7 +639,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "Frau Exzellenz"
+        "str": "Frau. Exzellenz"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -681,7 +681,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Ich habe dir auch eine Tasche geschenkt. "
+        "str": "Ich habe dir auch eine Tasche gegeben. Diese Tasche wird dir helfen, den Betrüger zu fangen. Sobald du sie gefangen hast, endet das Spiel (sofern du dies innerhalb des Zeitlimits tust). Ich überlasse es dir, diesen Teil des Tutorials fertigzustellen. Ob du "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "Wir haben nur noch 3 übrig. "
+        "str": "Wir haben nur noch 3 übrig. Gehen wir in den Raum, um zu sehen, wer umgezogen ist und wer umgezogen wurde."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -909,7 +909,7 @@
         "key": "3FAB1E074AD22684E3F78785D85679FA",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the nearest candle.",
-        "str": "Jetzt die nächste Kerze."
+        "str": "Jetzt ist die nächste Kerze."
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -1029,7 +1029,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Verlassen Sie jetzt den Raum und überprüfen Sie alles, was aktiviert ist. "
+        "str": "Verlassen Sie jetzt den Raum und überprüfen Sie alles, was aktiviert ist. Schreiben Sie alles auf, was Sie in den Likes der Puppe sehen!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1107,7 +1107,7 @@
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "Ich habe Ihnen ein Notizbuch gegeben, in dem Sie alle Details zu den Puppen und vollständige Informationen sehen können. "
+        "str": "Ich habe Ihnen ein Notizbuch gegeben, in dem Sie alle Details zu den Puppen und vollständige Informationen sehen können. Werfen Sie einen Blick darauf, und wenn Sie bereit sind, kehren Sie zu den Puppen zurück."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1155,13 +1155,13 @@
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "Gut gemacht, Sie haben die Elixiere fertiggestellt. "
+        "str": "Gut gemacht, du hast die Elixiere fertiggestellt. Ich überprüfe deine Notizen nicht, aber ich bin sicher, sie sind großartig!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Du bist der Hüter der Puppen, eine von ihnen lebt und will dich töten. "
+        "str": "Du bist der Hüter der Puppen, eine von ihnen lebt und will dich töten. Du musst vor 09:00 Uhr. herausfinden, um welche es sich handelt."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1173,7 +1173,7 @@
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "Perfekt, wir haben noch 5 Verdächtige übrig. "
+        "str": "Perfekt, wir haben noch 5 Verdächtige übrig. Lass uns wieder schlafen gehen."
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
@@ -1209,7 +1209,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "Bevor wir Ihnen das dunkle Papier geben, aktivieren und schalten wir alles ein. "
+        "str": "Bevor wir Ihnen das dunkle Papier geben, aktivieren und schalten wir alles ein. Auf diese Weise können wir leichter erkennen, was die Puppe nicht mag, wenn wir sie stoppen."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1359,7 +1359,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "Wenn Sie einen Fall starten, können Sie sich mit den Gegenständen ausrüsten, die Sie gekauft oder hergestellt haben. "
+        "str": "Wenn du einen Fall beginnst, kannst du dich mit den Gegenständen ausrüsten, die du gekauft oder hergestellt hast. Um dies zu tun, greife auf die Truhe hinter dir zu. Im Moment siehst du sie leer, aber keine Sorge, ich "
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1383,7 +1383,7 @@
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "Dunkle und scharfe Knolle."
+        "str": "Dunkle und scharfe Glühbirne."
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
@@ -1407,7 +1407,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Es ist die letzte Stunde. "
+        "str": "Es ist die letzte Stunde. Wir haben nur diese Chance, es herauszufinden. Lass uns in den Raum gehen."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Ich habe einen Leitfaden für Fortgeschrittene erstellt, der alle Aspekte des Karrieremodus behandelt. "
+        "str": "Ich habe einen Leitfaden für Fortgeschrittene erstellt, der alle Aspekte des Karrieremodus behandelt.. Wenn Sie weitere Hilfe benötigen, empfehle ich Ihnen, ihn sich anzusehen. "
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Perfekt, jetzt untersuchen wir eine der Puppen. "
+        "str": "Perfekt, jetzt untersuchen wir eine der Puppen. Ich habe dir eine Kamera gegeben; "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1593,7 +1593,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Willkommen im Karrieremodus. "
+        "str": "Willkommen im Karrieremodus. In diesem Spielmodus müssen Sie Informationen über die Puppen aufdecken und jeden Fall richtig lösen."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1635,7 +1635,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Sie schlüpfen in die Rolle eines Detektivs und müssen anhand der Vorlieben und Abneigungen des Betrügers, die auf der linken Seite aufgeführt sind, bestimmen, was er mag und was nicht, wer seine Feinde, Freunde, Geliebten oder verhassten Personen sind "
+        "str": "Sie schlüpfen in die Rolle eines Detektivs und müssen anhand der auf der linken Seite aufgeführten Vorlieben und Abneigungen des Betrügers ermitteln, was er mag und was nicht, wer seine Feinde, Freunde, Geliebten oder verhassten Personen sind."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1701,7 +1701,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Sie haben alles verwendet, was Sie hier benötigen."
+        "str": "Sie haben alles verwendet, was Sie hier verwenden mussten."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1743,7 +1743,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "Sobald Sie das Tutorial abgeschlossen haben, könnten Sie in finanzielle Schwierigkeiten geraten. "
+        "str": "Sobald Sie das Tutorial abgeschlossen haben, könnten Sie auf finanzielle Schwierigkeiten stoßen. Um dieses Problem zu lösen, können Sie den klassischen Modus spielen, der Ihnen je nach Schwierigkeitsgrad mehr oder weniger Geld für die Fälle einbringt."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1785,13 +1785,13 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Stellen wir dem Betrüger eine Falle. "
+        "str": "Stellen wir dem Betrüger eine Falle. Wir wissen bereits, dass er Fernsehen und Musik mag. Mach das Licht an."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "Die Wirkung ist abgeklungen. "
+        "str": "Die Wirkung hat nachgelassen. Falls Sie es nicht geschafft haben, es aufzuschreiben, Lils Lieben sind: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "Um das Foto zu entwickeln, müssen Sie es verschieben. "
+        "str": "Um das Foto zu entwickeln, müssen Sie es verschieben. Sobald es 100% entwickelt hat, drücken Sie einfach die Schaltfläche „Verwenden“ und es wird gespeichert."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2445,7 +2445,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Okay, ich gebe dir die restlichen Elixiere, die du bei Lil anwenden kannst. "
+        "str": "Okay, ich gebe dir die restlichen Elixiere, die du auf Lil anwenden kannst. Amicitia steht für Freundschaft, Inimicitia steht für Feindschaft und Odium steht für Hass. Jedes dieser Elixiere wird mit seiner spezifischen Farbe Lils Beziehungen offenbaren. Schreiben Sie alles auf, was Sie beobachten, und merken Sie sich das "
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2493,7 +2493,7 @@
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "Ich habe dir ein Feuerzeug gegeben. "
+        "str": "Ich habe dir ein Feuerzeug gegeben. Benutze es für die verbleibenden Aktionen."
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
@@ -2565,7 +2565,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Sehen Sie sich die verschiedenen Registerkarten an, um sich mit ihnen vertraut zu machen. "
+        "str": "Sehen Sie sich die verschiedenen Registerkarten an, um sich mit ihnen vertraut zu machen. Wenn Sie bereit sind, klicken Sie auf die Schaltfläche „Akzeptieren“, um diesen Fall zu übernehmen."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2619,7 +2619,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Nun sollten Sie diese in den Notizen des Notizblocks notieren. "
+        "str": "Jetzt sollten Sie sie in die Notizen des Notizblocks eintragen. Wenn Sie außerdem eine Tastatur und eine Maus verwenden und außerhalb der Notizen klicken, bleibt die Seite der Puppe geöffnet."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2631,7 +2631,7 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "Wir haben Lil gefangen. "
+        "str": "Wir haben Lil gefangen. Sie können mit dem Fotografieren der restlichen Puppen fortfahren. Wenn Sie bereit sind, gehen Sie zum Wohnwagen, um die Fotos anzusehen."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2649,7 +2649,7 @@
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "Zu Beginn gibt es 20 Puppen. "
+        "str": "Zu Beginn gibt es 20 Puppen. Überprüfen Sie sie an der Tafel und wenn Sie bereit sind, gehen Sie in den Raum, um sie zu treffen."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
@@ -2697,7 +2697,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Es ist klar, dass er Blut mag. "
+        "str": "Es ist klar, dass er Blut mag. Es könnte eines von beiden sein, aber kreuzen Sie die Kästchen an. Freddy fehlt und sein Kästchen ist voller Blut. Er hat dieses Urteil für Sie hinterlassen. Wenn Sie sicher sind, verwerfen Sie den Kandidaten."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
@@ -2793,13 +2793,13 @@
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "Also gut, gehen wir zurück zum Haus. "
+        "str": "Also gut, gehen wir zurück zum Haus. Wir werden Dinge über Lil herausfinden. Öffne ihre Schachtel und wir werden damit fortfahren, Elixiere aufzutragen."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Ich habe dir eine Taschenlampe geschenkt, was in diesem Modus aufgrund der starken Dunkelheit sehr wichtig ist. "
+        "str": "Ich habe dir eine Taschenlampe gegeben, was in diesem Modus aufgrund der starken Dunkelheit sehr wichtig ist. Achte auf die Zahlen auf deiner Benutzeroberfläche unten; "
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2835,7 +2835,7 @@
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "Er ist in unsere Falle getappt und hat das Licht ausgeschaltet. "
+        "str": "Er ist in unsere Falle getappt und hat das Licht ausgeschaltet. Wir können jetzt alle ausschließen, die das Licht mögen."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -3081,7 +3081,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Seelenpapiere sind mystische Schriftrollen, außergewöhnlich einzigartig, und es gibt zwei Arten: Seelenpapiere und Seelendunkle Papiere. "
+        "str": "Seelenpapiere sind mystische Schriftrollen, außergewöhnlich einzigartig, und es gibt zwei Arten: Seelenpapiere und Seelendunkle Papiere. Mit anderen Worten, die Seelenschriftrolle und ihre dunkle Version. Diese Schriftrollen offenbaren die Vorlieben und Abneigungen der Puppen. Wir beginnen mit der normalen Schriftrolle. "
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3111,7 +3111,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Denken Sie daran, dass Sie derzeit mit nichts interagieren können, da dies das Tutorial ist. "
+        "str": "Denken Sie daran, dass Sie im Moment mit nichts interagieren können, da dies das Tutorial ist. Jetzt schalten wir den Strom ein. Setzen Sie Ihre Sicherung ein und gehen Sie zur Rückseite des Hauses, um sie zu aktivieren."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3135,7 +3135,7 @@
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "Gut gemacht, endlich den Kamin anzünden."
+        "str": "Gute Arbeit, endlich den Kamin anzünden."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3465,7 +3465,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Ihnen steht ein Koffer mit verschiedenen dynamischen Parametern zur Verfügung. "
+        "str": "Es steht Ihnen ein Fall mit verschiedenen dynamischen Parametern zur Verfügung. Es werden Informationen wie die aktuelle angezeigt, und wenn Ihnen dieser nicht gefällt, können Sie gegen Geld nach einem neuen Fall suchen. Derzeit haben wir im Tutorial-Modus Ihre Interaktionen eingeschränkt "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3483,7 +3483,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Jetzt verwenden wir den Gegenstand „Seelenbuch“. "
+        "str": "Jetzt verwenden wir den Seelenbuch-Gegenstand. Dieser Gegenstand startet offiziell das Spiel. Die Verwendung ist einfach: Wenn Sie dieses Buch verwenden, wird der Betrüger (in diesem Fall Lil) beginnen, Maßnahmen zu ergreifen. An diesem Punkt werden Sie "
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3525,7 +3525,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Bevor Sie losfahren, möchte ich klarstellen, dass Sie in diesem Spielmodus mit der Karawane zur Zuflucht zurückkehren können. "
+        "str": "Bevor Sie loslegen, möchte ich klarstellen, dass Sie in diesem Spielmodus mit dem Wohnwagen zur Zuflucht zurückkehren können. "
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Wir haben Ricky auf der Couch und Monty am Klavier, also haben wir bereits die beiden möglichen Kandidaten. "
+        "str": "Wir haben Ricky auf der Couch und Monty am Klavier, also haben wir bereits die beiden möglichen Kandidaten. Wir werden jedoch nicht das 50%-Risiko eingehen. Gehen wir zurück in den Raum, um denjenigen auszuschließen, der nicht in Frage kommt, und warten wir ab "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",

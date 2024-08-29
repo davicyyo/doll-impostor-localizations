@@ -75,7 +75,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "偽者はいくつかのイベントを行ったようです。"
+        "str": "偽者がいくつかのイベントを実行したようです. これらは左側のパネルに表示されます. 内容を確認してから、再度ルームにアクセスしてください."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
@@ -141,7 +141,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "ドアはラッチで施錠してください。"
+        "str": "ドアをラッチでロックしておくことを忘れないでください. そうしないと、人形が出てきてテストを変更し、さらにはあなたを殺す可能性があります."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -153,13 +153,13 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "これでケースを受理しました。"
+        "str": "これでケースを受け入れました. チュートリアルの外でいつでもケースを放棄できますが、一度受け入れてしまうと新しいケースを見つけることはできなくなります. これで解決したら、準備ができたらその場所に移動してください."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "ここは人形の部屋です。"
+        "str": "ここは人形の部屋です. ここでは、あなたが寝ている間に人形たちが何をしたかを見ることができます. 人形を見て、それから部屋に戻りましょう."
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -183,7 +183,7 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "香り豊かなバニラのさや。"
+        "str": "香り豊かなバニラポッド."
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
@@ -243,7 +243,7 @@
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "パネルに戻って、証拠と一致しない容疑者の排除を始めましょう。"
+        "str": "パネルに戻って、証拠と一致しない容疑者の排除を始めましょう."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
@@ -279,7 +279,7 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "柔らかな花びらを持つ白い花。"
+        "str": "柔らかな花びらの白い花."
     },
     {
         "key": "14BCFAF24A161704AE43A69E6EB83452",
@@ -315,7 +315,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "なるほど、人形のアイテムはすべて使い終わりました。"
+        "str": "そうですね、あなたは doll. のすべてのアイテムを使いました。今回、Lil が気に入らなかったものは次のとおりです: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -345,7 +345,7 @@
         "key": "16B725324055549E77710CACDD3325FF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now move the picture closest to the living room door.",
-        "str": "次に、写真をリビングルームのドアの近くに移動します。"
+        "str": "次に、リビング ルームのドアに最も近い写真を移動します."
     },
     {
         "key": "175FDB6245E5ED987CC62684AC5049E4",
@@ -363,7 +363,7 @@
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "節くれだった不気味な根。"
+        "str": "節くれだった邪悪な根."
     },
     {
         "key": "18D93C0E4280B2D8733C3B9098852779",
@@ -435,7 +435,7 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "大きくて灰色がかった羽。"
+        "str": "大きくて灰色がかった羽."
     },
     {
         "key": "1DB3301C4E2144B2C2F0BB8C2BAD0221",
@@ -483,7 +483,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "これらのエリクサーは人形間の関係を明らかにします。"
+        "str": "これらのエリクサーは人形間の関係を明らかにします. これらはすべて関係を持っており、これがそれらを発見する唯一の方法です. リルと他の人形との愛の関係をテストすることから始めましょう. エリクサーをリルに適用して効果を観察するだけです. リルの効果に反応する人は全員です"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -507,7 +507,7 @@
         "key": "21FD3D1D43C022720514D89AC43F3A61",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-        "str": "あなたは人形に関するすべての手がかりとすべての情報を持っていますが、これは人形ごとに完全にランダムです。"
+        "str": "あなたは人形に関するすべての手がかりとすべての情報を持っていますが、これは各人形. ごとに完全にランダムです"
     },
     {
         "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -561,7 +561,7 @@
         "key": "24B7D6584C3AF4730B3365BB46DDA130",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and toxic leaves.",
-        "str": "暗くて有毒な葉。"
+        "str": "暗くて有毒な葉."
     },
     {
         "key": "24FA60AC4C99AD7D35B45C8F7E6C1279",
@@ -639,7 +639,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "ミスター・エクセレンス"
+        "str": "Ms. 優秀作品"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -681,7 +681,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "バッグもお付けしました。"
+        "str": "私はあなたにバッグも与えました. このバッグは詐欺師を捕まえるのに役立ちます. 捕まえたらゲームは終了します（制限時間内にそうする場合）. チュートリアルのこの部分を完了するのはあなたに任せます."
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -747,7 +747,7 @@
         "key": "336B557643CBA00B5138539520DCBB04",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's start with the chair outside.",
-        "str": "まずは外の椅子から始めましょう。"
+        "str": "まずは外の椅子から始めましょう."
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "残りは 3 つだけです。"
+        "str": "残りは 3 つだけです. 誰が移動したか、誰が移動したかを確認するために部屋に行きましょう."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -837,7 +837,7 @@
         "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_12.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An ancient piece of paper.",
-        "str": "古代の紙切れ。"
+        "str": "古代の紙切れ."
     },
     {
         "key": "3B56E6BC4AEDD9945911B29AC8342F9D",
@@ -909,7 +909,7 @@
         "key": "3FAB1E074AD22684E3F78785D85679FA",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the nearest candle.",
-        "str": "今度は一番近いキャンドルです。"
+        "str": "今、最も近いキャンドル."
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -939,7 +939,7 @@
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "スポーツ競技や名誉ある式典での勝利の象徴として授与されるカップの形をしたトロフィー。通常は金色です。"
+        "str": "スポーツ競技や名誉ある式典での勝利の象徴として授与される、通常は金色のカップの形をしたトロフィー."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -1029,7 +1029,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "今すぐ部屋を出て、有効になっているものをすべて確認してください。"
+        "str": "今すぐ部屋を出て、アクティブになっているものをすべて確認してください. 人形の「いいね！」に表示されたものをすべて書き留めてください。"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1095,19 +1095,19 @@
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Select those objects to craft another one.",
-        "str": "それらのオブジェクトを選択して別のオブジェクトを作成します。"
+        "str": "それらのオブジェクトを選択して別のオブジェクトを作成します."
     },
     {
         "key": "4E005C71470C8416B3B419B0E3E4CD6E",
         "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A clear and pure crystal.",
-        "str": "透き通った純粋な結晶。"
+        "str": "透明で純粋なクリスタル."
     },
     {
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "人形に関するすべての詳細と完全な情報を確認できるノートを渡しました。"
+        "str": "人形に関するすべての詳細と完全な情報を確認できるノートを渡しました. 見てください。準備ができたら、人形に戻ってきてください."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1155,13 +1155,13 @@
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "やった、エリクサーを完成させた。"
+        "str": "よくやった、エリクサーを完了しました. あなたのメモはチェックしていませんが、素晴らしいものであることは間違いありません。"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "あなたは人形の守護者です。人形の 1 つが生きており、あなたを殺そうとしています。 "
+        "str": "あなたは人形の守護者です。人形の 1 つが生きており、あなたを殺そうとしています. 09:00. までにそれがどれであるかを見つけなければなりません"
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1173,7 +1173,7 @@
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "完璧です、容疑者は 5 人残っています。"
+        "str": "完璧です、容疑者は 5 人残っています. もう一度寝ましょう."
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
@@ -1209,7 +1209,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "ダークペーパーを渡す前に、アクティベートしてすべてをオンにしましょう。"
+        "str": "暗い紙を渡す前に、すべてをアクティブにしてオンにしましょう. こうすることで、人形を止めたときに人形が何を嫌がるかが簡単にわかります."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1359,7 +1359,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "ケースを開始すると、購入または作成したアイテムを装備できるようになります。"
+        "str": "ケースを開始すると、購入または作成したアイテムを装備できるようになります. これを行うには、後ろのチェストにアクセスしてください. 現時点では、中身が空になっているように見えますが、心配しないでください。"
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1383,7 +1383,7 @@
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "暗くて刺激的な電球。"
+        "str": "暗くて刺激的な電球."
     },
     {
         "key": "6540E66F480EE470D56246880E1AAC02",
@@ -1407,7 +1407,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "最後の時間です。"
+        "str": "最後の 1 時間です. それを知るチャンスはこの時だけです. 部屋に行きましょう."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1425,7 +1425,7 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "さて、キャンドルが残りました。"
+        "str": "さて、残りのキャンドル."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "キャリア モードのあらゆる側面を説明する、より高度なガイドを作成しました。"
+        "str": "キャリア モードのあらゆる側面を探求する、より高度なガイドを作成しました. さらにヘルプが必要な場合は、それをチェックすることをお勧めします。"
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "完璧です。今度は人形の 1 つを調査しましょう。"
+        "str": "完璧です、今度は私があなたにカメラを与えた人形の 1 つを調べてみましょう.。 "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1539,7 +1539,7 @@
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "小さくてジューシーな果実。"
+        "str": "小さくてジューシーな果物."
     },
     {
         "key": "706E8DB14C70C3DE52A34BA3930A04B1",
@@ -1593,7 +1593,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "キャリアモードへようこそ。"
+        "str": "キャリア モードへようこそ. このゲーム モードでは、人形に関する情報を明らかにし、それぞれの事件を正しく解決する必要があります."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1617,7 +1617,7 @@
         "key": "743C50254A73CE29F7B3D7858FFBA46F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and thick liquid.",
-        "str": "暗くて濃厚な液体。"
+        "str": "暗くて濃い液体."
     },
     {
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
@@ -1635,7 +1635,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "あなたは探偵の役割を果たし、左側のパネルにリストされている詐欺師の好き嫌いに基づいて、彼が何が好きで何が嫌いなのか、誰が敵、友人、愛する人、または憎むべき人物なのかを判断する必要があります。 "
+        "str": "あなたは探偵の役割を果たし、左側のパネルにリストされている詐欺師の好き嫌いに基づいて、彼が何が好きで何が嫌いなのか、敵、友人、愛する人、嫌われている人は誰なのかを判断する必要があります."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1701,7 +1701,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "ここで必要なものはすべて使い果たしました。"
+        "str": "ここで必要なものはすべて使い果たしました."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1743,7 +1743,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "チュートリアルを終了すると、経済的困難に直面する可能性があります。"
+        "str": "チュートリアルを完了すると、経済的困難に直面する可能性があります. これに対処するには、クラシック モードをプレイすると、難易度に応じて、場合によっては多かれ少なかれ使用できるお金が得られます."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1785,13 +1785,13 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "詐欺師に罠を仕掛けましょう。"
+        "str": "詐欺師に罠を仕掛けましょう. 彼がテレビと音楽が好きであることはすでに知っています. 電気をつけてください."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "効果が切れてきました。"
+        "str": "効果は切れています. 書き留めることができなかった場合、リルの愛は次のとおりです: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1857,7 +1857,7 @@
         "key": "821C250E485ED0C26041C8830F8E0625",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A durable and flexible material.",
-        "str": "耐久性と柔軟性に優れた素材です。"
+        "str": "耐久性と柔軟性に優れた素材."
     },
     {
         "key": "82B77C5A456740B0D72910B21AF4A463",
@@ -1923,7 +1923,7 @@
         "key": "86BE55834614BDEE6BACCD821A069F89",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-        "str": "柔らかな光沢が特徴の丸いパールを連ねたエレガントなジュエリー。洗練と高級感を演出します。"
+        "str": "柔らかな光沢が特徴の丸いパールを連ねたエレガントなジュエリー."
     },
     {
         "key": "871328BF4DE67CD410188ABF20504C05",
@@ -1971,7 +1971,7 @@
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "緑色で刺すような葉。"
+        "str": "緑で刺すような葉."
     },
     {
         "key": "8B7A2813470D5B634D42F1B18FD1C975",
@@ -2217,7 +2217,7 @@
         "key": "9CAB638548874B5E9D71628F2EE226D1",
         "location": "/Game/data-tables/itemList.itemList.NewRow_22.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A transparent and elegant container.",
-        "str": "透明感のある上品な容器です。"
+        "str": "透明でエレガントな容器."
     },
     {
         "key": "9CD486614893E83F1AC2D3AA683226F0",
@@ -2253,7 +2253,7 @@
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "私たちが調査する人形はリルなので、リルにバツをつけておきましょう。"
+        "str": "リルのことは無視しましょう、それが私たちが調査する人形だからです."
     },
     {
         "key": "9DF350484FB5F72D90CC1D9B5AE80C31",
@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "写真を現像するには、写真を移動する必要があります。 "
+        "str": "写真を現像するには、写真を移動する必要があります. 100% 現像したら、使用ボタンを押すだけで保存されます."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2415,13 +2415,13 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "偽者を暴くために最後の戦いを開始してください。"
+        "str": "最後の戦いを開始して偽者.を暴いてください"
     },
     {
         "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
         "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A small, dark, and shriveled heart.",
-        "str": "小さく、暗く、しぼんでしまった心。"
+        "str": "小さくて暗くてしなびた心."
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
@@ -2433,19 +2433,19 @@
         "key": "AFC2B2644270E4DDA921A0AA0660BA68",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To sleep, simply point at the bed and click on it.",
-        "str": "寝るには、ベッドをポイントしてクリックするだけです。"
+        "str": "寝るには、ベッドをポイントしてクリックするだけです."
     },
     {
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
         "id": "You have lost 90% of the entire reward due to missing photos.",
-        "str": "写真が見つからなかったために、報酬全体の 90% を失いました。"
+        "str": "写真. が不足しているため、報酬全体の 90% を失いました"
     },
     {
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "わかりました、リルに適用する残りのエリクサーを渡します。"
+        "str": "わかりました、リルに適用する残りのエリクサーをあげます. アミシティアは友情を表し、イニミシティアは敵意を表し、オディウムは憎しみを表します. これらのそれぞれは、その特定の色でリルの関係を明らかにします. 観察したすべてを書き留めて、次のことを覚えておいてください"
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2493,7 +2493,7 @@
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "ライターをあげました。"
+        "str": "軽量のものを提供しました. 残りのアクションに使用してください."
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
@@ -2565,7 +2565,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "さまざまなタブを確認して、それらのタブに慣れてください。"
+        "str": "さまざまなタブを確認してよく理解してください. 準備ができたら、[同意する] ボタンをクリックしてこのケースを引き受けてください."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2619,7 +2619,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "次に、それらをメモ帳のメモに書き留める必要があります。"
+        "str": "次に、それらをメモ帳のメモに書き留める必要があります. さらに、キーボードとマウスを使用しているときにメモの外側をクリックすると、人形のページは開いたままになります."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2631,7 +2631,7 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "リルを捕まえました。"
+        "str": "リル. を捕獲しました__ 残りの人形の撮影を続けることができます. 準備ができたら、キャラバンに行って写真を見てください."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2649,13 +2649,13 @@
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "まず、人形が 20 体あります。"
+        "str": "まず、20 体の人形があります. ボード上でそれらを確認し、準備ができたら、部屋に行って人形に会ってください."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "寝て、次の 1 時間以内に手がかりが解決されるかどうか見てみましょう。"
+        "str": "寝て、次の 1 時間以内に手がかりが解決されるかどうか見てみましょう."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -2679,7 +2679,7 @@
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "極度の硬度と輝きで知られる貴重な宝石で、宝飾品によく使用され、その純度と希少性が高く評価されています。"
+        "str": "極度の硬度と輝きで知られる貴重な宝石。ジュエリーによく使用され、その純度と希少性が高く評価されています."
     },
     {
         "key": "BF221642449DB485C8FF39A6198C744B",
@@ -2697,7 +2697,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "彼が血を好むのは明らかだ。"
+        "str": "彼が血が好きであることは明らかです. 2 つのどちらかである可能性がありますが、ボックスをチェックしてください. フレディが行方不明で、彼の箱は血でいっぱいです. 彼はこの評決をあなたのために残してくれました. 確信が持てたら、候補者を破棄してください."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
@@ -2745,7 +2745,7 @@
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "白くて繊細な羽根。"
+        "str": "白くて繊細な羽根."
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
@@ -2763,7 +2763,7 @@
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "純度の高い精製された金の固体ブロックで、投資または価値の保存として使用され、その重量と金色の光沢が特徴です。"
+        "str": "純度の高い精製された金の固体ブロック。投資または価値の保存として使用され、その重量と金色の光沢が特徴です."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2787,19 +2787,19 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "火を起こすために炎を生成する携帯用装置。"
+        "str": "火を起こすために炎を生成するポータブルデバイス."
     },
     {
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "そうですね、家に戻りましょう。"
+        "str": "そうですね、家に戻りましょう. リル. について調べていきます 彼女の箱を開けて、エリクサー. の適用を進めます"
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "懐中電灯を渡しましたが、このモードでは非常に暗いため、これは非常に重要です。 "
+        "str": "懐中電灯を用意しましたが、このモードでは非常に暗いため、これは非常に重要です. 下部の UI の数字に注目してください。"
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2835,7 +2835,7 @@
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "彼は私たちの罠にはまって電気を消してしまいました。"
+        "str": "彼は私たちの罠にはまり、照明を消しました. これで、照明を好む人はすべて破棄できます."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -2973,7 +2973,7 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "家に入ると人形の部屋を見つけます。"
+        "str": "家に入ると人形の部屋を見つけます."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -3081,7 +3081,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "ソウルペーパーは非常にユニークな神秘的な巻物で、ソウルペーパーとソウルダークペーパーの2種類があります。"
+        "str": "ソウル ペーパーは、非常にユニークな神秘的な巻物で、2 つのタイプがあります: ソウル ペーパーとソウル ダーク ペーパー. つまり、ソウル スクロールとそのダーク バージョン. これらの巻物は、人形の好き嫌いを明らかにします. 通常の巻物から始めます."
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3111,7 +3111,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "これはチュートリアルであるため、現時点では何も操作できないことに注意してください。"
+        "str": "これはチュートリアルなので、今は何も操作できないことを覚えておいてください. さて、電気をつけてみましょう. ヒューズを装備し、家の裏側に行って作動させてください."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3135,7 +3135,7 @@
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "お疲れ様でした、最後に暖炉に火をつけます。"
+        "str": "お疲れ様、最後に暖炉に火をつけて."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3189,7 +3189,7 @@
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "爽やかな緑の葉っぱ。"
+        "str": "爽やかな緑の葉."
     },
     {
         "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
@@ -3249,7 +3249,7 @@
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "いくつかのアイテムを渡しました。クラフトセクションに移動してエリクサーを作成してください。手動で行うことも、必要なエリクサーを押して直接行うこともできます。"
+        "str": "いくつかのアイテムを渡しました。クラフトセクションに移動してエリクサーを作成してください。手動で行うことも、必要なエリクサーを押して直接行うこともできます."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3291,7 +3291,7 @@
         "key": "EDA5294F43DB42C2856059B83C9A6BF5",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
         "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-        "str": "この確率は旅行するたびに潜在します。"
+        "str": "この確率は旅行するたびに潜在します。 "
     },
     {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
@@ -3351,7 +3351,7 @@
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "苦くて粘稠な液体。"
+        "str": "苦くて粘性のある液体."
     },
     {
         "key": "F28247BF4A488DEE853285BA1EBC6188",
@@ -3369,7 +3369,7 @@
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "黄金色で甘い液体。"
+        "str": "黄金色で甘い液体."
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3465,7 +3465,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "さまざまな動的パラメータを使用できるケースが用意されています。"
+        "str": "さまざまな動的パラメータを使用してケースを利用できます. 現在のような情報が表示されます。気に入らない場合は、お金と引き換えに新しいケースを検索できます. 現在、チュートリアル モードでは、対話が制限されています。 "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3477,13 +3477,13 @@
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "柔らかく香り高いバラの花びら。"
+        "str": "柔らかく香り立つバラの花びら."
     },
     {
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "次に、Soul Book アイテムを使用します。"
+        "str": "次に、ソウルブックアイテムを使用します. このアイテムは正式にゲームを開始します. 使い方は簡単です: この本を使用すると、偽者が誰であれ (この場合はリル) 行動を開始します. この時点で、あなたは"
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3495,7 +3495,7 @@
         "key": "F83E76BC49FC84244322C382556B6E5F",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Oh no...",
-        "str": "なんてこった..."
+        "str": "いや..."
     },
     {
         "key": "F880818144C667A994BEEF9200987EF4",
@@ -3507,7 +3507,7 @@
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "透明で致死性の液体。"
+        "str": "透明で致死性の液体."
     },
     {
         "key": "FA1C15B1439CEF51682B81AF479F4873",
@@ -3525,7 +3525,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "出発する前に、このゲーム モードではキャラバンを運転して避難所に戻ることができることを明確にしておきたいと思います。"
+        "str": "出発する前に、このゲーム モードではキャラバン. を運転することで避難所に戻ることができることを明確にしておきたいと思います。最後に、このモードでリルに対して行ったことは、詐欺師. を識別するために各人形に対して行う必要があります。"
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "リッキーはソファに、モンティはピアノに座っているので、候補者はすでに 2 人います。"
+        "str": "リッキーがソファにいて、モンティがピアノにいるので、候補者はすでに 2 人います. ただし、50% のリスクを負うつもりはありません. 部屋に戻って、ありえない人を除外して待ちましょう"
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
@@ -3573,7 +3573,7 @@
         "key": "FD27A6D94DD43A861953BA81606B6B11",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant cinnamon stick.",
-        "str": "香り豊かなシナモンスティックです。"
+        "str": "香り豊かなシナモンスティック."
     },
     {
         "key": "FD50C07D436B39761D90A28961DE809F",

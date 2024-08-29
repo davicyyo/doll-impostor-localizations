@@ -75,7 +75,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Изглежда, че измамникът е извършил някои събития. "
+        "str": "Изглежда, че измамникът е направил някои събития. Те ще бъдат показани на левия панел. Прегледайте ги и след това влезте отново в стаята."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
@@ -141,7 +141,7 @@
         "key": "08FC22B7498C0918FE50E0AB274B5889",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-        "str": "Не забравяйте да държите вратата заключена с резето. "
+        "str": "Не забравяйте да държите вратата заключена с резето. Ако не го направите, куклите могат да излязат, да променят вашите тестове и дори да ви убият."
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -153,13 +153,13 @@
         "key": "09526FC54AA5D1983C1048ACADED01C4",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-        "str": "Сега сте приели случая. "
+        "str": "Вече приехте случая. Извън урока можете да изоставите случая по всяко време, но няма да можете да намерите нови случаи, след като приемете. След като това е уредено, пътувайте до мястото, когато сте готови."
     },
     {
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "Това е стаята за кукли. "
+        "str": "Това е стаята на куклите. Тук ще видите какво са направили, докато сте спали. Разгледайте ги, а след това да се върнем в стаята."
     },
     {
         "key": "09B43DB3406AF2166732B48B577F4E20",
@@ -243,7 +243,7 @@
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "Да се ​​върнем към групата и да започнем да отсяваме заподозрени, които не отговарят на нашите доказателства."
+        "str": "Нека се върнем към панела и да започнем да отсяваме заподозрени, които не отговарят на нашите доказателства."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
@@ -315,7 +315,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "Много добре, използвахте всички елементи на куклата. "
+        "str": "Много добре, използвахте всички елементи на куклата. Този път нещата, които Лил не хареса бяха: {items}"
     },
     {
         "key": "164060454E5796D5711012B8A720788E",
@@ -483,7 +483,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Тези еликсири разкриват връзките между куклите. "
+        "str": "Тези еликсири разкриват връзки между куклите. Всички те имат връзки и това е единственият начин да ги откриете. Нека започнем с тестване на любовната връзка на Лил с другите кукли. Просто приложете еликсира върху Лил и наблюдавайте ефектите. Всички, които реагират на ефектите на Лил, са "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -639,7 +639,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "Г-жа Excellence"
+        "str": "Ms. Превъзходство"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -681,7 +681,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Дадох ти и чанта. "
+        "str": "Дадох ви и чанта. Тази чанта ще ви помогне да заловите самозванеца. След като го хванете, играта ще приключи (ако го направите в рамките на срока). Ще ви оставя да завършите тази част от урока. Независимо дали "
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "Остават ни само 3. "
+        "str": "Имаме само 3 останали. Да отидем в стаята, за да видим кой се е преместил и кой е преместен."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -939,7 +939,7 @@
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "Купа във формата на купа, обикновено златна, присъждана като символ на победа в спортни състезания или престижни церемонии."
+        "str": "Трофей във формата на купа, обикновено златен, присъждан като символ на победа в спортни състезания или престижни церемонии."
     },
     {
         "key": "419FBA55411C37613B78B895FC47434E",
@@ -1029,7 +1029,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Напуснете стаята сега и проверете всичко, което е активирано. "
+        "str": "Напуснете стаята сега и проверете всичко, което е активирано. Запишете всичко, което видите в харесванията на куклата!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1107,7 +1107,7 @@
         "key": "4E0811124112D56E159C9290EA5B7FEF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-        "str": "Подарих ви тетрадка, в която можете да видите всички подробности за куклите и пълна информация. "
+        "str": "Дадох ти бележник, в който можеш да видиш всички подробности за куклите и пълна информация. Разгледай и когато си готов, се върне при куклите."
     },
     {
         "key": "4E8841A242B9882466D2B88B44A43CC6",
@@ -1155,13 +1155,13 @@
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "Браво, завършихте еликсирите. "
+        "str": "Браво, завършихте еликсирите. Не ви проверявам бележките, но съм сигурен, че са страхотни!"
     },
     {
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "Вие сте пазител на кукли, една от тях е жива и възнамерява да ви убие. "
+        "str": "Вие сте пазител на кукли, една от тях е жива и възнамерява да ви убие. Трябва да откриете коя е преди 09:00."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -1173,7 +1173,7 @@
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Perfect, we have 5 suspects left. Let's go to sleep again.",
-        "str": "Идеално, останаха ни 5 заподозрени. "
+        "str": "Чудесно, останаха ни 5 заподозрени. Хайде да спим отново."
     },
     {
         "key": "5471B2664F74874D8556F9B63E352A84",
@@ -1209,7 +1209,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "Преди да ви дадем тъмната хартия, нека активираме и включим всичко. "
+        "str": "Преди да ви дадем тъмната хартия, нека активираме и включим всичко. По този начин ще ни бъде по-лесно да видим какво не харесва куклата, когато я спрем."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1359,7 +1359,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "Когато започнете калъф, ще можете да се оборудвате с предметите, които сте купили или изработили. "
+        "str": "Когато започнете калъф, ще можете да се оборудвате с предметите, които сте купили или изработили. За да направите това, влезте в сандъка зад вас. Точно сега ще го видите празен, но не се притеснявайте, аз "
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1407,7 +1407,7 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Това е последният час. "
+        "str": "Това е последният час. Имаме само този шанс да разберем. Хайде да отидем в стаята."
     },
     {
         "key": "66D14BB44970D4F17A0184929B3FE083",
@@ -1425,7 +1425,7 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "Много добре, сега останалата свещ."
+        "str": "Много добре, сега оставащата свещ."
     },
     {
         "key": "67E721CC4E280A5A435BA1B141936D38",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Създадох по-разширено ръководство, което изследва всички аспекти на кариерния режим. "
+        "str": "Създадох по-разширено ръководство, което изследва всички аспекти на кариерния режим. Ако имате нужда от повече помощ, препоръчвам ви да го разгледате; "
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Идеално, сега нека проучим една от куклите. "
+        "str": "Чудесно, сега нека проучим една от куклите., която ти дадох фотоапарат; "
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1593,7 +1593,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "Добре дошли в режим на кариера. "
+        "str": "Добре дошли в Career Mode. В този режим на игра ще трябва да откриете информация за куклите и да решите правилно всеки случай."
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -1635,7 +1635,7 @@
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Ще имате роля на детектив, в която ще трябва да определите, въз основа на харесванията и нехаресванията на самозванеца, изброени на панела отляво, какво харесва и не харесва, кои са неговите врагове, приятели, любови или мразени хора "
+        "str": "Ще имате роля на детектив, в която ще трябва да определите, въз основа на харесванията и нехаресванията на самозванеца, изброени на панела вляво от вас, какво харесва и не харесва, кои са неговите врагове, приятели, любови или мразени личности."
     },
     {
         "key": "7716C8834922818B3241669F9591DF51",
@@ -1701,7 +1701,7 @@
         "key": "79B48418402866A435B0658D650C041D",
         "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
         "id": "You've used everything you needed to use here.",
-        "str": "Вие сте използвали всичко, което трябва да използвате тук."
+        "str": "Вие сте използвали всичко необходимо за използване тук."
     },
     {
         "key": "7A7523B24363943AC1ECCE9A0B2634F5",
@@ -1743,7 +1743,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "След като завършите урока, може да се сблъскате с финансови затруднения. "
+        "str": "След като завършите урока, може да се сблъскате с финансови затруднения. За да разрешите това, можете да играете в класическия режим и в зависимост от нивото на трудност той ще ви даде повече или по-малко пари, които да използвате в случаите."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1785,13 +1785,13 @@
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Нека поставим капан за измамника. "
+        "str": "Нека поставим капан за измамника. Вече знаем, че той харесва телевизия и музика. Включете светлините."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "Ефектите са отшумели. "
+        "str": "Ефектите са изчезнали. Ако не сте успели да го запишете, любимите на Lil са: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "За да проявите снимката, трябва да я преместите. "
+        "str": "За да проявите снимката, трябва да я преместите. След като бъде проявена 100%, просто натиснете бутона за използване и тя ще бъде запазена."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2445,7 +2445,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Добре, ще ти дам останалите еликсири, които да приложиш към Лил. "
+        "str": "Добре, ще ви дам останалите еликсири, които да приложите към Lil. Amicitia представлява приятелство, Inimicitia представлява враждебност, а Odium представлява омраза. Всеки от тях, със своя специфичен цвят, ще разкрие връзките на Lil. Запишете всичко, което наблюдавате, и не забравяйте, че "
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2493,7 +2493,7 @@
         "key": "B324B28C4466BEA72263AD9E23F8755D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a lighter. Use it for the remaining actions.",
-        "str": "Дадох ти запалка. "
+        "str": "Дадох ти запалка. Използвайте я за останалите действия."
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
@@ -2565,7 +2565,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Прегледайте различните раздели, за да се запознаете с тях. "
+        "str": "Прегледайте различните раздели, за да се запознаете с тях. Когато сте готови, щракнете върху бутона Приемам, за да поемете този случай."
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2619,7 +2619,7 @@
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Сега трябва да ги запишете в бележките на бележника. "
+        "str": "Сега трябва да ги запишете в бележките на бележника. Освен това, ако използвате клавиатура и мишка и щракнете извън бележките, страницата на куклата ще остане отворена."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -2631,7 +2631,7 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "Заловихме Лил. "
+        "str": "Уловихме Lil. Можете да продължите да снимате останалите кукли. Когато сте готови, отидете до караваната, за да видите снимките."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2649,13 +2649,13 @@
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "За начало има 20 кукли. "
+        "str": "За да започнете, има 20 кукли. Проверете ги на дъската и когато сте готови, отидете в стаята, за да ги посрещнете."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "Лягай да спиш и да видим дали уликата ще бъде разгадана в следващия час."
+        "str": "Лягайте да спите и да видим дали уликата ще бъде разгадана в следващия час."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -2697,7 +2697,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Ясно е, че той обича кръвта. "
+        "str": "Ясно е, че той харесва кръв. Може да е едно от двете, но поставете отметка в квадратчетата. Фреди липсва и кутията му е пълна с кръв. Той остави тази присъда за вас. Когато сте сигурни, изхвърлете кандидата."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
@@ -2763,7 +2763,7 @@
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "Масивен блок от рафинирано злато с висока чистота, използван като инвестиция или съхраняване на стойност, характеризиращ се със своето тегло и златист блясък."
+        "str": "Масивен блок от рафинирано злато с висока чистота, използван като инвестиция или съхраняване на стойност, характеризиращ се с тегло и златист блясък."
     },
     {
         "key": "C539F07A44FA320908B87FADABCFB0C9",
@@ -2793,13 +2793,13 @@
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "Много добре, да се върнем в къщата. "
+        "str": "Много добре, нека се върнем в къщата. Ще открием неща за Lil. Отворете нейната кутия и ще продължим да прилагаме еликсири."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Подарих ти фенерче, което е много важно в този режим поради голямата тъмнина. "
+        "str": "Подарих ви фенерче, което е много важно в този режим поради гъстата тъмнина. Обърнете внимание на числата на вашия потребителски интерфейс в долната част; "
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2835,7 +2835,7 @@
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "Той падна в нашия капан и изгаси светлините. "
+        "str": "Той падна в нашия капан и изключи светлините. Сега можем да изхвърлим всички, които харесват светлината."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -2973,7 +2973,7 @@
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Enter the house and find the dolls' room.",
-        "str": "Влезте в къщата и намерете стаята на куклите."
+        "str": "Влезте в къщата и намерете стаята за кукли."
     },
     {
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
@@ -3081,7 +3081,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Soul papers са мистични свитъци, изключително уникални и има два вида: Soul Papers и Soul Dark Papers. "
+        "str": "Soul papers са мистични свитъци, изключително уникални и има два вида: Soul Papers и Soul Dark Papers. С други думи, Soul Scroll и неговата тъмна версия. Тези свитъци разкриват харесванията и нехаресванията на куклите. Ще започнем с нормалния свитък. "
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3111,7 +3111,7 @@
         "key": "DE5FC3C747F16F46862210AB8687B02C",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Remember that you won't be able to interact with anything right now since this is the tutorial. Now, let's turn on the electricity. Equip your fuse and go to the back of the house to activate it.",
-        "str": "Не забравяйте, че няма да можете да взаимодействате с нищо в момента, тъй като това е урокът. "
+        "str": "Не забравяйте, че няма да можете да взаимодействате с нищо в момента, тъй като това е урокът. А сега нека включим електричеството. Оборудвайте предпазителя си и отидете в задната част на къщата, за да го активирате."
     },
     {
         "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -3135,7 +3135,7 @@
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "Браво, най-накрая, запалете камината."
+        "str": "Браво, най-накрая запалете камината."
     },
     {
         "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -3249,7 +3249,7 @@
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "Дадох ви някои артикули, отидете в секцията за занаяти, за да създадете еликсир, можете да го направите ръчно или директно, като натиснете еликсира, който искате."
+        "str": "Дадох ви някои предмети, отидете в раздела за изработване на еликсир, можете да го направите ръчно или директно, като натиснете еликсира, който искате."
     },
     {
         "key": "E9E818494A07397E77DFC8AEBFE671E0",
@@ -3369,7 +3369,7 @@
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "Златиста и сладка течност."
+        "str": "Златна и сладка течност."
     },
     {
         "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -3465,7 +3465,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Ще имате наличен калъф с различни динамични параметри. "
+        "str": "Ще имате наличен калъф с различни динамични параметри. Той ще показва информация като текущия и ако не ви харесва, можете да потърсите нов калъф в замяна на пари. В момента, в режим на обучение, ние сме ограничили вашите взаимодействия "
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3483,7 +3483,7 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Сега ще използваме елемента Soul Book. "
+        "str": "Сега ще използваме елемента Soul Book. Този артикул официално ще започне играта. Използването му е просто: когато използвате тази книга, който и да е измамникът (в този случай Лил), ще започне да предприема действия. В този момент вие ще "
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -3525,7 +3525,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Преди да тръгнете, искам да поясня, че в този режим на игра можете да се върнете в убежището, като карате караваната. "
+        "str": "Преди да тръгнете, искам да поясня, че в този режим на игра можете да се върнете в убежището, като управлявате караваната. И накрая, това, което направихме с Lil в този режим, ще трябва да бъде направено за всяка от куклите, за да идентифицираме самозванеца. "
     },
     {
         "key": "FA89ED204F28013D22A23CAE49ADAC61",
@@ -3543,7 +3543,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "Имаме Рики на дивана и Монти на пианото, така че вече имаме 2-ма възможни кандидати. "
+        "str": "Имаме Рики на дивана и Монти на пианото, така че вече имаме 2-мата възможни кандидати. Въпреки това няма да поемем риска от 50%. Нека се върнем в стаята, за да изключим този, който не може да бъде, и да изчакаме "
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
