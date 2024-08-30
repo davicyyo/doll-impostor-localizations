@@ -9,7 +9,7 @@
         "key": "0078964D495E90CB9C263D86C289F115",
         "location": "/Game/enums/actions.actions.DisplayNameMap(1 - Value).DisplayNameMap",
         "id": "Tea with friends",
-        "str": "Чаепитие с друзьями"
+        "str": "Чаептие с друзьями"
     },
     {
         "key": "008C17DA426E713F7F3A418B4FDE1BE4",
@@ -1029,7 +1029,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Выйдите из комнаты сейчас и проверьте все, что активировано. Запишите все, что видите в предпочтениях куклы!"
+        "str": "Выйди из комнаты и проверь всё, что активировано. Следуя своим наблюдениям, запиши то, что нравится кукле!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Я создал более продвинутое руководство, которое охватывает все аспекты режима карьеры. Если вам нужна дополнительная помощь, я рекомендую вам его изучить; это поможет вам решить ваши будущие дела!"
+        "str": "Если тебе нужна помощь в освоение режима \\\"Карьера\\\",  то можешь посмотреть мой продвинутый гайд, который затрагивает все детали данного режима, - он поможет тебе в будущем!"
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -3447,7 +3447,7 @@
         "key": "F66992CC4272E9FD176972AE7A324010",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "Did you understand the tutorial well?",
-        "str": "Вы хорошо поняли руководство?"
+        "str": "Обучение было понятным?"
     },
     {
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
