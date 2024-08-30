@@ -87,7 +87,7 @@
         "key": "056842694B3EB37BD05F159542C5CE41",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_3.Text",
         "id": "Products sold",
-        "str": "Produits vendus"
+        "str": "Produits Vendus"
     },
     {
         "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -969,7 +969,7 @@
         "key": "43B95535434D97B9189B93A2A4594202",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_1.Text",
         "id": "Amount of Information discovered",
-        "str": "Quantité d'informations découvertes"
+        "str": "Quantité d'Informations découvertes"
     },
     {
         "key": "446183A644D53693C3BF6E947D141A43",
@@ -1029,7 +1029,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Quittez la pièce maintenant et vérifiez tout ce qui est activé. Notez tout ce que vous voyez dans les goûts de la poupée !"
+        "str": "Quittez la pièce et vérifiez tout ce qui est activé. Vous avez 10 secondes pour le découvrir. Notez tout ce que vous observez dans les goûts de la poupée sur le carnet !"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "J'ai créé un guide plus avancé qui explore tous les aspects du mode Carrière. Si vous avez besoin de plus d'aide, je vous recommande de le consulter; il vous aidera à résoudre vos futurs cas !"
+        "str": "J'ai créé un guide plus avancé qui explore plus en profondeur tous les aspects du mode Carrière. Si vous avez besoin de plus d'aide, je vous recommande de le consulter; il vous aidera à résoudre vos futurs cas !"
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -2055,7 +2055,7 @@
         "key": "91E782534C65C15F2165A692F6DD50F6",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_2.Text",
         "id": "Products purchased",
-        "str": "Produits achetés"
+        "str": "Produits Achetés"
     },
     {
         "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
@@ -2739,7 +2739,7 @@
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text",
         "id": "Number of photographs taken of dolls",
-        "str": "Nombre de photographies prises de poupées"
+        "str": "Nombre de photos de poupées prises"
     },
     {
         "key": "C28723EC476B280B7C783CAAD9FE2784",
