@@ -483,7 +483,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Эти эликсиры раскрывают взаимоотношения между куклами, и это единственный способ их обнаружить. Давай начнем с проверки Лил, чтобы узнать, кого она любит. Просто нанеси эликсир и наблюдай за эффектами. Все куклы, которые как-то реагируют на это, являются объектами любви Лил"
+        "str": "Зелья раскрывают взаимоотношения между куклами, и это единственный способ их обнаружить. Давай узнаем, кого любит Лил. Просто нанеси зелье и наблюдай за эффектами. Все куклы, которые как-то реагируют на это, являются объектами любви Лил"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -1299,7 +1299,7 @@
         "key": "5F6925D947AE92C9AC54DEA293653C03",
         "location": "/Game/enums/actions.actions.DisplayNameMap(39 - Value).DisplayNameMap",
         "id": "Rocking",
-        "str": "Качающийся"
+        "str": "Кресло-качалка"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -2445,7 +2445,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Хорошо, я дал тебе остальные эликсиры для применения. Amicitia раскрывает дружбу, Inimicitia раскрывает вражду, а Odium - ненависть. Каждый из них, с его специфическим цветом, поможет лучше понять Лил. Запиши все, что заметишь, и помни, что в некоторых случаях у Лил может совсем не быть либо любви к куклам, либо ненависти, и т.д."
+        "str": "Хорошо, я дал тебе остальные зелья для применения. Amicitia раскрывает дружбу, Inimicitia раскрывает вражду, а Odium - ненависть. Каждый из них, с его специфическим цветом, поможет лучше понять Лил. Запиши все, что заметишь, и помни, что в некоторых случаях у Лил может совсем не быть либо любви к куклам, либо ненависти, и т.д."
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2793,7 +2793,7 @@
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "Отлично, вернемся в дом. Мы собираемся узнать что-то о Лил. Открой ее коробку, и мы приступим к применению эликсиров."
+        "str": "Отлично, вернемся в дом. Давай проверим Лил. Открой её коробку и начинай применять зелья."
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
@@ -3069,7 +3069,7 @@
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixirs",
-        "str": "Эликсиры"
+        "str": "Зелья"
     },
     {
         "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -3081,7 +3081,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Бумага душ - это мистические свитки, они чрезвычайно уникальные, и таких есть два типа: Бумага душ и  Тёмная бумага душ. Иными словами, Свиток души  и его темная версия. Эти свитки раскрывают то, что нравится куклам и что не нравится. Начнем с обычного свитка. Примени свиток к кукле."
+        "str": "Бумаги душ - это мистические свитки, они чрезвычайно уникальные, и таких есть два типа: Бумага душ и Тёмная бумага душ. Иными словами, Свиток души и его темная версия. Эти свитки раскрывают то, что нравится куклам и что не нравится кукле. Начнем с обычного свитка. Примени свиток к кукле."
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
@@ -3579,7 +3579,7 @@
         "key": "FD50C07D436B39761D90A28961DE809F",
         "location": "/Game/enums/actions.actions.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Open Boxes",
-        "str": "Открывать витрины"
+        "str": "Открывать коробки"
     },
     {
         "key": "FD5D53AB4A626CFD46CF4E93053F9719",
