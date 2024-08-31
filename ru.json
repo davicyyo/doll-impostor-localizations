@@ -3465,7 +3465,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "У тебя будет доступно дело с различными параметрами. Оно покажет информацию, аналогичную текущей, и если вам не понравится, вы сможете обновить дело за деньги. В настоящее время в учебном режиме твои действия ограниченны; нельзя покупать, создавать, выходить из дела или искать новые."
+        "str": "У тебя будет доступно дело с различными параметрами. Оно покажет информацию, аналогичную текущей, и если тебе не понравится, вы сможете обновить дело за деньги. В настоящее время в учебном режиме твои действия ограниченны; нельзя покупать, создавать, выходить из дела или искать новые."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
