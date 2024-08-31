@@ -1149,7 +1149,7 @@
         "key": "51B58C89473E1AE2A37E6A8118DC37C1",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-        "str": "Ты когда-нибудь задумывался, откуда берется информация о куклах? В карьерном режиме ты узнаешь информацию о куклах с помощью опыта, экономикой, уровнями, магазином, крафтом и многим другим!"
+        "str": "Ты когда-нибудь задумывался, откуда берется информация о куклах? В карьерном режиме ты узнаешь информацию о куклах с помощью опыта, экономики, уровней, магазина, крафта и многим другим!"
     },
     {
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
@@ -1743,7 +1743,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "После завершения обучения ты можешь столкнуться с финансовыми трудностями. Чтобы не унывать, можно играть в классическом режиме, и в зависимости от уровня сложности ты будешь получать или больше, или меньше ."
+        "str": "После завершения обучения ты можешь столкнуться с финансовыми трудностями. Чтобы не унывать, можно играть в классическом режиме, и в зависимости от уровня сложности ты будешь получать или больше, или меньше."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -2373,7 +2373,7 @@
         "key": "A97B724146EEB86D384D6A85A4F8931C",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Craft",
-        "str": "Ремесло"
+        "str": "Крафт"
     },
     {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
@@ -2565,7 +2565,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "Ознакомься с различными вкладками. Когда будешь готов, нажми Принять для начала дела"
+        "str": "Ознакомься с различными вкладками. Когда будешь готов, нажми кнопку 'Принять' для начала дела"
     },
     {
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
@@ -2697,7 +2697,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Одержимая кукла любит кровь. Одержимой может быть одна из двух кукол, проверь коробки. Фредди пропал, и его коробка полна крови. Это дает информацию о том, что у одержимой куклы была ненависть к Фредди. Когда ты будешь уверен в своем ответе, оставь кандидата на выбывание не зачеркнутым."
+        "str": "Одержимая кукла любит кровь. Одержимой может быть одна из двух кукол, проверь витрины. Фредди пропал, и его витрина полна крови. Это дает информацию о том, что у одержимой куклы была ненависть к Фредди. Когда ты будешь уверен в своем ответе, оставь кандидата на выбывание не зачеркнутым."
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
