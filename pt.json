@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "O assustador"
+        "str": "O Assustador"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -81,7 +81,7 @@
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "O mórbido"
+        "str": "O Mórbido"
     },
     {
         "key": "056842694B3EB37BD05F159542C5CE41",
@@ -93,7 +93,7 @@
         "key": "0593C38042D49BC9D0958EB990324EFA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
         "id": "Jail Self",
-        "str": "Prisão Auto"
+        "str": "Se aprisionar"
     },
     {
         "key": "05AD525F49BFE5E3D0E076B33A48FCF0",
@@ -111,7 +111,7 @@
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "O suspiro"
+        "str": "O Suspiro"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -129,7 +129,7 @@
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "Os custos serão refletidos nos preços dos itens da loja"
+        "str": "Os valores serão refletidos nos preços dos itens da loja"
     },
     {
         "key": "0860FF434B759F0DDD299AAD5097224D",
@@ -171,7 +171,7 @@
         "key": "09CCC43B450A924B1414CEA6C17A4E5D",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_137.Text",
         "id": "Language",
-        "str": "Linguagem"
+        "str": "Idioma"
     },
     {
         "key": "0A3D5EC2435134BB35A189A4B69C4101",
@@ -183,13 +183,13 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "Uma vagem de baunilha perfumada."
+        "str": "Um recipiente de fragrância de baunilha."
     },
     {
         "key": "0AB50D9E41B57073B2D0EFAA0AD0A9F4",
         "location": "/Game/enums/actions.actions.DisplayNameMap(36 - Value).DisplayNameMap",
         "id": "Bouncy castles",
-        "str": "Castelos insufláveis"
+        "str": "Castelos infláveis"
     },
     {
         "key": "0B2A9AAE439C83F5A59624AAE1C48AAE",
@@ -201,7 +201,7 @@
         "key": "0B88630D44BEE72FF2A76095115344A8",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(1).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Doll Object",
-        "str": "Objeto Boneca"
+        "str": "Objeto da boneca"
     },
     {
         "key": "0CA5844D4070A29607D91D9C17419FCD",
@@ -237,7 +237,7 @@
         "key": "0DCDE313473E8A6D40F69ABCD969645B",
         "location": "/Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap",
         "id": "Swing Self",
-        "str": "Balanço próprio"
+        "str": "Se balançar"
     },
     {
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
@@ -267,7 +267,7 @@
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
-        "str": "O lindo"
+        "str": "O Lindo"
     },
     {
         "key": "14427A08459289522231F5B3835D2594",
@@ -327,7 +327,7 @@
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Cama Van"
+        "str": "Cama da van"
     },
     {
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
@@ -381,7 +381,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Caso de queda"
+        "str": "Abandonar o caso"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -393,13 +393,13 @@
         "key": "1AEE02D7485216A7EBEC93AD95D81A25",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Right Side",
-        "str": "PC Lado Direito"
+        "str": "Lado direito do PC"
     },
     {
         "key": "1AF5392F481406F80C566FB0740D5D3D",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shady",
-        "str": "O sombrio"
+        "str": "O Sombrio"
     },
     {
         "key": "1B0B52154F304355C2F9DFBA6325F8BB",
@@ -417,7 +417,7 @@
         "key": "1C4788334C67D107A7BE1F931C0A749E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_24.Text",
         "id": "Your election",
-        "str": "Sua eleição"
+        "str": "Sua escolha"
     },
     {
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
@@ -429,7 +429,7 @@
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gentleman",
-        "str": "O cavalheiro"
+        "str": "O Cavalheiro"
     },
     {
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
@@ -459,7 +459,7 @@
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "O brilho"
+        "str": "O Brilho"
     },
     {
         "key": "1F51194C47FBB1A80E8868BDC35CC619",
@@ -471,19 +471,19 @@
         "key": "1F7140B7494998788B096E85BEA451B4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispers",
-        "str": "Os Sussurros"
+        "str": "O Sussurrante"
     },
     {
         "key": "20522EAA4B93A60CC0A3D19D27066678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grimace",
-        "str": "A careta"
+        "str": "A Careta"
     },
     {
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "Esses elixires revelam relações entre as bonecas. Todas elas têm relações, e esta é a única maneira de descobri-las. Vamos começar testando a relação amorosa de Lil com as outras bonecas. Basta aplicar o elixir em Lil e observar os efeitos. Todos aqueles que respondem aos efeitos de Lil são "
+        "str": "Esses elixires revelam relações entre as bonecas. Todas elas têm relações, e esta é a única maneira de descobri-las. Vamos começar testando a relação amorosa de Lil com as outras bonecas. Basta aplicar o elixir em Lil e observar os efeitos. Todos aqueles que respondem aos efeitos de Lil são os que ela ama. "
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -495,13 +495,13 @@
         "key": "212CE2FB4F7C398C125B5C8C8915BB95",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cackle",
-        "str": "A gargalhada"
+        "str": "A Gargalhada"
     },
     {
         "key": "21952B6F489AA6A8308F0591867EAC2B",
         "location": "/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]",
         "id": "Loves",
-        "str": "Amores"
+        "str": "Ama"
     },
     {
         "key": "21FD3D1D43C022720514D89AC43F3A61",
@@ -525,7 +525,7 @@
         "key": "22BFA453461BA510FCB07C9231AA8F6C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Silhouette",
-        "str": "A silhueta"
+        "str": "A Silhueta"
     },
     {
         "key": "230AAACD49536A9594B0CBB4CA653C76",
@@ -549,7 +549,7 @@
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "Vários alvos apareceram na foto; "
+        "str": "Vários alvos apareceram na foto; tente se aproximar e focar apenas no alvo que você deseja."
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -597,7 +597,7 @@
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "O perseguidor"
+        "str": "O Perseguidor"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
@@ -609,7 +609,7 @@
         "key": "2A0B22FD46CEA7F67C28AAA09A2DBB92",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Grin",
-        "str": "O sorriso"
+        "str": "O Sorriso"
     },
     {
         "key": "2A63AABC4C73EF73FB658F9F39376B6B",
@@ -639,7 +639,7 @@
         "key": "2C9826E7491425A6734CEB96CDC60470",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "Ms. Excellence",
-        "str": "Ms. Excelência"
+        "str": "Sra. Excelência"
     },
     {
         "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -657,7 +657,7 @@
         "key": "2D485E384A7ABE47FD44F58A954301B6",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
         "id": "Hard",
-        "str": "Duro"
+        "str": "Difícil"
     },
     {
         "key": "2DE4F4264AEB90D45B2363B38034FA9E",
@@ -681,7 +681,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "Eu também lhe dei uma bolsa. Esta bolsa irá ajudá-lo a capturar o impostor. Depois de pegá-lo, o jogo terminará (se você fizer isso dentro do prazo). Deixo você terminar esta parte do tutorial. Se você "
+        "str": "Eu também lhe dei uma bolsa. Esta bolsa irá ajudá-lo a capturar o impostor. Depois de pegá-lo, o jogo terminará (se você fizer isso dentro do prazo). Deixo você terminar esta parte do tutorial. Perdendo ou ganhando, o jogo acaba. Boa sorte!"
     },
     {
         "key": "2EF2F1564FC48CCE3E64C3AC2AE2520E",
@@ -801,13 +801,13 @@
         "key": "37E26C5949E57421072DF6AFA351D3FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Moan",
-        "str": "O gemido"
+        "str": "O Gemido"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
-        "str": "Curtidas"
+        "str": "Gosta"
     },
     {
         "key": "3837591C42D92A7775C0598726DC6D31",
@@ -819,7 +819,7 @@
         "key": "3A4B9B82453A3C78DD066BBB53AFC867",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-        "str": "Só temos 3 restantes. Vamos para a sala ver quem mudou e quem foi movido."
+        "str": "Só temos 3 restantes. Vamos para a sala ver quem se moveu e quem foi movido."
     },
     {
         "key": "3AD41353481D8F51B3C3699171A4CED1",
@@ -867,7 +867,7 @@
         "key": "3DBA3FB1494E536000C8F997B62EA3C1",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Mournful",
-        "str": "O triste"
+        "str": "O Triste"
     },
     {
         "key": "3E1BC428435A0C653E4D7185A4847A91",
@@ -891,7 +891,7 @@
         "key": "3E8440AC413D7725FE75218355F55B7B",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-        "str": "Ótimo! "
+        "str": "Ótimo! Eu lhe dei o papel sombrio. Use-o em Lil e anote tudo o que você vê. Lembre-se de que essas são as coisas que ela não gosta, então qualquer coisa que ela elimine indicará o que ela não gosta."
     },
     {
         "key": "3F370B9043F249CD818C5C9E9D7218CD",
@@ -963,7 +963,7 @@
         "key": "433A6CE84E4955044C7FB38105FA63BF",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
         "id": "Footsteps Volume",
-        "str": "Volume de passos"
+        "str": "Volume dos passos"
     },
     {
         "key": "43B95535434D97B9189B93A2A4594202",
@@ -975,7 +975,7 @@
         "key": "446183A644D53693C3BF6E947D141A43",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hauntling",
-        "str": "A assombração"
+        "str": "A Assombração"
     },
     {
         "key": "450F1E1F4012C5BD1CE1A88E6A7F6CC1",
@@ -1011,7 +1011,7 @@
         "key": "4634F1C448A78E03F4AC7B94441281EB",
         "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_268.Text",
         "id": "Resume Game",
-        "str": "Retomar jogo"
+        "str": "Voltar ao jogo"
     },
     {
         "key": "467D9B7144D32E320B1C6AA6D55B95B5",
@@ -1029,13 +1029,13 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "Saia da sala agora e verifique tudo que está ativado. Anote tudo o que você vê nos likes da boneca!"
+        "str": "Saia da sala agora e verifique tudo que está ativado. Anote tudo o que você vê nos gostos das bonecas!"
     },
     {
         "key": "47254BE24A91487FA9DB08918BAFEBED",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-        "str": "Você concluiu o tutorial e sabe o básico! "
+        "str": "Você concluiu o tutorial e sabe o básico! Para finalizar o tutorial, vá para a cama e durma. Você irá para sua zona segura. Use o computador para iniciar um jogo!"
     },
     {
         "key": "4798B1E54C73C4932878B1A4630376ED",
@@ -1047,13 +1047,13 @@
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Belladonna leaves",
-        "str": "Folhas de beladona"
+        "str": "Folhas de Beladona"
     },
     {
         "key": "493B1FBE4D84E9D9798F7D8AAD0CF937",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ominous",
-        "str": "O sinistro"
+        "str": "O Agourento"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -1071,7 +1071,7 @@
         "key": "4A335723409BCF0895C868A63CFBA1DB",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Nightfall",
-        "str": "O anoitecer"
+        "str": "O Anoitecer"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
@@ -1083,7 +1083,7 @@
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "Boneca Van Pendurada"
+        "str": "Boneca pendurada da van"
     },
     {
         "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
@@ -1131,7 +1131,7 @@
         "key": "51205E6D45797595CB5B90B13FC6BF54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Uncanny",
-        "str": "O estranho"
+        "str": "O Estranho"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -1179,7 +1179,7 @@
         "key": "5471B2664F74874D8556F9B63E352A84",
         "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Take flashlight",
-        "str": "Leve lanterna"
+        "str": "Pegar lanterna"
     },
     {
         "key": "54CD20444D2BAF2E0A417794EE4D21F9",
@@ -1191,13 +1191,13 @@
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Lights",
-        "str": "Luzes de van"
+        "str": "Luzes da van"
     },
     {
         "key": "554BB9D046155183D4DCF7A14F96171E",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Duke",
-        "str": "O duque"
+        "str": "O Duque"
     },
     {
         "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
@@ -1209,7 +1209,7 @@
         "key": "58232C9B4DC256E252E24DA64FBF074E",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-        "str": "Antes de te entregar o papel escuro, vamos ativar e ligar tudo. Assim será mais fácil vermos o que a boneca não gosta quando paramos."
+        "str": "Antes de te entregar o papel sombrio, vamos ativar e ligar tudo. Assim será mais fácil vermos o que a boneca não gosta quando desligarmos."
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1221,7 +1221,7 @@
         "key": "591DF6954C2D384CBCCD838B12BD62CA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(34 - Value).DisplayNameMap",
         "id": "Camp with enemies",
-        "str": "Acampe com inimigos"
+        "str": "Acampar com inimigos"
     },
     {
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
@@ -1233,7 +1233,7 @@
         "key": "5981A77041F835414316E0BEA0C3C8F8",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
-        "str": "VOCÊ GANHA"
+        "str": "VOCÊ GANHOU!"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -1245,7 +1245,7 @@
         "key": "5A6092F448BE77B01756FFA578E7435A",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
         "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-        "str": "Modo aleatório, mas sem fim, você tem um cronômetro de 3 minutos para resolver o caso e há uma tabela de classificação de líderes"
+        "str": "Modo aleatório, mas sem fim. Você tem um cronômetro de 3 minutos para resolver o caso e há uma tabela de classificação de líderes"
     },
     {
         "key": "5A9082C24056C8BFE9DE8EA9069EF292",
@@ -1257,7 +1257,7 @@
         "key": "5AC930984185A24BC84F5EB1E734B80E",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Tubesocks",
-        "str": "As meias tubulares"
+        "str": "As Meias Tubulares"
     },
     {
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
@@ -1305,7 +1305,7 @@
         "key": "60747A674F244C50BD7C42986DD084AD",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Widow",
-        "str": "A viúva"
+        "str": "A Viúva"
     },
     {
         "key": "60929102471030286F6536A92C1EC5C8",
@@ -1317,7 +1317,7 @@
         "key": "60E9BFBD4D9BFF7D7952CA9115FFAA10",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shadow",
-        "str": "A sombra"
+        "str": "A Sombra"
     },
     {
         "key": "611C7265455A03D1E36711A53C897A09",
@@ -1335,7 +1335,7 @@
         "key": "61579A7B4A7A797C38911980E669DE96",
         "location": "/Game/enums/actions.actions.DisplayNameMap(18 - Value).DisplayNameMap",
         "id": "Jail Others",
-        "str": "Prisão Outros"
+        "str": "Aprisionar outros"
     },
     {
         "key": "626EC2FD45418B0B7A54ADBCAEADA3A0",
@@ -1359,7 +1359,7 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "Ao iniciar um caso, você poderá se equipar com os itens que comprou ou fabricou. Para fazer isso, acesse o baú atrás de você. Neste momento, você o verá vazio, mas não se preocupe, eu' "
+        "str": "Ao iniciar um caso, você poderá se equipar com os itens que comprou ou fabricou. Para fazer isso, acesse o baú atrás de você. Neste momento, você o verá vazio, mas não se preocupe, eu vou te dar itens pra que você os conheça!"
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -1395,13 +1395,13 @@
         "key": "6583C6EE4A8FDE826EE589BCC51DF291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Riddle",
-        "str": "O enigma"
+        "str": "O Enigma"
     },
     {
         "key": "6599647B49FD6A15932490B717FE66F3",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Lover",
-        "str": "O amante"
+        "str": "O Amante"
     },
     {
         "key": "6621BA854D50DB36041E58AFE9A250D5",
@@ -1437,7 +1437,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Criei um guia mais avançado que explora todos os aspectos do Modo Carreira. Se precisar de mais ajuda, recomendo que você dê uma olhada; "
+        "str": "Criei um guia mais avançado que explora todos os aspectos do Modo Carreira. Se precisar de mais ajuda, recomendo que você dê uma olhada; vai te ajudar a solucionar casos futuros!"
     },
     {
         "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -1449,7 +1449,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Perfeito, agora vamos investigar uma das bonecas. que te dei uma câmera; "
+        "str": "Perfeito, agora vamos investigar uma das bonecas. Eu te dei uma câmera; vamos tirar uma foto de Lil."
     },
     {
         "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -1461,7 +1461,7 @@
         "key": "6A0CBE8D405C375978D82F96CC069A3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Lament",
-        "str": "O lamento"
+        "str": "O Lamento"
     },
     {
         "key": "6A1B28C14FD17FB8222E60837327DA35",
@@ -1479,7 +1479,7 @@
         "key": "6AE175A04F5F286311D601922779AEE5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dire",
-        "str": "O terrível"
+        "str": "O Terrível"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -1491,7 +1491,7 @@
         "key": "6B78310947BA56A4D0322EAFBC650458",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Macabre",
-        "str": "O macabro"
+        "str": "O Macabro"
     },
     {
         "key": "6BF7F5344FD96A246EE841869E9C0DB0",
@@ -1503,7 +1503,7 @@
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "A meia-noite"
+        "str": "A Meia-Noite"
     },
     {
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
@@ -1515,13 +1515,13 @@
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
         "id": "Effects Volume",
-        "str": "Volume de efeitos"
+        "str": "Volume dos efeitos"
     },
     {
         "key": "6E900D00499A2A657789138FBA3BD69E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_49.Text",
         "id": "Previous Equipment",
-        "str": "Equipamento Anterior"
+        "str": "Equipamento anterior"
     },
     {
         "key": "6F62E8EE4D6306627A7D92B69CABCC13",
@@ -1557,13 +1557,13 @@
         "key": "7095C09D4014D1FB9E4C1D9529586155",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_7.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "PC Left Side",
-        "str": "Lado Esquerdo do PC"
+        "str": "Lado esquerdo do PC"
     },
     {
         "key": "70EEFB58402BFE6D2679A59821BAFB3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glare",
-        "str": "O brilho"
+        "str": "O Brilho"
     },
     {
         "key": "71DA9AC944078FAD69976DAAA19A68C0",
@@ -1611,7 +1611,7 @@
         "key": "740E2993476C6AB0DEDC3BA514B0FF5F",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Comedian",
-        "str": "O comediante"
+        "str": "O Comediante"
     },
     {
         "key": "743C50254A73CE29F7B3D7858FFBA46F",
@@ -1623,13 +1623,13 @@
         "key": "7461839E43289FBE953BE6A6CD4D28D8",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Deadly",
-        "str": "O mortal"
+        "str": "O Mortal"
     },
     {
         "key": "75A0760B4CF756F7572751980578A7E4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Single",
-        "str": "O solteiro"
+        "str": "O Solteiro"
     },
     {
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
@@ -1641,7 +1641,7 @@
         "key": "7716C8834922818B3241669F9591DF51",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_16.Text",
         "id": "Costs",
-        "str": "Custos"
+        "str": "Valores"
     },
     {
         "key": "773B946148501068D9A5B3A814B81ECD",
@@ -1671,7 +1671,7 @@
         "key": "7826866B435A8EE313772C8979CA261B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
         "id": "Jumpscares Volume",
-        "str": "Volume de sustos"
+        "str": "Volume dos sustos"
     },
     {
         "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
@@ -1713,7 +1713,7 @@
         "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hush",
-        "str": "O silêncio"
+        "str": "O Silêncio"
     },
     {
         "key": "7B5021F44C29F7525F8D74A05BB722CC",
@@ -1743,7 +1743,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "Ao terminar o tutorial, você poderá enfrentar dificuldades financeiras. Para resolver isso, você pode jogar o modo clássico, e dependendo do nível de dificuldade, ele lhe concederá mais ou menos dinheiro para usar nos casos."
+        "str": "Ao terminar o tutorial, você poderá enfrentar dificuldades financeiras. Para resolver isso, você pode jogar o modo clássico, e dependendo do nível de dificuldade, ele lhe concederá dinheiro para usar nos casos."
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -1755,19 +1755,19 @@
         "key": "7C75165C49E7D2EBD079048C7F8B471B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(1).Options.Label",
         "id": "On",
-        "str": "Sobre"
+        "str": "Ligado"
     },
     {
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "Van Lado Esquerdo"
+        "str": "Lado esquerdo da van"
     },
     {
         "key": "7D39CA6640F288A9002846AE7D7F4041",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_6.sections_22_4031E9264112E4E86BC48BA9D729A311(0).sections_22_4031E9264112E4E86BC48BA9D729A311.section_3_07527C2F4BE4A70097D1ACA12D7EA7DE",
         "id": "Mini Object",
-        "str": "Miniobjeto"
+        "str": "Mini Objeto"
     },
     {
         "key": "7EB47B9449369EB3E3F18C972CC18786",
@@ -1887,7 +1887,7 @@
         "key": "84743C7D412BD85DD93CC092751C89E7",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Murk",
-        "str": "A escuridão"
+        "str": "A Escuridão"
     },
     {
         "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -1899,13 +1899,13 @@
         "key": "84B3B484489A7A0017B755B62F30FC82",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text",
         "id": "Accept Case",
-        "str": "Aceitar caso"
+        "str": "Aceitar o caso"
     },
     {
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "Eletricidade ligada! "
+        "str": "Eletricidade ligada! Volte para à casa."
     },
     {
         "key": "861398CE4A33BD25FB23BE95A3EC66C6",
@@ -1941,7 +1941,7 @@
         "key": "8785C0644A30D7680DD4668FB916A03A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
         "id": "Hide Others",
-        "str": "Ocultar outros"
+        "str": "Ocultar Outros"
     },
     {
         "key": "878E24534B885E2AB87EACB0394A0E58",
@@ -1953,7 +1953,7 @@
         "key": "87B1E3F54AA52AE964B7BDAF99914042",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering Breeze",
-        "str": "A brisa sussurrante"
+        "str": "A Brisa Sussurrante"
     },
     {
         "key": "87FBE09C4BC5718F45CC6F8E716201AE",
@@ -1965,7 +1965,7 @@
         "key": "8841057C4E79D1D004AE35BDDA5930D6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_5.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals hatred",
-        "str": "Elixir que revela ódio"
+        "str": "Elixir que revela raiva"
     },
     {
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
@@ -1983,7 +1983,7 @@
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Hollow",
-        "str": "O oco"
+        "str": "O Oco"
     },
     {
         "key": "8C5FD61743DD0F208E4EC58CE1706DB2",
@@ -2079,7 +2079,7 @@
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
         "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals likes",
-        "str": "Papel que revela curtidas"
+        "str": "Papel que revela gostos"
     },
     {
         "key": "93917B7240A1743F582D7E9208B16F62",
@@ -2157,7 +2157,7 @@
         "key": "996579D246DE71F2608BB5BF8C353DA4",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Kid",
-        "str": "O garoto"
+        "str": "O Garoto"
     },
     {
         "key": "99AE0DEC47710525BAF347ABFE8339AB",
@@ -2169,13 +2169,13 @@
         "key": "99BCFC05431F42E7A29B539406D75C0B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Screech",
-        "str": "O grito"
+        "str": "O Grito"
     },
     {
         "key": "9A3A87B047A1CC933C4F6197811B657B",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Gold Cup",
-        "str": "Taça Ouro"
+        "str": "Taça de ouro"
     },
     {
         "key": "9A993AAB4A1C119EBBFB0FB94B27F8DE",
@@ -2193,13 +2193,13 @@
         "key": "9B0C4F0544EED1171CEEF59539778188",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unlucky",
-        "str": "O azarado"
+        "str": "O Azarado"
     },
     {
         "key": "9B283B084E6D48B26573D0A0CD07A07E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Menace",
-        "str": "A ameaça"
+        "str": "A Ameaça"
     },
     {
         "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
@@ -2229,19 +2229,19 @@
         "key": "9CDEB80D4E621DB2CC0B839965697925",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Awkward",
-        "str": "O estranho"
+        "str": "O Estranho"
     },
     {
         "key": "9CE4FD774DFBE4C84DC711A634666FA7",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Bot",
-        "str": "O bot"
+        "str": "O Bot"
     },
     {
         "key": "9CF4BD434FB00A0E98BE348036F66B3F",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shade",
-        "str": "A sombra"
+        "str": "A Sombra"
     },
     {
         "key": "9D7CA8BB4D12421F2093AB823A8EAC45",
@@ -2265,7 +2265,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "Para revelar a foto, você precisa movê-la. Assim que estiver 100% revelada, basta pressionar o botão usar e ela será salva."
+        "str": "Para revelar a foto, você precisa movê-la. Assim que estiver 100% revelada, basta pressionar o botão \\\"usar\\\" e ela será salva."
     },
     {
         "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
@@ -2295,7 +2295,7 @@
         "key": "A25E20BF4E349221F9E980AF8435D2FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wicked",
-        "str": "Os maus"
+        "str": "O Perverso"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -2313,7 +2313,7 @@
         "key": "A31A514F4934E454FDB9F4BF3A480C84",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grim",
-        "str": "O sombrio"
+        "str": "O Sombrio"
     },
     {
         "key": "A43C17F940FC87439BFB25A6FAC1FC63",
@@ -2331,19 +2331,19 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "Acabou o tempo! "
+        "str": "Acabou o tempo! Se você não conseguiu anotar tudo, eis o que foi observado: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_1.Text",
         "id": "Travel",
-        "str": "Viagem"
+        "str": "Viajar"
     },
     {
         "key": "A6E8E3B84059F699472F1C8DECDAF09C",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Star",
-        "str": "A estrela"
+        "str": "A Estrela"
     },
     {
         "key": "A7121AED466C7D8F9486A89DECB2409C",
@@ -2361,7 +2361,7 @@
         "key": "A7F922E44402D03BA8B2DCA5ED3EDB54",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dark",
-        "str": "O escuro"
+        "str": "O Escuro"
     },
     {
         "key": "A87033014B68DAC4F5312BB46BEB28AF",
@@ -2373,13 +2373,13 @@
         "key": "A97B724146EEB86D384D6A85A4F8931C",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Craft",
-        "str": "Arte"
+        "str": "Criar"
     },
     {
         "key": "AA8520BE4876828E544192BFA8F98EE7",
         "location": "/Game/enums/actions.actions.DisplayNameMap(3 - Value).DisplayNameMap",
         "id": "Move Self",
-        "str": "Mover-se"
+        "str": "Se mover"
     },
     {
         "key": "AB25CB294CD7BEF8559DFA89B96B8F9B",
@@ -2445,7 +2445,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "Tudo bem, vou te dar o resto dos elixires para aplicar em Lil. Amicitia representa amizade, Inimicitia representa inimizade e Odium representa ódio. Cada um deles, com sua cor específica, revelará os relacionamentos de Lil. Anote tudo que você observar e lembre-se disso "
+        "str": "Tudo bem, vou te dar o resto dos elixires para aplicar em Lil. Amicitia representa amizade, Inimicitia representa inimizade e Odium representa ódio. Cada um deles, com sua cor específica, revelará os relacionamentos de Lil. Anote tudo que você observar e lembre-se que em alguns casos, Lil pode não ter nenhum relacionamento específico."
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -2457,13 +2457,13 @@
         "key": "B0A7B7E446CEF182A3AFDAB193FBBD80",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Grump",
-        "str": "O rabugento"
+        "str": "O Rabugento"
     },
     {
         "key": "B16BD65740B9A94C398B138BCEEA9678",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Flicker",
-        "str": "A cintilação"
+        "str": "A Cintilação"
     },
     {
         "key": "B190DC8C4B38B72150B586B737F83910",
@@ -2529,13 +2529,13 @@
         "key": "B46005B1494B233FC63D6C92DB922873",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Doorman",
-        "str": "O porteiro"
+        "str": "O Porteiro"
     },
     {
         "key": "B4AEF1D44E3C8E5E66BF539EAD22F342",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Terrifying",
-        "str": "O aterrorizante"
+        "str": "O Aterrorizante"
     },
     {
         "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
@@ -2553,7 +2553,7 @@
         "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Loner",
-        "str": "O solitário"
+        "str": "O Solitário"
     },
     {
         "key": "B5E4018D483BA5D32A8B06AF41CF03FC",
@@ -2571,7 +2571,7 @@
         "key": "B708786A4C2E1065BA0B60A6CAA2FAC9",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Scowl",
-        "str": "A carranca"
+        "str": "A Carranca"
     },
     {
         "key": "B7532CB642D1303CB57FF89D855B8189",
@@ -2601,7 +2601,7 @@
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghoster",
-        "str": "O fantasma"
+        "str": "O Fantasma"
     },
     {
         "key": "B9B809EC40076554656E1A8C91157931",
@@ -2613,19 +2613,19 @@
         "key": "BAD425AD48B5C8A24B0663948D13EA94",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Planner",
-        "str": "O planejador"
+        "str": "O Planejador"
     },
     {
         "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-        "str": "Agora você deve anotá-los nas notas do bloco de notas. Além disso, se você estiver usando teclado e mouse, e clicar fora das notas, a página do boneco permanecerá aberta."
+        "str": "Agora você deve anotá-los no bloco de notas. Além disso, se você estiver usando teclado e mouse, e clicar fora das notas, a página do boneco permanecerá aberta."
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_7.Text",
         "id": "Ambient Volume",
-        "str": "Volume ambiente"
+        "str": "Volume do ambiente"
     },
     {
         "key": "BC337075457AE8659374D6BF82D6E51D",
@@ -2655,7 +2655,7 @@
         "key": "BDC3A1864427A6240202ACAFA646188C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-        "str": "Vá dormir e vamos ver se a pista se resolve na próxima hora."
+        "str": "Vá dormir e vamos ver se a pista se soluciona na próxima hora."
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -2709,7 +2709,7 @@
         "key": "C0D16AB6449869CB93491684F3F5D44C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Eerie",
-        "str": "O misterioso"
+        "str": "O Misterioso"
     },
     {
         "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
@@ -2739,7 +2739,7 @@
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text",
         "id": "Number of photographs taken of dolls",
-        "str": "Número de fotografias tiradas de bonecas"
+        "str": "Número de fotografias tiradas das bonecas"
     },
     {
         "key": "C28723EC476B280B7C783CAAD9FE2784",
@@ -2799,7 +2799,7 @@
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "Eu lhe dei uma lanterna, que é muito importante neste modo devido à escuridão intensa. Preste atenção aos números na sua UI na parte inferior; "
+        "str": "Eu lhe dei uma lanterna, que é muito importante neste modo devido à escuridão intensa. Preste atenção aos números na sua UI na parte inferior; você pode equipar no máximo 10 itens, sendo o primeiro slot sempre sua mão. Você pode navegar pelo seu inventário pressionando as teclas de equipamento anterior e seguinte ou no teclado usando as teclas numéricas ou a roda do mouse."
     },
     {
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
@@ -2811,7 +2811,7 @@
         "key": "C8A00764485261B746BFEE94C58D6ECA",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Scary",
-        "str": "O assustador"
+        "str": "O Assustador"
     },
     {
         "key": "C8F05C9640A64BDEEDFF738C5E065267",
@@ -2829,13 +2829,13 @@
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Soul Book",
-        "str": "Livro da alma"
+        "str": "Livro da Alma"
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-        "str": "Ele caiu na nossa armadilha e apagou as luzes. Agora podemos descartar todos aqueles que gostam da luz."
+        "str": "Ele caiu na nossa armadilha e apagou as luzes. Agora podemos descartar todos aqueles que gostam de luz."
     },
     {
         "key": "CAECC15549067E173F931888596593F1",
@@ -2859,13 +2859,13 @@
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_19.Text",
         "id": "Ratio",
-        "str": "Razão"
+        "str": "Proporção"
     },
     {
         "key": "CE5521734152BB8FDF36949D84AA7F39",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ghastly",
-        "str": "O medonho"
+        "str": "O Medonho"
     },
     {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -2883,7 +2883,7 @@
         "key": "CF3A6ECB45A9488C10D246A3FD143977",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Weasel",
-        "str": "A doninha"
+        "str": "A Doninha"
     },
     {
         "key": "D03A184741DBDC2985FBC9A454F19494",
@@ -2895,19 +2895,19 @@
         "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Spooky",
-        "str": "O assustador"
+        "str": "O Amendrotador"
     },
     {
         "key": "D0B7B2AA420A8149B92FA5A08DC01FFE",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Cryptic",
-        "str": "O enigmático"
+        "str": "O Enigmático"
     },
     {
         "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Chilling",
-        "str": "O arrepiante"
+        "str": "O Arrepiante"
     },
     {
         "key": "D107C133465E950C0D0B42BAAA8BDF09",
@@ -2919,7 +2919,7 @@
         "key": "D20B4CF442582F2B1E945BA082899AD3",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echoing",
-        "str": "O eco"
+        "str": "O Eco"
     },
     {
         "key": "D249146742516BB46178BA859A421873",
@@ -2961,7 +2961,7 @@
         "key": "D400DBFE4DD655EF2BD09C888BD1C988",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gloom",
-        "str": "A escuridão"
+        "str": "A Escuridão"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -2979,13 +2979,13 @@
         "key": "D4EF88484AEDF13F230DCB808F4F9D2E",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creep",
-        "str": "O rastejante"
+        "str": "O Rastejante"
     },
     {
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "O estremecimento"
+        "str": "O Estremecimento"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
@@ -3033,13 +3033,13 @@
         "key": "D8CB256A4FC1286A3BD465B95B7398D6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Flirt",
-        "str": "O flerte"
+        "str": "O Flerte"
     },
     {
         "key": "D8EB81F34ACA8EEE85F5E09D1DA0CB64",
         "location": "/Game/enums/actions.actions.DisplayNameMap(13 - Value).DisplayNameMap",
         "id": "Hide Self",
-        "str": "Esconder-se"
+        "str": "Se esconder"
     },
     {
         "key": "D8F293214EA6402451DED28B75ADA37E",
@@ -3051,7 +3051,7 @@
         "key": "D955FAE74433E108EB3C078EF42B2DC8",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Quiet",
-        "str": "O silêncio"
+        "str": "O Silêncio"
     },
     {
         "key": "D9B2458843A82DBB9843FBBB36327D9A",
@@ -3063,7 +3063,7 @@
         "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wisp",
-        "str": "O fogo-fátuo"
+        "str": "O Fogo-fátuo"
     },
     {
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
@@ -3081,19 +3081,19 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Os papéis da alma são pergaminhos místicos, extraordinariamente únicos, e existem dois tipos: Soul Papers e Soul Dark Papers. Em outras palavras, o Soul Scroll e sua versão escura. Esses pergaminhos revelam o que os bonecos gostam e não gostam. Começaremos com o pergaminho normal. "
+        "str": "Os papéis da alma são pergaminhos místicos, extraordinariamente únicos, e existem dois tipos: Papéis da Alma e Papéis Sombrios da Alma. Em outras palavras, o Papel da Alma e sua versão obscura. Esses pergaminhos revelam o que os bonecos gostam e não gostam. Começaremos com o pergaminho normal. Use o pergaminho na boneca."
     },
     {
         "key": "DAFC2C134E48E1FBE3399C9D15E37173",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unsettling",
-        "str": "O inquietante"
+        "str": "O Inquietante"
     },
     {
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "Você não pode fazer isso, não cabe em nenhuma receita"
+        "str": "Você não pode fazer isso, não encaixa em nenhuma receita"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -3117,13 +3117,13 @@
         "key": "DFC327DA4616540509FBF6AA40D0458B",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
         "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-        "str": "Modo especialista, você começa a partir das 06:00, não há pistas extras nem fotografias"
+        "str": "Modo especialista, você começa a partir das 06:00, não há pistas extras, nem fotografias."
     },
     {
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The New",
-        "str": "O novo"
+        "str": "O Novo"
     },
     {
         "key": "E0A26C2A477073293C2A5093569FFE5E",
@@ -3183,7 +3183,7 @@
         "key": "E672CE194312B524EAE5218F788B97F4",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Stiff",
-        "str": "O rígido"
+        "str": "O Rígido"
     },
     {
         "key": "E67B208049756CC3B5F16089AC41B470",
@@ -3219,7 +3219,7 @@
         "key": "E83CDA864E3FD82D333504A00D6E24D4",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Omen",
-        "str": "O presságio"
+        "str": "O Presságio"
     },
     {
         "key": "E85D23F14D7C46E45DA387A747928F07",
@@ -3243,7 +3243,7 @@
         "key": "E96A210546B4B0647B0763843052BBF8",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
         "id": "Head Bobbing",
-        "str": "Balançando a cabeça"
+        "str": "Balanço da cabeça"
     },
     {
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
@@ -3291,7 +3291,7 @@
         "key": "EDA5294F43DB42C2856059B83C9A6BF5",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
         "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-        "str": "Essa probabilidade ficará latente toda vez que você viajar; "
+        "str": "Essa probabilidade ficará latente toda vez que você viajar; você pode encontrar uma caixa que conterá coisas dentro."
     },
     {
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
@@ -3309,7 +3309,7 @@
         "key": "EEEE750B4277BD6C5835BD901B924179",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dusk",
-        "str": "O crepúsculo"
+        "str": "O Crepúsculo"
     },
     {
         "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -3339,13 +3339,13 @@
         "key": "F22CBEE0429B4D716137DE9A58D8A371",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Frightening",
-        "str": "O assustador"
+        "str": "O Aterrorizante"
     },
     {
         "key": "F234C7F94700549E267ADA87AC492287",
         "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
         "id": "Ouija",
-        "str": "Tábua Ouija"
+        "str": "Tabuleiro Ouija"
     },
     {
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
@@ -3363,7 +3363,7 @@
         "key": "F28B41324F202FA2E02A0DB59579D291",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Wretched",
-        "str": "Os miseráveis"
+        "str": "O Miserável"
     },
     {
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
@@ -3417,7 +3417,7 @@
         "key": "F4CB65EF48F9C01CD6AB509912890A36",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Ringmaster",
-        "str": "O mestre de cerimônias"
+        "str": "O Mestre de Cerimônias"
     },
     {
         "key": "F5698F3144BF19F3BDD3D58AA167101F",
@@ -3429,7 +3429,7 @@
         "key": "F58DB0B646AB1214A995FD9D228448FD",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dread",
-        "str": "O pavor"
+        "str": "O Pavor"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
@@ -3459,13 +3459,13 @@
         "key": "F68B1482480395C0AD66298BBA07A363",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Dive",
-        "str": "O mergulho"
+        "str": "O Mergulho"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "Você terá um caso disponível com vários parâmetros dinâmicos. Ele exibirá informações como o atual, e se você não gostar, poderá procurar um novo caso em troca de dinheiro. Atualmente, no modo tutorial, limitamos suas interações "
+        "str": "Você terá um caso disponível com vários parâmetros dinâmicos. Ele exibirá informações como o atual, e se você não gostar, poderá procurar um novo caso em troca de dinheiro. Atualmente, no modo tutorial, limitamos suas interações; você não poderá comprar, fabricar, sair do caso ou procurar um novo caso."
     },
     {
         "key": "F703F19542906B2F29A58E83811DB3AD",
@@ -3483,13 +3483,13 @@
         "key": "F7E1BC834A866320EF0D5E9E94F0B8E7",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode. Keep in mind that you'll have 180 seconds, and if the time reaches 0, it will kill you.",
-        "str": "Agora usaremos o item Soul Book. Este item iniciará oficialmente o jogo. Seu uso é simples: quando você usar este livro, quem quer que seja o impostor (neste caso, Lil) começará a agir. Neste ponto, você "
+        "str": "Agora usaremos o item Livro da Alma. Este item iniciará oficialmente o jogo. Seu uso é simples: quando você usar este livro, quem quer que seja o impostor (neste caso, Lil) começará a agir. Nesta hora, você precisará comparar as informações com o que acontece, assim como no modo original. Lembre-se de que você terá 180 segundos e, se o tempo chegar a 0, isso o matará."
     },
     {
         "key": "F7F54678404761EAEB33B4B508EC97D1",
         "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Hope",
-        "str": "A esperança"
+        "str": "A Esperança"
     },
     {
         "key": "F83E76BC49FC84244322C382556B6E5F",
@@ -3501,7 +3501,7 @@
         "key": "F880818144C667A994BEEF9200987EF4",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Chest",
-        "str": "Peito"
+        "str": "Baú"
     },
     {
         "key": "F9560AD34A829952AE5F5498756E174C",
@@ -3537,7 +3537,7 @@
         "key": "FACAB65943781B084CD803A77E0F7266",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gurl",
-        "str": "A garota"
+        "str": "A Garota"
     },
     {
         "key": "FAD096A047C791A2435446A372491A59",
@@ -3561,7 +3561,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "Você tem {novas} noites, não conseguiu bater o recorde das {antigas} noites"
+        "str": "Você tem {new} noites, você não conseguiu bater o recorde das {old} noites"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
@@ -3597,7 +3597,7 @@
         "key": "FE160B74470133E4B513D18D4566D063",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU LOSE",
-        "str": "VOCÊ PERDE"
+        "str": "VOCÊ PERDEU!"
     },
     {
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
@@ -3615,7 +3615,7 @@
         "key": "FF2636BB4F223BBD00D531A30CF9EB06",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_24.Text",
         "id": "Case History",
-        "str": "Histórico de caso"
+        "str": "Histórico de casos"
     },
     {
         "key": "FF277FA44BB3DB99FB3F4393911D9B6D",
