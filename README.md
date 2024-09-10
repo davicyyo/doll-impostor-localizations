@@ -14,8 +14,8 @@ https://github.com/davicyyo/doll-impostor-localizations/blob/main/en.json
 5. Paste your new translate
 6. Press SHIFT + ALT + F (For format the file)
 7. Go to left side (Icon below search)
-8. There should be a 1 at least, if not to if you save the file
-9. Tap + on the file
+8. There should be a 1 at least, if not, you need save the file (CTRL + S)
+9. Tap "+" on the file
 10. Commit + push button (Or commit and push)
 11. Go to (https://github.com/davicyyo/doll-impostor-localizations/compare)
 12. Just select the right side with your user and main
