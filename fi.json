@@ -1791,7 +1791,7 @@
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "Tehosteet ovat kuluneet pois. Jos et onnistunut kirjoittamaan sitä muistiin, Lilin rakkautta ovat: {ihmiset}"
+        "str": "Tehosteet ovat kuluneet pois. Jos et onnistunut kirjoittamaan sitä muistiin, Lilin rakkautta ovat: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Olet rikkonut uuden ennätyksesi {new} yöllä! "
+        "str": "Olet rikkonut uuden ennätyksesi {new} yöllä! {old} yötä ennen!"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -2331,7 +2331,7 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "Aika on ohi! "
+        "str": "Aika loppui! jos et onnistunut kirjoittamaan kaikkea ylös, tässä mitä havaittiin: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",

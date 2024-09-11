@@ -1137,7 +1137,7 @@
         "key": "5154AFE04B70A5D272398C80C9353C25",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getNeedText [Script Bytecode]",
         "id": "You need {name}",
-        "str": "{名前}が必要です"
+        "str": "{name}が必要です"
     },
     {
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "{new} 泊の新記録を破りました!"
+        "str": "{new} 泊の新記録を破りました! 以前の {old} 泊よりも!"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -2331,7 +2331,7 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "時間切れです！"
+        "str": "時間切れです! すべてを書き留めることができなかった場合は、観察されたものが次のとおりです: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2967,7 +2967,7 @@
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
-        "str": "翻訳者: {人々}"
+        "str": "翻訳者: {people}"
     },
     {
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
@@ -3561,7 +3561,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "{新しい} 泊しましたが、{古い} 泊の記録を超えることができませんでした"
+        "str": "{new} 泊しましたが、{old} 泊の記録を超えることができませんでした"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",

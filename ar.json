@@ -1137,7 +1137,7 @@
         "key": "5154AFE04B70A5D272398C80C9353C25",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getNeedText [Script Bytecode]",
         "id": "You need {name}",
-        "str": "أنت بحاجة إلى {الاسم}"
+        "str": "أنت بحاجة إلى {name}"
     },
     {
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
@@ -1791,7 +1791,7 @@
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "لقد تلاشت التأثيرات. إذا لم تتمكن من كتابتها، فإن أحب ليل هو: {الناس}"
+        "str": "لقد تلاشت التأثيرات. إذا لم تتمكن من كتابتها، فإن أحب ليل هو: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "لقد حطمت رقمك القياسي الجديد بليالي {new}! "
+        "str": "لقد حطمت رقمك القياسي الجديد بليالي {new}! من الليالي {old} السابقة!"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -2331,7 +2331,7 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "انتهى الوقت! "
+        "str": "!انتهى الوقت إذا لم تتمكن من كتابة كل شيء، فإليك ما تم ملاحظته: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2595,7 +2595,7 @@
         "key": "B8F169E14DBF7CFF567A468DBF711F46",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]",
         "id": "{count} days",
-        "str": "{عدد} أيام"
+        "str": "{count} أيام"
     },
     {
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
@@ -2967,7 +2967,7 @@
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
-        "str": "ترجمة: {الناس}"
+        "str": "ترجمة: {people}"
     },
     {
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
@@ -3561,7 +3561,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "لقد حصلت على {جديدة} من الليالي، ولم تتمكن من التغلب على الرقم القياسي الخاص بك من الليالي {القديمة}."
+        "str": "لقد حصلت على {old} من الليالي، ولم تتمكن من التغلب على الرقم القياسي الخاص بك من الليالي {new}."
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",

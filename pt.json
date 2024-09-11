@@ -1137,7 +1137,7 @@
         "key": "5154AFE04B70A5D272398C80C9353C25",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getNeedText [Script Bytecode]",
         "id": "You need {name}",
-        "str": "Você precisa de {nome}"
+        "str": "Você precisa de {name}"
     },
     {
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
@@ -1791,7 +1791,7 @@
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "Os efeitos passaram. Se você não conseguiu anotar, os amores de Lil são: {pessoas}"
+        "str": "Os efeitos passaram. Se você não conseguiu anotar, os amores de Lil são: {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Você quebrou seu novo recorde com {novas} noites! "
+        "str": "Você quebrou seu novo recorde com {new} noites! das {old} noites anteriores!"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -2595,7 +2595,7 @@
         "key": "B8F169E14DBF7CFF567A468DBF711F46",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]",
         "id": "{count} days",
-        "str": "{contar} dias"
+        "str": "{count} dias"
     },
     {
         "key": "B98D2AB7447B5DBEA44D1D8E675432D3",
@@ -2967,7 +2967,7 @@
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
-        "str": "Traduzido por: {pessoas}"
+        "str": "Traduzido por: {people}"
     },
     {
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",

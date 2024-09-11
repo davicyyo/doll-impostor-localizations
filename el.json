@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Σπάσατε το νέο σας ρεκόρ με {new} νύχτες! "
+        "str": "Σπάσατε το νέο σας ρεκόρ με {new} νύχτες! από τις {old} νύχτες πριν!"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -2331,7 +2331,7 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "Ο χρόνος τελειώνει! "
+        "str": "Ο χρόνος τελείωσε! Αν δεν κατάφερες να σημειώσεις τα πάντα, εδώ είναι τι παρατηρήθηκε: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -3561,7 +3561,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "Έχετε {νέα} νύχτες, δεν καταφέρατε να ξεπεράσετε το ρεκόρ των {παλιών} διανυκτερεύσεων"
+        "str": "Έχετε {new} νύχτες, δεν καταφέρατε να ξεπεράσετε το ρεκόρ των {old} διανυκτερεύσεων"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
