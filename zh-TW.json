@@ -1791,7 +1791,7 @@
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "作用已經消失了。如果你沒有記下來，Lil 的愛好是："
+        "str": "作用已經消失了。如果你沒有記下來，Lil 的愛好是 {people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "你打破了之前的紀錄了！"
+        "str": "你已經打破了你的新紀錄，{new} 夜！比之前的 {old} 夜！"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -3561,7 +3561,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "你已通關，但沒有打破之前的紀錄"
+        "str": "你有{new}個晚上，你沒有打破你{old}個晚上的紀錄"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",

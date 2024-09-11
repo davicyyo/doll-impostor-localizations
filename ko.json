@@ -1137,7 +1137,7 @@
         "key": "5154AFE04B70A5D272398C80C9353C25",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getNeedText [Script Bytecode]",
         "id": "You need {name}",
-        "str": "당신은 {이름}이(가) 필요합니다"
+        "str": "당신은 {name}이(가) 필요합니다"
     },
     {
         "key": "51AAD5804BF2737D78EA9DAB73EC9BBC",
@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "{new}박으로 새로운 기록을 경신하셨습니다! "
+        "str": "{new}박으로 새로운 기록을 경신하셨습니다! 이전 {old}박보다!"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -2331,7 +2331,7 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "시간이 다 됐어! "
+        "str": "시간이 다 되었습니다! 모든 것을 적을 시간이 없었다면 관찰된 내용은 다음과 같습니다: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",

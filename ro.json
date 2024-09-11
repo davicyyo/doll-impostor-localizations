@@ -1791,7 +1791,7 @@
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "The effects have worn off. If you didn’t manage to write it down, Lil’s loves are: {people}",
-        "str": "Efectele s-au dispărut . Dacă nu ai reușit să-l notezi, iubirile lui Lil sunt: ​​{oameni}"
+        "str": "Efectele s-au dispărut . Dacă nu ai reușit să-l notezi, iubirile lui Lil sunt: ​​{people}"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Ți-ai doborât noul record cu {noi} nopți! "
+        "str": "Ți-ai doborât noul record cu {new} nopți! din {old} nopți înainte!"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -2331,7 +2331,7 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "Timpul a trecut! "
+        "str": "Timpul a trecut! Dacă nu ați reușit să scrieți totul, iată ce s-a observat: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -3561,7 +3561,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "Aveți {noi} nopți, nu ați reușit să vă bateți recordul de {vechi} nopți"
+        "str": "Aveți {new} nopți, nu ați reușit să vă bateți recordul de {old} nopți"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",

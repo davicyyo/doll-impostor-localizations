@@ -1827,7 +1827,7 @@
         "key": "8098B1CA4AED33E029A8D4878EE21A49",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-        "str": "Подобрихте новия си рекорд с {new} нощувки! "
+        "str": "Подобрихте новия си рекорд с {new} нощувки! от {old} нощувки преди!"
     },
     {
         "key": "80B42CA54800387D3889EDBDBB0E290E",
@@ -3561,7 +3561,7 @@
         "key": "FC67115746EDB65A022A51B4C1176418",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-        "str": "Имате {нови} нощувки, не успяхте да победите рекорда си от {old} нощувки"
+        "str": "Имате {new} нощувки, не успяхте да победите рекорда си от {old} нощувки"
     },
     {
         "key": "FCA446264B23A96037F05F8D786E8199",
