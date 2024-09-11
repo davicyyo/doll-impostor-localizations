@@ -2331,7 +2331,7 @@
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Time's up! If you didn't manage to write everything down, here's what was observed: {actions}",
-        "str": "Времето изтече! "
+        "str": "Времето изтече! Ако не успяхте да запишете всичко, ето какво беше наблюдавано: {actions}"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
