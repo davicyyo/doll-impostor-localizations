@@ -7,8 +7,7 @@ Use this file for upload in to tool as base file
 https://github.com/davicyyo/doll-impostor-localizations/blob/main/en.json
 
 # HOW TO UP CHANGES
-1. Fork this project
-![image](https://github.com/user-attachments/assets/c1401d45-49a5-4e17-a66d-dc636f6dccb1)
+1. Fork this project (https://github.com/davicyyo/doll-impostor-localizations/fork)
 2. Go to your fork repository like (https://github.com/yourUsername/doll-impostor-localizations)
 3. Go to the file to upload
 4. Press dot (.)
