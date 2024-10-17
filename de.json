@@ -75,7 +75,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Es sieht so aus, als hätte der Betrüger einige Ereignisse begangen.. Diese werden in Ihrem linken Bereich angezeigt.. Überprüfen Sie sie und betreten Sie den Raum dann erneut.."
+        "str": "Es sieht so aus, als hätte der Betrüger einige Ereignisse begangen.. Diese werden auf der linken Tafel angezeigt.. Überprüfen Sie diese und betreten Sie den Raum dann erneut.."
     },
     {
         "key": "042571704BB706480B0FDD806AE57897",
@@ -99,7 +99,7 @@
         "key": "05AD525F49BFE5E3D0E076B33A48FCF0",
         "location": "/Game/UI/confirm.Default__confirm_C.DismissButton",
         "id": "Deny",
-        "str": "Leugnen"
+        "str": "Ablehnen"
     },
     {
         "key": "0600D2134F5944FF6E3102866C348F23",
@@ -213,7 +213,7 @@
         "key": "0D064E76459E35CAA5EEC1B7D99A5BD6",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Store",
-        "str": "Speichern"
+        "str": "Laden"
     },
     {
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
@@ -243,7 +243,7 @@
         "key": "0E888CB843DF92D55BD437BEB42F99EB",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-        "str": "Kehren wir zum Gremium zurück und beginnen mit der Aussonderung von Verdächtigen, die nicht mit unseren Beweisen übereinstimmen."
+        "str": "Kehren wir zur Tafel zurück und beginnen mit der Aussonderung von Verdächtigen, die nicht mit unseren Beweisen übereinstimmen."
     },
     {
         "key": "0EBDA17F450C39EF22E70592BF2B4162",
@@ -333,7 +333,7 @@
         "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
         "id": "Exit",
-        "str": "Ausfahrt"
+        "str": "Verlassen"
     },
     {
         "key": "16A84C9B486F4A520142D791EC349B4F",
@@ -351,7 +351,7 @@
         "key": "175FDB6245E5ED987CC62684AC5049E4",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_23.Text",
         "id": "Run",
-        "str": "Laufen"
+        "str": "Rennen"
     },
     {
         "key": "176C171C443DFFFD974A32BB32959193",
@@ -381,7 +381,7 @@
         "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Drop Case",
-        "str": "Drop-Case"
+        "str": "Fall aufgeben"
     },
     {
         "key": "1AEBF7804411904275F320B5DB9BB455",
@@ -417,7 +417,7 @@
         "key": "1C4788334C67D107A7BE1F931C0A749E",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_24.Text",
         "id": "Your election",
-        "str": "Ihre Wahl"
+        "str": "Deine Wahl"
     },
     {
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
@@ -549,7 +549,7 @@
         "key": "2355C0C345515E1D7874728AF33121DC",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-        "str": "Auf dem Foto sind mehrere Ziele zu sehen; "
+        "str": "Auf dem Foto sind mehrere Ziele zu sehen; versuche dich dem Ziel zu nähern und dich nur auf das Ziel zu fokussieren."
     },
     {
         "key": "249DE7534CD1567EA10B7F971D9C0BF1",
@@ -597,7 +597,7 @@
         "key": "2777F4DA4703D3AC622572A49EB6A138",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Stalker",
-        "str": "Der Stalker"
+        "str": "Der Verfolger"
     },
     {
         "key": "28953C4E43697949852B609F8D0793FB",
@@ -651,7 +651,7 @@
         "key": "2D10309A4AE3A7B38D67BC894C9A5B97",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text",
         "id": "View Distance Quality",
-        "str": "Entfernungsqualität anzeigen"
+        "str": "Entfernungsqualität"
     },
     {
         "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -669,7 +669,7 @@
         "key": "2DEA68154A30209AA0698497E47F9DA9",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_24.Text",
         "id": "Leaderboard Endless",
-        "str": "Bestenliste endlos"
+        "str": "Endlose Bestenliste"
     },
     {
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
@@ -825,7 +825,7 @@
         "key": "3AD41353481D8F51B3C3699171A4CED1",
         "location": "/Game/enums/gamemodes.gamemodes.DisplayNameMap(0 - Value).DisplayNameMap",
         "id": "Classic",
-        "str": "Klassiker"
+        "str": "Klassisch"
     },
     {
         "key": "3AEB5BB747D3C431D54680AEFDB7D404",
