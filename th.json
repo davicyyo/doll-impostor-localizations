@@ -129,7 +129,7 @@
         "key": "074C094B4943E77D1E7501B3B9277A09",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
         "id": "The costs will be reflected in the prices of the items in the store",
-        "str": "ต้นทุนจะปรากฏในราคาของสินค้าในร้านค้า"
+        "str": "ต้นทุนจะมีผลต่อราคาสินค้าในร้านค้า"
     },
     {
         "key": "0860FF434B759F0DDD299AAD5097224D",
@@ -303,7 +303,7 @@
         "key": "158F6D234AF05145B4905F942285D978",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the Ouija board on the table",
-        "str": "เล่นกระดานผีถ้วยแก้วบนโต๊ะ"
+        "str": "มาเล่นกระดาน Ouija บนโต๊ะ"
     },
     {
         "key": "15973B6C49CE3AC92431D2B46BE8EEA4",
@@ -423,7 +423,7 @@
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา รอให้ฤทธิ์ยาหมดลงก่อนที่จะใช้กับตัวอื่น"
+        "str": "ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา โปรดรอให้ฤทธิ์ยาหมดลงก่อนที่จะใช้กับตัวอื่น"
     },
     {
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
@@ -543,7 +543,7 @@
         "key": "2349798E480EE5B45348C4B753C4BCB8",
         "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_31.Text",
         "id": "Doll List",
-        "str": "รายการตุ๊กตา"
+        "str": "รายชื่อตุ๊กตา"
     },
     {
         "key": "2355C0C345515E1D7874728AF33121DC",
@@ -747,7 +747,7 @@
         "key": "336B557643CBA00B5138539520DCBB04",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's start with the chair outside.",
-        "str": "เริ่มด้วยการโยกเก้าอี้ด้านนอกบ้าน"
+        "str": "เริ่มด้วยการโยกเก้าอี้ไม้ด้านนอกบ้าน"
     },
     {
         "key": "34549E97462027359C04D69FE1AC1E77",
@@ -855,7 +855,7 @@
         "key": "3C68D11C43CC3EA53113F48A08FDF3AD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the wall clock",
-        "str": "เปิดนาฬิกาแขวนผนัง"
+        "str": "ขยับนาฬิกาแขวนผนัง"
     },
     {
         "key": "3D3092E04B30FAE9F91970831F869B44",
@@ -1695,7 +1695,7 @@
         "key": "798C9DA54AB7FB8B77443DA0EE442098",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
         "id": "Go to Safe House",
-        "str": "ไปยัวเซฟเฮาส์"
+        "str": "ไปยังเซฟเฮาส์"
     },
     {
         "key": "79B48418402866A435B0658D650C041D",
