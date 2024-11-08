@@ -57,7 +57,7 @@
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
         "id": "The pain is overwhelming",
-        "str": "La douleur est écrasante"
+        "str": "La douleur est insupportable"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
@@ -87,7 +87,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Vous devez utiliser le Livre des Âmes avant de sauvegarder la poupée imposteur"
+        "str": "Vous devez utiliser le Livre des Âmes avant de sélectionner la poupée imposteur"
     },
     {
         "key": "073BF882481ECDE57F50FF98957A3C22",
@@ -2295,7 +2295,7 @@
         "key": "96567B804DFD2EED05E51E9BD49F3870",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode.",
-        "str": "Nous allons maintenant utiliser l'objet Soul Book. Cet objet lancera officiellement le jeu. Son utilisation est simple : lorsque vous utilisez ce livre, quel que soit l'imposteur (dans ce cas, Lil) commencera à agir. À ce stade, vous "
+        "str": "Nous allons maintenant utiliser le Livre des Âmes. Cet objet lancera officiellement le jeu. Son utilisation est simple : lorsque vous utilisez ce livre, quel que soit l'imposteur (dans ce cas, Lil) commencera à agir. À ce stade, vous aurez besoin de comparer l'information avec ce qui c'est passé, comme dans le mode classique."
     },
     {
         "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
@@ -2313,7 +2313,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "Pour développer la photo, vous devez la secouer. Une fois qu'elle est développée à 100 %, appuyez simplement sur le bouton d'utilisation, et elle sera enregistrée."
+        "str": "Pour développer la photo, vous devez la secouer. Une fois développée à 100 %, appuyez simplement sur le bouton d'utilisation, et elle sera enregistrée."
     },
     {
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
@@ -2763,7 +2763,7 @@
         "key": "F5A1B20A4E970FD062976FB28CEBCEC2",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_28.Text",
         "id": "Reset Career Mode",
-        "str": "Réinitialiser le mode carrière"
+        "str": "Réinitialiser le Mode Carrière"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -3621,7 +3621,7 @@
         "key": "8BFB53E5448C16FA230515968C3ABF0A",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_58.Text",
         "id": "Gamepad Sensivity",
-        "str": "Sensibilité de la manette de jeu"
+        "str": "Sensibilité de la Manette"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
@@ -3657,7 +3657,7 @@
         "key": "57B4EC5445C5BADF97E3D48264009545",
         "location": "/Game/UI/sleepUI.sleepUI_C:WidgetTree.TextBlock_62.Text",
         "id": "Waiting players...",
-        "str": "Joueurs en attente..."
+        "str": "En Attente des joueurs..."
     },
     {
         "key": "43B95535434D97B9189B93A2A4594202",
