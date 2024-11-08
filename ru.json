@@ -2769,7 +2769,7 @@
         "key": "F5A1B20A4E970FD062976FB28CEBCEC2",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_28.Text",
         "id": "Reset Career Mode",
-        "str": "Сбросить Карьерный режим"
+        "str": "Сбросить карьерный режим"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
