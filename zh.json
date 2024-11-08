@@ -2127,7 +2127,7 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen"
+        "str": "还未发现目标，试着集中更多的注意力，保持在特定的距离，看见整个目标"
     },
     {
         "key": "93B997314AF656293CD3E6A5CB67FA1B",
@@ -2145,7 +2145,7 @@
         "key": "AD84DE7C441EA1A5D211A5AA27D02D95",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getPressText [Script Bytecode]",
         "id": "Press {key} to {interact}",
-        "str": "按{key}进行{interact}"
+        "str": "按{key}{interact}"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
@@ -2271,7 +2271,7 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "很好，现在剩下的蜡烛。"
+        "str": "很好，现在剩下蜡烛。"
     },
     {
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
@@ -2859,7 +2859,7 @@
         "key": "C5BF8D15413D2BD751F76EBE5D96E205",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
         "id": "All items placed in the chest will disappear when you exit the map.",
-        "str": "当你退出地图时，放置在宝箱中的所有物品都会消失."
+        "str": "当你退出地图时，放置在宝箱中的所有物品都会消失。"
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -2913,7 +2913,7 @@
         "key": "AD01C42149F1EF55342AAAB262E7D9C8",
         "location": "/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]",
         "id": "This game mode is not available in multiplayer.",
-        "str": "此游戏模式在多人游戏中不可用."
+        "str": "此游戏模式在多人游戏中不可用。"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -3069,7 +3069,7 @@
         "key": "9D736AE2415C1B2B63950AAB6F7E242C",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "我们无法创建在线会话. 请检查您的连接并重新启动游戏. 如果您决定继续，游戏将以离线模式运行."
+        "str": "我们无法创建在线会话。请检查连接并重新启动游戏。如果决定继续，游戏将以离线模式运行。"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3153,7 +3153,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "我创建了一个更高级的指南，探讨了职业模式的各个方面。如果你需要更多帮助，我建议你看看它；它会帮助你解决未来的案件！"
+        "str": "我创建了一个更高级的指南，探讨了职业模式的各个方面。如果你需要更多帮助，我建议你看看；这会帮助你解决未来的案件！"
     },
     {
         "key": "F66992CC4272E9FD176972AE7A324010",
@@ -3603,13 +3603,13 @@
         "key": "8AB0454249AEF8D22FE8AD9044DC5660",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_52.Text",
         "id": "Invert Horizontal Camera",
-        "str": "反转水平相机"
+        "str": "水平反转镜头"
     },
     {
         "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_55.Text",
         "id": "Invert Vertical Camera",
-        "str": "反转相机"
+        "str": "垂直反转镜头"
     },
     {
         "key": "91B3AF44465FA4D4F6976EA74F572B41",
@@ -3621,7 +3621,7 @@
         "key": "A7315029485656AEDD7500947B3C4E5B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_57.Text",
         "id": "This option will only be available on Easy difficulty.",
-        "str": "此选项仅在简单难度下可用."
+        "str": "此选项仅在简单难度下可用。"
     },
     {
         "key": "8BFB53E5448C16FA230515968C3ABF0A",
@@ -3663,7 +3663,7 @@
         "key": "57B4EC5445C5BADF97E3D48264009545",
         "location": "/Game/UI/sleepUI.sleepUI_C:WidgetTree.TextBlock_62.Text",
         "id": "Waiting players...",
-        "str": "等待玩家..."
+        "str": "等待玩家中……"
     },
     {
         "key": "43B95535434D97B9189B93A2A4594202",
@@ -3717,7 +3717,7 @@
         "key": "21111B074FED432D86A1CCAE77CC81C3",
         "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
         "id": "Loading...",
-        "str": "正在加载..."
+        "str": "正在加载……"
     },
     {
         "key": "54288BFC4059AA21CBC614AA74C19EBE",
