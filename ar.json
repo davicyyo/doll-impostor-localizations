@@ -2637,7 +2637,7 @@
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Review the various tabs to get familiar with them. When you're ready, click the Accept button to take on this case.",
-        "str": "قم بمراجعة علامات التبويب المختلفة للتعرف عليها. عندما تكون مستعدًا، انقر فوق الزر قبول لتولي هذه الحالة."
+        "str": "قم بمراجعة علامات التبويب المختلفة للتعرف عليها. عندما تكون مستعدًا، انقر فوق الزر \n\nقبول\n\n لتولي هذه الحالة."
     },
     {
         "key": "C41C767549A43DC569EB449CD5A2E3B5",
