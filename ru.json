@@ -111,13 +111,13 @@
         "key": "9472CB7546EB19A64D00B9B40CF7BC7D",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked a new extra mode!",
-        "str": "Вы разблокировали новый режим!"
+        "str": "Разблокирован новый режим!"
     },
     {
         "key": "B372B7564467D935DC5122B7415A738C",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the career mode!",
-        "str": "Вы разблокировали карьерный режим!"
+        "str": "Разблокирован карьерный режим!"
     },
     {
         "key": "FE11E6ED4FA63C5B12631383E56A20B5",
@@ -2415,13 +2415,13 @@
         "key": "A7540C9740107C15DAA704B657E53E8D",
         "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
         "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-        "str": "Doll Who — это настольная игра на дедукцию, в которой два игрока пытаются угадать личность персонажа, выбранного их противником. У каждого игрока есть доска с серией персонажей с разными чертами. Задавая вопросы с ответом \nда\n или \nнет\n о характеристиках персонажей (например, есть ли у них шляпа или они появлялись на карте детского сада), игроки исключают варианты, пока не обнаружат персонажа противника. Первый игрок, который правильно угадает, побеждает."
+        "str": "Doll Who — это настольная игра на дедукцию, в которой два игрока пытаются угадать повадки загаданного персонажа. У каждого игрока есть доска с серией персонажей с разными чертами. Задавая вопросы с ответом \nда\n или \nнет\n о характеристиках персонажей (например, есть ли у них шляпа или появлялись ли они на карте детского сада), игроки исключают варианты, пока не обнаружат персонажа противника. Первый игрок, который правильно угадает, побеждает."
     },
     {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "Добро пожаловать в убежище! "
+        "str": "Добро пожаловать в убежище! Это безопасная зона. Здесь можно начать новую игру нажав на компьютер, посмотреть коллекия кукол и трофеев, а также кастомизировать данное место с помощью палитры цветов на столе!"
     },
     {
         "key": "D89BAF654ED277C71FA76392443B5C15",
@@ -2595,7 +2595,7 @@
         "key": "FAD096A047C791A2435446A372491A59",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-        "str": "На диване у нас Рики, а за пианино - Монти, поэтому у нас уже есть 2 возможных кандидата. Однако мы не будем рисковать на 50%. Вернись в комнату и исключи того, кто точно не может быть одержимым, а далее дождемся следующих действий от куклы."
+        "str": "На диване у нас Рики, а за пианино - Монти, поэтому у нас уже есть 2 возможных кандидата. Однако мы не будем рисковать. Вернись в комнату и исключи того, кто точно не может быть одержимым, а далее дождемся следующих действий от куклы."
     },
     {
         "key": "09526FC54AA5D1983C1048ACADED01C4",
@@ -2643,7 +2643,7 @@
         "key": "C41C767549A43DC569EB449CD5A2E3B5",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Be careful if you perform this action you will lose all your career mode progress, returning again to the tutorial, this includes your case history.",
-        "str": "Будьте осторожны: если вы выполните это действие, вы потеряете весь прогресс в режиме карьеры и снова вернетесь к обучению, включая историю вашего дела."
+        "str": "Будьте осторожны: если вы выполните это действие, вы потеряете весь прогресс в режиме карьеры и снова вернетесь к обучению, включая историю дел."
     },
     {
         "key": "E8BEC2F04785EFD5186984BE67C4B88A",
@@ -2661,7 +2661,7 @@
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "У тебя будет доступно дело с различными параметрами. Оно покажет информацию, аналогичную текущей, и если тебе не понравится, вы сможете обновить дело за деньги. В настоящее время в учебном режиме твои действия ограниченны; нельзя покупать, создавать, выходить из дела или искать новые."
+        "str": "У тебя будет доступно дело с различными параметрами. Оно покажет информацию, аналогичную текущей, и если тебе не понравится, можно будет обновить дело за деньги. В настоящее время в учебном режиме твои действия ограниченны; нельзя покупать, создавать, выходить из дела или искать новые."
     },
     {
         "key": "074C094B4943E77D1E7501B3B9277A09",
@@ -2769,7 +2769,7 @@
         "key": "F5A1B20A4E970FD062976FB28CEBCEC2",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_28.Text",
         "id": "Reset Career Mode",
-        "str": "Сбросить режим карьеры"
+        "str": "Сбросить Карьерный режим"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -3069,7 +3069,7 @@
         "key": "9D736AE2415C1B2B63950AAB6F7E242C",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "Нам не удалось создать онлайн-сессию. Пожалуйста, проверьте подключение и перезапустите игру. Если вы решите продолжить, игра будет работать в автономном режиме."
+        "str": "Нам не удалось создать онлайн-сессию. Пожалуйста, проверьте подключение и перезапустите игру. Если вы решите продолжить, игра будет работать в оффлайн режиме."
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3153,7 +3153,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Если тебе нужна помощь в освоение режима Карьера,  то можешь посмотреть мой продвинутый гайд, который затрагивает все детали данного режима, - он поможет тебе в будущем!"
+        "str": "Если тебе нужна помощь в освоении карьерного режима, можешь посмотреть мой продвинутый гайд, который затрагивает все детали — он поможет тебе в будущем!"
     },
     {
         "key": "F66992CC4272E9FD176972AE7A324010",
@@ -3201,7 +3201,7 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Вы потеряли 75% за то, что не определили одержимую куклу"
+        "str": "Ты потерял 75% за то, что не определил одержимую куклу"
     },
     {
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
@@ -3705,7 +3705,7 @@
         "key": "597D11E1471FC52613B9DD81AF3F6BE1",
         "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
         "id": "Most Earned Doll",
-        "str": "Наиболее пойманная кукла"
+        "str": "Самая пойманная кукла"
     },
     {
         "key": "11739C0E41A20499E9C760B853C45A40",
