@@ -2412,6 +2412,12 @@
         "str": "가기 전에, 이 게임 모드에서는 캐러밴을 운전하여 피난처로 돌아갈 수 있다는 점을 명확히 하고 싶습니다. 마지막으로, 이 모드에서 Lil과 함께 수행한 작업은 사기꾼을 식별하기 위해 각 인형에 대해 수행되어야 합니다. "
     },
     {
+        "key": "A7540C9740107C15DAA704B657E53E8D",
+        "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
+        "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+        "str": "Doll Who는 두 명의 플레이어가 상대방이 선택한 캐릭터의 정체를 추리하는 보드 게임입니다. 각 플레이어는 다양한 특성을 가진 캐릭터들이 있는 보드를 가지고 있습니다. 캐릭터의 특징(예: 모자를 쓰고 있는지, 보육원 맵에 등장했는지 등)에 대해 '예' 또는 '아니오'로 답할 수 있는 질문을 하여, 플레이어는 선택지를 제거하며 상대방의 캐릭터를 발견할 때까지 진행합니다. 가장 먼저 올바르게 맞히는 플레이어가 승리합니다."
+    },
+    {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",

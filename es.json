@@ -2412,6 +2412,12 @@
         "str": "Antes de que te vayas, quiero aclarar que en este modo de juego, puedes regresar al refugio conduciendo la caravana. Por último, lo que hemos hecho con Lil en este modo necesitará hacerse para cada una de las muñecas para identificar al impostor. Ten en cuenta que el modo campaña está pensado para ser una experiencia cooperativa en el futuro, por lo que es importante que no sea breve o rápido. Cada caso podría llevarte días en resolverlo, pero es asíncrono, lo que significa que puedes salir cuando quieras y continuar jugando más tarde, y todo permanecerá como lo dejaste."
     },
     {
+        "key": "A7540C9740107C15DAA704B657E53E8D",
+        "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
+        "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+        "str": "Doll Who es un juego de mesa de deducción donde dos jugadores intentan adivinar la identidad del personaje elegido por su oponente. Cada jugador tiene un tablero con una serie de personajes con diferentes rasgos. Haciendo preguntas de \nsí\n o \nno\n sobre las características de los personajes (como si tienen un sombrero o aparecieron en el mapa de la guardería), los jugadores eliminan opciones hasta descubrir al personaje del oponente. El primer jugador en adivinar correctamente gana."
+    },
+    {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",

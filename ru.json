@@ -2412,6 +2412,12 @@
         "str": "Прежде чем отправиться, я хочу уточнить, что в этом режиме игры нельзя вернуться в лобби через грузовик. Наконец, то, что мы сделали с Лил в этом режиме, нужно будет сделать для каждой из кукол, чтобы определить одержимую. Имей в виду, что игровой процесс предназначен для совместного прохождения в будущем, поэтому важно, чтобы он не был слишком быстрым или коротким. Каждое дело может занять у вас дни на решение, но оно асинхронно, что означает, что вы можете выйти в любое время и продолжить игру позже, и все останется на своих местах."
     },
     {
+        "key": "A7540C9740107C15DAA704B657E53E8D",
+        "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
+        "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+        "str": "Doll Who — это настольная игра на дедукцию, в которой два игрока пытаются угадать личность персонажа, выбранного их противником. У каждого игрока есть доска с серией персонажей с разными чертами. Задавая вопросы с ответом \nда\n или \nнет\n о характеристиках персонажей (например, есть ли у них шляпа или они появлялись на карте детского сада), игроки исключают варианты, пока не обнаружат персонажа противника. Первый игрок, который правильно угадает, побеждает."
+    },
+    {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
