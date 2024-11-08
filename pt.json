@@ -2412,6 +2412,12 @@
         "str": "Antes de ir, quero esclarecer que neste modo de jogo você pode retornar ao refúgio dirigindo a caravana. Por último, o que fizemos com Lil neste modo precisará ser feito para cada um dos bonecos para identificar o impostor. "
     },
     {
+        "key": "A7540C9740107C15DAA704B657E53E8D",
+        "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
+        "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+        "str": "Doll Who é um jogo de tabuleiro de dedução em que dois jogadores tentam adivinhar a identidade do personagem escolhido pelo adversário. Cada jogador tem um tabuleiro com uma série de personagens com diferentes características. Fazendo perguntas de \nsim\n ou \nnão\n sobre as características dos personagens (como se eles têm um chapéu ou apareceram no mapa da creche), os jogadores eliminam opções até descobrirem o personagem do oponente. O primeiro jogador a adivinhar corretamente vence."
+    },
+    {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",

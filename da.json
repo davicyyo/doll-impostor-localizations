@@ -2412,6 +2412,12 @@
         "str": "Før du går, vil jeg præcisere, at i denne spiltilstand kan du vende tilbage til tilflugtsstedet ved at køre campingvognen.. Til sidst skal det, vi har gjort med Lil i denne tilstand, gøres for hver af dukkerne for at identificere bedrageren. "
     },
     {
+        "key": "A7540C9740107C15DAA704B657E53E8D",
+        "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
+        "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+        "str": "Doll Who er et deduktionsbrætspil, hvor to spillere forsøger at gætte identiteten af den karakter, som deres modstander har valgt. Hver spiller har et bræt med en række karakterer med forskellige træk. Ved at stille \nja\n eller \nnej\n spørgsmål om karakterernes træk (såsom om de har en hat eller optræder på dagplejekortet), eliminerer spillerne muligheder, indtil de opdager modstanderens karakter. Den første spiller, der gætter rigtigt, vinder."
+    },
+    {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",

@@ -2412,6 +2412,12 @@
         "str": "在你离开之前，我想澄清一下，在这种游戏模式中，你可以驾驶房车返回避难所。最后，我们在这种模式中对Lil所做的事情需要对每个人偶都做，以识别冒名顶替者。请记住，未来的战役模式旨在成为一种合作体验，这就是为什么它不应该是简短或快速的。每个案件可能需要你几天的时间来解决，但它是异步的，这意味着你可以在任何时候退出，稍后继续游戏，一切都会保持你离开时的状态。"
     },
     {
+        "key": "A7540C9740107C15DAA704B657E53E8D",
+        "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
+        "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+        "str": "Doll Who 是一款推理棋盘游戏，两个玩家试图猜出对手所选择的角色。每个玩家都有一个包含不同特征的角色的棋盘。通过询问关于角色特征的“是”或“否”问题（例如是否戴帽子或是否出现在托儿所地图中），玩家逐渐排除选项，直至找到对手的角色。最先猜中对手角色的玩家获胜。"
+    },
+    {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",

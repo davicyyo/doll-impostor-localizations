@@ -2412,6 +2412,12 @@
         "str": "Πριν πάτε, θέλω να διευκρινίσω ότι σε αυτήν τη λειτουργία παιχνιδιού, μπορείτε να επιστρέψετε στο καταφύγιο οδηγώντας το τροχόσπιτο. Τέλος, αυτό που κάναμε με τον Lil σε αυτήν τη λειτουργία θα πρέπει να γίνει για καθεμία από τις κούκλες για να αναγνωρίσει τον απατεώνα. "
     },
     {
+        "key": "A7540C9740107C15DAA704B657E53E8D",
+        "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
+        "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+        "str": "Doll Who είναι ένα επιτραπέζιο παιχνίδι λογικής όπου δύο παίκτες προσπαθούν να μαντέψουν την ταυτότητα του χαρακτήρα που επέλεξε ο αντίπαλός τους. Κάθε παίκτης έχει ένα ταμπλό με μια σειρά χαρακτήρων με διαφορετικά χαρακτηριστικά. Με το να κάνουν ερωτήσεις \nναι\n ή \nόχι\n σχετικά με τα χαρακτηριστικά των χαρακτήρων (όπως αν φοράνε καπέλο ή αν εμφανίστηκαν στον χάρτη του παιδικού σταθμού), οι παίκτες αποκλείουν επιλογές μέχρι να ανακαλύψουν τον χαρακτήρα του αντιπάλου. Ο πρώτος παίκτης που θα μαντέψει σωστά κερδίζει."
+    },
+    {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",

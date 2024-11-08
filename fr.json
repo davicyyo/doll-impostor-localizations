@@ -2412,6 +2412,12 @@
         "str": "Avant de partir, je tiens à préciser que dans ce mode de jeu, vous pouvez retourner au refuge en intéragissant avec le volant de la caravane. Enfin, ce que nous avons fait avec Lil dans ce mode devra être fait pour chacune des poupées afin d'identifier l'imposteur. Gardez à l'esprit que le mode Carrière est destiné à être une expérience coopérative à l'avenir, c'est pourquoi il est important qu'il ne soit pas bref ou rapide. Chaque affaire pourrait vous prendre des jours à résoudre, mais elle est asynchrone, ce qui signifie que vous pouvez arrêter quand vous le souhaitez et continuer votre partie plus tard, et tout restera tel que vous l'avez laissé."
     },
     {
+        "key": "A7540C9740107C15DAA704B657E53E8D",
+        "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
+        "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+        "str": "Doll Who est un jeu de société de déduction où deux joueurs essaient de deviner l'identité du personnage choisi par leur adversaire. Chaque joueur dispose d'un plateau avec une série de personnages aux traits différents. En posant des questions auxquelles on peut répondre par \noui\n ou \nnon\n sur les caractéristiques des personnages (comme s'ils portent un chapeau ou s'ils apparaissent sur la carte de la garderie), les joueurs éliminent des options jusqu'à découvrir le personnage de l'adversaire. Le premier joueur à deviner correctement gagne."
+    },
+    {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
