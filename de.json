@@ -99,7 +99,7 @@
         "key": "51B58C89473E1AE2A37E6A8118DC37C1",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-        "str": "Haben Sie sich jemals gefragt, woher die Informationen über die Puppen kommen? "
+        "str": "Haben Sie sich jemals gefragt, woher die Informationen über die Puppen kommen? Im Karrieremodus kannst du Informationen über die Puppen mit unendlichen Fällen, Wirtschaft, Levels, Shops, Herstellung und vieles mehr herausfinden!"
     },
     {
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
@@ -219,13 +219,13 @@
         "key": "54DD43104162D7A89F5B2ABADBA7F0A6",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_14.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Lights",
-        "str": "Van-Lichter"
+        "str": "Wohnmobil-Lichter"
     },
     {
         "key": "F1D636544DE5ADC7945E9789ACC63D6C",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_15.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van wall",
-        "str": "Van-Wand"
+        "str": "Wohnmobil-Wand"
     },
     {
         "key": "F398437D44CE91CF11D919A1208038ED",
@@ -237,25 +237,25 @@
         "key": "805F56F9484DE7ED01BC83B1E3304EE7",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_16.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van floor",
-        "str": "Van-Boden"
+        "str": "Wohnmobil-Boden"
     },
     {
         "key": "BEF09CA34BAE3DC7635E8485BB667E28",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_17.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van exterior",
-        "str": "Außenansicht des Lieferwagens"
+        "str": "Wohnmobil-Außensicht"
     },
     {
         "key": "4BA592A54AE29F2B8AA5DCB59A988A0F",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_18.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Hanging doll",
-        "str": "Van Hängepuppe"
+        "str": "Wohnmobil Hängepuppe"
     },
     {
         "key": "7D2E931045A6E1506DEEC6BD2C264ED3",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_19.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Left Side",
-        "str": "Van linke Seite"
+        "str": "Wohnmobil linke Seite"
     },
     {
         "key": "109D973D484D997685448980DCB79533",
@@ -267,13 +267,13 @@
         "key": "C539F07A44FA320908B87FADABCFB0C9",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_20.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Right Side",
-        "str": "Van rechte Seite"
+        "str": "Wohnmobil rechte Seite"
     },
     {
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "Lieferwagen Bett"
+        "str": "Wohnmobil Bett"
     },
     {
         "key": "8D62136643D4EAA319AD22BBFD4C8FD1",
@@ -741,19 +741,19 @@
         "key": "B377188C494F5DA03FE7E8A6C86AB940",
         "location": "/Game/data-tables/itemList.itemList.NewRow_6.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals friendship",
-        "str": "Elixier, das Freundschaft offenbart"
+        "str": "Elixier, das die Freundschaft offenbart"
     },
     {
         "key": "7EB47B9449369EB3E3F18C972CC18786",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals enmity",
-        "str": "Elixier, das Feindschaft offenbart"
+        "str": "Elixier, das die Feindschaft offenbart"
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
         "location": "/Game/data-tables/itemList.itemList.NewRow_8.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals love",
-        "str": "Elixier, das Liebe offenbart"
+        "str": "Elixier, das die Liebe offenbart"
     },
     {
         "key": "92CDFBB847F726D64FF6169E8B2A6631",
@@ -777,7 +777,7 @@
         "key": "B53AF9564736AB6B4D8F2C81FD9CE5F6",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Unnoticed",
-        "str": "Das Unbemerkte"
+        "str": "Die Unbemerkte"
     },
     {
         "key": "4F13E4CD4029EC13370EF7B54BCF3D90",
@@ -825,13 +825,13 @@
         "key": "143BBE1843E5BD9D98FB8C9B4041B306",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Beautiful",
-        "str": "Das Schöne"
+        "str": "Die Schöne"
     },
     {
         "key": "DFCF9FFA438E6B63C7745586401C14BA",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The New",
-        "str": "Das Neue"
+        "str": "Die Neue"
     },
     {
         "key": "D8CB256A4FC1286A3BD465B95B7398D6",
@@ -843,7 +843,7 @@
         "key": "1D5965BE4639794BCFFC6BA942EC1A62",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Gentleman",
-        "str": "Der Herr"
+        "str": "Der Ehrenmann "
     },
     {
         "key": "73AD26AC4F1BCAD5E64E5E889E9D9A79",
@@ -867,13 +867,13 @@
         "key": "FA4E21624A2D966B1B2ED19005131257",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Traditional",
-        "str": "Das Traditionelle"
+        "str": "Die Traditionelle"
     },
     {
         "key": "D03A184741DBDC2985FBC9A454F19494",
         "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Nervous",
-        "str": "Der Nervöse"
+        "str": "Die Nervöse"
     },
     {
         "key": "60747A674F244C50BD7C42986DD084AD",
@@ -1185,7 +1185,7 @@
         "key": "8785C0644A30D7680DD4668FB916A03A",
         "location": "/Game/enums/actions.actions.DisplayNameMap(14 - Value).DisplayNameMap",
         "id": "Hide Others",
-        "str": "Andere ausblenden"
+        "str": "Andere verstecken"
     },
     {
         "key": "9D7CA8BB4D12421F2093AB823A8EAC45",
@@ -1203,7 +1203,7 @@
         "key": "0593C38042D49BC9D0958EB990324EFA",
         "location": "/Game/enums/actions.actions.DisplayNameMap(17 - Value).DisplayNameMap",
         "id": "Jail Self",
-        "str": "Gefängnisselbst"
+        "str": "Sich selbst Inhaftieren"
     },
     {
         "key": "61579A7B4A7A797C38911980E669DE96",
@@ -1431,7 +1431,7 @@
         "key": "80178DF845B4F8C8D4B5DABBDC29F983",
         "location": "/Game/enums/actions.actions.DisplayNameMap(52 - Value).DisplayNameMap",
         "id": "Firecrackers",
-        "str": "Feuerwerkskörper"
+        "str": "Böller"
     },
     {
         "key": "ECA7B6BD4DC5448D5BC007A0A56EFE97",
@@ -2163,7 +2163,7 @@
         "key": "6F579E3E4959DC13FA5EA69C981AA6CC",
         "location": "/Game/functions/netFunctions.netFunctions_C:kickPlayer [Script Bytecode]",
         "id": "You are kicked",
-        "str": "Du bist getreten"
+        "str": "Du wurdest rausgeschmissen"
     },
     {
         "key": "0D80C37D480FE34BE1CA64878A0D1B7D",
@@ -2277,7 +2277,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Perfekt, jetzt untersuchen wir eine der Puppen. Ich habe dir eine Kamera gegeben; "
+        "str": "Perfekt, jetzt untersuchen wir eine der Puppen. Ich habe dir eine Kamera gegeben; Lass uns ein Bild von Lil machen"
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
@@ -2289,7 +2289,7 @@
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "Strom an! "
+        "str": "Strom an! Gehe zurück ins Haus."
     },
     {
         "key": "96567B804DFD2EED05E51E9BD49F3870",
@@ -2415,7 +2415,7 @@
         "key": "A7540C9740107C15DAA704B657E53E8D",
         "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
         "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-        "str": "Doll Who ist ein Deduktions-Brettspiel, bei dem zwei Spieler versuchen, die Identität der vom Gegner gewählten Figur zu erraten. Jeder Spieler hat ein Spielbrett mit einer Reihe von Figuren mit unterschiedlichen Merkmalen. Durch das Stellen von \nJa\n- oder \nNein\n-Fragen zu den Merkmalen der Figuren (zum Beispiel, ob sie einen Hut tragen oder auf der Kindertagesstätten-Karte erschienen sind), eliminieren die Spieler Optionen, bis sie die Figur des Gegners entdecken. Der erste Spieler, der richtig rät, gewinnt."
+        "str": "Doll Who ist ein Deduktions-Brettspiel, bei dem zwei Spieler versuchen, die Identität der vom Gegner gewählten Figur zu erraten. Jeder Spieler hat ein Spielbrett mit einer Reihe von Figuren mit unterschiedlichen Merkmalen. Durch das Stellen von Ja- oder Nein-Fragen zu den Merkmalen der Figuren (zum Beispiel, ob sie einen Hut tragen oder auf der Kindertagesstätten-Karte erschienen sind), eliminieren die Spieler Optionen, bis sie die Figur des Gegners entdecken. Der erste Spieler, der richtig rät, gewinnt."
     },
     {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -2553,7 +2553,7 @@
         "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-        "str": "Zu Beginn gibt es 20 Puppen. Überprüfen Sie sie an der Tafel und wenn Sie bereit sind, gehen Sie in den Raum, um sie zu treffen."
+        "str": "Zu Beginn gibt es 20 Puppen. Überprüfen Sie sie an der Tafel und wenn Sie bereit sind, gehen Sie in den Raum, um sie kennenzulernen."
     },
     {
         "key": "BDC3A1864427A6240202ACAFA646188C",
@@ -2565,7 +2565,7 @@
         "key": "BF587B62432840655EC059BE5054E289",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-        "str": "Es ist klar, dass er Blut mag. Es könnte eines von beiden sein, aber kreuzen Sie die Kästchen an. Freddy fehlt und sein Kästchen ist voller Blut. Er hat dieses Urteil für Sie hinterlassen. Wenn Sie sicher sind, verwerfen Sie den Kandidaten."
+        "str": "Es ist klar, dass er Blut mag. Es könnte eines von beiden sein, aber überprüfen sie die Kisten. Freddy fehlt und seine Kiste ist voller Blut. Er hat dieses Urteil für Sie hinterlassen. Wenn Sie sicher sind, verwerfen Sie den Kandidaten."
     },
     {
         "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
@@ -2697,7 +2697,7 @@
         "key": "A97B724146EEB86D384D6A85A4F8931C",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
         "id": "Craft",
-        "str": "Handwerk"
+        "str": "Herstellen"
     },
     {
         "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -2757,7 +2757,7 @@
         "key": "8634768E4D6C9A9C68755EA705B1A09E",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_25.Text",
         "id": "Box",
-        "str": "Kasten"
+        "str": "Kiste"
     },
     {
         "key": "8772BC8B4A8B67D8026B5D806054E488",
@@ -2799,7 +2799,7 @@
         "key": "5981A77041F835414316E0BEA0C3C8F8",
         "location": "/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]",
         "id": "YOU WIN",
-        "str": "SIE GEWINNEN"
+        "str": "DU HAST GEWONNEN"
     },
     {
         "key": "CCDA7BC64A6EA8E1824143B0E488DCDA",
@@ -3717,7 +3717,7 @@
         "key": "21111B074FED432D86A1CCAE77CC81C3",
         "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
         "id": "Loading...",
-        "str": "Loading..."
+        "str": "Ladet..."
     },
     {
         "key": "54288BFC4059AA21CBC614AA74C19EBE",
@@ -3735,7 +3735,7 @@
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "Hochstapler"
+        "str": "Betrüger"
     },
     {
         "key": "E447809B421298C1BDA5E4B063D86F49",
@@ -3759,7 +3759,7 @@
         "key": "37F6FE7147465126D16EBCAB90C1274D",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text",
         "id": "Likes",
-        "str": "Gefällt mir"
+        "str": "Zuneigung"
     },
     {
         "key": "C0FE25964E732C097D287AB368FB54A4",
