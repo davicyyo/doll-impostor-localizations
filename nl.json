@@ -3723,7 +3723,7 @@
         "key": "54288BFC4059AA21CBC614AA74C19EBE",
         "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
         "id": "Waiting players {players}",
-        "str": "Wachtende spelers: {players}"
+        "str": "Wachtende spelers {players}"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
