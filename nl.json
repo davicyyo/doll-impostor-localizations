@@ -1989,7 +1989,7 @@
         "key": "AC61D57E4AA1B3D2ED8E35BD60ADA0B2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Phantom",
-        "str": "De fantoom"
+        "str": "Het fantoom"
     },
     {
         "key": "B16BD65740B9A94C398B138BCEEA9678",
@@ -2163,7 +2163,7 @@
         "key": "6F579E3E4959DC13FA5EA69C981AA6CC",
         "location": "/Game/functions/netFunctions.netFunctions_C:kickPlayer [Script Bytecode]",
         "id": "You are kicked",
-        "str": "Je wordt geschopt"
+        "str": "Je bent gekickt"
     },
     {
         "key": "0D80C37D480FE34BE1CA64878A0D1B7D",
@@ -2277,7 +2277,7 @@
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "Perfect, laten we nu een van de poppen onderzoeken. Ik heb je een camera gegeven. Laten we een foto van Lil maken."
+        "str": "Perfect. Laten we nu een van de poppen onderzoeken. Ik heb je een camera gegeven. Laten we een foto van Lil maken."
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
@@ -2397,7 +2397,7 @@
         "key": "E0B35CB146811DDBDBF08EA339FC6413",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Good job, lastly, light the fireplace.",
-        "str": "Goed gedaan, als laatste, steek de openhaard aan."
+        "str": "Goed gedaan. Als laatste actie moet je de openhaard aansteken."
     },
     {
         "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -2409,7 +2409,7 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "Voordat je gaat, wil ik verduidelijken dat je in deze spelmodus naar het toevluchtsoord kunt terugkeren door met de caravan te rijden. Tot slot, wat we met Lil in deze modus hebben gedaan, moet voor elke pop worden gedaan om de verdachte te identificeren. Houd er rekening mee dat de campagnemodus bedoeld is als een coöperatieve ervaring in de toekomst. Daarom is het belangrijk dat het niet kort of snel is. Elke zaak kan dagen duren om op te lossen, maar het is asynchroon, wat betekent dat je kunt stoppen wanneer je wilt en later verder kunt spelen, en alles blijft zoals je het hebt achtergelaten."
+        "str": "Voordat je verder gaat, wil ik verduidelijken dat je in deze spelmodus naar je safe house kunt terugkeren door met de caravan te rijden. Tot slot, wat we met Lil in deze modus hebben gedaan, moet voor elke pop worden gedaan om de verdachte te identificeren. Houd er rekening mee dat de campagnemodus bedoeld is als een coöperatieve ervaring in de toekomst. Daarom is het belangrijk dat het niet kort of snel is. Elke zaak kan dagen duren om op te lossen, maar het is asynchroon, wat betekent dat je kunt stoppen wanneer je wilt en later verder kunt spelen, en alles blijft zoals je het hebt achtergelaten."
     },
     {
         "key": "A7540C9740107C15DAA704B657E53E8D",
@@ -2421,13 +2421,13 @@
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-        "str": "Welkom in het toevluchtsoord! "
+        "str": "Welkom in safe house! Hier kan je een nieuw spel starten via de PC, jouw collectie poppen en trofeeën bekijken en tevens de omgeving naar jouw smaak aanpassen via het kleurenpallet op de tafel."
     },
     {
         "key": "D89BAF654ED277C71FA76392443B5C15",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
-        "str": "Toevluchtsoord"
+        "str": "Safe house"
     },
     {
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
@@ -2619,7 +2619,7 @@
         "key": "7C1F780F43047787285C17A26FC3B81B",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-        "str": "Zodra je de tutorial hebt voltooid kom je mogelijk financieel in de problemen. Om dit aan te pakken kun je de klassieke modus spelen. En afhankelijk van het moeilijkheidsniveau krijg je meer of minder geld om in de carrière modus te gebruiken."
+        "str": "Zodra je de tutorial hebt voltooid kom je mogelijk financieel in de problemen. Om dit aan te pakken kun je de klassieke modus spelen. Afhankelijk van het moeilijkheidsniveau krijg je meer of minder geld om in de carrière modus te gebruiken."
     },
     {
         "key": "95529FFB4B5C7B8BF0D230810B54E147",
@@ -2631,7 +2631,7 @@
         "key": "AE1DC03A4DE0A9637C9F3FA115C15F1E",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "The rest of the players have been kicked for you to complete the tutorial.",
-        "str": "De rest van de spelers is geschopt zodat jij de tutorial. kunt voltooien"
+        "str": "De rest van de spelers is gekickt zodat jij de tutorial kunt voltooien"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
@@ -2643,7 +2643,7 @@
         "key": "C41C767549A43DC569EB449CD5A2E3B5",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Be careful if you perform this action you will lose all your career mode progress, returning again to the tutorial, this includes your case history.",
-        "str": "Wees voorzichtig, als je deze actie uitvoert, verlies je al je voortgang in de carrièremodus. Je keert terug naar de tutorial, inclusief je casusgeschiedenis."
+        "str": "Wees voorzichtig, als je deze actie uitvoert, verlies je al je voortgang in de carrièremodus, inclusief je opdrachtgeschiedenis. Je keert terug naar de tutorial."
     },
     {
         "key": "E8BEC2F04785EFD5186984BE67C4B88A",
@@ -2679,7 +2679,7 @@
         "key": "EDA5294F43DB42C2856059B83C9A6BF5",
         "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
         "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-        "str": "Deze waarschijnlijkheid zal latent aanwezig zijn elke keer dat je reist; je kunt een doos tegenkomen die dingen bevat."
+        "str": "Deze waarschijnlijkheid zal aanwezig zijn elke keer dat je reist. Je kunt een doos tegenkomen die dingen bevat."
     },
     {
         "key": "1DFB0F2649F857BCBC918D9215167D9B",
@@ -2847,7 +2847,7 @@
         "key": "AE6D75704E0C22E2F8C107A8F12A0222",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_3.Text",
         "id": "Your equiped items",
-        "str": "Je uitgeruste items"
+        "str": "Jouw uitgeruste items"
     },
     {
         "key": "F880818144C667A994BEEF9200987EF4",
@@ -2859,7 +2859,7 @@
         "key": "C5BF8D15413D2BD751F76EBE5D96E205",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
         "id": "All items placed in the chest will disappear when you exit the map.",
-        "str": "Alle items die in de kist zijn geplaatst, verdwijnen wanneer je de kaart verlaat."
+        "str": "Alle items die in de kist zijn geplaatst verdwijnen wanneer je de kaart verlaat."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -2937,7 +2937,7 @@
         "key": "EABE87674E476F817EEF85B6E5E00296",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_1.Text",
         "id": "Log Off",
-        "str": "Afmelden"
+        "str": "Uitloggen"
     },
     {
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
@@ -3069,7 +3069,7 @@
         "key": "9D736AE2415C1B2B63950AAB6F7E242C",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "We konden geen online sessie tot stand brengen. Controleer je verbinding en start het spel opnieuw. Als je besluit door te gaan, werkt het spel in de offline modus."
+        "str": "We konden geen online sessie tot stand brengen. Controleer je verbinding en start het spel opnieuw. Als je besluit door te gaan dan werkt het spel enkel in de offline modus."
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3153,7 +3153,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "Ik heb een geavanceerdere gids gemaakt die alle aspecten van de Carrière-modus verkent. Als je meer hulp nodig hebt, raad ik je aan deze te bekijken; het zal je helpen je toekomstige zaken op te lossen!"
+        "str": "Ik heb een geavanceerdere gids gemaakt die alle aspecten van de Carrière-modus uitlegt. Als je meer hulp nodig hebt raad ik je aan deze te bekijken. Het zal je helpen je toekomstige opdrachten op te lossen!"
     },
     {
         "key": "F66992CC4272E9FD176972AE7A324010",
@@ -3399,7 +3399,7 @@
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_20.Text",
         "id": "Look Up",
-        "str": "Eerdere opdrachten"
+        "str": "Naar boven kijken"
     },
     {
         "key": "BE7B6E174A4CE247B21761B7E41F34D3",
@@ -3609,7 +3609,7 @@
         "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_55.Text",
         "id": "Invert Vertical Camera",
-        "str": "Camera omkeren"
+        "str": "Verticale camera omkeren"
     },
     {
         "key": "91B3AF44465FA4D4F6976EA74F572B41",
@@ -3675,7 +3675,7 @@
         "key": "91E782534C65C15F2165A692F6DD50F6",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_2.Text",
         "id": "Products purchased",
-        "str": "Aangekochte producten"
+        "str": "Gekochte producten"
     },
     {
         "key": "056842694B3EB37BD05F159542C5CE41",
@@ -3717,13 +3717,13 @@
         "key": "21111B074FED432D86A1CCAE77CC81C3",
         "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
         "id": "Loading...",
-        "str": "Laden..."
+        "str": "Bezig met laden..."
     },
     {
         "key": "54288BFC4059AA21CBC614AA74C19EBE",
         "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
         "id": "Waiting players {players}",
-        "str": "Wachtende spelers {players}"
+        "str": "Wachtende spelers: {players}"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
