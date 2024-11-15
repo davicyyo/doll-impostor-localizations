@@ -2994,13 +2994,13 @@
         "str": "Stats"
     },
     {
-        "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
+        "key": "11B02A534CC152061E44EAB406F4223C",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
         "id": "Time Trial",
         "str": "Time Trial"
     },
     {
-        "key": "A1CB54034B401A0E8BBD049E18CBFADD",
+        "key": "8C118CF148C516FD54C9BC8FE28F9A95",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
         "str": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed."
