@@ -1,0 +1,34 @@
+name: JSON Syntax and Escape Check
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  json-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install jq and jsonlint
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+          npm install -g jsonlint
+
+      - name: JSON Syntax and Structure Check
+        run: |
+          # Check JSON syntax with jsonlint
+          find . -name "*.json" -print0 | xargs -0 jsonlint -q
+
+      - name: JSON Escape and Format Validation
+        run: |
+          # Check for valid JSON format, including escaping issues, with jq
+          for file in $(find . -name "*.json"); do
+            if ! jq empty "$file"; then
+              echo "JSON format error in $file"
+              exit 1
+            fi
+          done
