@@ -177,19 +177,19 @@
         "key": "0590A39240854404475C3696E14AF5A8",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We have detected a change in your inputs.",
-        "str": "เราตรวจพบการเปลี่ยนแปลงในอินพุตของคุณ."
+        "str": ""
     },
     {
         "key": "821BBE2A48EE821074956AB736CA0ECB",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "Input detected!",
-        "str": "ตรวจพบอินพุต!"
+        "str": ""
     },
     {
         "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "เราไม่สามารถสร้างเซสชันออนไลน์. โปรดตรวจสอบการเชื่อมต่อของคุณและเริ่มเกมใหม่. หากคุณตัดสินใจที่จะดำเนินการต่อ เกมจะทำงานในโหมดออฟไลน์."
+        "str": ""
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2433,7 +2433,7 @@
         "key": "A7540C9740107C15DAA704B657E53E8D",
         "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
         "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-        "str": "Doll Who เป็นเกมกระดานที่ให้ผู้เล่นสองคนลองทายตัวตนของตัวละครที่ฝ่ายตรงข้ามเลือก โดยผู้เล่นแต่ละคนจะมีกระดานพร้อมชุดตัวละครที่มีลักษณะแตกต่างกัน ด้วยการถามคำถาม 'ใช่' หรือ 'ไม่' เกี่ยวกับลักษณะของตัวละครต่าง ๆ (เช่น พวกเขามีหมวกหรือปรากฏในแผนที่สถานรับเลี้ยงเด็ก) ผู้เล่นจะทยอยคัดตัวเลือกต่างๆ ออก จนกว่าพวกเขาจะค้นพบตัวละครของฝ่ายตรงข้าม ผู้เล่นคนแรกที่เดาถูกจะเป็นผู้ชนะ"
+        "str": "Doll Who เป็นเกมกระดานที่ใช้การอนุมาน ซึ่งผู้เล่นสองคนพยายามเดาอัตลักษณ์ของตัวละครที่ฝ่ายตรงข้ามเลือก ผู้เล่นแต่ละคนมีบอร์ดที่ประกอบด้วยตัวละครที่มีคุณสมบัติต่างกัน โดยการถามคำถามที่ตอบได้ด้วย \nใช่\n หรือ \nไม่\n เกี่ยวกับคุณลักษณะของตัวละคร (เช่น ตัวละครนั้นสวมหมวกหรือเคยปรากฏในแผนที่ศูนย์รับเลี้ยงเด็กหรือไม่) ผู้เล่นจะตัดตัวเลือกออกจนกว่าจะพบตัวละครของฝ่ายตรงข้าม ผู้เล่นคนแรกที่ทายถูกจะเป็นผู้ชนะ"
     },
     {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -2445,7 +2445,7 @@
         "key": "B75DC93941A74B4A564DF389EB387762",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Only the host can interact with this.",
-        "str": "มีเพียงโฮสต์เท่านั้นที่สามารถโต้ตอบกับ this."
+        "str": ""
     },
     {
         "key": "D89BAF654ED277C71FA76392443B5C15",
@@ -2631,7 +2631,7 @@
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
-        "str": "คุณไม่สามารถเดินทางไปที่คดีนี้ขณะที่คุณอยู่ในสถานสงเคราะห์ของคนอื่น. กลับไปที่สถานสงเคราะห์ของคุณเอง และเริ่มคดีที่นั่น."
+        "str": ""
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
@@ -2994,16 +2994,16 @@
         "str": "สถิติ"
     },
     {
-        "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
+        "key": "11B02A534CC152061E44EAB406F4223C",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
         "id": "Time Trial",
-        "str": "โหมดแข่งขัน"
+        "str": ""
     },
     {
-        "key": "A1CB54034B401A0E8BBD049E18CBFADD",
+        "key": "8C118CF148C516FD54C9BC8FE28F9A95",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-        "str": "โหมดสุ่มจับเวลาชิงเหรียญรางวัล"
+        "str": ""
     },
     {
         "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3099,19 +3099,19 @@
         "key": "15673F574D5DA742FD4F428DA263DCB1",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Your save game has been successfully restored, it may be wise to restart the game.",
-        "str": "เกมบันทึกของคุณได้รับการกู้คืนเรียบร้อยแล้ว ขอแนะนำให้รีสตาร์ทเกม."
+        "str": ""
     },
     {
         "key": "6088379D4B73AB0746BE8EB73EB9DB33",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
-        "str": "นี่เป็นเวอร์ชันเบต้า ขอแนะนำให้ทำสำเนาของเกมที่บันทึกไว้ เนื่องจากมีความเสี่ยงที่จะสูญเสียข้อมูลดังกล่าว. ต้องการทำสำเนาหรือไม่?"
+        "str": ""
     },
     {
         "key": "ADE584574E49B6623B97CA87F62F2279",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Warning!",
-        "str": "คำเตือน!"
+        "str": ""
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3123,7 +3123,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": "บันทึกข้อมูลสำรองเรียบร้อยแล้ว หากคุณต้องการกู้คืน เพียงรีสตาร์ทเกมแล้วคุณจะเห็น \n"
+        "str": ""
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3153,7 +3153,7 @@
         "key": "A76488B841E9F96185871BB1C73F418B",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_3.Text",
         "id": "Restore Previous Save",
-        "str": "คืนค่าการบันทึกก่อนหน้า"
+        "str": ""
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",

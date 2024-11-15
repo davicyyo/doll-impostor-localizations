@@ -177,19 +177,19 @@
         "key": "0590A39240854404475C3696E14AF5A8",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We have detected a change in your inputs.",
-        "str": "我們偵測到您的輸入發生變化."
+        "str": ""
     },
     {
         "key": "821BBE2A48EE821074956AB736CA0ECB",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "Input detected!",
-        "str": "偵測到輸入！"
+        "str": ""
     },
     {
         "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "我們無法建立線上會話. 請檢查您的連線並重新啟動遊戲. 如果您決定繼續，遊戲將以離線模式執行."
+        "str": ""
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2445,7 +2445,7 @@
         "key": "B75DC93941A74B4A564DF389EB387762",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Only the host can interact with this.",
-        "str": "只有主機可以與這個.交互"
+        "str": ""
     },
     {
         "key": "D89BAF654ED277C71FA76392443B5C15",
@@ -2631,7 +2631,7 @@
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
-        "str": "當您在別人的避難所時，您無法前往此案件. 返回您自己的避難所並在那裡開始案件."
+        "str": ""
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
@@ -2994,16 +2994,16 @@
         "str": "統計資料"
     },
     {
-        "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
+        "key": "11B02A534CC152061E44EAB406F4223C",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
         "id": "Time Trial",
-        "str": "競賽"
+        "str": ""
     },
     {
-        "key": "A1CB54034B401A0E8BBD049E18CBFADD",
+        "key": "8C118CF148C516FD54C9BC8FE28F9A95",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-        "str": "隨機模式，但在比賽模式中有獎牌"
+        "str": ""
     },
     {
         "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3099,19 +3099,19 @@
         "key": "15673F574D5DA742FD4F428DA263DCB1",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Your save game has been successfully restored, it may be wise to restart the game.",
-        "str": "您的遊戲存檔已成功恢復，重新啟動遊戲可能是明智之舉."
+        "str": ""
     },
     {
         "key": "6088379D4B73AB0746BE8EB73EB9DB33",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
-        "str": "這是測試版，建議複製您保存的遊戲，因為存在丟失此類數據的風險. 想要複製嗎？"
+        "str": ""
     },
     {
         "key": "ADE584574E49B6623B97CA87F62F2279",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Warning!",
-        "str": "警告！"
+        "str": ""
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3123,7 +3123,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": "備份已成功保存，如果要恢復，只需重新啟動遊戲即可看到 \n"
+        "str": ""
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3153,7 +3153,7 @@
         "key": "A76488B841E9F96185871BB1C73F418B",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_3.Text",
         "id": "Restore Previous Save",
-        "str": "恢復之前的保存"
+        "str": ""
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
