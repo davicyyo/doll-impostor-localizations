@@ -177,19 +177,19 @@
         "key": "0590A39240854404475C3696E14AF5A8",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We have detected a change in your inputs.",
-        "str": "我们检测到您的输入发生变化."
+        "str": ""
     },
     {
         "key": "821BBE2A48EE821074956AB736CA0ECB",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "Input detected!",
-        "str": "检测到输入！"
+        "str": ""
     },
     {
         "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "我们无法创建在线会话. 请检查您的连接并重新启动游戏. 如果您决定继续，游戏将以离线模式运行."
+        "str": ""
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2145,7 +2145,7 @@
         "key": "26C6D54D41B3F28C6F8033ADBE044F08",
         "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
         "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-        "str": "还未发现目标，试着集中更多的注意力，保持在特定的距离，看见整个目标"
+        "str": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen"
     },
     {
         "key": "93B997314AF656293CD3E6A5CB67FA1B",
@@ -2163,7 +2163,7 @@
         "key": "AD84DE7C441EA1A5D211A5AA27D02D95",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getPressText [Script Bytecode]",
         "id": "Press {key} to {interact}",
-        "str": "按{key}{interact}"
+        "str": "按{key}进行{interact}"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
@@ -2289,7 +2289,7 @@
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "很好，现在剩下蜡烛。"
+        "str": "很好，现在剩下的蜡烛。"
     },
     {
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
@@ -2445,7 +2445,7 @@
         "key": "B75DC93941A74B4A564DF389EB387762",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Only the host can interact with this.",
-        "str": "只有主机可以与这个.交互"
+        "str": ""
     },
     {
         "key": "D89BAF654ED277C71FA76392443B5C15",
@@ -2631,7 +2631,7 @@
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
-        "str": "当您在别人的避难所时，您无法前往此案件. 返回您自己的避难所并在那里开始案件."
+        "str": ""
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
@@ -2889,7 +2889,7 @@
         "key": "C5BF8D15413D2BD751F76EBE5D96E205",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
         "id": "All items placed in the chest will disappear when you exit the map.",
-        "str": "当你退出地图时，放置在宝箱中的所有物品都会消失。"
+        "str": "当你退出地图时，放置在宝箱中的所有物品都会消失."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -2943,7 +2943,7 @@
         "key": "AD01C42149F1EF55342AAAB262E7D9C8",
         "location": "/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]",
         "id": "This game mode is not available in multiplayer.",
-        "str": "此游戏模式在多人游戏中不可用。"
+        "str": "此游戏模式在多人游戏中不可用."
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -2994,16 +2994,16 @@
         "str": "统计数据"
     },
     {
-        "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
+        "key": "11B02A534CC152061E44EAB406F4223C",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
         "id": "Time Trial",
-        "str": "比赛"
+        "str": ""
     },
     {
-        "key": "A1CB54034B401A0E8BBD049E18CBFADD",
+        "key": "8C118CF148C516FD54C9BC8FE28F9A95",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-        "str": "随机模式，但可以竞速获得奖牌"
+        "str": ""
     },
     {
         "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3099,19 +3099,19 @@
         "key": "15673F574D5DA742FD4F428DA263DCB1",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Your save game has been successfully restored, it may be wise to restart the game.",
-        "str": "您的游戏存档已成功恢复，重新启动游戏可能是明智之举."
+        "str": ""
     },
     {
         "key": "6088379D4B73AB0746BE8EB73EB9DB33",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
-        "str": "这是测试版，建议复制您保存的游戏，因为存在丢失此类数据的风险. 想要复制吗？"
+        "str": ""
     },
     {
         "key": "ADE584574E49B6623B97CA87F62F2279",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Warning!",
-        "str": "警告！"
+        "str": ""
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3123,7 +3123,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": "备份已成功保存，如果要恢复，只需重新启动游戏即可看到 \n"
+        "str": ""
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3153,7 +3153,7 @@
         "key": "A76488B841E9F96185871BB1C73F418B",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_3.Text",
         "id": "Restore Previous Save",
-        "str": "恢复之前的保存"
+        "str": ""
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
@@ -3207,7 +3207,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "我创建了一个更高级的指南，探讨了职业模式的各个方面。如果你需要更多帮助，我建议你看看；这会帮助你解决未来的案件！"
+        "str": "我创建了一个更高级的指南，探讨了职业模式的各个方面。如果你需要更多帮助，我建议你看看它；它会帮助你解决未来的案件！"
     },
     {
         "key": "F66992CC4272E9FD176972AE7A324010",
@@ -3657,13 +3657,13 @@
         "key": "8AB0454249AEF8D22FE8AD9044DC5660",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_52.Text",
         "id": "Invert Horizontal Camera",
-        "str": "水平反转镜头"
+        "str": "反转水平相机"
     },
     {
         "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_55.Text",
         "id": "Invert Vertical Camera",
-        "str": "垂直反转镜头"
+        "str": "反转相机"
     },
     {
         "key": "91B3AF44465FA4D4F6976EA74F572B41",
@@ -3675,7 +3675,7 @@
         "key": "A7315029485656AEDD7500947B3C4E5B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_57.Text",
         "id": "This option will only be available on Easy difficulty.",
-        "str": "此选项仅在简单难度下可用。"
+        "str": "此选项仅在简单难度下可用."
     },
     {
         "key": "8BFB53E5448C16FA230515968C3ABF0A",
@@ -3717,7 +3717,7 @@
         "key": "57B4EC5445C5BADF97E3D48264009545",
         "location": "/Game/UI/sleepUI.sleepUI_C:WidgetTree.TextBlock_62.Text",
         "id": "Waiting players...",
-        "str": "等待玩家中……"
+        "str": "等待玩家..."
     },
     {
         "key": "43B95535434D97B9189B93A2A4594202",
@@ -3777,7 +3777,7 @@
         "key": "21111B074FED432D86A1CCAE77CC81C3",
         "location": "/Game/UI/waiting.waiting_C:WidgetTree.text.Text",
         "id": "Loading...",
-        "str": "正在加载……"
+        "str": "正在加载..."
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
