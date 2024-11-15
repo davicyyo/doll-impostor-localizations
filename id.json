@@ -174,6 +174,24 @@
         "str": "Tampilkan jumpscare"
     },
     {
+        "key": "0590A39240854404475C3696E14AF5A8",
+        "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+        "id": "We have detected a change in your inputs.",
+        "str": "Kami telah mendeteksi perubahan pada input. Anda"
+    },
+    {
+        "key": "821BBE2A48EE821074956AB736CA0ECB",
+        "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+        "id": "Input detected!",
+        "str": "Masukan terdeteksi!"
+    },
+    {
+        "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
+        "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+        "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
+        "str": "Kami tidak dapat membuat sesi online. Silakan periksa koneksi Anda dan mulai ulang game. Jika Anda memutuskan untuk melanjutkan, game akan bekerja dalam mode offline."
+    },
+    {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "OK",
@@ -2424,6 +2442,12 @@
         "str": "Selamat datang di tempat perlindungan! "
     },
     {
+        "key": "B75DC93941A74B4A564DF389EB387762",
+        "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
+        "id": "Only the host can interact with this.",
+        "str": "Hanya tuan rumah yang dapat berinteraksi dengan ini."
+    },
+    {
         "key": "D89BAF654ED277C71FA76392443B5C15",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
@@ -2602,6 +2626,12 @@
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
         "str": "Anda sekarang telah menerima kasus. Di luar tutorial, Anda dapat mengabaikan kasus ini kapan saja, tetapi Anda tidak akan dapat menemukan kasus baru setelah Anda menerima. Setelah ini diselesaikan, pergilah ke lokasi ketika Anda siap."
+    },
+    {
+        "key": "3E89DE624ACBA88C4179C9852E9C70AD",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
+        "str": "Anda tidak dapat melakukan perjalanan ke kasus ini saat Anda berada di shelter orang lain. Kembali ke shelter Anda sendiri dan mulai kasus di sana."
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
@@ -2892,16 +2922,16 @@
         "str": "Bisakah Anda membantu saya dengan ulasan positif?"
     },
     {
-        "key": "798C9DA54AB7FB8B77443DA0EE442098",
-        "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
-        "id": "Go to Safe House",
-        "str": "Pergi ke Rumah Aman"
-    },
-    {
         "key": "F699B0844A39D7ABCF0260916BF5F41B",
         "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock.Text",
         "id": "Invite players",
         "str": "Undang pemain"
+    },
+    {
+        "key": "798C9DA54AB7FB8B77443DA0EE442098",
+        "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_3.Text",
+        "id": "Go to Safe House",
+        "str": "Pergi ke Rumah Aman"
     },
     {
         "key": "2CB05BB340AA7F8DFF600E83A23BDADD",
@@ -2966,13 +2996,13 @@
     {
         "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
-        "id": "Race",
+        "id": "Time Trial",
         "str": "Balapan"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
-        "id": "Random mode but in race mode with medals",
+        "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
         "str": "Mode acak tetapi dalam mode balapan dengan medali"
     },
     {
@@ -3066,16 +3096,34 @@
         "str": "Kesulitan standar untuk setiap pemain, semua petunjuk akan dibuat pada pukul 08:00, Anda memiliki opsi untuk melihat nama-nama boneka dan daftar tindakan penipu"
     },
     {
-        "key": "9D736AE2415C1B2B63950AAB6F7E242C",
+        "key": "15673F574D5DA742FD4F428DA263DCB1",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
-        "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "Kami tidak dapat membuat sesi online. Silakan periksa koneksi Anda dan mulai ulang game. Jika Anda memutuskan untuk melanjutkan, game akan bekerja dalam mode offline."
+        "id": "Your save game has been successfully restored, it may be wise to restart the game.",
+        "str": "Save game Anda telah berhasil dipulihkan, mungkin bijaksana untuk memulai ulang game."
+    },
+    {
+        "key": "6088379D4B73AB0746BE8EB73EB9DB33",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
+        "str": "Ini adalah versi beta, disarankan untuk membuat salinan dari game simpanan Anda karena ada risiko kehilangan data tersebut. Ingin membuat salinan?"
+    },
+    {
+        "key": "ADE584574E49B6623B97CA87F62F2279",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "Warning!",
+        "str": "Peringatan!"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
         "str": "Diterjemahkan oleh: {people}"
+    },
+    {
+        "key": "E9F0184246CAA5E005429C98D5BB5533",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
+        "str": "Cadangan telah berhasil disimpan, jika Anda ingin memulihkannya, cukup restart game dan Anda akan melihatnya \n"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3100,6 +3148,12 @@
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
         "id": "Play",
         "str": "Bermain"
+    },
+    {
+        "key": "A76488B841E9F96185871BB1C73F418B",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_3.Text",
+        "id": "Restore Previous Save",
+        "str": "Pulihkan Simpanan Sebelumnya"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
@@ -3714,16 +3768,16 @@
         "str": "Kembali"
     },
     {
-        "key": "21111B074FED432D86A1CCAE77CC81C3",
-        "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
-        "id": "Loading...",
-        "str": "Memuat..."
-    },
-    {
         "key": "54288BFC4059AA21CBC614AA74C19EBE",
         "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
         "id": "Waiting players {players}",
         "str": "Menunggu pemain {players}"
+    },
+    {
+        "key": "21111B074FED432D86A1CCAE77CC81C3",
+        "location": "/Game/UI/waiting.waiting_C:WidgetTree.text.Text",
+        "id": "Loading...",
+        "str": "Memuat..."
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",

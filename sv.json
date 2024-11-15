@@ -174,6 +174,24 @@
         "str": "Visa jumpscares"
     },
     {
+        "key": "0590A39240854404475C3696E14AF5A8",
+        "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+        "id": "We have detected a change in your inputs.",
+        "str": "Vi har upptäckt en förändring i dina indata."
+    },
+    {
+        "key": "821BBE2A48EE821074956AB736CA0ECB",
+        "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+        "id": "Input detected!",
+        "str": "Ingång upptäckt!"
+    },
+    {
+        "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
+        "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+        "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
+        "str": "Vi kunde inte skapa en onlinesession. Kontrollera din anslutning och starta om spelet. Om du bestämmer dig för att fortsätta kommer spelet att fungera i offlineläge."
+    },
+    {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "OK",
@@ -2424,6 +2442,12 @@
         "str": "Välkommen till fristaden! "
     },
     {
+        "key": "B75DC93941A74B4A564DF389EB387762",
+        "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
+        "id": "Only the host can interact with this.",
+        "str": "Endast värden kan interagera med denna."
+    },
+    {
         "key": "D89BAF654ED277C71FA76392443B5C15",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
@@ -2602,6 +2626,12 @@
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
         "str": "Du har nu accepterat ärendet. Utanför handledningen kan du överge ärendet när som helst, men du kommer inte att kunna hitta nya ärenden när du väl har accepterat. När detta är klart, åk till platsen när du är redo."
+    },
+    {
+        "key": "3E89DE624ACBA88C4179C9852E9C70AD",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
+        "str": "Du kan inte resa till det här fallet medan du är i någon annans härbärge. Gå tillbaka till ditt eget härbärge och starta ärendet där."
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
@@ -2892,16 +2922,16 @@
         "str": "Kan du hjälpa mig med en positiv recension?"
     },
     {
-        "key": "798C9DA54AB7FB8B77443DA0EE442098",
-        "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
-        "id": "Go to Safe House",
-        "str": "Gå till Safe House"
-    },
-    {
         "key": "F699B0844A39D7ABCF0260916BF5F41B",
         "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock.Text",
         "id": "Invite players",
         "str": "Bjud in spelare"
+    },
+    {
+        "key": "798C9DA54AB7FB8B77443DA0EE442098",
+        "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_3.Text",
+        "id": "Go to Safe House",
+        "str": "Gå till Safe House"
     },
     {
         "key": "2CB05BB340AA7F8DFF600E83A23BDADD",
@@ -2966,13 +2996,13 @@
     {
         "key": "B2073B1A4D61A580ED0CF1B3F4DC6364",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
-        "id": "Race",
+        "id": "Time Trial",
         "str": "Ras"
     },
     {
         "key": "A1CB54034B401A0E8BBD049E18CBFADD",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
-        "id": "Random mode but in race mode with medals",
+        "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
         "str": "Slumpmässigt läge men i raceläge med medaljer"
     },
     {
@@ -3066,16 +3096,34 @@
         "str": "Standard svårighetsgrad för varje spelare, alla ledtrådar kommer att göras klockan 08:00, du har möjlighet att se namnen på dockorna och listan över bedragarens åtgärder"
     },
     {
-        "key": "9D736AE2415C1B2B63950AAB6F7E242C",
+        "key": "15673F574D5DA742FD4F428DA263DCB1",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
-        "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "Vi kunde inte skapa en onlinesession. Kontrollera din anslutning och starta om spelet. Om du bestämmer dig för att fortsätta kommer spelet att fungera i offlineläge."
+        "id": "Your save game has been successfully restored, it may be wise to restart the game.",
+        "str": "Ditt sparade spel har återställts, det kan vara klokt att starta om spelet."
+    },
+    {
+        "key": "6088379D4B73AB0746BE8EB73EB9DB33",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
+        "str": "Detta är en betaversion, det är tillrådligt att göra en kopia av ditt sparade spel eftersom det finns en risk att förlora sådan data. Vill du göra en kopia?"
+    },
+    {
+        "key": "ADE584574E49B6623B97CA87F62F2279",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "Warning!",
+        "str": "Varning!"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Translated by: {people}",
         "str": "Översatt av: {people}"
+    },
+    {
+        "key": "E9F0184246CAA5E005429C98D5BB5533",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
+        "str": "Säkerhetskopieringen har sparats, om du vill återställa den, starta bara om spelet så ser du \n"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3100,6 +3148,12 @@
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
         "id": "Play",
         "str": "Spela"
+    },
+    {
+        "key": "A76488B841E9F96185871BB1C73F418B",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_3.Text",
+        "id": "Restore Previous Save",
+        "str": "Återställ föregående spara"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
@@ -3714,16 +3768,16 @@
         "str": "Tillbaka"
     },
     {
-        "key": "21111B074FED432D86A1CCAE77CC81C3",
-        "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
-        "id": "Loading...",
-        "str": "Laddar..."
-    },
-    {
         "key": "54288BFC4059AA21CBC614AA74C19EBE",
         "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
         "id": "Waiting players {players}",
         "str": "Väntande spelare {players}"
+    },
+    {
+        "key": "21111B074FED432D86A1CCAE77CC81C3",
+        "location": "/Game/UI/waiting.waiting_C:WidgetTree.text.Text",
+        "id": "Loading...",
+        "str": "Laddar..."
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
