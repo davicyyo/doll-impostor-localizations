@@ -57,7 +57,7 @@
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
         "id": "The pain is overwhelming",
-        "str": "La douleur est écrasante"
+        "str": "La douleur est insupportable"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
@@ -87,7 +87,7 @@
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "You need to use the book of souls before you save the imposter doll",
-        "str": "Vous devez utiliser le Livre des Âmes avant de sauvegarder la poupée imposteur"
+        "str": "Vous devez utiliser le Livre des Âmes avant de sélectionner la poupée imposteur"
     },
     {
         "key": "073BF882481ECDE57F50FF98957A3C22",
@@ -177,13 +177,13 @@
         "key": "0590A39240854404475C3696E14AF5A8",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We have detected a change in your inputs.",
-        "str": "Nous avons détecté un changement dans vos entrées."
+        "str": "Nous avons détecté un changement dans vos touches."
     },
     {
         "key": "821BBE2A48EE821074956AB736CA0ECB",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "Input detected!",
-        "str": "Entrée détectée !"
+        "str": "Touche détectée !"
     },
     {
         "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
@@ -2313,7 +2313,7 @@
         "key": "96567B804DFD2EED05E51E9BD49F3870",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode.",
-        "str": "Nous allons maintenant utiliser l'objet Soul Book. Cet objet lancera officiellement le jeu. Son utilisation est simple : lorsque vous utilisez ce livre, quel que soit l'imposteur (dans ce cas, Lil) commencera à agir. À ce stade, vous "
+        "str": "Nous allons maintenant utiliser le Livre des Âmes. Cet objet lancera officiellement le jeu. Son utilisation est simple : lorsque vous utilisez ce livre, quel que soit l'imposteur (dans ce cas, Lil) commencera à agir. À ce stade, vous aurez besoin de comparer l'information avec ce qui c'est passé, comme dans le mode classique."
     },
     {
         "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
@@ -2331,7 +2331,7 @@
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "Pour développer la photo, vous devez la secouer. Une fois qu'elle est développée à 100 %, appuyez simplement sur le bouton d'utilisation, et elle sera enregistrée."
+        "str": "Pour développer la photo, vous devez la secouer. Une fois développée à 100 %, appuyez simplement sur le bouton d'utilisation, et elle sera enregistrée."
     },
     {
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
@@ -2433,7 +2433,7 @@
         "key": "A7540C9740107C15DAA704B657E53E8D",
         "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
         "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-        "str": "Doll Who est un jeu de société de déduction où deux joueurs essaient de deviner l'identité du personnage choisi par leur adversaire. Chaque joueur dispose d'un plateau avec une série de personnages aux traits différents. En posant des questions auxquelles on peut répondre par \noui\n ou \nnon\n sur les caractéristiques des personnages (comme s'ils portent un chapeau ou s'ils apparaissent sur la carte de la garderie), les joueurs éliminent des options jusqu'à découvrir le personnage de l'adversaire. Le premier joueur à deviner correctement gagne."
+        "str": "Doll Who est un jeu de société de déduction où deux joueurs essaient de deviner l'identité du personnage choisi par leur adversaire. Chaque joueur dispose d'un plateau avec une série de personnages aux traits différents. En posant des questions auxquelles on peut répondre par oui ou non sur les caractéristiques des personnages (comme s'ils portent un chapeau ou s'ils apparaissent sur la carte de la garderie), les joueurs éliminent des options jusqu'à découvrir le personnage de l'adversaire. Le premier joueur à deviner correctement gagne."
     },
     {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -2445,7 +2445,7 @@
         "key": "B75DC93941A74B4A564DF389EB387762",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Only the host can interact with this.",
-        "str": "Seul l'hôte peut interagir avec ce ."
+        "str": "Seul l'hôte peut interagir avec ça."
     },
     {
         "key": "D89BAF654ED277C71FA76392443B5C15",
@@ -2799,7 +2799,7 @@
         "key": "F5A1B20A4E970FD062976FB28CEBCEC2",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_28.Text",
         "id": "Reset Career Mode",
-        "str": "Réinitialiser le mode carrière"
+        "str": "Réinitialiser le Mode Carrière"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -3003,7 +3003,7 @@
         "key": "8C118CF148C516FD54C9BC8FE28F9A95",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-        "str": "Mode aléatoire mais vous faites une course contre la montre ; "
+        "str": "Mode aléatoire mais vous faites une course contre la montre ; trouvez la poupée avant que le temps ne s'écoule and gagnez des trophées par rapport à votre vitesse."
     },
     {
         "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3123,7 +3123,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": "La sauvegarde a été enregistrée avec succès, si vous souhaitez la restaurer, redémarrez simplement le jeu et vous verrez \n"
+        "str": "La sauvegarde a été enregistrée avec succès, si vous souhaitez la restaurer, redémarrez simplement le jeu et vous verrez "
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
