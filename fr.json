@@ -177,19 +177,19 @@
         "key": "0590A39240854404475C3696E14AF5A8",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We have detected a change in your inputs.",
-        "str": ""
+        "str": "Nous avons détecté un changement dans vos entrées."
     },
     {
         "key": "821BBE2A48EE821074956AB736CA0ECB",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "Input detected!",
-        "str": ""
+        "str": "Entrée détectée !"
     },
     {
         "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": ""
+        "str": "Nous n'avons pas pu créer de session en ligne. Veuillez vérifier votre connexion et redémarrer le jeu. Si vous décidez de continuer, le jeu fonctionnera en mode hors ligne."
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2445,7 +2445,7 @@
         "key": "B75DC93941A74B4A564DF389EB387762",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Only the host can interact with this.",
-        "str": ""
+        "str": "Seul l'hôte peut interagir avec ce ."
     },
     {
         "key": "D89BAF654ED277C71FA76392443B5C15",
@@ -2631,7 +2631,7 @@
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
-        "str": ""
+        "str": "Vous ne pouvez pas vous rendre dans cette affaire tant que vous êtes dans le refuge de quelqu'un d'autre. Retournez dans votre propre refuge et commencez l'affaire là-bas."
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
@@ -2997,13 +2997,13 @@
         "key": "11B02A534CC152061E44EAB406F4223C",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
         "id": "Time Trial",
-        "str": ""
+        "str": "Contre-la-montre"
     },
     {
         "key": "8C118CF148C516FD54C9BC8FE28F9A95",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-        "str": ""
+        "str": "Mode aléatoire mais vous faites une course contre la montre ; "
     },
     {
         "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3099,19 +3099,19 @@
         "key": "15673F574D5DA742FD4F428DA263DCB1",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Your save game has been successfully restored, it may be wise to restart the game.",
-        "str": ""
+        "str": "Votre sauvegarde a été restaurée avec succès, il peut être judicieux de redémarrer le jeu."
     },
     {
         "key": "6088379D4B73AB0746BE8EB73EB9DB33",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
-        "str": ""
+        "str": "Il s'agit d'une version bêta, il est conseillé de faire une copie de votre partie sauvegardée car il y a un risque de perdre ces données. Vous voulez faire une copie ?"
     },
     {
         "key": "ADE584574E49B6623B97CA87F62F2279",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Warning!",
-        "str": ""
+        "str": "Avertissement!"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3123,7 +3123,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": ""
+        "str": "La sauvegarde a été enregistrée avec succès, si vous souhaitez la restaurer, redémarrez simplement le jeu et vous verrez \n"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3153,7 +3153,7 @@
         "key": "A76488B841E9F96185871BB1C73F418B",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_3.Text",
         "id": "Restore Previous Save",
-        "str": ""
+        "str": "Restaurer la sauvegarde précédente"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
