@@ -177,7 +177,7 @@
         "key": "0590A39240854404475C3696E14AF5A8",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We have detected a change in your inputs.",
-        "str": "Мы обнаружили изменение в ваших входных данных."
+        "str": "Обнаружены изменения в вводе."
     },
     {
         "key": "821BBE2A48EE821074956AB736CA0ECB",
@@ -2631,7 +2631,7 @@
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
-        "str": "Вы не можете отправиться к этому делу, пока находитесь в чужом приюте. Вернитесь в свой приют и начните дело там."
+        "str": "Невозможно начать кейс в убежище другого игрока. Вернитесь в своё убежище и начните кейс там."
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
@@ -3003,7 +3003,7 @@
         "key": "8C118CF148C516FD54C9BC8FE28F9A95",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-        "str": "Случайный режим, но вы мчитесь на время; "
+        "str": "Случайный режим: соревнуйтесь со временем; Найдите куклу до истечения времени. Чем быстрее вы справитесь, тем лучше."
     },
     {
         "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3099,13 +3099,13 @@
         "key": "15673F574D5DA742FD4F428DA263DCB1",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Your save game has been successfully restored, it may be wise to restart the game.",
-        "str": "Ваше сохранение успешно восстановлено, возможно, имеет смысл перезапустить игру."
+        "str": "Ваше сохранение успешно восстановлено. Рекомендуется перезапустить игру."
     },
     {
         "key": "6088379D4B73AB0746BE8EB73EB9DB33",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
-        "str": "Это бета-версия, желательно сделать копию сохраненной игры, так как есть риск потери таких данных. Хотите сделать копию?"
+        "str": "Это бета-версия. Рекомендуется сделать копию вашего сохранения, так как существует риск потери данных. Создать копию?"
     },
     {
         "key": "ADE584574E49B6623B97CA87F62F2279",
@@ -3123,7 +3123,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": "Резервная копия успешно сохранена, если вы хотите ее восстановить, просто перезапустите игру и вы увидите \n"
+        "str": "Резервная копия успешно сохранена. Чтобы восстановить её, просто перезапустите игру, и в этом меню появится пункт \nrestore previous save\n."
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
