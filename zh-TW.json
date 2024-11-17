@@ -2910,6 +2910,12 @@
         "str": "重設"
     },
     {
+        "key": "96BE28504D901245DE1115BF00D47E10",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+        "id": "Action Details",
+        "str": "行動細節"
+    },
+    {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
@@ -2986,6 +2992,12 @@
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
         "str": "你擁有關於這些人偶的所有線索和資訊，但每個人偶的資訊都是完全隨機的。"
+    },
+    {
+        "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
+        "id": "Back",
+        "str": "返回"
     },
     {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -3112,6 +3124,12 @@
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Warning!",
         "str": "警告！"
+    },
+    {
+        "key": "D1343C0B46B548625A4EE78A3DA1E1E6",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "We have detected that you have already played previously and that you have lost progress, press Accept to download a save file to avoid unlocking everything again",
+        "str": "我們檢測到您之前已經玩過並丟失了進度，請按「接受」下載保存檔案，以免再次解鎖所有內容。"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3796,18 +3814,6 @@
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
         "str": "動作人偶"
-    },
-    {
-        "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
-        "id": "Back",
-        "str": "返回"
-    },
-    {
-        "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
-        "id": "Action Details",
-        "str": "行動細節"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",

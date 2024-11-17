@@ -2910,6 +2910,12 @@
         "str": "รีเซ็ต"
     },
     {
+        "key": "96BE28504D901245DE1115BF00D47E10",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+        "id": "Action Details",
+        "str": "รายละเอียดการกระทำ"
+    },
+    {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
@@ -2988,6 +2994,12 @@
         "str": "คุณมีเบาะแสและข้อมูลของตุ๊กตาทุกตัว แต่ข้อมูลดังกล่าวจะเป็นแบบสุ่ม"
     },
     {
+        "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
+        "id": "Back",
+        "str": "กลับ"
+    },
+    {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
         "id": "Stats",
@@ -3003,7 +3015,7 @@
         "key": "8C118CF148C516FD54C9BC8FE28F9A95",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
         "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-        "str": "โหมดสุ่มแบบจับเวลา ค้นหาตุ๊กตาก่อนที่เวลาจะหมด และแลกถ้วยรางวัลตามความเร็วในการค้นหาของคุณ" 
+        "str": "โหมดสุ่มแบบจับเวลา ค้นหาตุ๊กตาก่อนที่เวลาจะหมด และแลกถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
     },
     {
         "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3112,6 +3124,12 @@
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Warning!",
         "str": "คำเตือน!"
+    },
+    {
+        "key": "D1343C0B46B548625A4EE78A3DA1E1E6",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "We have detected that you have already played previously and that you have lost progress, press Accept to download a save file to avoid unlocking everything again",
+        "str": "เราตรวจพบว่าคุณเคยเล่นมาก่อนและสูญเสียความคืบหน้า กด \nยอมรับ\n เพื่อดาวน์โหลดไฟล์บันทึกเพื่อหลีกเลี่ยงการปลดล็อกทุกอย่างอีกครั้ง"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3796,18 +3814,6 @@
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
         "str": "การกระทำของตุ๊กตา"
-    },
-    {
-        "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
-        "id": "Back",
-        "str": "กลับ"
-    },
-    {
-        "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
-        "id": "Action Details",
-        "str": "รายละเอียดการกระทำ"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
