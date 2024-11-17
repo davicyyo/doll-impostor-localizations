@@ -2910,6 +2910,12 @@
         "str": "다시 놓기"
     },
     {
+        "key": "96BE28504D901245DE1115BF00D47E10",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+        "id": "Action Details",
+        "str": "작업 세부정보"
+    },
+    {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
@@ -2986,6 +2992,12 @@
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
         "str": "당신은 인형에 대한 모든 단서와 모든 정보를 가지고 있지만 이것은 각 인형에 대해 완전히 무작위입니다."
+    },
+    {
+        "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
+        "id": "Back",
+        "str": "뒤쪽에"
     },
     {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -3112,6 +3124,12 @@
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Warning!",
         "str": "경고!"
+    },
+    {
+        "key": "D1343C0B46B548625A4EE78A3DA1E1E6",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "We have detected that you have already played previously and that you have lost progress, press Accept to download a save file to avoid unlocking everything again",
+        "str": "이전에 플레이한 기록이 있으며 진행 상황을 잃은 것을 감지했습니다. 모든 것을 다시 잠금 해제하지 않도록 저장 파일을 다운로드하려면 수락을 누르세요."
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3796,18 +3814,6 @@
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
         "str": "액션 인형"
-    },
-    {
-        "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
-        "id": "Back",
-        "str": "뒤쪽에"
-    },
-    {
-        "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
-        "id": "Action Details",
-        "str": "작업 세부정보"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",

@@ -2910,6 +2910,12 @@
         "str": "Resetten"
     },
     {
+        "key": "96BE28504D901245DE1115BF00D47E10",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+        "id": "Action Details",
+        "str": "Gebeurtenissen-overzicht"
+    },
+    {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
@@ -2986,6 +2992,12 @@
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
         "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
         "str": "Je hebt alle aanwijzingen en alle informatie over de poppen, maar de informatie is volledig willekeurig voor iedere pop."
+    },
+    {
+        "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
+        "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
+        "id": "Back",
+        "str": "Terug"
     },
     {
         "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -3112,6 +3124,12 @@
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Warning!",
         "str": "Waarschuwing!"
+    },
+    {
+        "key": "D1343C0B46B548625A4EE78A3DA1E1E6",
+        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+        "id": "We have detected that you have already played previously and that you have lost progress, press Accept to download a save file to avoid unlocking everything again",
+        "str": "We hebben gedetecteerd dat je eerder hebt gespeeld en voortgang hebt verloren. Druk op Accepteren om een opgeslagen bestand te downloaden en te voorkomen dat je alles opnieuw moet ontgrendelen."
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3796,18 +3814,6 @@
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
         "id": "Action Dolls",
         "str": "Relatie tot andere poppen"
-    },
-    {
-        "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
-        "id": "Back",
-        "str": "Terug"
-    },
-    {
-        "key": "96BE28504D901245DE1115BF00D47E10",
-        "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_4.Text",
-        "id": "Action Details",
-        "str": "Gebeurtenissen-overzicht"
     },
     {
         "key": "37F6FE7147465126D16EBCAB90C1274D",
