@@ -3129,7 +3129,7 @@
         "key": "D1343C0B46B548625A4EE78A3DA1E1E6",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "We have detected that you have already played previously and that you have lost progress, press Accept to download a save file to avoid unlocking everything again",
-        "str": "Мы обнаружили, что вы уже играли ранее и потеряли прогресс. Нажмите «Принять», чтобы загрузить файл сохранения и избежать повторного разблокирования всего."
+        "str": "Мы обнаружили, что вы уже играли ранее и потеряли прогресс. Нажмите «Принять», чтобы загрузить файл сохранения."
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
