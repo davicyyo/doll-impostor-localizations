@@ -27,19 +27,19 @@
         "key": "806D1B0C4EFCAD5D435AD6A24A208010",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(10).texts",
         "id": "Who will listen to us?",
-        "str": "ทำไมไม่มีใครฟังพวกเราเลย"
+        "str": "ทำไมไม่มีใครฟังพวกเราเลย?"
     },
     {
         "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(2).texts",
         "id": "Everything is falling apart",
-        "str": "ทุกอย่างกำลังพังทลายลง"
+        "str": "ทุกอย่างแตกสลายเป็นจุล"
     },
     {
         "key": "D3B042044111E5CC7AE8239FB511F147",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(3).texts",
         "id": "Darkness surrounds us",
-        "str": "ความมืดได้ปกคลุมพวกเราไว้"
+        "str": "ความมืดกลืนกินพวกเรา"
     },
     {
         "key": "46CE50D24305DF8EE5E3069A686AD62E",
@@ -57,19 +57,19 @@
         "key": "C868184542C8CF8CE45E35881EB2FB7F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
         "id": "The pain is overwhelming",
-        "str": "เป็นความเจ็บปวดที่ยากจะพรรณา"
+        "str": "เป็นความเจ็บปวดเกินพรรณา"
     },
     {
         "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(7).texts",
         "id": "There seems to be no way out",
-        "str": "ไม่มีทางหนีออกไปได้"
+        "str": "ไม่มีทางหนีรอดออกไปได้"
     },
     {
         "key": "8013788A45FE0968E12AA3BAF0AE5233",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(8).texts",
         "id": "The silence is deafening",
-        "str": "ความเงียบมันทำให้หดหู่"
+        "str": "ความเงียบมันช่างหดหู่"
     },
     {
         "key": "FB77087A4862A67B758D529F87748C2F",
@@ -291,7 +291,7 @@
         "key": "164553EC4B6A9D265430F3B6A25830E5",
         "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_21.label_17_E97135F84728B1D3E2D91DAE099E4D25",
         "id": "Van Bed",
-        "str": "เตียงบทรถตู้"
+        "str": "เตียงบนรถตู้"
     },
     {
         "key": "8D62136643D4EAA319AD22BBFD4C8FD1",
@@ -381,7 +381,7 @@
         "key": "93917B7240A1743F582D7E9208B16F62",
         "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Paper that reveals dislikes",
-        "str": "กระดาษที่เผยให้เห็นสิ่งที่เกลียด"
+        "str": "กระดาษที่เผยให้เห็นสิ่งที่ไม่ชอบ"
     },
     {
         "key": "2E06BFD64361FE191A01DD86C96EBAEE",
@@ -453,7 +453,7 @@
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "ขนนกสีขาวและละเอียดอ่อน"
+        "str": "ขนนกสีขาวละเอียดอ่อน"
     },
     {
         "key": "814D9929402ED9670B11B8A5F77DD89E",
@@ -513,7 +513,7 @@
         "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
         "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A golden and sweet liquid.",
-        "str": "น้ำหวานสีทอง"
+        "str": "น้ำหวานสีเหลืองทอง"
     },
     {
         "key": "72400A564910846D7B2ECEAD2631331D",
@@ -561,7 +561,7 @@
         "key": "F249EDB640DA6D9A4C0334BE6E3B5DAB",
         "location": "/Game/data-tables/itemList.itemList.NewRow_24.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A bitter and viscous liquid.",
-        "str": "ของเหลวที่มีรสขมหนืด"
+        "str": "ของเหลวรสขมหนืด"
     },
     {
         "key": "F3539C0B4A4D262BEEADFCBC91E58848",
@@ -765,7 +765,7 @@
         "key": "7EB47B9449369EB3E3F18C972CC18786",
         "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Elixir that reveals enmity",
-        "str": "น้ำอมฤตแห่งเป็นศัตรู"
+        "str": "น้ำอมฤตแห่งความเป็นศัตรู"
     },
     {
         "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -2073,7 +2073,7 @@
         "key": "D4F0469A4306A9237BF0858B3B2541EF",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Shudder",
-        "str": "ตัวสั่น"
+        "str": "สั่นเครือ"
     },
     {
         "key": "D54AD32246C068D95A3BF5911FDC1807",
@@ -2103,7 +2103,7 @@
         "key": "E9F12A4243E6AE323515DE8E9AA0162B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Specter",
-        "str": "ท้อใจ"
+        "str": "ท้อแท้"
     },
     {
         "key": "EEEE750B4277BD6C5835BD901B924179",
@@ -2193,7 +2193,7 @@
         "key": "158F6D234AF05145B4905F942285D978",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now the Ouija board on the table",
-        "str": "เล่นกระดาน Ouija บนโต๊ะ"
+        "str": "เล่นกระดานผีบอกบนโต๊ะ"
     },
     {
         "key": "15A53736473F7B173C354496D5FF2638",
@@ -2205,7 +2205,7 @@
         "key": "16B725324055549E77710CACDD3325FF",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now move the picture closest to the living room door.",
-        "str": "เลื่อนภาพด้านซ้ายสุดข้างประตูห้องนั่งเล่น"
+        "str": "ขยับภาพด้านซ้ายสุดข้างประตูห้องนั่งเล่น"
     },
     {
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
@@ -2325,7 +2325,7 @@
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "เรากากบาททับ Lil ก่อน เพื่อทำการตรวจสอบเธอเป็นอันดับแรก"
+        "str": "เรามากากบาททับ Lil กันก่อน เพื่อทำการตรวจสอบเธอเป็นอันดับแรก"
     },
     {
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
@@ -2403,7 +2403,7 @@
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "Soul Papers เป็นม้วนคัมภีร์ลึกลับที่มีเอกลักษณ์เฉพาะตัวอย่างยิ่งและมีอยู่ 2 ประเภท ดังนี้ กระดาษวิญญาณ และ กระดาษวิญญาณแห่งความมืด กล่าวได้ว่า กระดาษเหล่านี้จะให้ในการเปิดเผยความชอบและไม่ชอบของเหล่าตุ๊กตา เราจะเริ่มต้นด้วยกระดาษวิญญาณกับตุ๊กตาดูสิ"
+        "str": "กระดาษแห่งวิญญาณ เป็นม้วนคัมภีร์ลึกลับที่มีเอกลักษณ์เฉพาะตัวอย่างยิ่งและมีอยู่ 2 ประเภท ดังนี้ กระดาษวิญญาณ และ กระดาษวิญญาณแห่งความมืด กล่าวได้ว่า กระดาษเหล่านี้จะให้ในการเปิดเผยความชอบและไม่ชอบของเหล่าตุ๊กตา เราจะเริ่มต้นด้วยการใช้กระดาษวิญญาณกับตุ๊กตาดูสิ"
     },
     {
         "key": "DE5FC3C747F16F46862210AB8687B02C",
@@ -2511,7 +2511,7 @@
         "key": "5220ED3742AAD20F53D18B86F110B811",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-        "str": "คุณคือผู้พิทักษ์ตุ๊กตา หนึ่งในนั้นมีชีวิตและวางแผนจะฆ่าคุณ คุณต้องสืบว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
+        "str": "คุณคือผู้ดูแลตุ๊กตา หนึ่งในนั้นมีชีวิตและวางแผนจะฆ่าคุณ คุณต้องสืบว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
     },
     {
         "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
@@ -2661,7 +2661,7 @@
         "key": "AE1DC03A4DE0A9637C9F3FA115C15F1E",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "The rest of the players have been kicked for you to complete the tutorial.",
-        "str": "ผู้เล่นที่เหลือถูกเตะเพื่อให้คุณทำตามบทช่วยสอน."
+        "str": "ผู้เล่นที่เหลือถูกเตะออกเพื่อให้คุณทำตามบทช่วยสอนให้เสร็จ"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
@@ -2673,7 +2673,7 @@
         "key": "C41C767549A43DC569EB449CD5A2E3B5",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Be careful if you perform this action you will lose all your career mode progress, returning again to the tutorial, this includes your case history.",
-        "str": "ระวังหากคุณดำเนินการนี้ คุณจะสูญเสียความคืบหน้าในโหมดอาชีพทั้งหมด และกลับมาที่บทช่วยสอนอีกครั้ง ซึ่งรวมถึงประวัติเคสของคุณด้วย."
+        "str": "โปรดระวัง! ถ้าหากคุณดำเนินการนี้ คุณอาจจะสูญเสียความคืบหน้าในโหมดอาชีพทั้งหมดไป ถ้ากลับมาเริ่มที่บทช่วยสอนอีกครั้ง ซึ่งรวมถึงประวัติเคสของคุณที่เคยทำไว้ก่อนหน้านี้ด้วย"
     },
     {
         "key": "E8BEC2F04785EFD5186984BE67C4B88A",
@@ -2757,7 +2757,7 @@
         "key": "6CC9B0464D976A210322DEBEA26DF03A",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_18.Text",
         "id": "Find a new case",
-        "str": "หาเคสใหม่"
+        "str": "ค้นหาเคสใหม่"
     },
     {
         "key": "CD5FB4064AF5065F802F34BE8FF95BC3",
@@ -2853,7 +2853,7 @@
         "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
         "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
         "id": "Some of the elements you already have equipped",
-        "str": "คุณกำลังถืออุปกรณ์บางชิ้นอยู่"
+        "str": "คุณกำลังถืออุปกรณ์บางอย่างอยู่"
     },
     {
         "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
@@ -2877,7 +2877,7 @@
         "key": "AE6D75704E0C22E2F8C107A8F12A0222",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_3.Text",
         "id": "Your equiped items",
-        "str": "รายการที่ติดตั้งของคุณ"
+        "str": "อุปกรณ์ที่คุณติดตั้งอยู่"
     },
     {
         "key": "F880818144C667A994BEEF9200987EF4",
@@ -2889,7 +2889,7 @@
         "key": "C5BF8D15413D2BD751F76EBE5D96E205",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
         "id": "All items placed in the chest will disappear when you exit the map.",
-        "str": "ไอเท็มทั้งหมดที่วางไว้ในกล่องจะหายไปถ้าหากคุณออกจากแผนที่."
+        "str": "ไอเท็มทั้งหมดที่อยู่ในกล่องอาจจะหายไปถ้าหากคุณออกจากแผนที่"
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -2949,7 +2949,7 @@
         "key": "AD01C42149F1EF55342AAAB262E7D9C8",
         "location": "/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]",
         "id": "This game mode is not available in multiplayer.",
-        "str": "โหมดเกมนี้ไม่รองรับการเล่นหลายคน."
+        "str": "โหมดเกมนี้ไม่รองรับการเล่นหลายคน"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -3129,7 +3129,7 @@
         "key": "D1343C0B46B548625A4EE78A3DA1E1E6",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "We have detected that you have already played previously and that you have lost progress, press Accept to download a save file to avoid unlocking everything again",
-        "str": "เราตรวจพบว่าคุณเคยเล่นมาก่อนและสูญเสียความคืบหน้า กด \nยอมรับ\n เพื่อดาวน์โหลดไฟล์บันทึกเพื่อหลีกเลี่ยงการปลดล็อกทุกอย่างอีกครั้ง"
+        "str": "เราตรวจพบว่าคุณเคยเล่นมาก่อนแล้วและอาจจะสูญเสียความคืบหน้า กด \nยอมรับ\n เพื่อดาวน์โหลดไฟล์บันทึกและหลีกเลี่ยงการปลดล็อกทุกอย่างอีกครั้ง"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3225,7 +3225,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "ฉันได้สร้างคำแนะนำขั้นสูงขึ้นที่จะสำรวจทุกอย่างของ Career Mode หากคุณต้องการความช่วยเหลือเพิ่มเติม ฉันสามารถให้คำแนะนำคุณได้ในอนาคต"
+        "str": "ฉันได้สร้างคำแนะนำขั้นสูงขึ้นที่จะสำรวจทุกอย่างของ Career Mode หากคุณต้องการความช่วยเหลือเพิ่มเติม ฉันสามารถให้คำแนะนำคุณในการจัดการเคสต่อๆ ไป อนาคตได้"
     },
     {
         "key": "F66992CC4272E9FD176972AE7A324010",
@@ -3309,7 +3309,7 @@
         "key": "5A9082C24056C8BFE9DE8EA9069EF292",
         "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
         "id": "For the changes to take effect, restart the game",
-        "str": "เพื่อให้การเปลี่ยนแปลงมีผล โปรดรีสตาร์ทเกม"
+        "str": "เพื่อให้การเปลี่ยนแปลงมีผล โปรดทำการรีสตาร์ทเกม"
     },
     {
         "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
