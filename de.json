@@ -1,5 +1,11 @@
 [
     {
+        "key": "9F428B644FC340682C8E35A9365C2E1D",
+        "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
+        "id": "You can't open the chest until you pass the career mode tutorial.",
+        "str": ""
+    },
+    {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "Back to the safehouse",
@@ -2160,10 +2166,10 @@
         "str": "Sie benötigen {name}"
     },
     {
-        "key": "AD84DE7C441EA1A5D211A5AA27D02D95",
+        "key": "F0DAF05B4516E86912D72FB6CF221CE9",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getPressText [Script Bytecode]",
-        "id": "Press {key} to {interact}",
-        "str": "Drücken Sie die {key}, um zu {interact}"
+        "id": "Press [{key}] to {interact}",
+        "str": "Drücken Sie die [{key}], um zu {interact}"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
@@ -2628,6 +2634,12 @@
         "str": "Sie haben den Fall jetzt angenommen. Außerhalb des Tutorials können Sie den Fall jederzeit abbrechen, aber Sie werden keine neuen Fälle finden, sobald Sie ihn akzeptiert haben. Wenn dies geklärt ist, reisen Sie zum Standort, wenn Sie bereit sind."
     },
     {
+        "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
+        "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+        "id": "You cannot travel when there are players in your safehouse who have not completed the tutorial for career mode.",
+        "str": ""
+    },
+    {
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
@@ -2890,6 +2902,18 @@
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
         "id": "All items placed in the chest will disappear when you exit the map.",
         "str": "Alle in der Truhe platzierten Gegenstände verschwinden, wenn Sie die Karte verlassen."
+    },
+    {
+        "key": "53601F8C474D490D252A5AB16AC0B004",
+        "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
+        "id": "Enter chat",
+        "str": ""
+    },
+    {
+        "key": "CBE66CF34A90B013DD19BCB8455D256A",
+        "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
+        "id": "Write a message...",
+        "str": ""
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -3702,10 +3726,28 @@
         "str": "Gamepad-Empfindlichkeit"
     },
     {
+        "key": "19D7C22E45997888F2982DAE095D995E",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_59.Text",
+        "id": "Open chat",
+        "str": ""
+    },
+    {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_6.Text",
         "id": "Effects Volume",
         "str": "Effektlautstärke"
+    },
+    {
+        "key": "7B5E57D3450604279BB59E97C7B84E38",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_61.Text",
+        "id": "Microphone volume",
+        "str": ""
+    },
+    {
+        "key": "C12D675E4F2DCB6DD3AE108F78AE04AD",
+        "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_62.Text",
+        "id": "Push to talk",
+        "str": ""
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
