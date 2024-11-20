@@ -3,7 +3,7 @@
         "key": "9F428B644FC340682C8E35A9365C2E1D",
         "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
         "id": "You can't open the chest until you pass the career mode tutorial.",
-        "str": "在通过职业模式教程之前你无法打开宝箱."
+        "str": "在通过生涯模式教程之前无法打开宝箱。"
     },
     {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -105,7 +105,7 @@
         "key": "51B58C89473E1AE2A37E6A8118DC37C1",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-        "str": "你是否想过人偶的信息是从哪里来的？在职业模式中，你将通过无限案例、经济、等级、商店、制作等等来发现关于人偶的信息！"
+        "str": "你是否想过人偶的信息是从哪里来的？在生涯模式中，你将通过无限案件、经济、等级、商店、制作等等来发现关于人偶的信息！"
     },
     {
         "key": "839DA89C42E027A3CA515CA3BC5BE204",
@@ -123,7 +123,7 @@
         "key": "B372B7564467D935DC5122B7415A738C",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
         "id": "You've unlocked the career mode!",
-        "str": "你已解锁职业模式！"
+        "str": "你已解锁生涯模式！"
     },
     {
         "key": "FE11E6ED4FA63C5B12631383E56A20B5",
@@ -183,7 +183,7 @@
         "key": "0590A39240854404475C3696E14AF5A8",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We have detected a change in your inputs.",
-        "str": "我们检测到您的输入发生变化."
+        "str": "我们检测到您的输入按键发生变化。"
     },
     {
         "key": "821BBE2A48EE821074956AB736CA0ECB",
@@ -195,7 +195,7 @@
         "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "我们无法创建在线会话. 请检查您的连接并重新启动游戏. 如果您决定继续，游戏将以离线模式运行."
+        "str": "我们无法创建在线会话。请检查你的连接并重启游戏。如果你决定继续，游戏将以离线模式工作。"
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2205,7 +2205,7 @@
         "key": "15A53736473F7B173C354496D5FF2638",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, you've used all the items on the doll. This time, the things that Lil didn't like were: {items}",
-        "str": "很好，你已经用完了所有的物品。这次，Lil 不喜欢的东西是：{items}"
+        "str": "很好，你已经用完了所有的物品。这次，Lil不喜欢的是：{items}"
     },
     {
         "key": "16B725324055549E77710CACDD3325FF",
@@ -2217,7 +2217,7 @@
         "key": "20A3D5CB40F0360E6C38BABBA2706D90",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "These elixirs reveal relationships between the dolls. They all have relationships, and this is the only way to discover them. Let's start by testing Lil's love relationship with the other dolls. Simply apply the elixir to Lil and observe the effects. All those who respond to Lil's effects are the ones Lil loves.",
-        "str": "这些药剂揭示了人偶之间的关系。他们之间都有关系，这是发现关系的唯一方法。让我们从测试 Lil 与其他人偶的爱情关系开始。只需将药剂涂在 Lil 身上并观察效果。所有对 Lil 的效果做出反应的人都是 Lil 爱的人。"
+        "str": "这些灵药揭示了人偶之间的关系。人偶之间都有关系，这是发现关系的唯一方法。让我们从测试Lil与其他人偶的爱情关系开始。只需将灵药涂在Lil身上并观察效果。所有对Lil的效果做出反应的人都是Lil爱的人。"
     },
     {
         "key": "230AAACD49536A9594B0CBB4CA653C76",
@@ -2235,7 +2235,7 @@
         "key": "2EA5F3054E8CD308869D52B17D3DE346",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-        "str": "现在我也给了你一个袋子。这个袋子将帮助你抓住冒名顶替者。一旦你抓住它，游戏就会结束（如果你在时间限制内完成）。我会让你自己完成这部分教程。无论你赢还是输，都算完成了。祝你好运！"
+        "str": "现在我也给了你一个袋子。这个袋子将帮助你抓住人偶卧底。一旦你抓住它，游戏就会结束（如果你在时间限制内完成）。我会让你自己完成这部分教程。无论你赢还是输，都算完成了。祝你好运！"
     },
     {
         "key": "336B557643CBA00B5138539520DCBB04",
@@ -2253,7 +2253,7 @@
         "key": "3E8440AC413D7725FE75218355F55B7B",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-        "str": "太棒了！我给了你暗纸。用它在Lil身上，写下你看到的一切。记住，这些是她不喜欢的东西，所以她熄灭的任何东西都会表明她的不喜欢。"
+        "str": "很好！我给了你暗纸。用它在Lil身上，写下你看到的一切。记住，这些都是她不喜欢的东西，所以她熄灭的任何东西都表明她不喜欢。"
     },
     {
         "key": "3FAB1E074AD22684E3F78785D85679FA",
@@ -2265,7 +2265,7 @@
         "key": "4715107549F6817B3883F99871D34055",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-        "str": "现在离开房间，检查所有已激活的内容。写下你在娃娃喜欢的东西中看到的一切！"
+        "str": "现在离开房间，检查所有已激活的内容。写下你在玩偶喜欢的东西中看到的一切！"
     },
     {
         "key": "4E0811124112D56E159C9290EA5B7FEF",
@@ -2277,7 +2277,7 @@
         "key": "520103D94DEC134A00BBF6ABA778AA0F",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Well done, you've completed the elixirs. I'm not checking your notes, but I'm sure they're great!",
-        "str": "做得好，你完成了药剂。我不会检查你的笔记，但我相信它们很棒！"
+        "str": "做得好，你完成了灵药。我不会检查你的笔记，但我相信它们很棒！"
     },
     {
         "key": "58232C9B4DC256E252E24DA64FBF074E",
@@ -2289,19 +2289,19 @@
         "key": "6342E3B646E7260C285568B47D8CEA82",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-        "str": "当你开始一个案件时，你将能够装备你购买或制作的物品。要做到这一点，访问你身后的箱子。现在你会看到它是空的，但不用担心，我会给你物品，这样你就可以熟悉它们！"
+        "str": "当你开始案件时，你能装备你购买或制作的物品。物品在你身后的箱子里。现在里面是空的，但不用担心，我会给你物品，好好熟悉物品吧！"
     },
     {
         "key": "67CC4CE342660CF969980E8F00DC0788",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, now the remaining candle.",
-        "str": "很好，现在剩下的蜡烛。"
+        "str": "很好，现在剩下蜡烛。"
     },
     {
         "key": "69E108EB47016FEFAFF123ACC82F5F25",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Perfect, now let's investigate one of the dolls. I've given you a camera; let's take a picture of Lil.",
-        "str": "很好，现在让我们调查其中一个人偶。我给了你一个相机；让我们给Lil拍张照片。"
+        "str": "很好，现在让我们调查其中一个人偶。我给了你一台相机；去给Lil拍张照片。"
     },
     {
         "key": "7FA2116B4EBBB3EAA099768D250E6ADF",
@@ -2319,25 +2319,25 @@
         "key": "96567B804DFD2EED05E51E9BD49F3870",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode.",
-        "str": "现在我们将使用灵魂之书物品. 该物品将正式开始游戏. 它的使用很简单：当你使用这本书时，无论冒名顶替者是谁（在本例中为Lil）都会开始采取行动. 此时，你将"
+        "str": "现在我们将使用灵魂之书物品. 该物品将正式开始游戏. 它的使用很简单：当你使用这本书时，无论人偶卧底是谁（在本例中为Lil）都会开始采取行动. 此时，你将"
     },
     {
         "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixir applied! Check the dolls around to determine whom Lil loves.",
-        "str": "elixir已使用！检查周围的娃娃，确定Lil爱谁。"
+        "str": "已使用灵药！检查周围的玩偶，确定Lil喜欢谁。"
     },
     {
         "key": "9DC1A4244661454B29521687D81248D8",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Let's cross off Lil since that's the doll we're going to investigate.",
-        "str": "让我们划掉Lil，因为这是我们要调查的娃娃。"
+        "str": "让我们划掉Lil，因为这是我们要调查的玩偶。"
     },
     {
         "key": "9EE1B4694260CACEFC64E49A837B3C23",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-        "str": "要处理照片，您需要移动它。一旦它100%处理完毕，只需按下使用按钮，它就会被保存。"
+        "str": "移动照片将其冲洗。100%完成后，只需按下使用按钮，就能保存照片。"
     },
     {
         "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
@@ -2349,7 +2349,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "好的，我会给你剩下的elixirs，让你用在Lil身上。Amicitia代表友谊，Inimicitia代表敌意，Odium代表仇恨。每种都有特定的颜色，会揭示Lil的关系。记下你观察到的一切，记住，在某些情况下，Lil可能与特定角色没有任何关系。"
+        "str": "好的，我会给你剩下的灵药。Amicitia代表友谊，Inimicitia代表敌意，Odium代表仇恨。每一种灵药都有其特定的颜色，将揭示Lil的关系。写下你所观察到的一切，并记住在某些情况下，Lil可能与某个特定的角色没有任何关系。"
     },
     {
         "key": "B324B28C4466BEA72263AD9E23F8755D",
@@ -2367,13 +2367,13 @@
         "key": "BC337075457AE8659374D6BF82D6E51D",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-        "str": "我们已经抓住了Lil。你可以继续拍摄剩下的人偶。准备好后，前往房车查看照片。"
+        "str": "我们抓住了Lil。你可以继续拍摄剩下的人偶。准备好后，前往房车查看照片。"
     },
     {
         "key": "BF5B4BBA458403674A2BD89F8DC120A5",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Now table chess",
-        "str": "现在是棋盘游戏"
+        "str": "现在是棋盘"
     },
     {
         "key": "C380BEFB4806636D471F28BC3C7CE999",
@@ -2385,13 +2385,13 @@
         "key": "C6EE1D854906A3E6B08CFF871773765A",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-        "str": "很好，我们回到房子。我们将发现有关Lil的事情。打开她的盒子，然后我们将继续施用药剂。"
+        "str": "很好，我们回到房子。我们将发现有关Lil的事情。打开她的盒子，然后我们将继续使用灵药。"
     },
     {
         "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "I've given you a flashlight, which is quite important in this mode due to the heavy darkness. Pay attention to the numbers on your UI at the bottom; you can equip a maximum of 10 items, with the first slot always being your hand. You can navigate through your inventory by pressing the Previous and Next Equipment keys, or on the keyboard by using the number keys or the mouse wheel.",
-        "str": "我给了你一个手电筒，在这种模式下非常重要，因为黑暗很浓重。注意底部UI上的数字；你最多可以装备10件物品，第一个槽位始终是你的手。你可以通过按上一个和下一个装备键或使用数字键或鼠标滚轮在键盘上浏览你的库存。"
+        "str": "我给了你一个手电筒，在这种模式下非常重要，因为黑暗非常浓厚。请注意界面底部的数字；你最多可以装备10件物品，第一个栏位始终是你的手。你可以按上一件和下一件装备按键浏览物品栏，或者在键盘上使用数字键或鼠标滚轮。"
     },
     {
         "key": "D4415F9B4956C597DB9E6A83027B1BA5",
@@ -2403,13 +2403,13 @@
         "key": "DA59B2F64FE3F88E166FBB87C3277E27",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Elixirs",
-        "str": "药剂"
+        "str": "灵药"
     },
     {
         "key": "DACB1EDD4AB27C4191AE658DC5537B43",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Soul papers are mystical scrolls, extraordinarily unique, and there are two types: Soul Papers and Soul Dark Papers. In other words, the Soul Scroll and its dark version. These scrolls reveal the likes and dislikes of the dolls. We'll start with the normal scroll. Apply the scroll to the doll.",
-        "str": "灵魂纸是神秘的卷轴，非常独特，有两种类型：灵魂纸和灵魂黑纸。换句话说，灵魂卷轴及其黑暗版本。这些卷轴揭示了人偶的喜好和厌恶。我们从普通卷轴开始。将卷轴应用于人偶。"
+        "str": "灵魂纸是神秘的卷轴，非常独特，有两种类型：灵魂纸和灵魂暗纸。换句话说，就是灵魂卷轴及其黑暗版本。这些卷轴揭示了娃娃的喜好和厌恶。我们将从普通的卷轴开始。将卷轴应用到人偶上。"
     },
     {
         "key": "DE5FC3C747F16F46862210AB8687B02C",
@@ -2433,13 +2433,13 @@
         "key": "FA633E4748F6A0B7063605A5816F9060",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Before you go, I want to clarify that in this game mode, you can return to the refuge by driving the caravan. Lastly, what we've done with Lil in this mode will need to be done for each of the dolls to identify the impostor. Keep in mind that the campaign mode is intended to be a co-op experience in the future, which is why it's important that it isn't brief or quick. Each case could take you days to solve, but it's asynchronous, meaning you can exit whenever you want and continue playing later, and everything will remain as you left it.",
-        "str": "在你离开之前，我想澄清一下，在这种游戏模式中，你可以驾驶房车返回避难所。最后，我们在这种模式中对Lil所做的事情需要对每个人偶都做，以识别冒名顶替者。请记住，未来的战役模式旨在成为一种合作体验，这就是为什么它不应该是简短或快速的。每个案件可能需要你几天的时间来解决，但它是异步的，这意味着你可以在任何时候退出，稍后继续游戏，一切都会保持你离开时的状态。"
+        "str": "在你离开之前，我想澄清一下，在该游戏模式中，你可以驾驶房车返回庇护所。最后，我们在这种模式中对Lil所做的事情需要对每个人偶都做，以此识别人偶卧底。请记住，未来的战役模式旨在提供合作体验，因此它不应该简短或快速。每个案件可能需要你几天的时间来解决，但这是异步的，你可以在任何时候退出，稍后继续游戏，一切都会保持你离开时的状态。"
     },
     {
         "key": "A7540C9740107C15DAA704B657E53E8D",
         "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
         "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-        "str": "Doll Who 是一款推理棋盘游戏，两个玩家试图猜出对手所选择的角色。每个玩家都有一个包含不同特征的角色的棋盘。通过询问关于角色特征的“是”或“否”问题（例如是否戴帽子或是否出现在托儿所地图中），玩家逐渐排除选项，直至找到对手的角色。最先猜中对手角色的玩家获胜。"
+        "str": "《Doll Who》是一款推理棋盘游戏，两名玩家试图猜测对手选择的角色身份。每个玩家都有一个棋盘，上面有各种不同特征的角色。通过询问关于角色特征的是非问题（例如他们是否戴帽子或在托儿所地图中出现），玩家逐步排除选项，直到发现对手的角色。第一个正确猜出对手角色的玩家获胜。"
     },
     {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -2451,13 +2451,13 @@
         "key": "B75DC93941A74B4A564DF389EB387762",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Only the host can interact with this.",
-        "str": "只有主机可以与这个.交互"
+        "str": "只有主机可以与其互动。"
     },
     {
         "key": "D89BAF654ED277C71FA76392443B5C15",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Refuge",
-        "str": "避难所"
+        "str": "庇护所"
     },
     {
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
@@ -2637,13 +2637,13 @@
         "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You cannot travel when there are players in your safehouse who have not completed the tutorial for career mode.",
-        "str": "当你的安全屋里有未完成职业模式教程的玩家时，你无法旅行."
+        "str": "你的庇护所里有未完成生涯模式教程的玩家时，无法开始游戏。"
     },
     {
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
-        "str": "当您在别人的避难所时，您无法前往此案件. 返回您自己的避难所并在那里开始案件."
+        "str": "在别人的庇护所时，你无法前往此案件。返回你自己的庇护所并在那里开始案件。"
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
@@ -2655,7 +2655,7 @@
         "key": "73A9B2C843821751DC8E15949E11E92D",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Welcome to Career Mode. In this game mode, you will need to uncover information about the dolls and solve each case correctly.",
-        "str": "欢迎来到生涯模式。在此模式中，你需要揭示人偶的信息，并正确地解开每个案件。."
+        "str": "欢迎来到生涯模式。在此模式中，你需要揭示人偶的信息，并正确地解开每个案件。"
     },
     {
         "key": "7C1F780F43047787285C17A26FC3B81B",
@@ -2673,7 +2673,7 @@
         "key": "AE1DC03A4DE0A9637C9F3FA115C15F1E",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "The rest of the players have been kicked for you to complete the tutorial.",
-        "str": "其余玩家已被踢出让您完成教程."
+        "str": "为让你完成教程，已踢出其他玩家。"
     },
     {
         "key": "B6B8AB3240DFFCDFFC11278ACB172188",
@@ -2685,7 +2685,7 @@
         "key": "C41C767549A43DC569EB449CD5A2E3B5",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "Be careful if you perform this action you will lose all your career mode progress, returning again to the tutorial, this includes your case history.",
-        "str": "请小心，如果您执行此操作，您将失去所有职业模式进度，再次返回教程，这包括您的案例历史."
+        "str": "请注意，如果执行此操作，你将失去所有生涯模式进度，重返教程，案件历史也将清空。"
     },
     {
         "key": "E8BEC2F04785EFD5186984BE67C4B88A",
@@ -2697,13 +2697,13 @@
         "key": "E979BCF04F7CD32E81237BA9F94E25E1",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-        "str": "我给了你一些物品，去合成部分合成一种药剂，你可以手动合成，也可以直接按下你想要的药剂。"
+        "str": "我给了你一些物品，去合成部分合成一种灵药，你可以手动合成，也可以直接按下你想要的灵药。"
     },
     {
         "key": "F6BDE5474A3477CD35632DB6FFE0323F",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-        "str": "您将获得一个案件，其中包含多种动态参数。它会显示类似当前案件的信息，如果不满意，您可以用钱换取新的案件。现在，在教程模式中，我们对您的操作进行了限制；您暂时无法购买、制作、退出或者寻找新案件。"
+        "str": "你将获得一份案件，其中包含多种动态参数。会显示当前案件的信息，如果不满意，您可以用钱换取新的案件。现在，在教程模式中，我们对您的操作进行了限制；您暂时无法购买、制作、退出或者寻找新案件。"
     },
     {
         "key": "074C094B4943E77D1E7501B3B9277A09",
@@ -2811,7 +2811,7 @@
         "key": "F5A1B20A4E970FD062976FB28CEBCEC2",
         "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_28.Text",
         "id": "Reset Career Mode",
-        "str": "重置职业模式"
+        "str": "重置生涯模式"
     },
     {
         "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -2913,7 +2913,7 @@
         "key": "CBE66CF34A90B013DD19BCB8455D256A",
         "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
         "id": "Write a message...",
-        "str": "写一条消息..."
+        "str": "输入消息……"
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -2973,13 +2973,13 @@
         "key": "AD01C42149F1EF55342AAAB262E7D9C8",
         "location": "/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]",
         "id": "This game mode is not available in multiplayer.",
-        "str": "此游戏模式在多人游戏中不可用."
+        "str": "此游戏模式在多人游戏中不可用。"
     },
     {
         "key": "49B315454A07028DFEC0AD8B9D05C3FA",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
         "id": "Global",
-        "str": "全局"
+        "str": "全球"
     },
     {
         "key": "CB775D1F41F692F4946D738AA83BB23E",
@@ -3141,7 +3141,7 @@
         "key": "6088379D4B73AB0746BE8EB73EB9DB33",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
-        "str": "这是测试版，建议复制您保存的游戏，因为存在丢失此类数据的风险. 想要复制吗？"
+        "str": "这是测试版，存在数据丢失的风险，因此建议复制存档。要复制存档吗？"
     },
     {
         "key": "ADE584574E49B6623B97CA87F62F2279",
@@ -3153,7 +3153,7 @@
         "key": "D1343C0B46B548625A4EE78A3DA1E1E6",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "We have detected that you have already played previously and that you have lost progress, press Accept to download a save file to avoid unlocking everything again",
-        "str": "我们检测到您之前已玩过并丢失了进度，请按“接受”以下载保存文件，避免再次解锁所有内容。"
+        "str": "我们检测到您之前玩过并丢失了进度，请按“接受”下载存档，避免再次解锁所有内容。"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3165,7 +3165,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": "备份已成功保存，如果要恢复，只需重新启动游戏即可看到 \n"
+        "str": "成功保存备份，如需恢复，\n只需重启游戏。"
     },
     {
         "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3195,7 +3195,7 @@
         "key": "A76488B841E9F96185871BB1C73F418B",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_3.Text",
         "id": "Restore Previous Save",
-        "str": "恢复之前的保存"
+        "str": "恢复至之前的存档"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
@@ -3249,7 +3249,7 @@
         "key": "68AB17564B2909F81E4BDC9DA994883E",
         "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
         "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-        "str": "我创建了一个更高级的指南，探讨了职业模式的各个方面。如果你需要更多帮助，我建议你看看它；它会帮助你解决未来的案件！"
+        "str": "我创建了深入探讨生涯模式的进阶指南。如果你需要更多帮助，我建议你看看；它会帮助你解决未来的案件！"
     },
     {
         "key": "F66992CC4272E9FD176972AE7A324010",
@@ -3423,7 +3423,7 @@
         "key": "25672B2F428EDE34D8AE9C8193CD05D6",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_10.Text",
         "id": "Mouse Sensivity",
-        "str": "相机灵敏度"
+        "str": "镜头灵敏度"
     },
     {
         "key": "C217326D42A0B8DA097ECEAC0760BAF7",
@@ -3489,7 +3489,7 @@
         "key": "0D33F3C64097DC3B481D9DBBE348199B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_2.Text",
         "id": "Smooth Camera",
-        "str": "平滑相机"
+        "str": "平滑镜头"
     },
     {
         "key": "636E48DB4F79961C0BCDDF9C74A51062",
@@ -3699,13 +3699,13 @@
         "key": "8AB0454249AEF8D22FE8AD9044DC5660",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_52.Text",
         "id": "Invert Horizontal Camera",
-        "str": "反转水平相机"
+        "str": "反转水平镜头"
     },
     {
         "key": "5E2D1B9743A106B9FAB5FABB7924B6F9",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_55.Text",
         "id": "Invert Vertical Camera",
-        "str": "反转相机"
+        "str": "反转镜头"
     },
     {
         "key": "91B3AF44465FA4D4F6976EA74F572B41",
@@ -3801,7 +3801,7 @@
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text",
         "id": "Number of photographs taken of dolls",
-        "str": "拍摄的娃娃照片数量"
+        "str": "拍摄的玩偶照片数量"
     },
     {
         "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
@@ -3837,7 +3837,7 @@
         "key": "21111B074FED432D86A1CCAE77CC81C3",
         "location": "/Game/UI/waiting.waiting_C:WidgetTree.text.Text",
         "id": "Loading...",
-        "str": "正在加载..."
+        "str": "加载中……"
     },
     {
         "key": "4A4EFF4C40A276033B050495CB6E5179",
