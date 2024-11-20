@@ -3,7 +3,7 @@
         "key": "9F428B644FC340682C8E35A9365C2E1D",
         "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
         "id": "You can't open the chest until you pass the career mode tutorial.",
-        "str": "Vous ne pouvez pas ouvrir le coffre avant d'avoir réussi le didacticiel du mode carrière."
+        "str": "Vous ne pourrez pas ouvrir le coffre jusqu'à ce que le tutorial du mode carrière soit complété."
     },
     {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -2637,7 +2637,7 @@
         "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You cannot travel when there are players in your safehouse who have not completed the tutorial for career mode.",
-        "str": "Vous ne pouvez pas voyager lorsqu'il y a des joueurs dans votre planque qui n'ont pas terminé le didacticiel du mode carrière.."
+        "str": "Vous ne pouvez pas voyager quand des joueurs n'ayant pas complété le tutoriel du mode carrière sont présent dans votre refuge."
     },
     {
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
@@ -2907,13 +2907,13 @@
         "key": "53601F8C474D490D252A5AB16AC0B004",
         "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
         "id": "Enter chat",
-        "str": "Entrez dans le chat"
+        "str": "Ouvrir le Chat"
     },
     {
         "key": "CBE66CF34A90B013DD19BCB8455D256A",
         "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
         "id": "Write a message...",
-        "str": "Écrivez un message..."
+        "str": "Écrire un message..."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -3153,7 +3153,7 @@
         "key": "D1343C0B46B548625A4EE78A3DA1E1E6",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "We have detected that you have already played previously and that you have lost progress, press Accept to download a save file to avoid unlocking everything again",
-        "str": "Nous avons détecté que vous avez déjà joué auparavant et que vous avez perdu votre progression. Appuyez sur Accepter pour télécharger un fichier de sauvegarde et éviter de tout déverrouiller à nouveau."
+        "str": "Nous avons détecté que vous avez déjà jouez précédemment et avez perdu votre votre progrès, appuyez sur Accepter pour télécharger un fichier de sauvegarde et ainsi éviter de tout débloquer à nouveau"
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
@@ -3729,7 +3729,7 @@
         "key": "19D7C22E45997888F2982DAE095D995E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_59.Text",
         "id": "Open chat",
-        "str": "Ouvrir le chat"
+        "str": "Ouvrir le Chat"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
@@ -3741,13 +3741,13 @@
         "key": "7B5E57D3450604279BB59E97C7B84E38",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_61.Text",
         "id": "Microphone volume",
-        "str": "Volume du micro"
+        "str": "Volume du Microphone"
     },
     {
         "key": "C12D675E4F2DCB6DD3AE108F78AE04AD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_62.Text",
         "id": "Push to talk",
-        "str": "Pousser pour parler"
+        "str": "Appuyer pour Parler"
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
