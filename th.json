@@ -3,7 +3,7 @@
         "key": "9F428B644FC340682C8E35A9365C2E1D",
         "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
         "id": "You can't open the chest until you pass the career mode tutorial.",
-        "str": "คุณไม่สามารถเปิดหีบได้จนกว่าคุณจะผ่านบทช่วยสอนโหมดอาชีพ."
+        "str": "คุณไม่สามารถเปิดกล่องได้จนกว่าคุณจะผ่านบทช่วยสอนโหมดอาชีพ"
     },
     {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -15,7 +15,7 @@
         "key": "E0A26C2A477073293C2A5093569FFE5E",
         "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
         "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-        "str": "หากคุณกลับไปที่เซฟเฮาส์ บ้านจะกลับสู่สภาพเดิมและคุณจะสูญเสียไอเท็มที่จัดเตรียมไว้"
+        "str": "หากคุณกลับไปที่เซฟเฮาส์ บ้านจะกลับสู่สภาพเดิมและคุณจะสูญเสียไอเท็มที่ได้จัดเตรียมไว้"
     },
     {
         "key": "C312729245B39D3E05385886891922CF",
@@ -183,7 +183,7 @@
         "key": "0590A39240854404475C3696E14AF5A8",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We have detected a change in your inputs.",
-        "str": "เราตรวจพบการเปลี่ยนแปลงในอินพุตของคุณ."
+        "str": "เราตรวจพบการเปลี่ยนแปลงในอินพุตของคุณ"
     },
     {
         "key": "821BBE2A48EE821074956AB736CA0ECB",
@@ -195,7 +195,7 @@
         "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "เราไม่สามารถสร้างเซสชันออนไลน์. โปรดตรวจสอบการเชื่อมต่อของคุณและเริ่มเกมใหม่. หากคุณตัดสินใจที่จะดำเนินการต่อ เกมจะทำงานในโหมดออฟไลน์."
+        "str": "เราไม่สามารถสร้างเซสชันออนไลน์ได้ โปรดตรวจสอบการเชื่อมต่อของคุณและเริ่มเกมใหม่ หากคุณตัดสินใจที่จะดำเนินการต่อ เกมจะทำงานในโหมดออฟไลน์"
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -555,7 +555,7 @@
         "key": "653072BC4D6CCFF0D204B6B4887A557F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and pungent bulb.",
-        "str": "หลอดไฟฉุนสีเข้ม"
+        "str": "พืชกระเปาะสีเข้มกลิ่นฉุน"
     },
     {
         "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -579,7 +579,7 @@
         "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
         "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Green and stinging leaves.",
-        "str": "ใบไม้หนามสีเขียว"
+        "str": "ใบไม้หนามแหลมสีเขียว"
     },
     {
         "key": "F5FA5A154002D6C4EDB30FB45794A50A",
@@ -591,7 +591,7 @@
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "ใบไม้เขียวสดชื่น"
+        "str": "ใบไม้เขียวให้สดชื่น"
     },
     {
         "key": "AC46E8C5498572C242CBADA69A94A0A7",
@@ -663,7 +663,7 @@
         "key": "17BF9A32484E32062DAF9F8542DD97A7",
         "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A gnarled and sinister root.",
-        "str": "รากบิดเบี้ยวน่ากลัว"
+        "str": "รากบิดเบี้ยวน่าขนลุก"
     },
     {
         "key": "F671810346E2F778C0E4E7BA69FE7D9C",
@@ -675,7 +675,7 @@
         "key": "C6C0EE3547F1545A84D8268AC0025132",
         "location": "/Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Portable device that produces a flame to start a fire.",
-        "str": "อุปกรณ์จุดไฟขนาดพกพา"
+        "str": "อุปกรณ์สำหรับจุดไฟขนาดพกพา"
     },
     {
         "key": "AB25CB294CD7BEF8559DFA89B96B8F9B",
@@ -711,7 +711,7 @@
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "ทองคำแท่งบริสุทธิ์ มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือสะสมมูลค่า ลักษณะเด่นคือน้ำหนักดีและประกายทองแวววาว"
+        "str": "ก้อนทองคำแท่งที่มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือเก็งกำไร ลักษณะเด่นคือน้ำหนักดีและประกายทองแวววาว"
     },
     {
         "key": "22B8C07045CAEA974D03AD9C0D933A4E",
@@ -1137,7 +1137,7 @@
         "key": "01A2125C4F867B60C4E289ACD43FEBF9",
         "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
         "id": "The Mentor",
-        "str": "พี่เลี้ยง"
+        "str": "แม่เลี้ยง"
     },
     {
         "key": "2C9826E7491425A6734CEB96CDC60470",
@@ -2313,7 +2313,7 @@
         "key": "84EDA79E484E05EF27934DBA2708C4CD",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Electricity On! Head back to the house.",
-        "str": "ไฟฟ้าเปิดแล้ว! กลับไปที่บ้านกัน "
+        "str": "ไฟฟ้าเปิดแล้ว! กลับไปที่บ้าน"
     },
     {
         "key": "96567B804DFD2EED05E51E9BD49F3870",
@@ -2349,7 +2349,7 @@
         "key": "B06763C640AF25AF95E932927F9E6D59",
         "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
         "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enmity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-        "str": "เอาล่ะ ฉันจะมอบน้ำยาอมฤตที่เหลือ โดยลองใช้กับ Lil โดยมี Amicitia แสดงความเป็นเพื่อน, Inimicitia แสดงความเป็นศัตรู และ Odium แทนความเกลียดชัง โดยน้ำยาอมฤตแต่ละชนิด จะมีหลากหลายสี เอาไว้เปิดเผยความสัมพันธ์ของ Lil จดทุกสิ่งที่คุณสังเกตเห็น และโปรดจำไว้ว่าในบางเคส Lil อาจจะมีความสัมพันธ์ตุ๊กตาตัวอื่นแบบไม่เจาะจง"
+        "str": "เอาล่ะ ฉันจะมอบน้ำยาอมฤตที่เหลือ โดยลองใช้กับ Lil โดยมี Amicitia แสดงความเป็นเพื่อน, Inimicitia แสดงความเป็นศัตรู และ Odium แทนความเกลียดชัง โดยน้ำยาอมฤตแต่ละชนิด จะมีหลากหลายสี เอาไว้เปิดเผยความสัมพันธ์ของ Lil จดบันทึกทุกสิ่งที่คุณสังเกตเห็น และโปรดจำไว้ว่าในบางเคส Lil อาจจะมีความสัมพันธ์ตุ๊กตาตัวอื่นแบบไม่เจาะจง"
     },
     {
         "key": "B324B28C4466BEA72263AD9E23F8755D",
@@ -2637,7 +2637,7 @@
         "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You cannot travel when there are players in your safehouse who have not completed the tutorial for career mode.",
-        "str": "คุณไม่สามารถเดินทางได้เมื่อมีผู้เล่นในเซฟเฮาส์ของคุณที่ยังทำการฝึกสอนโหมดอาชีพไม่สำเร็จ."
+        "str": "คุณไม่สามารถเดินทางได้เมื่อมีผู้เล่นในเซฟเฮาส์ของคุณที่ยังทำการฝึกสอนโหมดอาชีพไม่สำเร็จ"
     },
     {
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
@@ -3717,7 +3717,7 @@
         "key": "A7315029485656AEDD7500947B3C4E5B",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_57.Text",
         "id": "This option will only be available on Easy difficulty.",
-        "str": "ตัวเลือกนี้จะใช้ได้เฉพาะในระดับความยากง่าย."
+        "str": "ตัวเลือกนี้จะใช้ได้เฉพาะในระดับความง่าย"
     },
     {
         "key": "8BFB53E5448C16FA230515968C3ABF0A",
@@ -3777,7 +3777,7 @@
         "key": "57B4EC5445C5BADF97E3D48264009545",
         "location": "/Game/UI/sleepUI.sleepUI_C:WidgetTree.TextBlock_62.Text",
         "id": "Waiting players...",
-        "str": "ผู้เล่นที่กำลังรอ..."
+        "str": "กำลังรอผู้เล่น..."
     },
     {
         "key": "43B95535434D97B9189B93A2A4594202",
@@ -3795,7 +3795,7 @@
         "key": "056842694B3EB37BD05F159542C5CE41",
         "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_3.Text",
         "id": "Products sold",
-        "str": "สินค้าที่ขายไป"
+        "str": "สินค้าที่ขาย"
     },
     {
         "key": "C24AF8B14A567648475D7BB6A3A92BF2",
@@ -3831,7 +3831,7 @@
         "key": "54288BFC4059AA21CBC614AA74C19EBE",
         "location": "/Game/UI/waiting.waiting_C:GetText [Script Bytecode]",
         "id": "Waiting players {players}",
-        "str": "ผู้เล่นที่กำลังรอ {players}"
+        "str": "กำลังรอผู้เล่น {players}"
     },
     {
         "key": "21111B074FED432D86A1CCAE77CC81C3",
@@ -3849,7 +3849,7 @@
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "แอบอ้าง"
+        "str": "ผู้แอบอ้าง"
     },
     {
         "key": "E447809B421298C1BDA5E4B063D86F49",
