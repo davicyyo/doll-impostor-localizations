@@ -2169,7 +2169,7 @@
         "key": "F0DAF05B4516E86912D72FB6CF221CE9",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getPressText [Script Bytecode]",
         "id": "Press [{key}] to {interact}",
-        "str": ""
+        "str": "Нажмите [{key}], чтобы {interact}"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
