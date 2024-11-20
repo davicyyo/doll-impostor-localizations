@@ -3,7 +3,7 @@
         "key": "9F428B644FC340682C8E35A9365C2E1D",
         "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
         "id": "You can't open the chest until you pass the career mode tutorial.",
-        "str": ""
+        "str": "Не можете да отворите сандъка, докато не преминете урока за режим на кариера."
     },
     {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -2169,7 +2169,7 @@
         "key": "F0DAF05B4516E86912D72FB6CF221CE9",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getPressText [Script Bytecode]",
         "id": "Press [{key}] to {interact}",
-        "str": ""
+        "str": "Натиснете [{key}] за {interact}"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
@@ -2637,7 +2637,7 @@
         "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You cannot travel when there are players in your safehouse who have not completed the tutorial for career mode.",
-        "str": ""
+        "str": "Не можете да пътувате, когато в убежището ви има играчи, които не са завършили урока за кариерен режим."
     },
     {
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
@@ -2907,13 +2907,13 @@
         "key": "53601F8C474D490D252A5AB16AC0B004",
         "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
         "id": "Enter chat",
-        "str": ""
+        "str": "Влез в чата"
     },
     {
         "key": "CBE66CF34A90B013DD19BCB8455D256A",
         "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
         "id": "Write a message...",
-        "str": ""
+        "str": "Напишете съобщение..."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -3729,7 +3729,7 @@
         "key": "19D7C22E45997888F2982DAE095D995E",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_59.Text",
         "id": "Open chat",
-        "str": ""
+        "str": "Отворете чата"
     },
     {
         "key": "6DA6B9C44E1E6E888DE71D887FCB9FFC",
@@ -3741,13 +3741,13 @@
         "key": "7B5E57D3450604279BB59E97C7B84E38",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_61.Text",
         "id": "Microphone volume",
-        "str": ""
+        "str": "Сила на звука на микрофона"
     },
     {
         "key": "C12D675E4F2DCB6DD3AE108F78AE04AD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_62.Text",
         "id": "Push to talk",
-        "str": ""
+        "str": "Push to talk"
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
