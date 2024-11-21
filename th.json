@@ -423,7 +423,7 @@
         "key": "743C50254A73CE29F7B3D7858FFBA46F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and thick liquid.",
-        "str": "ของเหลวสีเข้มข้น"
+        "str": "ของเหลวสีเข้มข้นหนืด"
     },
     {
         "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
@@ -435,7 +435,7 @@
         "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
         "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Large and grayish feather.",
-        "str": "ขนนกสีเทาใหญ่"
+        "str": "ขนนกสีเทาใหญ่และหยาบ"
     },
     {
         "key": "FD5D53AB4A626CFD46CF4E93053F9719",
@@ -447,7 +447,7 @@
         "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
         "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white flower with soft petals.",
-        "str": "กลีบดอกไม้สีขาวอ่อนนุ่ม"
+        "str": "กลีบดอกไม้ขาวนุ่มละมุน"
     },
     {
         "key": "6F62E8EE4D6306627A7D92B69CABCC13",
@@ -459,7 +459,7 @@
         "key": "C28723EC476B280B7C783CAAD9FE2784",
         "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A white and delicate feather.",
-        "str": "ขนนกสีขาวละเอียดอ่อน"
+        "str": "ขนนกสีขาวละเอียดละมุน"
     },
     {
         "key": "814D9929402ED9670B11B8A5F77DD89E",
@@ -495,7 +495,7 @@
         "key": "F746170F4C38F9AE155525AEA0B83F1C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Soft and fragrant rose petals.",
-        "str": "กลีบกุหลาบนุ่มหอม"
+        "str": "กลีบกุหลาบอันนุ่มหอม"
     },
     {
         "key": "AF3764E04E32829AB3E75FBD938BF9C1",
@@ -531,7 +531,7 @@
         "key": "0A4EE34344113573CE97F6B1E7151DDE",
         "location": "/Game/data-tables/itemList.itemList.NewRow_21.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant vanilla pod.",
-        "str": "ฝักวานิลลาหอม"
+        "str": "ฝักวานิลลาหอมกรุ่น"
     },
     {
         "key": "DDB9D7494B887F84ABF6FA9C68A57B95",
@@ -591,7 +591,7 @@
         "key": "E67B208049756CC3B5F16089AC41B470",
         "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Refreshing green leaves.",
-        "str": "ใบไม้เขียวให้สดชื่น"
+        "str": "ใบไม้เขียวให้ความสดชื่น"
     },
     {
         "key": "AC46E8C5498572C242CBADA69A94A0A7",
@@ -603,7 +603,7 @@
         "key": "FD27A6D94DD43A861953BA81606B6B11",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A fragrant cinnamon stick.",
-        "str": "แท่งอบเชยหอม"
+        "str": "แท่งอบเชยหอมฉุย"
     },
     {
         "key": "01C8EACC48F42AB3BC9A26B9A45C3E10",
@@ -615,7 +615,7 @@
         "key": "6FDA4FB448EF65CB05B874842143CD74",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Small and juicy fruits.",
-        "str": "ผลไม้ลูกเล็กหวานฉ่ำ"
+        "str": "ผลไม้ขนาดเล็กผลหวานฉ่ำ"
     },
     {
         "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -627,7 +627,7 @@
         "key": "24B7D6584C3AF4730B3365BB46DDA130",
         "location": "/Game/data-tables/itemList.itemList.NewRow_29.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Dark and toxic leaves.",
-        "str": "ใบไม้พิษสีเข้ม"
+        "str": "ใบไม้มีพิษสีเข้ม"
     },
     {
         "key": "4852DFEF4B35409C425DA1B5468B83D9",
@@ -651,7 +651,7 @@
         "key": "F9560AD34A829952AE5F5498756E174C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Clear and lethal liquid.",
-        "str": "ของเหลวใสอันตราย"
+        "str": "ของเหลวใสสุดอันตราย"
     },
     {
         "key": "32F257464B93572E3D0BF293BA036023",
@@ -699,7 +699,7 @@
         "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-        "str": "อัญมณีอันล้ำค่าขึ้นชื่อเรื่องความแข็งและความแวววาวสุดยอด เหมาะกับการทำเป็นเครื่องประดับอันทรงคุณค่า ทั้งความบริสุทธิ์และความหายาก"
+        "str": "อัญมณีอันล้ำค่าขึ้นชื่อเรื่องความแข็งและความแวววาวงดงาม เหมาะกับการทำเป็นเครื่องประดับอันทรงคุณค่า มีทั้งความบริสุทธิ์และความหายาก"
     },
     {
         "key": "6BF7F5344FD96A246EE841869E9C0DB0",
@@ -711,7 +711,7 @@
         "key": "C4B2BB4B48FA324D2BC7979577E55027",
         "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-        "str": "ก้อนทองคำแท่งที่มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือเก็งกำไร ลักษณะเด่นคือน้ำหนักดีและประกายทองแวววาว"
+        "str": "ก้อนทองคำแท่งที่มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือเก็งกำไร ลักษณะเด่นคือน้ำหนักดีและประกายทองแวววาวหรูหรางดงาม"
     },
     {
         "key": "22B8C07045CAEA974D03AD9C0D933A4E",
@@ -723,7 +723,7 @@
         "key": "415807E5403F54FCC16EEA9338CF267F",
         "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-        "str": "ถ้วยรางวัลสีทอง มักใช้เป็นสัญลักษณ์แห่งชัยชนะในการแข่งขันกีฬาหรือในโอกาสพิเศษ"
+        "str": "ถ้วยรางวัลสีทอง นิยมใช้เป็นสัญลักษณ์แห่งชัยชนะในการแข่งขันกีฬาหรือการมอบรางวัลในโอกาสอันพิเศษ"
     },
     {
         "key": "9A3A87B047A1CC933C4F6197811B657B",
@@ -735,7 +735,7 @@
         "key": "86BE55834614BDEE6BACCD821A069F89",
         "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-        "str": "เครื่องประดับหรูหราประกอบด้วยไข่มุกทรงกลมสีละมุน เป็นที่ขึ้นชื่อในเรื่องความหรูหรามีระดับและทรงคุณค่าแก่ผู้สวมใส่"
+        "str": "เครื่องประดับสุดหรูหราประกอบด้วยไข่มุกทรงกลมสีขาวละมุน เป็นที่ขึ้นชื่อในเรื่องความหรูหรามีทรงคุณค่า และยกระดับแก่ผู้ที่สวมใส่"
     },
     {
         "key": "82B77C5A456740B0D72910B21AF4A463",
