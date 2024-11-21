@@ -138,6 +138,18 @@
         "str": "Bạn đã phá kỷ lục mới của mình với {new} đêm! của {old} đêm trước đó!"
     },
     {
+        "key": "97F7579E41A844AC5D7FDDAB706274C6",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "Try again",
+        "str": ""
+    },
+    {
+        "key": "A54FC3294EFCB8B57B533BBF0FABD261",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+        "id": "The time limit for a player to join has been exceeded, what do you want to do?",
+        "str": ""
+    },
+    {
         "key": "B4559452445FD99D5366B68268BCFC9E",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Congratulations!",
@@ -2898,10 +2910,10 @@
         "str": "Ngực"
     },
     {
-        "key": "C5BF8D15413D2BD751F76EBE5D96E205",
+        "key": "A90A8A4A498B03054AFD1880AEE94227",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
-        "id": "All items placed in the chest will disappear when you exit the map.",
-        "str": "Tất cả vật phẩm đặt trong rương sẽ biến mất khi bạn thoát khỏi bản đồ."
+        "id": "All objects placed here will be lost when you leave the map.",
+        "str": ""
     },
     {
         "key": "53601F8C474D490D252A5AB16AC0B004",
@@ -3168,18 +3180,6 @@
         "str": "Bản sao lưu đã được lưu thành công, nếu bạn muốn khôi phục nó, chỉ cần khởi động lại trò chơi và bạn sẽ thấy \n"
     },
     {
-        "key": "3FD3275141C46D8A4E7B0C8B98721113",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
-        "id": "Settings",
-        "str": "Cài đặt"
-    },
-    {
-        "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
-        "id": "Exit",
-        "str": "Ra"
-    },
-    {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
         "id": "Play tutorial",
@@ -3208,6 +3208,18 @@
         "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
         "id": "Resume Game",
         "str": "Tiếp tục trò chơi"
+    },
+    {
+        "key": "3FD3275141C46D8A4E7B0C8B98721113",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.SettingsButton.ButtonText",
+        "id": "Settings",
+        "str": "Cài đặt"
+    },
+    {
+        "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
+        "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
+        "id": "Exit",
+        "str": "Ra"
     },
     {
         "key": "2349798E480EE5B45348C4B753C4BCB8",
