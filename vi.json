@@ -141,13 +141,13 @@
         "key": "97F7579E41A844AC5D7FDDAB706274C6",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "Try again",
-        "str": ""
+        "str": "Thử lại"
     },
     {
         "key": "A54FC3294EFCB8B57B533BBF0FABD261",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "The time limit for a player to join has been exceeded, what do you want to do?",
-        "str": ""
+        "str": "Đã vượt quá thời hạn cho người chơi tham gia, bạn muốn làm gì?"
     },
     {
         "key": "B4559452445FD99D5366B68268BCFC9E",
@@ -2913,7 +2913,7 @@
         "key": "A90A8A4A498B03054AFD1880AEE94227",
         "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
         "id": "All objects placed here will be lost when you leave the map.",
-        "str": ""
+        "str": "Tất cả đồ vật được đặt ở đây sẽ bị mất khi bạn rời khỏi bản đồ."
     },
     {
         "key": "53601F8C474D490D252A5AB16AC0B004",
