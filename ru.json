@@ -3,7 +3,7 @@
         "key": "9F428B644FC340682C8E35A9365C2E1D",
         "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
         "id": "You can't open the chest until you pass the career mode tutorial.",
-        "str": "Вы не сможете открыть сундук, пока не пройдете обучение в режиме карьеры."
+        "str": "Открыть сундук можно только после обучения в режиме карьеры"
     },
     {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -2181,7 +2181,7 @@
         "key": "F0DAF05B4516E86912D72FB6CF221CE9",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getPressText [Script Bytecode]",
         "id": "Press [{key}] to {interact}",
-        "str": "Нажмите [{key}], чтобы {interact}"
+        "str": "Нажами [{key}], чтобы {interact}"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
@@ -2649,13 +2649,13 @@
         "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You cannot travel when there are players in your safehouse who have not completed the tutorial for career mode.",
-        "str": "Вы не можете путешествовать, если в вашем убежище есть игроки, которые не прошли обучение по режиму карьеры."
+        "str": "Запускать дела с игроками, не прощедщими обучение в карьере, невозможно."
     },
     {
         "key": "3E89DE624ACBA88C4179C9852E9C70AD",
         "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
         "id": "You can't travel to this case while you're in someone else's shelter. Return to your own shelter and start the case there.",
-        "str": "Невозможно начать кейс в убежище другого игрока. Вернитесь в своё убежище и начните кейс там."
+        "str": "Невозможно начать дело в убежище другого игрока. Вернитесь в своё убежище и начните дело там."
     },
     {
         "key": "4D302CC441AA152588642EBA8EEA7EB1",
@@ -2925,7 +2925,7 @@
         "key": "CBE66CF34A90B013DD19BCB8455D256A",
         "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
         "id": "Write a message...",
-        "str": "Напишите сообщение..."
+        "str": "Напсиать сообщение..."
     },
     {
         "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -3759,7 +3759,7 @@
         "key": "C12D675E4F2DCB6DD3AE108F78AE04AD",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_62.Text",
         "id": "Push to talk",
-        "str": "Нажмите, чтобы поговорить"
+        "str": "По нажатию"
     },
     {
         "key": "BC06960A474C65DE361B3CB2C89626B3",
