@@ -147,7 +147,7 @@
         "key": "A54FC3294EFCB8B57B533BBF0FABD261",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
         "id": "The time limit for a player to join has been exceeded, what do you want to do?",
-        "str": "De tijdslimiet voor een speler om lid te worden is overschreden. Wat wil je doen?"
+        "str": "De tijdslimiet voor een speler om deel te nemen is overschreden. Wat wil je doen?"
     },
     {
         "key": "B4559452445FD99D5366B68268BCFC9E",
@@ -2181,7 +2181,7 @@
         "key": "F0DAF05B4516E86912D72FB6CF221CE9",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getPressText [Script Bytecode]",
         "id": "Press [{key}] to {interact}",
-        "str": "Druk op [{key}] om te {interact}"
+        "str": "Druk op [{key}] om te gebruiken"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
@@ -2199,7 +2199,7 @@
         "key": "6F579E3E4959DC13FA5EA69C981AA6CC",
         "location": "/Game/functions/netFunctions.netFunctions_C:kickPlayer [Script Bytecode]",
         "id": "You are kicked",
-        "str": "Je wordt geschopt"
+        "str": "Je wordt gekickt"
     },
     {
         "key": "0D80C37D480FE34BE1CA64878A0D1B7D",
