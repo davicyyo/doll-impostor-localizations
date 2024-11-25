@@ -195,7 +195,7 @@
         "key": "0590A39240854404475C3696E14AF5A8",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We have detected a change in your inputs.",
-        "str": "我们检测到您的输入按键发生变化。"
+        "str": "检测到您的输入按键发生变化。"
     },
     {
         "key": "821BBE2A48EE821074956AB736CA0ECB",
@@ -207,7 +207,7 @@
         "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
         "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
         "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-        "str": "我们无法创建在线会话。请检查你的连接并重启游戏。如果你决定继续，游戏将以离线模式工作。"
+        "str": "无法创建在线会话。请检查你的连接并重启游戏。如果你决定继续，游戏将以离线模式运行。"
     },
     {
         "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -2169,7 +2169,7 @@
         "key": "FDEB25754C7E891058DB1A97A81A0820",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
         "id": "You couldn't join the game because {reason}",
-        "str": "您无法加入游戏，因为{reason}"
+        "str": "由于{reason}，您无法加入游戏"
     },
     {
         "key": "93B997314AF656293CD3E6A5CB67FA1B",
@@ -2187,13 +2187,13 @@
         "key": "88B68C7C48445F64A23763BC309EBB74",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
         "id": "Gold",
-        "str": "金子"
+        "str": "黄金"
     },
     {
         "key": "F7676B734952CBD210E2C4900B44F1E2",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
         "id": "Silver",
-        "str": "银"
+        "str": "白银"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -2205,7 +2205,7 @@
         "key": "F0DAF05B4516E86912D72FB6CF221CE9",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getPressText [Script Bytecode]",
         "id": "Press [{key}] to {interact}",
-        "str": "按 [{key}] 进行{interact}"
+        "str": "按[{key}]{interact}"
     },
     {
         "key": "C158D252413F592114D488BB11C8055E",
@@ -2217,7 +2217,7 @@
         "key": "1793A7934071DB7EFDE6498C6D04FBC3",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "The code does not match any lobby",
-        "str": "该代码与任何大厅均不匹配"
+        "str": "该密码与任何大厅均不匹配"
     },
     {
         "key": "2C192A7843CF60566C005ABB386CA75D",
@@ -2229,19 +2229,19 @@
         "key": "4D3D0FC2457275A54983A1BBAF48C542",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "Password is incorrect",
-        "str": "密码不正确"
+        "str": "密码错误"
     },
     {
         "key": "EC2A6CF342794100347D079D5C709865",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "The lobby is full",
-        "str": "大堂已满"
+        "str": "大厅已满"
     },
     {
         "key": "FE1C90DA472898B05D0AE29D5FCA51FC",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "Something has gone wrong",
-        "str": "出了问题"
+        "str": "出现错误"
     },
     {
         "key": "FEB9026C48BC0599149DBA9898C6CB45",
@@ -2511,7 +2511,7 @@
         "key": "A7540C9740107C15DAA704B657E53E8D",
         "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
         "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-        "str": "Doll Who 是一款推理棋盘游戏，两名玩家尝试猜测对手选择的角色的身份. 每个玩家都有一个棋盘，其中包含一系列具有不同特征的角色. 通过询问 \n"
+        "str": "《人偶猜谜》是一款推理棋盘游戏，两名玩家尝试猜测对手选择的角色身份。\n每个玩家都有一个棋盘，包含各种不同的角色。\n通过询问关于角色特征的“是”或“否”问题（例如他们是否戴帽子或在托儿所地图中出现），玩家逐步排除选项，直到发现对手的角色。第一个正确猜出对手角色的玩家获胜。"
     },
     {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -2985,25 +2985,25 @@
         "key": "06D919A94D862F6B8ACAAFA90ABFD823",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the {map} map in time trial with {medal} medal",
-        "str": "在计时赛中击败 {map} 地图并获得 {medal} 奖牌"
+        "str": "在计时赛中完成{map}地图并获得{medal}奖牌"
     },
     {
         "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the map {map} with {nights} nights in endless mode",
-        "str": "在无尽模式下用 {nights} 夜击败地图 {map}"
+        "str": "在无尽模式下用{nights}夜完成地图{map}"
     },
     {
         "key": "CB6E9B074BD77CC8096801BD1B03B13E",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the map {map} on difficulty {difficulty} in classic mode {multi}",
-        "str": "在经典模式 {multi} 中以难度 {difficulty} 击败地图 {map}"
+        "str": "在经典模式{multi}中以难度{difficulty}完成地图{map}"
     },
     {
         "key": "DB314878420CFAC0AE8E41A7B10CE3A3",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the map {map} in random mode",
-        "str": "以随机模式击败地图 {map}"
+        "str": "以随机模式完成地图 {map}"
     },
     {
         "key": "E6F8BF8747CAEB1DF78BFF9A26BB5D5E",
@@ -3261,25 +3261,25 @@
         "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
         "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text",
         "id": "Name",
-        "str": "姓名"
+        "str": "名称"
     },
     {
         "key": "41A1A89A4ADCC9D9F94EABA4A93A05DB",
         "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text",
         "id": "Visibility",
-        "str": "能见度"
+        "str": "可见度"
     },
     {
         "key": "283D414243F053A323317BB5FEAA82D7",
         "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.VisibilitySpinner.Options(0).Options.Label",
         "id": "Public",
-        "str": "民众"
+        "str": "公开"
     },
     {
         "key": "E27F6BC0436B7CDF6E4091A3895DF357",
         "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.VisibilitySpinner.Options(1).Options.Label",
         "id": "Private",
-        "str": "私人的"
+        "str": "私人"
     },
     {
         "key": "15673F574D5DA742FD4F428DA263DCB1",
@@ -3315,7 +3315,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": "备份已成功保存，如果要恢复，只需重新启动游戏即可看到 \n"
+        "str": "成功备份存档，如需恢复，重启游戏即可在该菜单看到\n恢复之前的存档。 "
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -3327,7 +3327,7 @@
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
         "id": "Play alone",
-        "str": "一个人玩"
+        "str": "独自游玩"
     },
     {
         "key": "A76488B841E9F96185871BB1C73F418B",
@@ -3339,7 +3339,7 @@
         "key": "DCC8B59542A6483748795F9617F86F55",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
         "id": "Open lobby",
-        "str": "开放式大堂"
+        "str": "开放大厅"
     },
     {
         "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
@@ -3363,7 +3363,7 @@
         "key": "EC60982146DDA1930C60798F475610A6",
         "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock.Text",
         "id": "Lobby code",
-        "str": "大堂代码"
+        "str": "大厅密码"
     },
     {
         "key": "D82E9CC948B03153A925558746DD99F2",
