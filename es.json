@@ -2523,7 +2523,7 @@
         "key": "B75DC93941A74B4A564DF389EB387762",
         "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
         "id": "Only the host can interact with this.",
-        "str": "Sólo el anfitrión puede interactuar con este ."
+        "str": "Sólo el anfitrión puede interactuar con esto."
     },
     {
         "key": "D89BAF654ED277C71FA76392443B5C15",
@@ -3327,7 +3327,7 @@
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
         "id": "Play alone",
-        "str": "jugar solo"
+        "str": "Jugar solo"
     },
     {
         "key": "A76488B841E9F96185871BB1C73F418B",
@@ -3339,7 +3339,7 @@
         "key": "DCC8B59542A6483748795F9617F86F55",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
         "id": "Open lobby",
-        "str": "Vestíbulo abierto"
+        "str": "Abrir vestíbulo"
     },
     {
         "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
@@ -3363,7 +3363,7 @@
         "key": "EC60982146DDA1930C60798F475610A6",
         "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock.Text",
         "id": "Lobby code",
-        "str": "código de lobby"
+        "str": "Código de vestíbulo"
     },
     {
         "key": "D82E9CC948B03153A925558746DD99F2",
