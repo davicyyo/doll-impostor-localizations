@@ -2166,10 +2166,34 @@
         "str": "Ținta nu a fost detectată, încercați să vă concentrați mai mult și să rămâneți la o anumită distanță unde poate fi văzută întreaga țintă"
     },
     {
+        "key": "FDEB25754C7E891058DB1A97A81A0820",
+        "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
+        "id": "You couldn't join the game because {reason}",
+        "str": ""
+    },
+    {
         "key": "93B997314AF656293CD3E6A5CB67FA1B",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getErrorText [Script Bytecode]",
         "id": "Error",
         "str": "Eroare"
+    },
+    {
+        "key": "410C72F3482B1E1E5F06FCBD4ABFF027",
+        "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
+        "id": "Bronze",
+        "str": ""
+    },
+    {
+        "key": "88B68C7C48445F64A23763BC309EBB74",
+        "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
+        "id": "Gold",
+        "str": ""
+    },
+    {
+        "key": "F7676B734952CBD210E2C4900B44F1E2",
+        "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
+        "id": "Silver",
+        "str": ""
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -2188,6 +2212,42 @@
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
         "id": "Require Energy",
         "str": "Necesită energie"
+    },
+    {
+        "key": "1793A7934071DB7EFDE6498C6D04FBC3",
+        "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
+        "id": "The code does not match any lobby",
+        "str": ""
+    },
+    {
+        "key": "2C192A7843CF60566C005ABB386CA75D",
+        "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
+        "id": "This lobby is not available",
+        "str": ""
+    },
+    {
+        "key": "4D3D0FC2457275A54983A1BBAF48C542",
+        "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
+        "id": "Password is incorrect",
+        "str": ""
+    },
+    {
+        "key": "EC2A6CF342794100347D079D5C709865",
+        "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
+        "id": "The lobby is full",
+        "str": ""
+    },
+    {
+        "key": "FE1C90DA472898B05D0AE29D5FCA51FC",
+        "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
+        "id": "Something has gone wrong",
+        "str": ""
+    },
+    {
+        "key": "FEB9026C48BC0599149DBA9898C6CB45",
+        "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
+        "id": "The version is different from the host \n{version}\n",
+        "str": ""
     },
     {
         "key": "5BC1D7604A1C399EA23C8A967E53983E",
@@ -2451,7 +2511,7 @@
         "key": "A7540C9740107C15DAA704B657E53E8D",
         "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
         "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-        "str": "Doll Who este un joc de masă de deducție în care doi jucători încearcă să ghicească identitatea personajului ales de adversarul lor. Fiecare jucător are o tablă cu o serie de personaje cu trăsături diferite. Prin punerea de întrebări de tipul \nda\n sau \nnu\n despre trăsăturile personajelor (cum ar fi dacă poartă o pălărie sau au apărut pe harta creșei), jucătorii elimină opțiuni până când descoperă personajul adversarului. Primul jucător care ghicește corect câștigă."
+        "str": ""
     },
     {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -2916,6 +2976,66 @@
         "str": "Toate obiectele plasate aici se vor pierde când părăsiți harta."
     },
     {
+        "key": "59F469684F1CFCF7B313728720C8F09A",
+        "location": "/Game/UI/challengeUI/challengeUI.challengeUI_C:WidgetTree.TextBlock.Text",
+        "id": "Challenge completed!",
+        "str": ""
+    },
+    {
+        "key": "06D919A94D862F6B8ACAAFA90ABFD823",
+        "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
+        "id": "Beat the {map} map in time trial with {medal} medal",
+        "str": ""
+    },
+    {
+        "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
+        "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
+        "id": "Beat the map {map} with {nights} nights in endless mode",
+        "str": ""
+    },
+    {
+        "key": "CB6E9B074BD77CC8096801BD1B03B13E",
+        "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
+        "id": "Beat the map {map} on difficulty {difficulty} in classic mode {multi}",
+        "str": ""
+    },
+    {
+        "key": "DB314878420CFAC0AE8E41A7B10CE3A3",
+        "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
+        "id": "Beat the map {map} in random mode",
+        "str": ""
+    },
+    {
+        "key": "E6F8BF8747CAEB1DF78BFF9A26BB5D5E",
+        "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
+        "id": "multiplayer",
+        "str": ""
+    },
+    {
+        "key": "D98620CC409728F91A9E77AE5FE1D2B2",
+        "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock.Text",
+        "id": "Claimed Reward",
+        "str": ""
+    },
+    {
+        "key": "9B6292A84A111FF42D574085642D7D63",
+        "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_14.Text",
+        "id": "Claim reward",
+        "str": ""
+    },
+    {
+        "key": "C57783D7420781183A6283BAE805F52F",
+        "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_250.Text",
+        "id": "Daily challenge",
+        "str": ""
+    },
+    {
+        "key": "2A05944142D7F7FD14FABC9A52A51690",
+        "location": "/Game/UI/challengeUI/taskItem.taskItem_C:GetText [Script Bytecode]",
+        "id": "•",
+        "str": ""
+    },
+    {
         "key": "53601F8C474D490D252A5AB16AC0B004",
         "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
         "id": "Enter chat",
@@ -3144,6 +3264,30 @@
         "str": "Dificultatea standard pentru fiecare jucător, toate indiciile vor fi făcute la ora 08:00, aveți opțiunea de a vedea numele păpușilor și lista de acțiuni ale impostorului"
     },
     {
+        "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
+        "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text",
+        "id": "Name",
+        "str": ""
+    },
+    {
+        "key": "41A1A89A4ADCC9D9F94EABA4A93A05DB",
+        "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text",
+        "id": "Visibility",
+        "str": ""
+    },
+    {
+        "key": "283D414243F053A323317BB5FEAA82D7",
+        "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.VisibilitySpinner.Options(0).Options.Label",
+        "id": "Public",
+        "str": ""
+    },
+    {
+        "key": "E27F6BC0436B7CDF6E4091A3895DF357",
+        "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.VisibilitySpinner.Options(1).Options.Label",
+        "id": "Private",
+        "str": ""
+    },
+    {
         "key": "15673F574D5DA742FD4F428DA263DCB1",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Your save game has been successfully restored, it may be wise to restart the game.",
@@ -3177,7 +3321,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": "Backup-ul a fost salvat cu succes, dacă doriți să o restaurați, doar reporniți jocul și veți vedea \n"
+        "str": ""
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -3188,14 +3332,62 @@
     {
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
-        "id": "Play",
-        "str": "Juca"
+        "id": "Play alone",
+        "str": ""
     },
     {
         "key": "A76488B841E9F96185871BB1C73F418B",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_3.Text",
         "id": "Restore Previous Save",
         "str": "Restaurați Salvarea anterioară"
+    },
+    {
+        "key": "DCC8B59542A6483748795F9617F86F55",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
+        "id": "Open lobby",
+        "str": ""
+    },
+    {
+        "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
+        "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
+        "id": "Browse lobbies",
+        "str": ""
+    },
+    {
+        "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
+        "location": "/Game/UI/joinGameUI.joinGameUI_C:ExecuteUbergraph_joinGameUI [Script Bytecode]",
+        "id": "An error occurred while displaying the server listing, please try again later.",
+        "str": ""
+    },
+    {
+        "key": "75D49E32426B3C46A006EBBE3CC6E2AA",
+        "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
+        "id": "{qty} results",
+        "str": ""
+    },
+    {
+        "key": "EC60982146DDA1930C60798F475610A6",
+        "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock.Text",
+        "id": "Lobby code",
+        "str": ""
+    },
+    {
+        "key": "8F9AC2684A2C76AF8533BDAC7AE6D400",
+        "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock_1.Text",
+        "id": "↻",
+        "str": ""
+    },
+    {
+        "key": "22F057A44BDC309DE20F3890A938A2FD",
+        "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock_91.Text",
+        "id": "➡️",
+        "str": ""
+    },
+    {
+        "key": "D82E9CC948B03153A925558746DD99F2",
+        "location": "/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]",
+        "id": "Password",
+        "str": ""
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
