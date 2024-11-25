@@ -2169,7 +2169,7 @@
         "key": "FDEB25754C7E891058DB1A97A81A0820",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
         "id": "You couldn't join the game because {reason}",
-        "str": ""
+        "str": "{reason} 때문에 게임에 참가할 수 없습니다."
     },
     {
         "key": "93B997314AF656293CD3E6A5CB67FA1B",
@@ -2181,19 +2181,19 @@
         "key": "410C72F3482B1E1E5F06FCBD4ABFF027",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
         "id": "Bronze",
-        "str": ""
+        "str": "청동"
     },
     {
         "key": "88B68C7C48445F64A23763BC309EBB74",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
         "id": "Gold",
-        "str": ""
+        "str": "금"
     },
     {
         "key": "F7676B734952CBD210E2C4900B44F1E2",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
         "id": "Silver",
-        "str": ""
+        "str": "은"
     },
     {
         "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -2217,37 +2217,37 @@
         "key": "1793A7934071DB7EFDE6498C6D04FBC3",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "The code does not match any lobby",
-        "str": ""
+        "str": "코드가 어떤 로비와도 일치하지 않습니다"
     },
     {
         "key": "2C192A7843CF60566C005ABB386CA75D",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "This lobby is not available",
-        "str": ""
+        "str": "이 로비는 사용할 수 없습니다"
     },
     {
         "key": "4D3D0FC2457275A54983A1BBAF48C542",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "Password is incorrect",
-        "str": ""
+        "str": "비밀번호가 올바르지 않습니다."
     },
     {
         "key": "EC2A6CF342794100347D079D5C709865",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "The lobby is full",
-        "str": ""
+        "str": "로비가 꽉 찼어요"
     },
     {
         "key": "FE1C90DA472898B05D0AE29D5FCA51FC",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "Something has gone wrong",
-        "str": ""
+        "str": "문제가 발생했습니다."
     },
     {
         "key": "FEB9026C48BC0599149DBA9898C6CB45",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "The version is different from the host \n{version}\n",
-        "str": ""
+        "str": "버전이 호스트와 다릅니다. \n{version}\n"
     },
     {
         "key": "5BC1D7604A1C399EA23C8A967E53983E",
@@ -2511,7 +2511,7 @@
         "key": "A7540C9740107C15DAA704B657E53E8D",
         "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
         "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-        "str": ""
+        "str": "인형 후(Doll Who)는 두 명의 플레이어가 상대가 선택한 캐릭터의 정체를 추측하는 추리 보드 게임입니다. 각 플레이어는 서로 다른 특성을 가진 일련의 캐릭터로 구성된 보드를 가지고 있습니다. 질문을 통해 \n"
     },
     {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -2979,61 +2979,61 @@
         "key": "59F469684F1CFCF7B313728720C8F09A",
         "location": "/Game/UI/challengeUI/challengeUI.challengeUI_C:WidgetTree.TextBlock.Text",
         "id": "Challenge completed!",
-        "str": ""
+        "str": "챌린지 완료!"
     },
     {
         "key": "06D919A94D862F6B8ACAAFA90ABFD823",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the {map} map in time trial with {medal} medal",
-        "str": ""
+        "str": "{medal} 메달로 타임 트라이얼에서 {map} 지도를 이겼습니다."
     },
     {
         "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the map {map} with {nights} nights in endless mode",
-        "str": ""
+        "str": "무한 모드에서 {nights}박 동안 지도 {map}을(를) 이겨보세요"
     },
     {
         "key": "CB6E9B074BD77CC8096801BD1B03B13E",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the map {map} on difficulty {difficulty} in classic mode {multi}",
-        "str": ""
+        "str": "클래식 모드 {multi}에서 난이도 {difficulty}로 지도 {map} 승리"
     },
     {
         "key": "DB314878420CFAC0AE8E41A7B10CE3A3",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the map {map} in random mode",
-        "str": ""
+        "str": "무작위 모드에서 지도 {map}을(를) 깨세요"
     },
     {
         "key": "E6F8BF8747CAEB1DF78BFF9A26BB5D5E",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "multiplayer",
-        "str": ""
+        "str": "멀티플레이어"
     },
     {
         "key": "D98620CC409728F91A9E77AE5FE1D2B2",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock.Text",
         "id": "Claimed Reward",
-        "str": ""
+        "str": "보상 청구"
     },
     {
         "key": "9B6292A84A111FF42D574085642D7D63",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_14.Text",
         "id": "Claim reward",
-        "str": ""
+        "str": "보상 청구"
     },
     {
         "key": "C57783D7420781183A6283BAE805F52F",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_250.Text",
         "id": "Daily challenge",
-        "str": ""
+        "str": "일일 도전"
     },
     {
         "key": "2A05944142D7F7FD14FABC9A52A51690",
         "location": "/Game/UI/challengeUI/taskItem.taskItem_C:GetText [Script Bytecode]",
         "id": "•",
-        "str": ""
+        "str": "•"
     },
     {
         "key": "53601F8C474D490D252A5AB16AC0B004",
@@ -3267,25 +3267,25 @@
         "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
         "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text",
         "id": "Name",
-        "str": ""
+        "str": "이름"
     },
     {
         "key": "41A1A89A4ADCC9D9F94EABA4A93A05DB",
         "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text",
         "id": "Visibility",
-        "str": ""
+        "str": "시계"
     },
     {
         "key": "283D414243F053A323317BB5FEAA82D7",
         "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.VisibilitySpinner.Options(0).Options.Label",
         "id": "Public",
-        "str": ""
+        "str": "공공의"
     },
     {
         "key": "E27F6BC0436B7CDF6E4091A3895DF357",
         "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.VisibilitySpinner.Options(1).Options.Label",
         "id": "Private",
-        "str": ""
+        "str": "사적인"
     },
     {
         "key": "15673F574D5DA742FD4F428DA263DCB1",
@@ -3321,7 +3321,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": ""
+        "str": "백업이 성공적으로 저장되었습니다. 복원하려면 게임을 다시 시작하면 됩니다. \n"
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -3333,7 +3333,7 @@
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
         "id": "Play alone",
-        "str": ""
+        "str": "혼자 놀기"
     },
     {
         "key": "A76488B841E9F96185871BB1C73F418B",
@@ -3345,49 +3345,49 @@
         "key": "DCC8B59542A6483748795F9617F86F55",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
         "id": "Open lobby",
-        "str": ""
+        "str": "오픈 로비"
     },
     {
         "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
         "id": "Browse lobbies",
-        "str": ""
+        "str": "로비 찾아보기"
     },
     {
         "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
         "location": "/Game/UI/joinGameUI.joinGameUI_C:ExecuteUbergraph_joinGameUI [Script Bytecode]",
         "id": "An error occurred while displaying the server listing, please try again later.",
-        "str": ""
+        "str": "서버 목록을 표시하는 중 오류가 발생했습니다. 나중에 다시 시도해 주세요."
     },
     {
         "key": "75D49E32426B3C46A006EBBE3CC6E2AA",
         "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
         "id": "{qty} results",
-        "str": ""
+        "str": "{qty} 결과"
     },
     {
         "key": "EC60982146DDA1930C60798F475610A6",
         "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock.Text",
         "id": "Lobby code",
-        "str": ""
+        "str": "로비 코드"
     },
     {
         "key": "8F9AC2684A2C76AF8533BDAC7AE6D400",
         "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock_1.Text",
         "id": "↻",
-        "str": ""
+        "str": "↻"
     },
     {
         "key": "22F057A44BDC309DE20F3890A938A2FD",
         "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock_91.Text",
         "id": "➡️",
-        "str": ""
+        "str": "➡️"
     },
     {
         "key": "D82E9CC948B03153A925558746DD99F2",
         "location": "/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]",
         "id": "Password",
-        "str": ""
+        "str": "비밀번호"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
