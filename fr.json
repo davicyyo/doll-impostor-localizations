@@ -2169,7 +2169,7 @@
         "key": "FDEB25754C7E891058DB1A97A81A0820",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
         "id": "You couldn't join the game because {reason}",
-        "str": "Vous n'avez pas pu rejoindre le jeu parce que {reason}"
+        "str": "Vous n'avez pas pu rejoindre la partie pour la raison suivante : {reason}"
     },
     {
         "key": "93B997314AF656293CD3E6A5CB67FA1B",
@@ -2217,37 +2217,37 @@
         "key": "1793A7934071DB7EFDE6498C6D04FBC3",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "The code does not match any lobby",
-        "str": "Le code ne correspond à aucun lobby"
+        "str": "Le code ne correspond à aucun salon"
     },
     {
         "key": "2C192A7843CF60566C005ABB386CA75D",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "This lobby is not available",
-        "str": "Ce lobby n'est pas disponible"
+        "str": "Ce salon n'est pas accessible"
     },
     {
         "key": "4D3D0FC2457275A54983A1BBAF48C542",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "Password is incorrect",
-        "str": "Le mot de passe est incorrect"
+        "str": "Le Mot de Passe est incorrecte"
     },
     {
         "key": "EC2A6CF342794100347D079D5C709865",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "The lobby is full",
-        "str": "Le hall est plein"
+        "str": "Le salon est plein"
     },
     {
         "key": "FE1C90DA472898B05D0AE29D5FCA51FC",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "Something has gone wrong",
-        "str": "Quelque chose ne va pas"
+        "str": "Une erreur est survenue"
     },
     {
         "key": "FEB9026C48BC0599149DBA9898C6CB45",
         "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
         "id": "The version is different from the host \n{version}\n",
-        "str": "La version est différente de l'hôte \n{version}\n"
+        "str": "Votre Version est différente de celle de l'hôte {version}"
     },
     {
         "key": "5BC1D7604A1C399EA23C8A967E53983E",
@@ -2511,7 +2511,7 @@
         "key": "A7540C9740107C15DAA704B657E53E8D",
         "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
         "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-        "str": "Doll Who est un jeu de société de déduction où deux joueurs tentent de deviner l'identité du personnage choisi par leur adversaire. Chaque joueur dispose d'un plateau avec une série de personnages aux traits différents. En demandant \n"
+        "str": "Doll Who est un jeu de société de déduction où deux joueurs essaient de deviner l'identité du personnage choisi par leur adversaire. Chaque joueur dispose d'un plateau avec une série de personnages aux traits différents. En posant des questions auxquelles on peut répondre par oui ou non sur les caractéristiques des personnages (comme s'ils portent un chapeau ou s'ils apparaissent sur la carte de la garderie), les joueurs éliminent des options jusqu'à découvrir le personnage de l'adversaire. Le premier joueur à deviner correctement gagne."
     },
     {
         "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -2979,55 +2979,55 @@
         "key": "59F469684F1CFCF7B313728720C8F09A",
         "location": "/Game/UI/challengeUI/challengeUI.challengeUI_C:WidgetTree.TextBlock.Text",
         "id": "Challenge completed!",
-        "str": "Défi terminé !"
+        "str": "Défi completé !"
     },
     {
         "key": "06D919A94D862F6B8ACAAFA90ABFD823",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the {map} map in time trial with {medal} medal",
-        "str": "Battez la carte {map} en contre-la-montre avec la médaille {medal}"
+        "str": "Battre la carte {map} en Contre-la-montre en obtenant une médaille en {medal}"
     },
     {
         "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the map {map} with {nights} nights in endless mode",
-        "str": "Battez la carte {map} avec {nights} nuits en mode sans fin"
+        "str": "Battre la carte {map} pendant {nights} nuits en mode Sans Fin"
     },
     {
         "key": "CB6E9B074BD77CC8096801BD1B03B13E",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the map {map} on difficulty {difficulty} in classic mode {multi}",
-        "str": "Terminez la carte {map} en difficulté {difficulty} en mode classique {multi}"
+        "str": "Battre la carte {map} en difficulté {difficulty} dans le mode Classique {multi}"
     },
     {
         "key": "DB314878420CFAC0AE8E41A7B10CE3A3",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "Beat the map {map} in random mode",
-        "str": "Battez la carte {map} en mode aléatoire"
+        "str": "Battre la carte {map} en mode Aléatoire"
     },
     {
         "key": "E6F8BF8747CAEB1DF78BFF9A26BB5D5E",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
         "id": "multiplayer",
-        "str": "multijoueur"
+        "str": "Multijoueur"
     },
     {
         "key": "D98620CC409728F91A9E77AE5FE1D2B2",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock.Text",
         "id": "Claimed Reward",
-        "str": "Récompense réclamée"
+        "str": "Récompense Récupérée"
     },
     {
         "key": "9B6292A84A111FF42D574085642D7D63",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_14.Text",
         "id": "Claim reward",
-        "str": "Réclamez une récompense"
+        "str": "Récupérer la Récompense"
     },
     {
         "key": "C57783D7420781183A6283BAE805F52F",
         "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_250.Text",
         "id": "Daily challenge",
-        "str": "Défi quotidien"
+        "str": "Défi Journalier"
     },
     {
         "key": "53601F8C474D490D252A5AB16AC0B004",
@@ -3315,7 +3315,7 @@
         "key": "E9F0184246CAA5E005429C98D5BB5533",
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-        "str": "La sauvegarde a été enregistrée avec succès, si vous souhaitez la restaurer, redémarrez simplement le jeu et vous verrez \n"
+        "str": "La sauvegarde a été enregistrée avec succès, si vous souhaitez la restaurer, redémarrez simplement le jeu et vous verrez "
     },
     {
         "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -3327,7 +3327,7 @@
         "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
         "id": "Play alone",
-        "str": "Jouer seul"
+        "str": "Jouer"
     },
     {
         "key": "A76488B841E9F96185871BB1C73F418B",
@@ -3339,13 +3339,13 @@
         "key": "DCC8B59542A6483748795F9617F86F55",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
         "id": "Open lobby",
-        "str": "Hall ouvert"
+        "str": "Salon Ouvert"
     },
     {
         "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
-        "id": "Browse lobbies",
-        "str": "Parcourir les salons"
+        "id": "Browse Lobbies",
+        "str": "Parcourir les Salons"
     },
     {
         "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -3357,19 +3357,19 @@
         "key": "75D49E32426B3C46A006EBBE3CC6E2AA",
         "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
         "id": "{qty} results",
-        "str": "{qty} résultats"
+        "str": "Résultats {qty}"
     },
     {
         "key": "EC60982146DDA1930C60798F475610A6",
         "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock.Text",
         "id": "Lobby code",
-        "str": "Code du lobby"
+        "str": "Code de Salon"
     },
     {
         "key": "D82E9CC948B03153A925558746DD99F2",
         "location": "/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]",
         "id": "Password",
-        "str": "Mot de passe"
+        "str": "Mot-de-passe"
     },
     {
         "key": "36DAFDA641D110060CAB6BBD14FE3722",
