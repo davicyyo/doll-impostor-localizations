@@ -3030,12 +3030,6 @@
         "str": "Napi kihívás"
     },
     {
-        "key": "2A05944142D7F7FD14FABC9A52A51690",
-        "location": "/Game/UI/challengeUI/taskItem.taskItem_C:GetText [Script Bytecode]",
-        "id": "•",
-        "str": "•"
-    },
-    {
         "key": "53601F8C474D490D252A5AB16AC0B004",
         "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
         "id": "Enter chat",
@@ -3370,18 +3364,6 @@
         "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock.Text",
         "id": "Lobby code",
         "str": "Lobby kód"
-    },
-    {
-        "key": "8F9AC2684A2C76AF8533BDAC7AE6D400",
-        "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock_1.Text",
-        "id": "↻",
-        "str": "↻"
-    },
-    {
-        "key": "22F057A44BDC309DE20F3890A938A2FD",
-        "location": "/Game/UI/joinGameUI.joinGameUI_C:WidgetTree.TextBlock_91.Text",
-        "id": "➡️",
-        "str": "➡️"
     },
     {
         "key": "D82E9CC948B03153A925558746DD99F2",
