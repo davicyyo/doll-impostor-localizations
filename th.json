@@ -1605,7 +1605,7 @@
         "key": "DCBD9A3F418F5F127DABDD996614C5B0",
         "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
         "id": "You can't make this, it doesn't fit any recipe",
-        "str": "คุณไม่สามารถทำได้ มันไม่ตรงกับสูตรใดๆ เลย"
+        "str": "คุณไม่สามารถทำได้ มันไม่ตรงกับสูตรใดๆ"
     },
     {
         "key": "003123EB4E325C82B8C7E192D319CF55",
@@ -1671,7 +1671,7 @@
         "key": "176C171C443DFFFD974A32BB32959193",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Obscura",
-        "str": "ออบสคูร่า"
+        "str": "ทาบเงา"
     },
     {
         "key": "1AF5392F481406F80C566FB0740D5D3D",
@@ -1695,7 +1695,7 @@
         "key": "1EB2085245408A6B326DDF9AA9214E0A",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Glint",
-        "str": "ยิ้มกระชากใจ"
+        "str": "ยิ้มบาดใจ"
     },
     {
         "key": "1F7140B7494998788B096E85BEA451B4",
@@ -1869,7 +1869,7 @@
         "key": "6CBA009E433B551763CA96B31AF8596B",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Midnight",
-        "str": "เที่ยงคืน"
+        "str": "สองยาม"
     },
     {
         "key": "6FA03C18423CD639AF92D892EA7A83E3",
@@ -1923,7 +1923,7 @@
         "key": "81F23CF240C4A672B1AC05A6895DF582",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Pale",
-        "str": "ซัดเผือก"
+        "str": "ซีดเผือก"
     },
     {
         "key": "84743C7D412BD85DD93CC092751C89E7",
@@ -1941,7 +1941,7 @@
         "key": "87B1E3F54AA52AE964B7BDAF99914042",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Whispering Breeze",
-        "str": "ผีบอก"
+        "str": "ลางผีบอก"
     },
     {
         "key": "8B7BEED04A64FDBA38C388891DF8F479",
@@ -2181,7 +2181,7 @@
         "key": "410C72F3482B1E1E5F06FCBD4ABFF027",
         "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
         "id": "Bronze",
-        "str": "สีบรอนซ์"
+        "str": "ทองแดง"
     },
     {
         "key": "88B68C7C48445F64A23763BC309EBB74",
