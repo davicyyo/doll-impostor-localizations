@@ -168,6 +168,18 @@
         "str": "Du har {new} netter, du har ikke klart å slå rekorden din på {old} netter"
     },
     {
+        "key": "0525435A4091E8021EFF0D8B98CE9BC4",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
+        "id": "Wrong impostor",
+        "str": ""
+    },
+    {
+        "key": "416137A54D8BDF2957A99DA3E3A214DB",
+        "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
+        "id": "You left several dolls uncrossed out",
+        "str": ""
+    },
+    {
         "key": "27228C9F429D8354B0534FB17BD564AA",
         "location": "/Game/Blueprints/interactableUI3D.interactableUI3D_C:ExecuteUbergraph_interactableUI3D [Script Bytecode]",
         "id": "Interact",
@@ -3066,6 +3078,12 @@
         "str": "Handlingsdetaljer"
     },
     {
+        "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
+        "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
+        "id": "You didn't close the door",
+        "str": ""
+    },
+    {
         "key": "B084116A4B080238B7AB2A89F60A598E",
         "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
         "id": "Replay",
@@ -3298,12 +3316,6 @@
         "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
         "id": "Warning!",
         "str": "Advarsel!"
-    },
-    {
-        "key": "D1343C0B46B548625A4EE78A3DA1E1E6",
-        "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
-        "id": "We have detected that you have already played previously and that you have lost progress, press Accept to download a save file to avoid unlocking everything again",
-        "str": "Vi har oppdaget at du har spilt tidligere og mistet fremgangen din. Trykk Godta for å laste ned en lagringsfil for å unngå å låse opp alt igjen."
     },
     {
         "key": "D43847EE40A03CCE1238E0A4BAB8F812",
