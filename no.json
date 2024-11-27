@@ -171,13 +171,13 @@
         "key": "0525435A4091E8021EFF0D8B98CE9BC4",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
         "id": "Wrong impostor",
-        "str": ""
+        "str": "Feil bedrager"
     },
     {
         "key": "416137A54D8BDF2957A99DA3E3A214DB",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
         "id": "You left several dolls uncrossed out",
-        "str": ""
+        "str": "Du la igjen flere dukker uten kryss"
     },
     {
         "key": "27228C9F429D8354B0534FB17BD564AA",
@@ -3081,7 +3081,7 @@
         "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
         "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
         "id": "You didn't close the door",
-        "str": ""
+        "str": "Du lukket ikke døren"
     },
     {
         "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -3356,7 +3356,7 @@
     {
         "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
         "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
-        "id": "Browse lobbies",
+        "id": "Browse Lobbies",
         "str": "Bla gjennom lobbyer"
     },
     {
