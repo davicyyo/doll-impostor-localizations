@@ -93,7 +93,7 @@
     "key": "486E52D945C3D792DA06099F44AC1A7A",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "Be careful, you will lose the equipped items",
-    "str": ""
+    "str": "Var försiktig, du kommer att förlora de utrustade föremålen"
   },
   {
     "key": "5DAA61584F29C51BE364D59FAF17F7CB",
@@ -3362,7 +3362,7 @@
   {
     "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
-    "id": "Browse lobbies",
+    "id": "Browse Lobbies",
     "str": "Bläddra i lobbyerna"
   },
   {
