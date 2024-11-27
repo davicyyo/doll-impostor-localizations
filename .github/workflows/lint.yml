@@ -16,6 +16,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y jq
+          npm install --save-dev prettier
           npm install -g jsonlint
 
       - name: JSON Syntax and Structure Check
