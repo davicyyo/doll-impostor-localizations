@@ -3066,6 +3066,12 @@
     "str": "Resetten"
   },
   {
+    "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
+    "location": "/Game/UI/employerOfTheWeek.employerOfTheWeek_C:WidgetTree.TextBlock.Text",
+    "id": "Employee of the Week Awards",
+    "str": ""
+  },
+  {
     "key": "5981A77041F835414316E0BEA0C3C8F8",
     "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
     "id": "YOU WIN",
@@ -3369,13 +3375,7 @@
     "key": "94DF171240785BD6422882B6ECC3CFDC",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text",
     "id": "Future updates",
-    "str": ""
-  },
-  {
-    "key": "74B26EC44A446DC4EA557EB52498293A",
-    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_7.Text",
-    "id": "Last New",
-    "str": "Laatste nieuwe"
+    "str": "Toekomstige updates"
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -4042,6 +4042,18 @@
     "location": "/Game/UI/waiting.waiting_C:WidgetTree.text.Text",
     "id": "Loading...",
     "str": "Laden..."
+  },
+  {
+    "key": "7C5426B14903868A801F738C63E212A4",
+    "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock.Text",
+    "id": "You've earned the Employee of the Week medal!",
+    "str": ""
+  },
+  {
+    "key": "DB6479E94240EBE8EC3405AEE83EF579",
+    "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock_1.Text",
+    "id": "You can now see this medal in your Employee of the Week chest!",
+    "str": ""
   },
   {
     "key": "4A4EFF4C40A276033B050495CB6E5179",

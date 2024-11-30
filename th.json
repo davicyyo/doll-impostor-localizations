@@ -87,19 +87,19 @@
     "key": "1C4A0DD846CCF542A5D75C843FB42C43",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "This doll is under effects, wait for the effect to finish to apply another one",
-    "str": "ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา โปรดรอให้ฤทธิ์ยาหมดลงก่อนที่จะใช้กับตัวอื่น"
+    "str": "ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา โปรดรอให้ฤทธิ์ยาหมดลงก่อนที่จะใช้อุปกรณ์ชิ้นถัดไป"
   },
   {
     "key": "486E52D945C3D792DA06099F44AC1A7A",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "Be careful, you will lose the equipped items",
-    "str": "ระวังคุณจะสูญเสียสิ่งของที่ติดตั้งไว้"
+    "str": "โปรดระวังคุณจะสูญเสียอุปกรณ์ที่คุณติดตั้งเอาไว้"
   },
   {
     "key": "5DAA61584F29C51BE364D59FAF17F7CB",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "You need to use the book of souls before you save the imposter doll",
-    "str": "คุณต้องใช้หนังสือแห่งวิญญาณก่อนที่จะจับตุ๊กตา imposter"
+    "str": "คุณต้องใช้หนังสือแห่งวิญญาณก่อนที่จะจับตุ๊กตา Imposter"
   },
   {
     "key": "073BF882481ECDE57F50FF98957A3C22",
@@ -177,13 +177,13 @@
     "key": "0525435A4091E8021EFF0D8B98CE9BC4",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "Wrong impostor",
-    "str": "ผิดคนแอบอ้าง"
+    "str": "ไม่ใช่ Impostor"
   },
   {
     "key": "416137A54D8BDF2957A99DA3E3A214DB",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "You left several dolls uncrossed out",
-    "str": "คุณทิ้งตุ๊กตาไว้หลายตัวโดยไม่ขีดฆ่า"
+    "str": "คุณได้ออกไปและทิ้งตุ๊กตาไว้หลายตัวโดยไม่กากบาทไว้"
   },
   {
     "key": "27228C9F429D8354B0534FB17BD564AA",
@@ -219,7 +219,7 @@
     "key": "821BBE2A48EE821074956AB736CA0ECB",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "Input detected!",
-    "str": "ตรวจพบอินพุต!"
+    "str": "ตรวจพบอินพุตแล้ว!"
   },
   {
     "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
@@ -237,7 +237,7 @@
     "key": "79B48418402866A435B0658D650C041D",
     "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
     "id": "You've used everything you needed to use here.",
-    "str": "ที่นี่สามารถใช้ของได้ทุกอย่างตามที่คุณต้องการ"
+    "str": "คุณได้ใช้สิ่งของที่คุณต้องการหมดแล้ว"
   },
   {
     "key": "8E794D794CCEA0D30D037D8DA2BFD248",
@@ -393,7 +393,7 @@
     "key": "D249146742516BB46178BA859A421873",
     "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Take doll photos for fill the clues",
-    "str": "ถ่ายรูปตุ๊กตาเพื่อค้นหาเบาะแสเพิ่มเติม"
+    "str": "อุปกรณ์ไว้ถ่ายรูปตุ๊กตาเพื่อค้นหาเบาะแสเพิ่มเติม"
   },
   {
     "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -405,7 +405,7 @@
     "key": "5471B2664F74874D8556F9B63E352A84",
     "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Take flashlight",
-    "str": "หยิบไฟฉาย"
+    "str": "อุปกรณ์สำหรับให้แสงสว่าง"
   },
   {
     "key": "4020C7B84456D9F178DC488EAB546977",
@@ -447,13 +447,13 @@
     "key": "CEB55E1E480248C3E1553AB0E3E06BA3",
     "location": "/Game/data-tables/itemList.itemList.NewRow_12.name_12_D217604B46FF9197C7004FBE2050F6FD",
     "id": "Parchment",
-    "str": "ผ้าหนัง"
+    "str": "กระดาษไข"
   },
   {
     "key": "743C50254A73CE29F7B3D7858FFBA46F",
     "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Dark and thick liquid.",
-    "str": "ของเหลวสีเข้มข้นหนืด"
+    "str": "ของเหลวข้นหนืดสีเข้ม"
   },
   {
     "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
@@ -513,7 +513,7 @@
     "key": "821C250E485ED0C26041C8830F8E0625",
     "location": "/Game/data-tables/itemList.itemList.NewRow_18.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A durable and flexible material.",
-    "str": "วัสดุที่ยืดหยุ่นและทนทาน"
+    "str": "วัสดุที่มีความยืดหยุ่นและทนทาน"
   },
   {
     "key": "008C17DA426E713F7F3A418B4FDE1BE4",
@@ -525,7 +525,7 @@
     "key": "F746170F4C38F9AE155525AEA0B83F1C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Soft and fragrant rose petals.",
-    "str": "กลีบกุหลาบอันนุ่มหอม"
+    "str": "กลีบกุหลาบอันหอมหวล"
   },
   {
     "key": "AF3764E04E32829AB3E75FBD938BF9C1",
@@ -621,7 +621,7 @@
     "key": "E67B208049756CC3B5F16089AC41B470",
     "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Refreshing green leaves.",
-    "str": "ใบไม้เขียวให้ความสดชื่น"
+    "str": "ใบไม้เขียวที่ให้ความสดชื่น"
   },
   {
     "key": "AC46E8C5498572C242CBADA69A94A0A7",
@@ -669,7 +669,7 @@
     "key": "D597FBE342A7B8B23676A3BB4B81D863",
     "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Take notes on the behavior of the dolls",
-    "str": "สังเกตและบันทึกพฤติกรรมของตุ๊กตา"
+    "str": "สมุดบันทึกสำหรับจดบันทึกพฤติกรรมของตุ๊กตา"
   },
   {
     "key": "ED2F4CB1487E0D6D9070899567BB98B0",
@@ -1383,7 +1383,7 @@
     "key": "F234C7F94700549E267ADA87AC492287",
     "location": "/Game/enums/actions.actions.DisplayNameMap(37 - Value).DisplayNameMap",
     "id": "Ouija",
-    "str": "ผีถ้วยแก้ว"
+    "str": "กระดานผีบอก"
   },
   {
     "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
@@ -2241,7 +2241,7 @@
     "key": "2C192A7843CF60566C005ABB386CA75D",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "This lobby is not available",
-    "str": "ล็อบบี้นี้ไม่สามารถใช้ได้"
+    "str": "ล็อบบี้นี้ไม่สามารถใช้งานได้"
   },
   {
     "key": "4D3D0FC2457275A54983A1BBAF48C542",
@@ -2325,7 +2325,7 @@
     "key": "2EA5F3054E8CD308869D52B17D3DE346",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-    "str": "ฉันจะมอบกระเป๋าให้คุณ กระเป๋าใบนี้จะช่วยคุณจับตุ๊กตา impostor เมื่อคุณจับมันได้แล้ว เกมก็จะจบลงทันที (ถ้าหากคุณทำได้ภายในเวลาที่กำหนด) ฉันจะช่วยคุณทำบทช่วยสอนอันนี้ให้เสร็จสิ้น ไม่ว่าคุณจะชนะหรือแพ้ก็ตาม คุณก็ทำมันเสร็จแล้ว ขอให้โชคดี!"
+    "str": "ฉันจะมอบกระเป๋าให้คุณ กระเป๋าใบนี้จะช่วยคุณจับตุ๊กตา Impostor เมื่อคุณจับมันได้แล้ว เกมก็จะจบลงทันที (ถ้าหากคุณทำได้ภายในเวลาที่กำหนด) ฉันจะช่วยคุณทำบทช่วยสอนอันนี้ให้เสร็จสิ้น ไม่ว่าคุณจะชนะหรือแพ้ก็ตาม คุณก็ทำมันเสร็จแล้ว ขอให้โชคดี!"
   },
   {
     "key": "336B557643CBA00B5138539520DCBB04",
@@ -2727,7 +2727,7 @@
     "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "You cannot travel when there are players in your safehouse who have not completed the tutorial for career mode.",
-    "str": "คุณไม่สามารถเดินทางได้เมื่อมีผู้เล่นในเซฟเฮาส์ของคุณที่ยังทำการฝึกสอนโหมดอาชีพไม่สำเร็จ"
+    "str": "คุณไม่สามารถเดินทางได้เมื่อยังมีผู้เล่นในเซฟเฮาส์ของคุณที่ยังทำการฝึกสอนโหมดอาชีพไม่สำเร็จ"
   },
   {
     "key": "3E89DE624ACBA88C4179C9852E9C70AD",
@@ -2799,7 +2799,7 @@
     "key": "074C094B4943E77D1E7501B3B9277A09",
     "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
     "id": "The costs will be reflected in the prices of the items in the store",
-    "str": "ต้นทุนจะมีผลต่อราคาสินค้าในร้านค้า"
+    "str": "อัตราต้นทุนของวัตถุดิบจะมีผลต่อราคาสินค้าในร้านค้า"
   },
   {
     "key": "F21C143F425251C3614B29BD90BD710D",
@@ -2979,13 +2979,13 @@
     "key": "A90A8A4A498B03054AFD1880AEE94227",
     "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
     "id": "All objects placed here will be lost when you leave the map.",
-    "str": "วัตถุทั้งหมดที่วางอยู่ที่นี่จะหายไปเมื่อคุณออกจากแผนที่."
+    "str": "วัตถุทั้งหมดที่วางอยู่ที่นี่จะหายไปถ้าหากคุณออกจากแผนที่"
   },
   {
     "key": "59F469684F1CFCF7B313728720C8F09A",
     "location": "/Game/UI/challengeUI/challengeUI.challengeUI_C:WidgetTree.TextBlock.Text",
     "id": "Challenge completed!",
-    "str": "ภารกิจท้าทายเสร็จสิ้นแล้ว!"
+    "str": "ภารกิจเสร็จสิ้นแล้ว!"
   },
   {
     "key": "06D919A94D862F6B8ACAAFA90ABFD823",
@@ -3066,6 +3066,12 @@
     "str": "รีเซ็ต"
   },
   {
+    "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
+    "location": "/Game/UI/employerOfTheWeek.employerOfTheWeek_C:WidgetTree.TextBlock.Text",
+    "id": "Employee of the Week Awards",
+    "str": ""
+  },
+  {
     "key": "5981A77041F835414316E0BEA0C3C8F8",
     "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
     "id": "YOU WIN",
@@ -3117,7 +3123,7 @@
     "key": "AD01C42149F1EF55342AAAB262E7D9C8",
     "location": "/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]",
     "id": "This game mode is not available in multiplayer.",
-    "str": "โหมดเกมนี้ไม่รองรับการเล่นหลายคน"
+    "str": "โหมดเกมนี้ไม่รองรับการเล่นแบบหลายคน"
   },
   {
     "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -3321,7 +3327,7 @@
     "key": "E9F0184246CAA5E005429C98D5BB5533",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-    "str": "บันทึกข้อมูลสำรองเรียบร้อยแล้ว หากคุณต้องการกู้คืน เพียงรีสตาร์ทเกมแล้วคุณจะเห็น \n"
+    "str": "บันทึกข้อมูลสำรองเรียบร้อยแล้ว ถ้าหากคุณต้องการกู้คืน เพียงรีสตาร์ทเกมแล้วคุณจะเห็น \nคืนค่าการบันทึกก่อนหน้า\n ในเมนูนี้"
   },
   {
     "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3345,7 +3351,7 @@
     "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
     "id": "Singleplayer",
-    "str": "เล่นคนเดียว"
+    "str": "ผู้เล่นคนเดียว"
   },
   {
     "key": "A76488B841E9F96185871BB1C73F418B",
@@ -3362,26 +3368,20 @@
   {
     "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
-    "id": "Browse lobbies",
+    "id": "Browse Lobbies",
     "str": "เรียกดูล็อบบี้"
   },
   {
     "key": "94DF171240785BD6422882B6ECC3CFDC",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text",
     "id": "Future updates",
-    "str": ""
-  },
-  {
-    "key": "74B26EC44A446DC4EA557EB52498293A",
-    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_7.Text",
-    "id": "Last New",
-    "str": ""
+    "str": "การอัพเดทในอนาคต"
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
     "location": "/Game/UI/joinGameUI.joinGameUI_C:ExecuteUbergraph_joinGameUI [Script Bytecode]",
     "id": "An error occurred while displaying the server listing, please try again later.",
-    "str": "เกิดข้อผิดพลาดขณะแสดงรายการเซิร์ฟเวอร์ โปรดลองอีกครั้งในภายหลัง."
+    "str": "เกิดข้อผิดพลาดขณะแสดงรายการของเซิร์ฟเวอร์ โปรดลองอีกครั้งในภายหลัง"
   },
   {
     "key": "75D49E32426B3C46A006EBBE3CC6E2AA",
@@ -3831,7 +3831,7 @@
     "key": "A31A353942F325B2C7CB09AA525BB7CF",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_4.Text",
     "id": "Film Grain",
-    "str": "เนื้อฟิล์ม"
+    "str": "ฟิล์มเกรน"
   },
   {
     "key": "8CAC065540B47C971DC8E0B801B69618",
@@ -4042,6 +4042,18 @@
     "location": "/Game/UI/waiting.waiting_C:WidgetTree.text.Text",
     "id": "Loading...",
     "str": "กำลังโหลด..."
+  },
+  {
+    "key": "7C5426B14903868A801F738C63E212A4",
+    "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock.Text",
+    "id": "You've earned the Employee of the Week medal!",
+    "str": ""
+  },
+  {
+    "key": "DB6479E94240EBE8EC3405AEE83EF579",
+    "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock_1.Text",
+    "id": "You can now see this medal in your Employee of the Week chest!",
+    "str": ""
   },
   {
     "key": "4A4EFF4C40A276033B050495CB6E5179",
