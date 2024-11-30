@@ -87,13 +87,13 @@
     "key": "1C4A0DD846CCF542A5D75C843FB42C43",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "This doll is under effects, wait for the effect to finish to apply another one",
-    "str": "ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา โปรดรอให้ฤทธิ์ยาหมดลงก่อนที่จะใช้ยาหรืออุปกรณ์ชิ้นถัดไป"
+    "str": "ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา โปรดรอให้ฤทธิ์ยาหมดลงก่อนที่จะใช้กับตัวอื่น"
   },
   {
     "key": "486E52D945C3D792DA06099F44AC1A7A",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "Be careful, you will lose the equipped items",
-    "str": "โปรดระวังคุณจะสูญเสียสิ่งของที่ติดตั้งไว้"
+    "str": "ระวังคุณจะสูญเสียสิ่งของที่ติดตั้งไว้"
   },
   {
     "key": "5DAA61584F29C51BE364D59FAF17F7CB",
@@ -177,13 +177,13 @@
     "key": "0525435A4091E8021EFF0D8B98CE9BC4",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "Wrong impostor",
-    "str": "ไม่ใช่ impostor"
+    "str": "ผิดคนแอบอ้าง"
   },
   {
     "key": "416137A54D8BDF2957A99DA3E3A214DB",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "You left several dolls uncrossed out",
-    "str": "คุณทิ้งตุ๊กตาไว้หลายตัวโดยไม่ได้กากบาท"
+    "str": "คุณทิ้งตุ๊กตาไว้หลายตัวโดยไม่ขีดฆ่า"
   },
   {
     "key": "27228C9F429D8354B0534FB17BD564AA",
@@ -219,7 +219,7 @@
     "key": "821BBE2A48EE821074956AB736CA0ECB",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "Input detected!",
-    "str": "ตรวจพบอินพุตแล้ว!"
+    "str": "ตรวจพบอินพุต!"
   },
   {
     "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
@@ -237,7 +237,7 @@
     "key": "79B48418402866A435B0658D650C041D",
     "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
     "id": "You've used everything you needed to use here.",
-    "str": "คุณได้ใช้ของที่นี่หมดเรียบร้อยแล้ว"
+    "str": "ที่นี่สามารถใช้ของได้ทุกอย่างตามที่คุณต้องการ"
   },
   {
     "key": "8E794D794CCEA0D30D037D8DA2BFD248",
@@ -393,7 +393,7 @@
     "key": "D249146742516BB46178BA859A421873",
     "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Take doll photos for fill the clues",
-    "str": "อุปกรณ์ใช้สำหรับถ่ายรูปตุ๊กตาเพื่อค้นหาเบาะแสเพิ่มเติม"
+    "str": "ถ่ายรูปตุ๊กตาเพื่อค้นหาเบาะแสเพิ่มเติม"
   },
   {
     "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -405,7 +405,7 @@
     "key": "5471B2664F74874D8556F9B63E352A84",
     "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Take flashlight",
-    "str": "อุปกรณ์ให้แสงสว่าง"
+    "str": "หยิบไฟฉาย"
   },
   {
     "key": "4020C7B84456D9F178DC488EAB546977",
@@ -669,7 +669,7 @@
     "key": "D597FBE342A7B8B23676A3BB4B81D863",
     "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Take notes on the behavior of the dolls",
-    "str": "สมุดที่ใช้บันทึกและสังเกตพฤติกรรมของตุ๊กตา"
+    "str": "สังเกตและบันทึกพฤติกรรมของตุ๊กตา"
   },
   {
     "key": "ED2F4CB1487E0D6D9070899567BB98B0",
@@ -2799,7 +2799,7 @@
     "key": "074C094B4943E77D1E7501B3B9277A09",
     "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
     "id": "The costs will be reflected in the prices of the items in the store",
-    "str": "ต้นทุนที่เลือกไว้จะมีผลต่อราคาสินค้าในร้านค้า"
+    "str": "ต้นทุนจะมีผลต่อราคาสินค้าในร้านค้า"
   },
   {
     "key": "F21C143F425251C3614B29BD90BD710D",
@@ -2979,13 +2979,13 @@
     "key": "A90A8A4A498B03054AFD1880AEE94227",
     "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
     "id": "All objects placed here will be lost when you leave the map.",
-    "str": "วัตถุทั้งหมดที่วางอยู่ที่นี่จะหายไปเมื่อคุณออกจากแผนที่"
+    "str": "วัตถุทั้งหมดที่วางอยู่ที่นี่จะหายไปเมื่อคุณออกจากแผนที่."
   },
   {
     "key": "59F469684F1CFCF7B313728720C8F09A",
     "location": "/Game/UI/challengeUI/challengeUI.challengeUI_C:WidgetTree.TextBlock.Text",
     "id": "Challenge completed!",
-    "str": "ภารกิจเสร็จสิ้นแล้ว!"
+    "str": "ภารกิจท้าทายเสร็จสิ้นแล้ว!"
   },
   {
     "key": "06D919A94D862F6B8ACAAFA90ABFD823",
@@ -3117,7 +3117,7 @@
     "key": "AD01C42149F1EF55342AAAB262E7D9C8",
     "location": "/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]",
     "id": "This game mode is not available in multiplayer.",
-    "str": "โหมดเกมนี้ไม่รองรับการเล่นแบบหลายคน"
+    "str": "โหมดเกมนี้ไม่รองรับการเล่นหลายคน"
   },
   {
     "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -3344,8 +3344,8 @@
   {
     "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
-    "id": "Play alone",
-    "str": "ผู้เล่นคนเดียว"
+    "id": "Singleplayer",
+    "str": "เล่นคนเดียว"
   },
   {
     "key": "A76488B841E9F96185871BB1C73F418B",
@@ -3362,8 +3362,20 @@
   {
     "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
-    "id": "Browse Lobbies",
+    "id": "Browse lobbies",
     "str": "เรียกดูล็อบบี้"
+  },
+  {
+    "key": "94DF171240785BD6422882B6ECC3CFDC",
+    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text",
+    "id": "Future updates",
+    "str": ""
+  },
+  {
+    "key": "74B26EC44A446DC4EA557EB52498293A",
+    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_7.Text",
+    "id": "Last New",
+    "str": ""
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -3915,7 +3927,7 @@
     "key": "A7315029485656AEDD7500947B3C4E5B",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_57.Text",
     "id": "This option will only be available on Easy difficulty.",
-    "str": "ตัวเลือกนี้จะใช้ได้เฉพาะในระดับความง่ายเท่านั้น"
+    "str": "ตัวเลือกนี้จะใช้ได้เฉพาะในระดับความง่าย"
   },
   {
     "key": "8BFB53E5448C16FA230515968C3ABF0A",
