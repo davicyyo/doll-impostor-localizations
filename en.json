@@ -3344,8 +3344,8 @@
   {
     "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
-    "id": "Play alone",
-    "str": "Play alone"
+    "id": "Singleplayer",
+    "str": "Singleplayer"
   },
   {
     "key": "A76488B841E9F96185871BB1C73F418B",
@@ -3364,6 +3364,18 @@
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
     "id": "Browse Lobbies",
     "str": "Browse lobbies"
+  },
+  {
+    "key": "94DF171240785BD6422882B6ECC3CFDC",
+    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text",
+    "id": "Future updates",
+    "str": "Future updates"
+  },
+  {
+    "key": "74B26EC44A446DC4EA557EB52498293A",
+    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_7.Text",
+    "id": "Last New",
+    "str": "Last New"
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
