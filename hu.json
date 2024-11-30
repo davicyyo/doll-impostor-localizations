@@ -3069,7 +3069,7 @@
     "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
     "location": "/Game/UI/employerOfTheWeek.employerOfTheWeek_C:WidgetTree.TextBlock.Text",
     "id": "Employee of the Week Awards",
-    "str": ""
+    "str": "A hét alkalmazottja díjak"
   },
   {
     "key": "5981A77041F835414316E0BEA0C3C8F8",
@@ -4047,13 +4047,13 @@
     "key": "7C5426B14903868A801F738C63E212A4",
     "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock.Text",
     "id": "You've earned the Employee of the Week medal!",
-    "str": ""
+    "str": "Megérdemelte a hét dolgozója kitüntetést!"
   },
   {
     "key": "DB6479E94240EBE8EC3405AEE83EF579",
     "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock_1.Text",
     "id": "You can now see this medal in your Employee of the Week chest!",
-    "str": ""
+    "str": "Ezt az érmet most láthatod a hét dolgozója ládájában!"
   },
   {
     "key": "4A4EFF4C40A276033B050495CB6E5179",
