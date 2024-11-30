@@ -93,7 +93,7 @@
     "key": "486E52D945C3D792DA06099F44AC1A7A",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "Be careful, you will lose the equipped items",
-    "str": "Faites attention, vous perdrez les objets équipés"
+    "str": "Attention, vous perdrez les objets équipés"
   },
   {
     "key": "5DAA61584F29C51BE364D59FAF17F7CB",
@@ -183,7 +183,7 @@
     "key": "416137A54D8BDF2957A99DA3E3A214DB",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "You left several dolls uncrossed out",
-    "str": "Vous avez oublié de barrer certaines poupées"
+    "str": "Tu as laissé plusieurs poupées non barrées"
   },
   {
     "key": "27228C9F429D8354B0534FB17BD564AA",
@@ -3081,7 +3081,7 @@
     "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
     "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
     "id": "You didn't close the door",
-    "str": "Vous n'avez pas fermé la porte"
+    "str": "Tu n'as pas fermé la porte"
   },
   {
     "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -3362,20 +3362,20 @@
   {
     "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
-    "id": "Browse Lobbies",
+    "id": "Browse lobbies",
     "str": "Parcourir les Salons"
   },
   {
     "key": "94DF171240785BD6422882B6ECC3CFDC",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text",
     "id": "Future updates",
-    "str": "Futures mises à jour"
+    "str": ""
   },
   {
     "key": "74B26EC44A446DC4EA557EB52498293A",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_7.Text",
     "id": "Last New",
-    "str": "Dernière Nouveauté"
+    "str": ""
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
