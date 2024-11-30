@@ -93,7 +93,7 @@
     "key": "486E52D945C3D792DA06099F44AC1A7A",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "Be careful, you will lose the equipped items",
-    "str": "Attention, vous perdrez les objets équipés"
+    "str": "Faites attention, vous perdrez les objets équipés"
   },
   {
     "key": "5DAA61584F29C51BE364D59FAF17F7CB",
@@ -183,7 +183,7 @@
     "key": "416137A54D8BDF2957A99DA3E3A214DB",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "You left several dolls uncrossed out",
-    "str": "Tu as laissé plusieurs poupées non barrées"
+    "str": "Vous avez oublié de barrer certaines poupées"
   },
   {
     "key": "27228C9F429D8354B0534FB17BD564AA",
@@ -3066,6 +3066,12 @@
     "str": "Réinitialiser"
   },
   {
+    "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
+    "location": "/Game/UI/employerOfTheWeek.employerOfTheWeek_C:WidgetTree.TextBlock.Text",
+    "id": "Employee of the Week Awards",
+    "str": ""
+  },
+  {
     "key": "5981A77041F835414316E0BEA0C3C8F8",
     "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
     "id": "YOU WIN",
@@ -3081,7 +3087,7 @@
     "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
     "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
     "id": "You didn't close the door",
-    "str": "Tu n'as pas fermé la porte"
+    "str": "Vous n'avez pas fermé la porte"
   },
   {
     "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -3362,20 +3368,14 @@
   {
     "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
-    "id": "Browse lobbies",
+    "id": "Browse Lobbies",
     "str": "Parcourir les Salons"
   },
   {
     "key": "94DF171240785BD6422882B6ECC3CFDC",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text",
     "id": "Future updates",
-    "str": ""
-  },
-  {
-    "key": "74B26EC44A446DC4EA557EB52498293A",
-    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_7.Text",
-    "id": "Last New",
-    "str": ""
+    "str": "Futures mises à jour"
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -4042,6 +4042,18 @@
     "location": "/Game/UI/waiting.waiting_C:WidgetTree.text.Text",
     "id": "Loading...",
     "str": "Chargement..."
+  },
+  {
+    "key": "7C5426B14903868A801F738C63E212A4",
+    "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock.Text",
+    "id": "You've earned the Employee of the Week medal!",
+    "str": ""
+  },
+  {
+    "key": "DB6479E94240EBE8EC3405AEE83EF579",
+    "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock_1.Text",
+    "id": "You can now see this medal in your Employee of the Week chest!",
+    "str": ""
   },
   {
     "key": "4A4EFF4C40A276033B050495CB6E5179",
