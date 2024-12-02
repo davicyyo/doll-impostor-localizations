@@ -2991,7 +2991,7 @@
     "key": "06D919A94D862F6B8ACAAFA90ABFD823",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the {map} map in time trial with {medal} medal",
-    "str": "Supera el mapa {map} en contrarreloj con {medal} medalla"
+    "str": "Supera el mapa {map} en contrarreloj con medalla de {medal}"
   },
   {
     "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
