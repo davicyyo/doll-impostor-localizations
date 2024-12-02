@@ -2187,7 +2187,7 @@
     "key": "FDEB25754C7E891058DB1A97A81A0820",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
     "id": "You couldn't join the game because {reason}",
-    "str": "Вы не смогли присоединиться к игре, потому что {reason}"
+    "str": "Вы не смогли присоединиться к игре, причина: {reason}"
   },
   {
     "key": "93B997314AF656293CD3E6A5CB67FA1B",
@@ -2529,7 +2529,7 @@
     "key": "A7540C9740107C15DAA704B657E53E8D",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
     "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-    "str": "«Кукла Кто» — это настольная игра, в которой два игрока пытаются угадать личность персонажа, выбранного их противником. У каждого игрока есть доска с набором персонажей с разными чертами. По запросу \n"
+    "str": "Doll Who — это настольная игра на дедукцию, в которой два игрока пытаются угадать персонажа, выбранного противником. У каждого игрока есть доска с рядом персонажей, обладающих разными характеристиками. Задавая вопросы с ответами \nда\n или \nнет\n о внешности или особенностях кукол (например, носит ли она шляпу или есть ли она карте детского сада), игроки постепенно исключают неподходящие варианты, пока не определят персонажа противника. Побеждает тот, кто первым сделает правильный выбор n"
   },
   {
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -2985,31 +2985,31 @@
     "key": "59F469684F1CFCF7B313728720C8F09A",
     "location": "/Game/UI/challengeUI/challengeUI.challengeUI_C:WidgetTree.TextBlock.Text",
     "id": "Challenge completed!",
-    "str": "Вызов завершен!"
+    "str": "Испытание завершено!"
   },
   {
     "key": "06D919A94D862F6B8ACAAFA90ABFD823",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the {map} map in time trial with {medal} medal",
-    "str": "Пройдите карту {map} в гонке на время и получите медаль {medal}"
+    "str": "Пройти карту {map} в гонке на время и получите медаль {medal}"
   },
   {
     "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the map {map} with {nights} nights in endless mode",
-    "str": "Пройдите карту {map} за {nights} ночей в бесконечном режиме."
+    "str": "Пройти карту {map} за {nights} ночей в бесконечном режиме."
   },
   {
     "key": "CB6E9B074BD77CC8096801BD1B03B13E",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the map {map} on difficulty {difficulty} in classic mode {multi}",
-    "str": "Пройдите карту {map} на сложности {difficulty} в классическом режиме {multi}."
+    "str": "Пройти карту {map} на сложности {difficulty} в классическом режиме {multi}."
   },
   {
     "key": "DB314878420CFAC0AE8E41A7B10CE3A3",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the map {map} in random mode",
-    "str": "Пройти карту {map} в случайном режиме"
+    "str": "Пройти карту {map} в смешанном режиме"
   },
   {
     "key": "E6F8BF8747CAEB1DF78BFF9A26BB5D5E",
@@ -3021,19 +3021,19 @@
     "key": "D98620CC409728F91A9E77AE5FE1D2B2",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock.Text",
     "id": "Claimed Reward",
-    "str": "Заявленная награда"
+    "str": "Награда получена"
   },
   {
     "key": "9B6292A84A111FF42D574085642D7D63",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_14.Text",
     "id": "Claim reward",
-    "str": "Получить вознаграждение"
+    "str": "Получить награду"
   },
   {
     "key": "C57783D7420781183A6283BAE805F52F",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_250.Text",
     "id": "Daily challenge",
-    "str": "Ежедневный вызов"
+    "str": "Ежедневное испытание"
   },
   {
     "key": "53601F8C474D490D252A5AB16AC0B004",
@@ -3327,7 +3327,7 @@
     "key": "E9F0184246CAA5E005429C98D5BB5533",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-    "str": "Резервная копия успешно сохранена, если вы хотите ее восстановить, просто перезапустите игру и вы увидите \n"
+    "str": "Резервная копия успешно сохранена. Если вы хотите восстановить её, просто перезапустите игру, и вы увидите \nrestore previous save\n в этом меню."
   },
   {
     "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3351,7 +3351,7 @@
     "key": "FEA674ED45AE2C1DDB4665A9C7A8F2F8",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_268.Text",
     "id": "Singleplayer",
-    "str": "Играйте в одиночку"
+    "str": "Одиночный"
   },
   {
     "key": "A76488B841E9F96185871BB1C73F418B",
@@ -3387,7 +3387,7 @@
     "key": "75D49E32426B3C46A006EBBE3CC6E2AA",
     "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
     "id": "{qty} results",
-    "str": "{qty} результатов"
+    "str": "{qty} результаты"
   },
   {
     "key": "EC60982146DDA1930C60798F475610A6",
