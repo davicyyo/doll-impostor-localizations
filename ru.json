@@ -3,7 +3,7 @@
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": ""
+    "str": "Самозванец ввел в заблуждение, изображая из себя {doll} в течение часа, и выполнил действие {action}."
   },
   {
     "key": "9F428B644FC340682C8E35A9365C2E1D",
@@ -147,7 +147,7 @@
     "key": "313664F547D8F4158BB67E8898134C0E",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} leave the game",
-    "str": ""
+    "str": "{player} выходит из игры"
   },
   {
     "key": "8098B1CA4AED33E029A8D4878EE21A49",
@@ -177,7 +177,7 @@
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} joined the game",
-    "str": ""
+    "str": "{player} присоединился к игре"
   },
   {
     "key": "F83E76BC49FC84244322C382556B6E5F",
@@ -3087,55 +3087,55 @@
     "key": "5ADF115E421CC60065765BA497935F74",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_1.Text",
     "id": "Friend",
-    "str": ""
+    "str": "Друг"
   },
   {
     "key": "EAB84FBB483ADA0AE254B58FE13593EA",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_10.Text",
     "id": "Dead",
-    "str": ""
+    "str": "Мертвый"
   },
   {
     "key": "A8E3F4F94BF11CC640BC06949C1574D2",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_11.Text",
     "id": "Blood in the case",
-    "str": ""
+    "str": "Кровь в деле"
   },
   {
     "key": "4DFBCFF84F6ABD25D8A1EEAC828D4EED",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_12.Text",
     "id": "Broken glass case",
-    "str": ""
+    "str": "Разбитый стеклянный корпус"
   },
   {
     "key": "194B739B4C7AA8D2F830669466E77A1F",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_2.Text",
     "id": "Enemy",
-    "str": ""
+    "str": "Враг"
   },
   {
     "key": "1D8FD7BF41336E508A0C819D98D92E5C",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_3.Text",
     "id": "Love",
-    "str": ""
+    "str": "Любовь"
   },
   {
     "key": "5F725F7240D646C0E28BA6BCB803C985",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_4.Text",
     "id": "Hate",
-    "str": ""
+    "str": "Ненавидеть"
   },
   {
     "key": "B1CD68AA49EED6E1F88A3E87FFBC3F83",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_5.Text",
     "id": "Disliked/Crossed Out",
-    "str": ""
+    "str": "Не понравилось/вычеркнуто"
   },
   {
     "key": "FEFFD2EC495732A7FB2D3083906B98F9",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.TextBlock.Text",
     "id": "The box might not be related to the doll performing the action, but to another doll that was moved there earlier.",
-    "str": ""
+    "str": "Коробка может относиться не к кукле, выполняющей действие, а к другой кукле, которую туда переместили ранее."
   },
   {
     "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
