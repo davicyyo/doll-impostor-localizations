@@ -2526,10 +2526,10 @@
     "str": "가기 전에, 이 게임 모드에서는 캐러밴을 운전하여 피난처로 돌아갈 수 있다는 점을 명확히 하고 싶습니다. 마지막으로, 이 모드에서 Lil과 함께 수행한 작업은 사기꾼을 식별하기 위해 각 인형에 대해 수행되어야 합니다. "
   },
   {
-    "key": "A7540C9740107C15DAA704B657E53E8D",
+    "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
-    "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-    "str": "인형 후(Doll Who)는 두 명의 플레이어가 상대가 선택한 캐릭터의 정체를 추측하는 추리 보드 게임입니다. 각 플레이어는 서로 다른 특성을 가진 일련의 캐릭터로 구성된 보드를 가지고 있습니다. 질문을 통해 \n"
+    "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking yes or no questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+    "str": ""
   },
   {
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -3306,6 +3306,12 @@
     "str": "저장 게임이 성공적으로 복원되었습니다. 게임을 다시 시작하는 것이 좋습니다."
   },
   {
+    "key": "469ECCB843B337021C8C1397242D2EE4",
+    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see (restore previous save) in this menu.",
+    "str": ""
+  },
+  {
     "key": "6088379D4B73AB0746BE8EB73EB9DB33",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
@@ -3322,12 +3328,6 @@
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "Translated by: {people}",
     "str": "번역자: {people}"
-  },
-  {
-    "key": "E9F0184246CAA5E005429C98D5BB5533",
-    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
-    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-    "str": "백업이 성공적으로 저장되었습니다. 복원하려면 게임을 다시 시작하면 됩니다. \n"
   },
   {
     "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3388,6 +3388,12 @@
     "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
     "id": "{qty} results",
     "str": "{qty} 결과"
+  },
+  {
+    "key": "A85819064528FECBC2EF4AB84DC1708C",
+    "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText_0 [Script Bytecode]",
+    "id": "Reloading in {seconds} seconds",
+    "str": ""
   },
   {
     "key": "EC60982146DDA1930C60798F475610A6",

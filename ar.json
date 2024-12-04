@@ -2526,10 +2526,10 @@
     "str": "قبل أن تذهب، أريد أن أوضح أنه في وضع اللعبة هذا، يمكنك العودة إلى الملجأ من خلال قيادة القافلة. وأخيرًا، ما فعلناه مع ليل في هذا الوضع يجب القيام به لكل دمية من الدمى للتعرف على المحتال. "
   },
   {
-    "key": "A7540C9740107C15DAA704B657E53E8D",
+    "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
-    "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-    "str": "Doll Who هي لعبة لوحة استنتاج حيث يحاول لاعبان تخمين هوية الشخصية التي اختارها خصمهما. كل لاعب لديه لوحة بها سلسلة من الشخصيات بسمات مختلفة. عن طريق السؤال \n"
+    "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking yes or no questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+    "str": ""
   },
   {
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -3306,6 +3306,12 @@
     "str": "تمت استعادة اللعبة المحفوظة بنجاح، قد يكون من الحكمة إعادة تشغيل اللعبة."
   },
   {
+    "key": "469ECCB843B337021C8C1397242D2EE4",
+    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see (restore previous save) in this menu.",
+    "str": ""
+  },
+  {
     "key": "6088379D4B73AB0746BE8EB73EB9DB33",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
@@ -3322,12 +3328,6 @@
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "Translated by: {people}",
     "str": "ترجمة: {people}"
-  },
-  {
-    "key": "E9F0184246CAA5E005429C98D5BB5533",
-    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
-    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-    "str": "تم حفظ النسخة الاحتياطية بنجاح، إذا كنت تريد استعادتها، فما عليك سوى إعادة تشغيل اللعبة وسترى \n"
   },
   {
     "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3388,6 +3388,12 @@
     "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
     "id": "{qty} results",
     "str": "{qty}. النتائج"
+  },
+  {
+    "key": "A85819064528FECBC2EF4AB84DC1708C",
+    "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText_0 [Script Bytecode]",
+    "id": "Reloading in {seconds} seconds",
+    "str": ""
   },
   {
     "key": "EC60982146DDA1930C60798F475610A6",
