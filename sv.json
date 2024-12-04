@@ -2,7 +2,7 @@
   {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
-    "id": "The impostor deceived others by pretending to be {doll} for an hour and performed the action {action}.",
+    "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
     "str": ""
   },
   {
@@ -183,7 +183,7 @@
     "key": "F83E76BC49FC84244322C382556B6E5F",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "Oh no...",
-    "str": "Åh nej..."
+    "str": "Åh nej__PUNKT____PUNKT____PUNKT__"
   },
   {
     "key": "FC67115746EDB65A022A51B4C1176418",
@@ -447,7 +447,7 @@
     "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
     "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A small, dark, and shriveled heart.",
-    "str": "Ett litet, mörkt och skrumpna hjärta."
+    "str": "Ett litet, mörkt och skrumpna hjärta__PUNKT__"
   },
   {
     "key": "F63BB439446A93B294D5789005AB927F",
@@ -471,7 +471,7 @@
     "key": "743C50254A73CE29F7B3D7858FFBA46F",
     "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Dark and thick liquid.",
-    "str": "Mörk och tjock vätska."
+    "str": "Mörk och tjock vätska__PUNKT__"
   },
   {
     "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
@@ -483,7 +483,7 @@
     "key": "1D8C5BFB408218C11B5F8E88DED5DDE0",
     "location": "/Game/data-tables/itemList.itemList.NewRow_14.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Large and grayish feather.",
-    "str": "Stor och gråaktig fjäder."
+    "str": "Stor och gråaktig fjäder__PUNKT__"
   },
   {
     "key": "FD5D53AB4A626CFD46CF4E93053F9719",
@@ -495,7 +495,7 @@
     "key": "14AD66ED4AA7704FAEA0CD892A4DDD54",
     "location": "/Game/data-tables/itemList.itemList.NewRow_15.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A white flower with soft petals.",
-    "str": "En vit blomma med mjuka kronblad."
+    "str": "En vit blomma med mjuka kronblad__PUNKT__"
   },
   {
     "key": "6F62E8EE4D6306627A7D92B69CABCC13",
@@ -507,7 +507,7 @@
     "key": "C28723EC476B280B7C783CAAD9FE2784",
     "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A white and delicate feather.",
-    "str": "En vit och delikat fjäder."
+    "str": "En vit och delikat fjäder__PUNKT__"
   },
   {
     "key": "814D9929402ED9670B11B8A5F77DD89E",
@@ -519,7 +519,7 @@
     "key": "4E005C71470C8416B3B419B0E3E4CD6E",
     "location": "/Game/data-tables/itemList.itemList.NewRow_17.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A clear and pure crystal.",
-    "str": "En klar och ren kristall."
+    "str": "En klar och ren kristall__PUNKT__"
   },
   {
     "key": "34549E97462027359C04D69FE1AC1E77",
@@ -567,7 +567,7 @@
     "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
     "location": "/Game/data-tables/itemList.itemList.NewRow_20.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A golden and sweet liquid.",
-    "str": "En gyllene och söt vätska."
+    "str": "En gyllene och söt vätska__PUNKT__"
   },
   {
     "key": "72400A564910846D7B2ECEAD2631331D",
@@ -603,7 +603,7 @@
     "key": "653072BC4D6CCFF0D204B6B4887A557F",
     "location": "/Game/data-tables/itemList.itemList.NewRow_23.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Dark and pungent bulb.",
-    "str": "Mörk och stickande glödlampa."
+    "str": "Mörk och stickande glödlampa__PUNKT__"
   },
   {
     "key": "20C95AA345D28767010999ADA95FBAE7",
@@ -627,7 +627,7 @@
     "key": "8B556C7E4DB153BCF7AF4AA0042DBADC",
     "location": "/Game/data-tables/itemList.itemList.NewRow_25.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Green and stinging leaves.",
-    "str": "Gröna och stickande löv."
+    "str": "Gröna och stickande löv__PUNKT__"
   },
   {
     "key": "F5FA5A154002D6C4EDB30FB45794A50A",
@@ -651,7 +651,7 @@
     "key": "FD27A6D94DD43A861953BA81606B6B11",
     "location": "/Game/data-tables/itemList.itemList.NewRow_27.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A fragrant cinnamon stick.",
-    "str": "En doftande kanelstång."
+    "str": "En doftande kanelstång__PUNKT__"
   },
   {
     "key": "01C8EACC48F42AB3BC9A26B9A45C3E10",
@@ -699,7 +699,7 @@
     "key": "F9560AD34A829952AE5F5498756E174C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Clear and lethal liquid.",
-    "str": "Klar och dödlig vätska."
+    "str": "Klar och dödlig vätska__PUNKT__"
   },
   {
     "key": "32F257464B93572E3D0BF293BA036023",
@@ -711,7 +711,7 @@
     "key": "17BF9A32484E32062DAF9F8542DD97A7",
     "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A gnarled and sinister root.",
-    "str": "En knotig och olycklig rot."
+    "str": "En knotig och olycklig rot__PUNKT__"
   },
   {
     "key": "F671810346E2F778C0E4E7BA69FE7D9C",
@@ -2319,7 +2319,7 @@
     "key": "16B725324055549E77710CACDD3325FF",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Now move the picture closest to the living room door.",
-    "str": "Flytta nu bilden närmast vardagsrumsdörren."
+    "str": "Flytta nu bilden närmast vardagsrumsdörren__PUNKT__"
   },
   {
     "key": "20A3D5CB40F0360E6C38BABBA2706D90",
@@ -2349,7 +2349,7 @@
     "key": "336B557643CBA00B5138539520DCBB04",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Let's start with the chair outside.",
-    "str": "Låt oss börja med stolen utanför."
+    "str": "Låt oss börja med stolen utanför__PUNKT__"
   },
   {
     "key": "3C68D11C43CC3EA53113F48A08FDF3AD",
@@ -2367,13 +2367,13 @@
     "key": "3FAB1E074AD22684E3F78785D85679FA",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Now the nearest candle.",
-    "str": "Nu närmaste ljus."
+    "str": "Nu närmaste ljus__PUNKT__"
   },
   {
     "key": "4715107549F6817B3883F99871D34055",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-    "str": "Lämna rummet nu och kontrollera allt som är aktiverat. Skriv ner allt du ser i dockans likes!"
+    "str": "Lämna rummet nu och kontrollera allt som är aktiverat__PUNKT__ Skriv ner allt du ser i dockans likes!"
   },
   {
     "key": "4E0811124112D56E159C9290EA5B7FEF",
@@ -2391,7 +2391,7 @@
     "key": "58232C9B4DC256E252E24DA64FBF074E",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-    "str": "Innan vi ger dig det mörka papperet, låt oss aktivera och slå på allt. På det här sättet blir det lättare för oss att se vad dockan ogillar när vi stoppar den."
+    "str": "Innan vi ger dig det mörka papperet, låt oss aktivera och slå på allt__PUNKT__ På det här sättet blir det lättare för oss att se vad dockan ogillar när vi stoppar den."
   },
   {
     "key": "6342E3B646E7260C285568B47D8CEA82",
@@ -2403,7 +2403,7 @@
     "key": "67CC4CE342660CF969980E8F00DC0788",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Very well, now the remaining candle.",
-    "str": "Mycket bra, nu återstående ljus."
+    "str": "Mycket bra, nu återstående ljus__PUNKT__"
   },
   {
     "key": "69E108EB47016FEFAFF123ACC82F5F25",
@@ -2505,7 +2505,7 @@
     "key": "D4415F9B4956C597DB9E6A83027B1BA5",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Enter the house and find the dolls' room.",
-    "str": "Gå in i huset och hitta dockrummet."
+    "str": "Gå in i huset och hitta dockrummet__PUNKT__"
   },
   {
     "key": "DA59B2F64FE3F88E166FBB87C3277E27",
@@ -2529,7 +2529,7 @@
     "key": "E0B35CB146811DDBDBF08EA339FC6413",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Good job, lastly, light the fireplace.",
-    "str": "Bra jobbat, slutligen, tänd eldstaden."
+    "str": "Bra jobbat, slutligen, tänd eldstaden__PUNKT__"
   },
   {
     "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -2679,7 +2679,7 @@
     "key": "AFC2B2644270E4DDA921A0AA0660BA68",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "To sleep, simply point at the bed and click on it.",
-    "str": "För att sova, peka helt enkelt på sängen och klicka på den."
+    "str": "För att sova, peka helt enkelt på sängen och klicka på den__PUNKT__"
   },
   {
     "key": "B300BE9147F822906E54C7A227BF23BA",
@@ -2697,7 +2697,7 @@
     "key": "BDC3A1864427A6240202ACAFA646188C",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-    "str": "Gå och sova och låt oss se om ledtråden är löst inom nästa timme."
+    "str": "Gå och sova och låt oss se om ledtråden är löst inom nästa timme__PUNKT__"
   },
   {
     "key": "BF587B62432840655EC059BE5054E289",
@@ -2709,7 +2709,7 @@
     "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-    "str": "Han har gått i vår fälla och släckt lamporna. Vi kan nu kassera alla de som gillar ljuset."
+    "str": "Han har gått i vår fälla och släckt lamporna__PUNKT__ Vi kan nu kassera alla de som gillar ljuset__PUNKT__"
   },
   {
     "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -2757,7 +2757,7 @@
     "key": "4D302CC441AA152588642EBA8EEA7EB1",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Select those objects to craft another one.",
-    "str": "Välj dessa objekt för att skapa ett annat."
+    "str": "Välj dessa objekt för att skapa ett annat__PUNKT__"
   },
   {
     "key": "73A9B2C843821751DC8E15949E11E92D",
@@ -3237,7 +3237,7 @@
     "key": "21FD3D1D43C022720514D89AC43F3A61",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
     "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-    "str": "Du har alla ledtrådar och all information om dockorna, men detta är helt slumpmässigt för varje docka."
+    "str": "Du har alla ledtrådar och all information om dockorna, men detta är helt slumpmässigt för varje docka__PUNKT__"
   },
   {
     "key": "11739C0E41A20499E9C760B853C45A40",

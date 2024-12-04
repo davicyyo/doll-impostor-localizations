@@ -2,7 +2,7 @@
   {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
-    "id": "The impostor deceived others by pretending to be {doll} for an hour and performed the action {action}.",
+    "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
     "str": ""
   },
   {
@@ -447,7 +447,7 @@
     "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
     "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A small, dark, and shriveled heart.",
-    "str": "Et lille, mørkt og skrumpet hjerte."
+    "str": "Et lille, mørkt og skrumpet hjerte__PUNKT__"
   },
   {
     "key": "F63BB439446A93B294D5789005AB927F",

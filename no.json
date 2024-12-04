@@ -2,7 +2,7 @@
   {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
-    "id": "The impostor deceived others by pretending to be {doll} for an hour and performed the action {action}.",
+    "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
     "str": ""
   },
   {
@@ -447,7 +447,7 @@
     "key": "AE174EC646F0BB590D3A1CAB82B6AC70",
     "location": "/Game/data-tables/itemList.itemList.NewRow_11.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A small, dark, and shriveled heart.",
-    "str": "Et lite, mørkt og skrumpet hjerte."
+    "str": "Et lite, mørkt og skrumpet hjerte__PUNKT__"
   },
   {
     "key": "F63BB439446A93B294D5789005AB927F",
@@ -471,7 +471,7 @@
     "key": "743C50254A73CE29F7B3D7858FFBA46F",
     "location": "/Game/data-tables/itemList.itemList.NewRow_13.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Dark and thick liquid.",
-    "str": "Mørk og tykk væske."
+    "str": "Mørk og tykk væske__PUNKT__"
   },
   {
     "key": "35FE04294F60A661E2A93E8CF5BAB2C9",
@@ -699,7 +699,7 @@
     "key": "F9560AD34A829952AE5F5498756E174C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_30.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Clear and lethal liquid.",
-    "str": "Klar og dødelig væske."
+    "str": "Klar og dødelig væske__PUNKT__"
   },
   {
     "key": "32F257464B93572E3D0BF293BA036023",
@@ -2319,7 +2319,7 @@
     "key": "16B725324055549E77710CACDD3325FF",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Now move the picture closest to the living room door.",
-    "str": "Flytt nå bildet nærmest stuedøren."
+    "str": "Flytt nå bildet nærmest stuedøren__PUNKT__"
   },
   {
     "key": "20A3D5CB40F0360E6C38BABBA2706D90",
@@ -2367,7 +2367,7 @@
     "key": "3FAB1E074AD22684E3F78785D85679FA",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Now the nearest candle.",
-    "str": "Nå er det nærmeste lys."
+    "str": "Nå er det nærmeste lys__PUNKT__"
   },
   {
     "key": "4715107549F6817B3883F99871D34055",
@@ -2757,7 +2757,7 @@
     "key": "4D302CC441AA152588642EBA8EEA7EB1",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Select those objects to craft another one.",
-    "str": "Velg disse objektene for å lage en annen."
+    "str": "Velg disse objektene for å lage en annen__PUNKT__"
   },
   {
     "key": "73A9B2C843821751DC8E15949E11E92D",

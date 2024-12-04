@@ -2,7 +2,7 @@
   {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
-    "id": "The impostor deceived others by pretending to be {doll} for an hour and performed the action {action}.",
+    "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
     "str": ""
   },
   {
@@ -3381,7 +3381,7 @@
     "key": "469ECCB843B337021C8C1397242D2EE4",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see (restore previous save) in this menu.",
-    "str": "La copia de seguridad se ha guardado correctamente, si quieres restaurarla, simplemente reinicia el juego y verás (restaurar guardado anterior) en este menú."
+    "str": "La copia de seguridad se ha guardado correctamente, si quieres restaurarla, simplemente reinicia el juego y verás (restaurar guardado anterior) en este menú__PUNTO__"
   },
   {
     "key": "6088379D4B73AB0746BE8EB73EB9DB33",

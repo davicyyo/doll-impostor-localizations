@@ -2,7 +2,7 @@
   {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
-    "id": "The impostor deceived others by pretending to be {doll} for an hour and performed the action {action}.",
+    "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
     "str": ""
   },
   {
@@ -2475,7 +2475,7 @@
     "key": "BC337075457AE8659374D6BF82D6E51D",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-    "str": "リルを捕まえた。残りの人形の撮影を続けることができます。準備ができたら、キャラバンに向かい、写真をご覧ください。"
+    "str": "リル. を捕獲しました__ 残りの人形の撮影を続けることができます. 準備ができたら、キャラバンに行って写真を見てください."
   },
   {
     "key": "BF5B4BBA458403674A2BD89F8DC120A5",

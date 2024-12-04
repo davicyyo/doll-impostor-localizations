@@ -2,7 +2,7 @@
   {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
-    "id": "The impostor deceived others by pretending to be {doll} for an hour and performed the action {action}.",
+    "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
     "str": ""
   },
   {
@@ -2475,7 +2475,7 @@
     "key": "BC337075457AE8659374D6BF82D6E51D",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "We've captured Lil. You can continue photographing the rest of the dolls. When you're ready, head to the caravan to view the photos.",
-    "str": "Lil'i yakaladık. Bebeklerin geri kalanını fotoğraflamaya devam edebilirsiniz. Hazır olduğunuzda, fotoğrafları görmek için karavana gidin."
+    "str": "Lil.'yi yakaladık__ Bebeklerin geri kalanını fotoğraflamaya devam edebilirsiniz. Hazır olduğunuzda, fotoğrafları görmek için karavana gidin."
   },
   {
     "key": "BF5B4BBA458403674A2BD89F8DC120A5",
@@ -2493,7 +2493,7 @@
     "key": "C6EE1D854906A3E6B08CFF871773765A",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Very well, let's go back to the house. We're going to discover things about Lil. Open her box, and we'll proceed to apply elixirs.",
-    "str": "Pekala, eve geri dönelim. Lil hakkında bir şeyler keşfedeceğiz. Kutusunu açın ve iksirleri uygulamaya devam edeceğiz."
+    "str": "Pekâlâ, hadi eve geri dönelim. Lil. hakkında şeyler keşfedeceğiz__ Kutusunu aç ve iksirleri uygulamaya geçelim."
   },
   {
     "key": "C81403CF4FA4C82FAED5DE8756E2CA62",
@@ -2679,7 +2679,7 @@
     "key": "AFC2B2644270E4DDA921A0AA0660BA68",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "To sleep, simply point at the bed and click on it.",
-    "str": "Uyumak için yatağın üzerine gelin ve üzerine tıklayın."
+    "str": "Uyumak için yatağın üzerine gelin ve üzerine tıklayın__NOKTA__"
   },
   {
     "key": "B300BE9147F822906E54C7A227BF23BA",
@@ -2805,7 +2805,7 @@
     "key": "E979BCF04F7CD32E81237BA9F94E25E1",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "I've given you some items, go to the craft section to craft an elixir, you can do it manually or directly by pressing on the elixir you want.",
-    "str": "Sana bazı eşyalar verdim, bir iksir yapmak için zanaat bölümüne git, bunu manuel olarak veya doğrudan istediğin iksire basarak yapabilirsin."
+    "str": "Sana bazı eşyalar verdim, bir iksir yapmak için zanaat bölümüne git, bunu manuel olarak veya doğrudan istediğin iksire basarak yapabilirsin__NOKTA__"
   },
   {
     "key": "F6BDE5474A3477CD35632DB6FFE0323F",
