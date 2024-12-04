@@ -2526,10 +2526,10 @@
     "str": "在你离开之前，我想澄清一下，在该游戏模式中，你可以驾驶房车返回庇护所。最后，我们在这种模式中对Lil所做的事情需要对每个人偶都做，以此识别人偶卧底。请记住，未来的战役模式旨在提供合作体验，因此它不应该简短或快速。每个案件可能需要你几天的时间来解决，但这是异步的，你可以在任何时候退出，稍后继续游戏，一切都会保持你离开时的状态。"
   },
   {
-    "key": "A7540C9740107C15DAA704B657E53E8D",
+    "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
-    "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-    "str": "《人偶猜谜》是一款推理棋盘游戏，两名玩家尝试猜测对手选择的角色身份。\n每个玩家都有一个棋盘，包含各种不同的角色。\n通过询问关于角色特征的“是”或“否”问题（例如他们是否戴帽子或在托儿所地图中出现），玩家逐步排除选项，直到发现对手的角色。第一个正确猜出对手角色的玩家获胜。"
+    "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking yes or no questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+    "str": ""
   },
   {
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -3306,6 +3306,12 @@
     "str": "您的游戏存档已成功恢复，重新启动游戏可能是明智之举."
   },
   {
+    "key": "469ECCB843B337021C8C1397242D2EE4",
+    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see (restore previous save) in this menu.",
+    "str": ""
+  },
+  {
     "key": "6088379D4B73AB0746BE8EB73EB9DB33",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
@@ -3322,12 +3328,6 @@
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "Translated by: {people}",
     "str": "翻译：{people}"
-  },
-  {
-    "key": "E9F0184246CAA5E005429C98D5BB5533",
-    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
-    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-    "str": "成功备份存档，如需恢复，重启游戏即可在该菜单看到\n恢复之前的存档。 "
   },
   {
     "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3388,6 +3388,12 @@
     "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
     "id": "{qty} results",
     "str": "{qty} 个结果"
+  },
+  {
+    "key": "A85819064528FECBC2EF4AB84DC1708C",
+    "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText_0 [Script Bytecode]",
+    "id": "Reloading in {seconds} seconds",
+    "str": ""
   },
   {
     "key": "EC60982146DDA1930C60798F475610A6",
