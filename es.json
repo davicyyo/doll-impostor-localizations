@@ -2997,7 +2997,7 @@
     "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the map {map} with {nights} nights in endless mode",
-    "str": "Supera el mapa {map} con {nights} noches en modo sin fin"
+    "str": "Supera el mapa {map} con {nights} noches en modo infinito"
   },
   {
     "key": "CB6E9B074BD77CC8096801BD1B03B13E",
