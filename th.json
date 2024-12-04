@@ -3,7 +3,7 @@
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "ผู้แอบอ้างใช้การทำให้เข้าใจผิดโดยสวมรอยเป็น {doll} เป็นเวลาหนึ่งชั่วโมงแล้วจึงดำเนินการ {action."
+    "str": "Impostor ได้ทำการสวมรอยเป็น {doll} เพื่อทำให้เข้าใจผิด เป็นเวลาหนึ่งชั่วโมงแล้วจึงดำเนินการ {action}"
   },
   {
     "key": "9F428B644FC340682C8E35A9365C2E1D",
@@ -147,7 +147,7 @@
     "key": "313664F547D8F4158BB67E8898134C0E",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} leave the game",
-    "str": "{player} ออกจากเกม"
+    "str": "{player} ได้ออกจากเกม"
   },
   {
     "key": "8098B1CA4AED33E029A8D4878EE21A49",
@@ -177,7 +177,7 @@
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} joined the game",
-    "str": "{player} เข้าร่วมเกม"
+    "str": "{player} เข้าร่วมเกมแล้ว"
   },
   {
     "key": "F83E76BC49FC84244322C382556B6E5F",
@@ -2469,7 +2469,7 @@
     "key": "BB41F17C4CF0DBCE79EC7581B01FF65F",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Now you should write them down in the notes of the notepad. Additionally, if you're using a keyboard and mouse, and you click outside the notes, the doll's page will remain open.",
-    "str": "ตอนนี้คุณควรจดลงข้อมูลลงในสมุดบันทึก นอกจากนี้คุณยังสามารถใช้คีย์บอร์ดและเมาส์ แม้ว่าคุณจะคลิกด้านนอกของสมุดบันทึก หน้าสมุดของตุ๊กตาจะยังคงเปิดได้อยู่"
+    "str": "ตอนนี้คุณควรจดข้อมูลลงในสมุดบันทึก นอกจากนี้คุณยังสามารถใช้คีย์บอร์ดและเมาส์ แม้ว่าคุณจะคลิกด้านนอกของสมุดบันทึก หน้าสมุดของตุ๊กตาจะยังคงเปิดได้อยู่"
   },
   {
     "key": "BC337075457AE8659374D6BF82D6E51D",
