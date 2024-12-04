@@ -56,8 +56,8 @@
   {
     "key": "7C103CB840F8E092D02937A8D8ACCCCF",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts",
-    "id": "Всё стало бессмысленным",
-    "str": "Теперь ничего не имеет смысла"
+    "id": "Nothing makes sense anymore",
+    "str": "Всё стало бессмысленным"
   },
   {
     "key": "C868184542C8CF8CE45E35881EB2FB7F",
