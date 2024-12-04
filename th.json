@@ -15,7 +15,7 @@
     "key": "E0A26C2A477073293C2A5093569FFE5E",
     "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
     "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-    "str": "หากคุณกลับไปที่เซฟเฮาส์ บ้านจะกลับสู่สภาพเดิมและคุณจะสูญเสียไอเท็มที่ได้จัดเตรียมไว้"
+    "str": "หากคุณกลับไปที่เซฟเฮาส์ บ้านจะกลับสู่สภาพเดิมและคุณอาจจะสูญเสียไอเท็มที่ได้จัดเตรียมเอาไว้"
   },
   {
     "key": "C312729245B39D3E05385886891922CF",
@@ -93,7 +93,7 @@
     "key": "486E52D945C3D792DA06099F44AC1A7A",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "Be careful, you will lose the equipped items",
-    "str": "โปรดระวังคุณจะสูญเสียอุปกรณ์ที่คุณติดตั้งเอาไว้"
+    "str": "โปรดระวังคุณอาจจะสูญเสียอุปกรณ์ที่คุณติดตั้งเอาไว้"
   },
   {
     "key": "5DAA61584F29C51BE364D59FAF17F7CB",
@@ -111,7 +111,7 @@
     "key": "51B58C89473E1AE2A37E6A8118DC37C1",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-    "str": "คุณอยากรู้ไหมว่าข้อมูลเกี่ยวกับตุ๊กตามาจากไหนในโหมดอาชีพนี้ คุณลองค้นคว้าข้อมูลต่างๆ เกี่ยวกับตุ๊กตาได้ในการเล่นเคสไปเรื่อยๆ ไม่จำกัด ไม่ว่าจะเป็นเคสรูปแบบต่าง ๆ สภาพทางการเงิน ระดับความยากง่าย ร้านค้า การประดิษฐ์ และอื่น ๆ อีกมากมาย!"
+    "str": "คุณอยากรู้ไหมว่าข้อมูลเกี่ยวกับตุ๊กตามาจากไหนในโหมดอาชีพนี้ คุณสามารถค้นคว้าข้อมูลต่าง ๆ เกี่ยวกับตุ๊กตาได้ในการเล่นเคสไปเรื่อย ๆ แบบไม่จำกัด ไม่ว่าจะเป็นเคสในรูปแบบต่าง ๆ สภาพทางการเงิน ระดับความยากง่าย ร้านค้า การประดิษฐ์ และอื่น ๆ อีกมากมาย!"
   },
   {
     "key": "839DA89C42E027A3CA515CA3BC5BE204",
@@ -183,7 +183,7 @@
     "key": "416137A54D8BDF2957A99DA3E3A214DB",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "You left several dolls uncrossed out",
-    "str": "คุณได้ออกไปและทิ้งตุ๊กตาไว้หลายตัวโดยไม่กากบาทไว้"
+    "str": "คุณได้ออกจากเกมไปและทิ้งตุ๊กตาไว้หลายตัวโดยไม่กากบาทไว้"
   },
   {
     "key": "27228C9F429D8354B0534FB17BD564AA",
@@ -393,7 +393,7 @@
     "key": "D249146742516BB46178BA859A421873",
     "location": "/Game/data-tables/itemList.itemList.NewRow.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Take doll photos for fill the clues",
-    "str": "อุปกรณ์ไว้ถ่ายรูปตุ๊กตาเพื่อค้นหาเบาะแสเพิ่มเติม"
+    "str": "อุปกรณ์สำหรับถ่ายรูปตุ๊กตาเพื่อค้นหาเบาะแส"
   },
   {
     "key": "69F832714D668740651DED8EBBD4EBB8",
@@ -405,7 +405,7 @@
     "key": "5471B2664F74874D8556F9B63E352A84",
     "location": "/Game/data-tables/itemList.itemList.NewRow_1.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Take flashlight",
-    "str": "อุปกรณ์สำหรับให้แสงสว่าง"
+    "str": "อุปกรณ์ให้แสงสว่างแบบพกพา"
   },
   {
     "key": "4020C7B84456D9F178DC488EAB546977",
@@ -537,7 +537,7 @@
     "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Activate the final battle to uncover the impostor.",
-    "str": "เปิดใช้งานการเพื่อเปิดเผยตัวตนของ Impostor"
+    "str": "หนังสือสำหรับการใช้งานเพื่อเปิดเผยตัวตนของ Impostor"
   },
   {
     "key": "CA5357694E9708D4AC84699C2DC77CBD",
@@ -693,7 +693,7 @@
     "key": "17BF9A32484E32062DAF9F8542DD97A7",
     "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A gnarled and sinister root.",
-    "str": "รากบิดเบี้ยวน่าขนลุก"
+    "str": "รากบิดเบี้ยวอันน่าขนลุก"
   },
   {
     "key": "F671810346E2F778C0E4E7BA69FE7D9C",
@@ -741,7 +741,7 @@
     "key": "C4B2BB4B48FA324D2BC7979577E55027",
     "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-    "str": "ก้อนทองคำแท่งที่มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือเก็งกำไร ลักษณะเด่นคือน้ำหนักดีและประกายทองแวววาวหรูหรางดงาม"
+    "str": "ทองคำแท่งที่มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือเก็งกำไร ลักษณะเด่นคือน้ำหนักดีและประกายทองแวววาวหรูหรางดงาม"
   },
   {
     "key": "22B8C07045CAEA974D03AD9C0D933A4E",
@@ -1623,7 +1623,7 @@
     "key": "DCBD9A3F418F5F127DABDD996614C5B0",
     "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
     "id": "You can't make this, it doesn't fit any recipe",
-    "str": "คุณไม่สามารถทำได้ มันไม่ตรงกับสูตรใดๆ"
+    "str": "คุณไม่สามารถทำได้ มันไม่ตรงกับสูตรใด ๆ"
   },
   {
     "key": "003123EB4E325C82B8C7E192D319CF55",
@@ -2175,13 +2175,13 @@
     "key": "2355C0C345515E1D7874728AF33121DC",
     "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
     "id": "Multiple targets have appeared in the photo; try to get closer and focus only on the target you want.",
-    "str": "มีเป้าหมายปรากฏอยู่ในภาพถ่ายมากเกินไป ลองเข้าไปใกล้ และโฟกัสเฉพาะเป้าหมายที่คุณต้องการ"
+    "str": "มีเป้าหมายปรากฏอยู่ในภาพถ่ายมากเกินไป ลองขยับเข้าไปใกล้ และโฟกัสเฉพาะเป้าหมายที่คุณต้องการ"
   },
   {
     "key": "26C6D54D41B3F28C6F8033ADBE044F08",
     "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
     "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-    "str": "ตรวจไม่พบเป้าหมาย พยายามโฟกัสให้มากขึ้นและรักษาระยะห่างที่พอเหมาะจึงจะสามารถมองเห็นเป้าหมายทั้งหมดได้"
+    "str": "ตรวจไม่พบเป้าหมาย พยายามโฟกัสให้มากขึ้นและรักษาระยะห่างที่พอเหมาะ จึงจะสามารถมองเห็นเป้าหมายทั้งหมดได้"
   },
   {
     "key": "FDEB25754C7E891058DB1A97A81A0820",
@@ -2235,7 +2235,7 @@
     "key": "1793A7934071DB7EFDE6498C6D04FBC3",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "The code does not match any lobby",
-    "str": "รหัสไม่ตรงกับล็อบบี้ใดๆ"
+    "str": "รหัสไม่ตรงกับล็อบบี้ใด ๆ"
   },
   {
     "key": "2C192A7843CF60566C005ABB386CA75D",
@@ -2361,7 +2361,7 @@
     "key": "4E0811124112D56E159C9290EA5B7FEF",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I've given you a notebook where you can see all the details about the dolls and complete information. Take a look, and when you're ready, come back to the dolls.",
-    "str": "ฉันจะมอบสมุดบันทึกแก่คุณซึ่งคุณสามารถดูรายละเอียดทั้งหมดเกี่ยวกับตุ๊กตาและข้อมูลที่ครบถ้วนได้ ลองเปิดดู และเมื่อพร้อมแล้วก็กลับมาตรวจสอบที่ตุ๊กตาอีกครั้ง"
+    "str": "ฉันจะมอบสมุดบันทึกแก่คุณซึ่งคุณสามารถดูรายละเอียดทั้งหมดเกี่ยวกับตุ๊กตาและข้อมูลที่ครบถ้วนได้ ลองเปิดดูแล้วตรวจสอบรายละเอียดต่าง ๆ และเมื่อพร้อมแล้วก็กลับมาตรวจสอบที่ตุ๊กตาอีกครั้ง"
   },
   {
     "key": "520103D94DEC134A00BBF6ABA778AA0F",
@@ -2379,7 +2379,7 @@
     "key": "6342E3B646E7260C285568B47D8CEA82",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "When you start a case, you'll be able to equip yourself with the items you've bought or crafted. To do this, access the chest behind you. Right now, you'll see it empty, but don't worry, I'll be giving you items so you can get familiar with them!",
-    "str": "เมื่อคุณจะเริ่มเคส คุณจะสามารถเลือกใส่ไอเท็มที่คุณซื้อไว้หรือประดิษฐ์ขึ้นมาเองได้ เมื่อคุณจะใช้ไอเทม ให้ไปยังกล่องที่อยู่ด้านหลังคุณ แม้มันอาจจะว่างเปล่า แต่อย่าได้กังวลไป ฉันจะให้ไอเทมกับคุณเพื่อทำความคุ้นเคยกับมัน!"
+    "str": "ก่อนที่คุณจะเริ่มเคส คุณจะสามารถเลือกใส่อุปกรณ์ที่คุณซื้อเตรียมไว้ หรือคุณสามารถประดิษฐ์ขึ้นมาเองได้ เมื่อคุณจะใช้อุปกรณ์ ให้ไปยังกล่องที่อยู่ด้านหลังคุณ แม้ว่าในตอนแรกมันอาจจะว่างเปล่า แต่อย่าได้กังวลไป ฉันจะให้ไอเทมกับคุณเพื่อทำความคุ้นเคยกับมัน!"
   },
   {
     "key": "67CC4CE342660CF969980E8F00DC0788",
@@ -2409,7 +2409,7 @@
     "key": "96567B804DFD2EED05E51E9BD49F3870",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode.",
-    "str": "ตอนนี้เราจะใช้สมุดแห่งวิญญาณนี้ ก็จะเริ่มเกมอย่างเป็นทางการ การใช้งานนั้นง่ายมาก: เมื่อคุณใช้หนังสือเล่มนี้ ใครก็ตามที่เป็นผู้ต้องสงสัย (ในกรณีนี้คือ Lil) จะเริ่มเกมและพร้อมตามหาผู้ต้องสงสัยทันที คุณจะต้องสังเกตข้อมูลต่าง ๆ ที่ปรากฏทั้งหมด เหมือนกับในโหมดคลาสสิค"
+    "str": "ในตอนนี้เราจะเริ่มใช้หนังสือแห่งวิญญาณนี้ ก็จะเป็นการเริ่มเกมอย่างเป็นทางการ การใช้งานนั้นง่ายมาก: เมื่อใดก็ตามที่คุณได้ใช้หนังสือเล่มนี้ ตุ๊กตาตัวใดก็ตามที่เป็นผู้ต้องสงสัย (ในกรณีนี้คือ Lil) จะเริ่มเกมและพร้อมตามหาผู้ต้องสงสัยทันที คุณจะต้องสังเกตข้อมูลต่าง ๆ ที่ปรากฏขึ้นรอบ ๆ ตัวคุณทั้งหมด เหมือนกับการเล่นเกมในโหมดคลาสสิค"
   },
   {
     "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
@@ -2721,7 +2721,7 @@
     "key": "09526FC54AA5D1983C1048ACADED01C4",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-    "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ แต่จะไม่สามารถหาเคสใหม่เมื่อคุณเลือกรับเคสก่อนหน้านี้ได้ เมื่อคุณจัดการเรียบร้อยแล้ว ให้เดินทางไปยังสถานที่นั้นเมื่อคุณพร้อม"
+    "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณยังสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ แต่จะไม่สามารถหาเคสใหม่ถ้าหากคุณเลือกรับเคสก่อนหน้านี้ไว้แล้ว เมื่อคุณจัดการเรียบร้อยแล้ว ให้เดินทางไปยังสถานที่นั้นเมื่อคุณพร้อม"
   },
   {
     "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
@@ -3033,13 +3033,13 @@
     "key": "C57783D7420781183A6283BAE805F52F",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_250.Text",
     "id": "Daily challenge",
-    "str": "ความท้าทายรายวัน"
+    "str": "ความท้าทายประจำวัน"
   },
   {
     "key": "53601F8C474D490D252A5AB16AC0B004",
     "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
     "id": "Enter chat",
-    "str": "เข้าแชท"
+    "str": "เข้าห้องแชท"
   },
   {
     "key": "CBE66CF34A90B013DD19BCB8455D256A",
@@ -3177,7 +3177,7 @@
     "key": "11B02A534CC152061E44EAB406F4223C",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_16.Text",
     "id": "Time Trial",
-    "str": "การทดสอบเวลา"
+    "str": "โหมดจับเวลา"
   },
   {
     "key": "8C118CF148C516FD54C9BC8FE28F9A95",
@@ -3441,7 +3441,7 @@
     "key": "68AB17564B2909F81E4BDC9DA994883E",
     "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
     "id": "I’ve created a more advanced guide that explores all aspects of Career Mode. If you need more help, I recommend you check it out; it will help you solve your future cases!",
-    "str": "ฉันได้สร้างคำแนะนำขั้นสูงขึ้นที่จะสำรวจทุกอย่างของ Career Mode หากคุณต้องการความช่วยเหลือเพิ่มเติม ฉันสามารถให้คำแนะนำคุณในการจัดการเคสต่อๆ ไป อนาคตได้"
+    "str": "ฉันได้สร้างคำแนะนำขั้นสูงขึ้นที่จะสำรวจทุกอย่างของ Career Mode หากคุณต้องการความช่วยเหลือเพิ่มเติม ฉันสามารถให้คำแนะนำคุณในการจัดการเคสต่อ ๆ ไป อนาคตได้"
   },
   {
     "key": "F66992CC4272E9FD176972AE7A324010",
@@ -3513,13 +3513,13 @@
     "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
     "id": "You have lost 75% for not discovering the impostor",
-    "str": "คุณเสียไป 75% เพราะไม่พบ impostor"
+    "str": "คุณเสียคะแนนไป 75% เพราะไม่สามารถจับ Impostor ได้"
   },
   {
     "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_42.Text",
     "id": "You have lost 90% of the entire reward due to missing photos.",
-    "str": "คุณเสีย 90% ของรางวัลทั้งหมดเนื่องจากรูปภาพหายไป"
+    "str": "คุณเสียคะแนนไป 90% ของรางวัลทั้งหมดเนื่องจากรูปภาพหายไป"
   },
   {
     "key": "31F30B9A42A2AFBDA2E46A82CAD31875",
@@ -4023,7 +4023,7 @@
     "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
     "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
     "id": "Win cases",
-    "str": "คดีที่ชนะ"
+    "str": "เคสที่ชนะ"
   },
   {
     "key": "467D9B7144D32E320B1C6AA6D55B95B5",
@@ -4059,7 +4059,7 @@
     "key": "DB6479E94240EBE8EC3405AEE83EF579",
     "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock_1.Text",
     "id": "You can now see this medal in your Employee of the Week chest!",
-    "str": "ตอนนี้คุณสามารถเห็นเหรียญตรานี้ในหีบพนักงานยอดเยี่ยมประจำสัปดาห์ของคุณแล้ว!"
+    "str": "ตอนนี้คุณสามารถเห็นเหรียญตรานี้ในกล่องพนักงานยอดเยี่ยมประจำสัปดาห์ของคุณแล้ว!"
   },
   {
     "key": "4A4EFF4C40A276033B050495CB6E5179",
