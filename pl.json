@@ -2,8 +2,8 @@
   {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
-    "id": "The impostor deceived others by pretending to be {doll} for an hour and performed the action {action}.",
-    "str": "Oszust oszukał innych udając przez godzinę {doll} i wykonał akcję {action}__KROPKA__"
+    "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
+    "str": ""
   },
   {
     "key": "9F428B644FC340682C8E35A9365C2E1D",
@@ -147,7 +147,7 @@
     "key": "313664F547D8F4158BB67E8898134C0E",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} leave the game",
-    "str": "{player} opuść grę"
+    "str": ""
   },
   {
     "key": "8098B1CA4AED33E029A8D4878EE21A49",
@@ -177,13 +177,13 @@
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} joined the game",
-    "str": "{player} dołączył do gry"
+    "str": ""
   },
   {
     "key": "F83E76BC49FC84244322C382556B6E5F",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "Oh no...",
-    "str": "O nie..."
+    "str": "O nie__KROPKA____KROPKA____KROPKA__"
   },
   {
     "key": "FC67115746EDB65A022A51B4C1176418",
@@ -2445,7 +2445,7 @@
     "key": "9EE1B4694260CACEFC64E49A837B3C23",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-    "str": "Aby wywołać zdjęcie, musisz je przesunąć. Gdy zostanie w 100% rozwinięty, po prostu naciśnij przycisk użycia, a zostanie zapisany."
+    "str": "Aby wywołać zdjęcie, musisz je przesunąć__KROPKA. Po wywołaniu 100% po prostu naciśnij przycisk użycia, a zdjęcie zostanie zapisane__KROPKA__"
   },
   {
     "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
@@ -3063,7 +3063,7 @@
     "key": "CBE66CF34A90B013DD19BCB8455D256A",
     "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
     "id": "Write a message...",
-    "str": "Napisz wiadomość..."
+    "str": "Napisz wiadomość__KROPKA____KROPKA__."
   },
   {
     "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -3087,55 +3087,55 @@
     "key": "5ADF115E421CC60065765BA497935F74",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_1.Text",
     "id": "Friend",
-    "str": "Przyjaciel"
+    "str": ""
   },
   {
     "key": "EAB84FBB483ADA0AE254B58FE13593EA",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_10.Text",
     "id": "Dead",
-    "str": "Martwy"
+    "str": ""
   },
   {
     "key": "A8E3F4F94BF11CC640BC06949C1574D2",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_11.Text",
     "id": "Blood in the case",
-    "str": "Krew w tej sprawie"
+    "str": ""
   },
   {
     "key": "4DFBCFF84F6ABD25D8A1EEAC828D4EED",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_12.Text",
     "id": "Broken glass case",
-    "str": "Rozbita szklana obudowa"
+    "str": ""
   },
   {
     "key": "194B739B4C7AA8D2F830669466E77A1F",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_2.Text",
     "id": "Enemy",
-    "str": "Wróg"
+    "str": ""
   },
   {
     "key": "1D8FD7BF41336E508A0C819D98D92E5C",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_3.Text",
     "id": "Love",
-    "str": "Miłość"
+    "str": ""
   },
   {
     "key": "5F725F7240D646C0E28BA6BCB803C985",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_4.Text",
     "id": "Hate",
-    "str": "Nienawidzić"
+    "str": ""
   },
   {
     "key": "B1CD68AA49EED6E1F88A3E87FFBC3F83",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_5.Text",
     "id": "Disliked/Crossed Out",
-    "str": "Nie podoba mi się/przekreślony"
+    "str": ""
   },
   {
     "key": "FEFFD2EC495732A7FB2D3083906B98F9",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.TextBlock.Text",
     "id": "The box might not be related to the doll performing the action, but to another doll that was moved there earlier.",
-    "str": "Pudełko może nie być powiązane z lalką wykonującą akcję, ale z inną lalką, która została tam wcześniej przeniesiona."
+    "str": ""
   },
   {
     "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
@@ -4113,7 +4113,7 @@
     "key": "21111B074FED432D86A1CCAE77CC81C3",
     "location": "/Game/UI/waiting.waiting_C:WidgetTree.text.Text",
     "id": "Loading...",
-    "str": "Ładowanie..."
+    "str": "Ładowanie__KROPKA____KROPKA__."
   },
   {
     "key": "7C5426B14903868A801F738C63E212A4",
