@@ -2187,7 +2187,7 @@
     "key": "FDEB25754C7E891058DB1A97A81A0820",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
     "id": "You couldn't join the game because {reason}",
-    "str": "Вы не смогли присоединиться к игре, причина: {reason}"
+    "str": "Вы не смогли присоединиться к игре, потому что {reason}"
   },
   {
     "key": "93B997314AF656293CD3E6A5CB67FA1B",
@@ -2526,7 +2526,7 @@
     "str": "Прежде чем отправиться, хотелось бы уточнить, что в этом режиме игры нельзя вернуться в лобби через грузовик. Наконец, то, что мы сделали с Лил в этом режиме, нужно будет сделать для каждой из кукол, чтобы определить одержимую. Имейте в виду, что игровой процесс предназначен для прохождения в кооперативе в будущем, поэтому важно, чтобы он не был слишком быстрым или коротким. Каждое дело может занять у вас дни на решение, но оно асинхронно, что означает, что вы можете выйти в любое время и продолжить игру позже, и все останется на своих местах."
   },
   {
-    "key": "A7540C9740107C15DAA704B657E53E8D",
+    "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
     "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
     "str": "Doll Who — это настольная игра на дедукцию, в которой два игрока пытаются угадать персонажа, выбранного противником. У каждого игрока есть доска с рядом персонажей, обладающих разными характеристиками. Задавая вопросы с ответами \nда\n или \nнет\n о внешности или особенностях кукол (например, носит ли она шляпу или есть ли она карте детского сада), игроки постепенно исключают неподходящие варианты, пока не определят персонажа противника. Побеждает тот, кто первым сделает правильный выбор."
@@ -2985,7 +2985,7 @@
     "key": "59F469684F1CFCF7B313728720C8F09A",
     "location": "/Game/UI/challengeUI/challengeUI.challengeUI_C:WidgetTree.TextBlock.Text",
     "id": "Challenge completed!",
-    "str": "Испытание завершено!"
+    "str": "Вызов завершен!"
   },
   {
     "key": "06D919A94D862F6B8ACAAFA90ABFD823",
@@ -3021,19 +3021,19 @@
     "key": "D98620CC409728F91A9E77AE5FE1D2B2",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock.Text",
     "id": "Claimed Reward",
-    "str": "Награда получена"
+    "str": "Заявленная награда"
   },
   {
     "key": "9B6292A84A111FF42D574085642D7D63",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_14.Text",
     "id": "Claim reward",
-    "str": "Получить награду"
+    "str": "Получить вознаграждение"
   },
   {
     "key": "C57783D7420781183A6283BAE805F52F",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_250.Text",
     "id": "Daily challenge",
-    "str": "Ежедневное испытание"
+    "str": "Ежедневный вызов"
   },
   {
     "key": "53601F8C474D490D252A5AB16AC0B004",
@@ -3306,6 +3306,12 @@
     "str": "Ваше сохранение успешно восстановлено. Рекомендуется перезапустить игру."
   },
   {
+    "key": "469ECCB843B337021C8C1397242D2EE4",
+    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see (restore previous save) in this menu.",
+    "str": "Резервная копия успешно сохранена, если вы хотите ее восстановить, просто перезапустите игру и в этом меню вы увидите (восстановить предыдущее сохранение)."
+  },
+  {
     "key": "6088379D4B73AB0746BE8EB73EB9DB33",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
@@ -3322,12 +3328,6 @@
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "Translated by: {people}",
     "str": "Переведено: {people}"
-  },
-  {
-    "key": "E9F0184246CAA5E005429C98D5BB5533",
-    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
-    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-    "str": "Резервная копия успешно сохранена. Если вы хотите восстановить её, просто перезапустите игру, и вы увидите \nrestore previous save\n в этом меню."
   },
   {
     "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3387,7 +3387,13 @@
     "key": "75D49E32426B3C46A006EBBE3CC6E2AA",
     "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
     "id": "{qty} results",
-    "str": "{qty} результаты"
+    "str": "{qty} результатов"
+  },
+  {
+    "key": "A85819064528FECBC2EF4AB84DC1708C",
+    "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText_0 [Script Bytecode]",
+    "id": "Reloading in {seconds} seconds",
+    "str": "Перезагрузка через {seconds} сек."
   },
   {
     "key": "EC60982146DDA1930C60798F475610A6",

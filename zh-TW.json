@@ -2526,10 +2526,10 @@
     "str": "在你離開之前，我想澄清一下，在這個遊戲模式中，你可以開著房車返回避難所。最後，我們在這個模式中對 Lil 所做的事情將需要對每個娃娃進行，以確定冒名頂替者。請記住，未來的戰役模式旨在成為一種合作體驗，這就是為什麼它不應該是簡短或快速的原因。每個案件可能需要你幾天的時間來解決，但它是異步的，這意味著你可以在任何時候退出，稍後繼續玩，一切都會保持你離開時的狀態。"
   },
   {
-    "key": "A7540C9740107C15DAA704B657E53E8D",
+    "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
-    "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking \nyes\n or \nno\n questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-    "str": "Doll Who 是一款推理棋盤遊戲，兩名玩家嘗試猜測對手選擇的角色的身份. 每個玩家都有一個棋盤，其中包含一系列具有不同特徵的角色. 透過詢問 \n"
+    "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking yes or no questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
+    "str": "Doll Who 是一款推理棋盤遊戲，兩名玩家嘗試猜測對手選擇的角色的身份. 每個玩家都有一個棋盤，其中包含一系列具有不同特徵的角色. 通過詢問有關角色特徵的是或否問題（例如是否他們有一頂帽子或出現在日托地圖上），玩家消除選項，直到發現對手的角色. 第一個猜對的玩家獲勝."
   },
   {
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -3306,6 +3306,12 @@
     "str": "您的遊戲存檔已成功恢復，重新啟動遊戲可能是明智之舉."
   },
   {
+    "key": "469ECCB843B337021C8C1397242D2EE4",
+    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
+    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see (restore previous save) in this menu.",
+    "str": "備份已成功保存，如果要恢復，只需重新啟動遊戲即可在該選單中看到（恢復先前的保存）."
+  },
+  {
     "key": "6088379D4B73AB0746BE8EB73EB9DB33",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "This is a beta version, it is advisable to make a copy of your saved game as there is a risk of losing such data. Want to make a copy?",
@@ -3322,12 +3328,6 @@
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "Translated by: {people}",
     "str": "由 {people} 翻譯"
-  },
-  {
-    "key": "E9F0184246CAA5E005429C98D5BB5533",
-    "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
-    "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see \nrestore previous save\n in this menu.",
-    "str": "備份已成功保存，如果要恢復，只需重新啟動遊戲即可看到 \n"
   },
   {
     "key": "3FD3275141C46D8A4E7B0C8B98721113",
@@ -3388,6 +3388,12 @@
     "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
     "id": "{qty} results",
     "str": "{qty} 個結果"
+  },
+  {
+    "key": "A85819064528FECBC2EF4AB84DC1708C",
+    "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText_0 [Script Bytecode]",
+    "id": "Reloading in {seconds} seconds",
+    "str": "{seconds} 秒後重新載入"
   },
   {
     "key": "EC60982146DDA1930C60798F475610A6",
