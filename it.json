@@ -2529,7 +2529,7 @@
     "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
     "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking yes or no questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-    "str": "Doll Who è un gioco da tavolo di deduzione in cui due giocatori cercano di indovinare l'identità del personaggio scelto dal loro avversario. Ogni giocatore ha un tabellone con una serie di personaggi con tratti diversi. Facendo domande sì o no sulle caratteristiche dei personaggi (ad esempio se "
+    "str": "Doll Who è un gioco da tavolo deduttivo in cui due giocatori cercano di indovinare l'identità del personaggio scelto dal loro avversario. Ogni giocatore ha un tabellone con una serie di personaggi con tratti diversi. Ponendo domande a cui si può rispondere con sì o no sulle caratteristiche dei personaggi (ad esempio, se indossano un cappello o se sono apparsi nella mappa dell'asilo), i giocatori eliminano le opzioni fino a scoprire il personaggio dell'avversario. Vince il primo giocatore che indovina correttamente."
   },
   {
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",

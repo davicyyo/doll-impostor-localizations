@@ -2529,7 +2529,7 @@
     "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
     "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking yes or no questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-    "str": "인형 후(Doll Who)는 두 명의 플레이어가 상대방이 선택한 캐릭터의 정체를 추측하는 추리 보드 게임입니다. 각 플레이어는 서로 다른 특성을 가진 일련의 캐릭터로 구성된 보드를 가지고 있습니다. 캐릭터의 특징(예: "
+    "str": "Doll Who는 두 명의 플레이어가 상대방이 선택한 캐릭터의 정체를 추측하는 추론 보드 게임입니다. 각 플레이어는 다양한 특성을 가진 캐릭터들이 있는 보드를 가지고 있습니다. 캐릭터의 특징에 대해 (예: 모자를 쓰고 있는지, 보육원 맵에 등장했는지 등) 예/아니오로 대답할 수 있는 질문을 통해 플레이어는 선택지를 좁히고 상대방의 캐릭터를 찾아냅니다. 가장 먼저 맞추는 플레이어가 승리합니다."
   },
   {
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
