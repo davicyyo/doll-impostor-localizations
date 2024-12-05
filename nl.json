@@ -3,7 +3,7 @@
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "De bedrieger gebruikte misleiding door zich een uur lang voor te doen als {doll} en voerde de actie uit {action}."
+    "str": "De verdachte gebruikte misleiding door zich een uur lang voor te doen als {doll} en voerde de {action} actie uit."
   },
   {
     "key": "9F428B644FC340682C8E35A9365C2E1D",
@@ -177,7 +177,7 @@
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} joined the game",
-    "str": "{player} heeft meegedaan aan het spel"
+    "str": "{player} doet mee met het spel"
   },
   {
     "key": "F83E76BC49FC84244322C382556B6E5F",
@@ -3099,7 +3099,7 @@
     "key": "A8E3F4F94BF11CC640BC06949C1574D2",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_11.Text",
     "id": "Blood in the case",
-    "str": "Bloed in de zaak"
+    "str": "Bloed in de opdracht"
   },
   {
     "key": "4DFBCFF84F6ABD25D8A1EEAC828D4EED",
