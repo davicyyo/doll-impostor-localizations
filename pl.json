@@ -183,7 +183,7 @@
     "key": "F83E76BC49FC84244322C382556B6E5F",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "Oh no...",
-    "str": "O nie__KROPKA____KROPKA____KROPKA__"
+    "str": "O nie..."
   },
   {
     "key": "FC67115746EDB65A022A51B4C1176418",
@@ -2445,7 +2445,7 @@
     "key": "9EE1B4694260CACEFC64E49A837B3C23",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "To develop the photo, you need to move it. Once it's 100% developed, simply press the use button, and it will be saved.",
-    "str": "Aby wywołać zdjęcie, musisz je przesunąć__KROPKA. Po wywołaniu 100% po prostu naciśnij przycisk użycia, a zdjęcie zostanie zapisane__KROPKA__"
+    "str": "Aby wywołać zdjęcie, musisz je poruszać. Gdy będzie wywołane w 100%, po prostu naciśnij przycisk użycia, a zostanie zapisane."
   },
   {
     "key": "A5E0C01D496E526AB4FF1FBD31F0B545",
@@ -3063,7 +3063,7 @@
     "key": "CBE66CF34A90B013DD19BCB8455D256A",
     "location": "/Game/UI/chat.chat_C:GetHintText [Script Bytecode]",
     "id": "Write a message...",
-    "str": "Napisz wiadomość__KROPKA____KROPKA__."
+    "str": "Napisz wiadomość..."
   },
   {
     "key": "522202404C57B5F403ECFCA2EAAFE5A9",
@@ -4113,7 +4113,7 @@
     "key": "21111B074FED432D86A1CCAE77CC81C3",
     "location": "/Game/UI/waiting.waiting_C:WidgetTree.text.Text",
     "id": "Loading...",
-    "str": "Ładowanie__KROPKA____KROPKA__."
+    "str": "Ładowanie..."
   },
   {
     "key": "7C5426B14903868A801F738C63E212A4",
