@@ -3027,7 +3027,7 @@
     "key": "D4888E114F99D0A3CD0396AEE5175668",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "multiplayer (optional)",
-    "str": ""
+    "str": "멀티플레이어(선택사항)"
   },
   {
     "key": "DB314878420CFAC0AE8E41A7B10CE3A3",
@@ -3147,13 +3147,13 @@
     "key": "6C96758E4DEBFBB0E9901FA398B4BAFB",
     "location": "/Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]",
     "id": "The ticket has been created",
-    "str": ""
+    "str": "티켓이 생성되었습니다"
   },
   {
     "key": "7E7BE8534A4EEA2E07828BB7683F8722",
     "location": "/Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]",
     "id": "Share your thoughts.",
-    "str": ""
+    "str": "당신의 생각을 공유하세요."
   },
   {
     "key": "5981A77041F835414316E0BEA0C3C8F8",
@@ -3177,7 +3177,7 @@
     "key": "6F0469EB48D6EC34F0C511B2D187D7D9",
     "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_1.Text",
     "id": "Have you had any issues?",
-    "str": ""
+    "str": "문제가 있었나요?"
   },
   {
     "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -3189,7 +3189,7 @@
     "key": "575CEFFD4FA0D19F96B3A99FF6AEFBE1",
     "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_4.Text",
     "id": "Did you like it?",
-    "str": ""
+    "str": "마음에 들었나요?"
   },
   {
     "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -3225,7 +3225,7 @@
     "key": "27F0561948852E1FB316F9A6EAEB5841",
     "location": "/Game/UI/gameMenu.gameMenu_C:GetText_1 [Script Bytecode]",
     "id": "Streak of {days} consecutive days!",
-    "str": ""
+    "str": "연속으로 {days}일 연속!"
   },
   {
     "key": "49B315454A07028DFEC0AD8B9D05C3FA",
