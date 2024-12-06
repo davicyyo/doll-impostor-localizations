@@ -3,7 +3,7 @@
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "Самозванец ввел в заблуждение, изображая из себя {doll} в течение часа, и выполнил действие {action}."
+    "str": "Кукла использовала cбить с толку, выдавая себя за {doll} в течение часа, и выполнила действие {action}."
   },
   {
     "key": "9F428B644FC340682C8E35A9365C2E1D",
@@ -3039,7 +3039,7 @@
     "key": "D98620CC409728F91A9E77AE5FE1D2B2",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock.Text",
     "id": "Claimed Reward",
-    "str": "Заявленная награда"
+    "str": "Награда получена"
   },
   {
     "key": "9B6292A84A111FF42D574085642D7D63",
@@ -3135,7 +3135,7 @@
     "key": "FEFFD2EC495732A7FB2D3083906B98F9",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.TextBlock.Text",
     "id": "The box might not be related to the doll performing the action, but to another doll that was moved there earlier.",
-    "str": "Коробка может относиться не к кукле, выполняющей действие, а к другой кукле, которую туда переместили ранее."
+    "str": "Витрина может относиться не к кукле, которая находится там сейчас, а к другой, которая была там ранее."
   },
   {
     "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
