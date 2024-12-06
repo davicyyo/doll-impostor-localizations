@@ -3024,16 +3024,16 @@
     "str": "Battre la carte {map} en difficulté {difficulty} dans le mode Classique {multi}"
   },
   {
+    "key": "D4888E114F99D0A3CD0396AEE5175668",
+    "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
+    "id": "multiplayer (optional)",
+    "str": ""
+  },
+  {
     "key": "DB314878420CFAC0AE8E41A7B10CE3A3",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the map {map} in random mode",
     "str": "Battre la carte {map} en mode Aléatoire"
-  },
-  {
-    "key": "E6F8BF8747CAEB1DF78BFF9A26BB5D5E",
-    "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
-    "id": "multiplayer",
-    "str": "Multijoueur"
   },
   {
     "key": "D98620CC409728F91A9E77AE5FE1D2B2",
@@ -3144,6 +3144,18 @@
     "str": "Prix ​​de l'employé de la semaine"
   },
   {
+    "key": "6C96758E4DEBFBB0E9901FA398B4BAFB",
+    "location": "/Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]",
+    "id": "The ticket has been created",
+    "str": ""
+  },
+  {
+    "key": "7E7BE8534A4EEA2E07828BB7683F8722",
+    "location": "/Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]",
+    "id": "Share your thoughts.",
+    "str": ""
+  },
+  {
     "key": "5981A77041F835414316E0BEA0C3C8F8",
     "location": "/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]",
     "id": "YOU WIN",
@@ -3162,10 +3174,22 @@
     "str": "Vous n'avez pas fermé la porte"
   },
   {
+    "key": "6F0469EB48D6EC34F0C511B2D187D7D9",
+    "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_1.Text",
+    "id": "Have you had any issues?",
+    "str": ""
+  },
+  {
     "key": "B084116A4B080238B7AB2A89F60A598E",
     "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
     "id": "Replay",
     "str": "Rejouer"
+  },
+  {
+    "key": "575CEFFD4FA0D19F96B3A99FF6AEFBE1",
+    "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_4.Text",
+    "id": "Did you like it?",
+    "str": ""
   },
   {
     "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -3196,6 +3220,12 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]",
     "id": "This game mode is not available in multiplayer.",
     "str": "Ce mode de jeu n'est pas disponible en multijoueur."
+  },
+  {
+    "key": "27F0561948852E1FB316F9A6EAEB5841",
+    "location": "/Game/UI/gameMenu.gameMenu_C:GetText_1 [Script Bytecode]",
+    "id": "Streak of {days} consecutive days!",
+    "str": ""
   },
   {
     "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -3661,7 +3691,7 @@
   },
   {
     "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
-    "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(5).Options.Label",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(4).Options.Label",
     "id": "Unlimited",
     "str": "Illimité"
   },
