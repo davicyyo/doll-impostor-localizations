@@ -3,7 +3,7 @@
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "El impostor usó engaños haciéndose pasar por {doll} durante una hora y realizó la acción {action}."
+    "str": "El impostor usó engaño haciéndose pasar por {doll} durante una hora y realizó la acción {action}."
   },
   {
     "key": "9F428B644FC340682C8E35A9365C2E1D",
