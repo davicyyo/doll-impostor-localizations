@@ -3,13 +3,13 @@
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "Impostor ได้ทำการสวมรอยเป็น {doll} เพื่อทำให้เข้าใจผิด เป็นเวลาหนึ่งชั่วโมงแล้วจึงดำเนินการ {action}"
+    "str": "Impostor ได้ทำการสวมรอยเป็น {doll} เพื่อทำให้เข้าใจผิดเป็นเวลาหนึ่งชั่วโมงแล้ว และได้ทำการ {action}"
   },
   {
     "key": "9F428B644FC340682C8E35A9365C2E1D",
     "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
     "id": "You can't open the chest until you pass the career mode tutorial.",
-    "str": "คุณไม่สามารถเปิดกล่องได้จนกว่าคุณจะผ่านบทช่วยสอนโหมดอาชีพ"
+    "str": "คุณไม่สามารถเปิดกล่องได้จนกว่าคุณจะผ่านบทช่วยสอนในโหมดอาชีพ"
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -21,7 +21,7 @@
     "key": "E0A26C2A477073293C2A5093569FFE5E",
     "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
     "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-    "str": "หากคุณกลับไปที่เซฟเฮาส์ บ้านจะกลับสู่สภาพเดิมและคุณอาจจะสูญเสียไอเท็มที่ได้จัดเตรียมเอาไว้"
+    "str": "ถ้าหากคุณกลับไปที่เซฟเฮาส์ บ้านจะกลับไปสู่สภาพเดิม และคุณอาจจะสูญเสียไอเท็มที่ได้จัดเตรียมเอาไว้"
   },
   {
     "key": "C312729245B39D3E05385886891922CF",
@@ -33,7 +33,7 @@
     "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(1).texts",
     "id": "Where is the hope?",
-    "str": "เรายังมีความหวังอยู่ไหม?"
+    "str": "พวกเรายังมีความหวังอยู่ไหม?"
   },
   {
     "key": "806D1B0C4EFCAD5D435AD6A24A208010",
@@ -51,7 +51,7 @@
     "key": "D3B042044111E5CC7AE8239FB511F147",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(3).texts",
     "id": "Darkness surrounds us",
-    "str": "ความมืดกลืนกินพวกเรา"
+    "str": "ความมืดมนครองงำพวกเรา"
   },
   {
     "key": "46CE50D24305DF8EE5E3069A686AD62E",
@@ -105,7 +105,7 @@
     "key": "5DAA61584F29C51BE364D59FAF17F7CB",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "You need to use the book of souls before you save the imposter doll",
-    "str": "คุณต้องใช้หนังสือแห่งวิญญาณก่อนที่จะจับตุ๊กตา Imposter"
+    "str": "คุณต้องใช้หนังสือแห่งวิญญาณก่อนที่จะทำการจับตุ๊กตา Imposter"
   },
   {
     "key": "073BF882481ECDE57F50FF98957A3C22",
@@ -747,7 +747,7 @@
     "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-    "str": "อัญมณีอันล้ำค่าขึ้นชื่อเรื่องความแข็งและความแวววาวงดงาม เหมาะกับการทำเป็นเครื่องประดับอันทรงคุณค่า มีทั้งความบริสุทธิ์และความหายาก"
+    "str": "อัญมณีอันล้ำค่าขึ้นชื่อเรื่องความแข็ง ความแวววาว และงดงาม เหมาะกับการทำเป็นเครื่องประดับอันทรงคุณค่า มีทั้งความบริสุทธิ์และความหายากที่จะครอบครอง"
   },
   {
     "key": "6BF7F5344FD96A246EE841869E9C0DB0",
@@ -759,7 +759,7 @@
     "key": "C4B2BB4B48FA324D2BC7979577E55027",
     "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-    "str": "ทองคำแท่งที่มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือเก็งกำไร ลักษณะเด่นคือน้ำหนักดีและประกายทองแวววาวหรูหรางดงาม"
+    "str": "ทองคำแท่งที่มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือเก็งกำไร ลักษณะเด่นคือน้ำหนักดี ประกายสีทองแวววาว มีความหรูหรามั่งคั่ง"
   },
   {
     "key": "22B8C07045CAEA974D03AD9C0D933A4E",
@@ -771,7 +771,7 @@
     "key": "415807E5403F54FCC16EEA9338CF267F",
     "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-    "str": "ถ้วยรางวัลสีทอง นิยมใช้เป็นสัญลักษณ์แห่งชัยชนะในการแข่งขันกีฬาหรือการมอบรางวัลในโอกาสอันพิเศษ"
+    "str": "ถ้วยรางวัลสีทอง นิยมใช้เป็นสัญลักษณ์แห่งชัยชนะในการแข่งขันกีฬา หรือใช้ในการมอบเป็นรางวัลในโอกาสอันพิเศษ"
   },
   {
     "key": "9A3A87B047A1CC933C4F6197811B657B",
@@ -783,7 +783,7 @@
     "key": "86BE55834614BDEE6BACCD821A069F89",
     "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-    "str": "เครื่องประดับสุดหรูหราประกอบด้วยไข่มุกทรงกลมสีขาวละมุน เป็นที่ขึ้นชื่อในเรื่องความหรูหรามีทรงคุณค่า และยกระดับแก่ผู้ที่สวมใส่"
+    "str": "เครื่องประดับสุดหรูหรา ประกอบด้วยไข่มุกทรงกลมสีขาวละมุน เป็นที่ขึ้นชื่อในเรื่องความงดงาม หรูหรา ทรงคุณค่า และยกระดับแก่ผู้ที่สวมใส่"
   },
   {
     "key": "82B77C5A456740B0D72910B21AF4A463",
@@ -2343,7 +2343,7 @@
     "key": "2EA5F3054E8CD308869D52B17D3DE346",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I've also given you a bag. This bag will help you capture the impostor. Once you catch it, the game will end (if you do so within the time limit). I'll leave you to finish this part of the tutorial. Whether you win or lose, you're done. Good luck!",
-    "str": "ฉันจะมอบกระเป๋าให้คุณ กระเป๋าใบนี้จะช่วยคุณจับตุ๊กตา Impostor เมื่อคุณจับมันได้แล้ว เกมก็จะจบลงทันที (ถ้าหากคุณทำได้ภายในเวลาที่กำหนด) ฉันจะช่วยคุณทำบทช่วยสอนอันนี้ให้เสร็จสิ้น ไม่ว่าคุณจะชนะหรือแพ้ก็ตาม คุณก็ทำมันเสร็จแล้ว ขอให้โชคดี!"
+    "str": "ฉันจะมอบกระเป๋าให้คุณ กระเป๋าใบใหญ่นี้จะเอาไว้สำหรับจับตุ๊กตา Impostor เมื่อคุณจับมันได้แล้ว เกมก็จะจบลงทันที (ถ้าหากคุณทำได้ภายในเวลาที่กำหนด) ฉันจะช่วยคุณทำบทช่วยสอนอันนี้ให้เสร็จสิ้น ไม่ว่าคุณจะชนะหรือแพ้ก็ตาม คุณก็ทำมันเสร็จแล้ว ขอให้โชคดี!"
   },
   {
     "key": "336B557643CBA00B5138539520DCBB04",
@@ -2361,7 +2361,7 @@
     "key": "3E8440AC413D7725FE75218355F55B7B",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Great! I've given you the dark paper. Use it on Lil and write down everything you see. Remember that these are the things she doesn't like, so anything she extinguishes will indicate her dislikes.",
-    "str": "ยอดเยี่ยม! ฉันจะมอบกระดาษแห่งความมืดแก่คุณ ลองนำไปใช้กับ Lil และจดบันทึกทุกสิ่งที่คุณเห็น ลองสังเกตว่าถ้าเธอไม่ชอบของชิ้นไหน เธอจะไปปิดสิ่งของเหล่านั้นที่คุณเปิดไว้"
+    "str": "ยอดเยี่ยม! ฉันจะมอบกระดาษวิญญาณแห่งความมืดแก่คุณ ลองนำไปใช้กับ Lil และจดบันทึกทุกสิ่งที่คุณเห็น ลองสังเกตสิ่งของรอบ ๆ ห้อง ว่าถ้าเธอไม่ชอบของชิ้นไหน เธอจะไปปิดสิ่งของเหล่านั้นที่คุณได้เปิดเอาไว้"
   },
   {
     "key": "3FAB1E074AD22684E3F78785D85679FA",
@@ -2373,7 +2373,7 @@
     "key": "4715107549F6817B3883F99871D34055",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Leave the room now and check everything that’s activated. Write down everything you see in the doll's likes!",
-    "str": "ก่อนที่คุณจะออกจากห้อง ให้คุณตรวจสอบสิ่งของทุกอย่างที่ได้เปิดไว้ โดยมีเวลา 10 วินาที ในการค้นหาและจดบันทึกทุกสิ่งที่ตุ๊กตาชอบ!"
+    "str": "ก่อนที่คุณจะออกจากห้อง ให้คุณตรวจสอบสิ่งของทุกอย่างที่ได้เปิดไว้ โดยมีเวลา 10 วินาที ในการค้นหาข้อมูล และทำการจดบันทึกทุกสิ่งที่ตุ๊กตาชอบ!"
   },
   {
     "key": "4E0811124112D56E159C9290EA5B7FEF",
@@ -2391,7 +2391,7 @@
     "key": "58232C9B4DC256E252E24DA64FBF074E",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Before giving you the dark paper, let's activate and turn everything on. This way, it will be easier for us to see what the doll dislikes when we stop it.",
-    "str": "ก่อนที่เราจะให้กระดาษแห่งความมืดแก่คุณ เราต้องเปิดใช้งานอุปกรณ์ทุกอย่างเสียก่อน และนี่คือวิธีการที่จะแสดงให้เราเห็นว่าตุ๊กตาที่ไม่ชอบของชิ้นไหนมันจะปิดของชิ้นนั้น"
+    "str": "ก่อนที่เราจะให้กระดาษวิญญาณแห่งความมืดแก่คุณ เราต้องทำการเปิดใช้งานอุปกรณ์ทุกอย่างเสียก่อน และนี่คือวิธีการที่จะแสดงให้เราเห็นว่าตุ๊กตาที่ไม่ชอบของชิ้นไหนมันจะปิดของชิ้นนั้น"
   },
   {
     "key": "6342E3B646E7260C285568B47D8CEA82",
@@ -2427,7 +2427,7 @@
     "key": "96567B804DFD2EED05E51E9BD49F3870",
     "location": "/Game/levels/dynamic/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode.",
-    "str": "ในตอนนี้เราจะเริ่มใช้หนังสือแห่งวิญญาณนี้ ก็จะเป็นการเริ่มเกมอย่างเป็นทางการ การใช้งานนั้นง่ายมาก: เมื่อใดก็ตามที่คุณได้ใช้หนังสือเล่มนี้ ตุ๊กตาตัวใดก็ตามที่เป็นผู้ต้องสงสัย (ในกรณีนี้คือ Lil) จะเริ่มเกมและพร้อมตามหาผู้ต้องสงสัยทันที คุณจะต้องสังเกตข้อมูลต่าง ๆ ที่ปรากฏขึ้นรอบ ๆ ตัวคุณทั้งหมด เหมือนกับการเล่นเกมในโหมดคลาสสิค"
+    "str": "ในตอนนี้เราจะเริ่มใช้หนังสือแห่งวิญญาณนี้ ก็จะเป็นการเริ่มเกมอย่างเป็นทางการ การใช้งานนั้นง่ายมาก: เมื่อคุณได้เริ่มใช้หนังสือเล่มนี้ ตุ๊กตาตัวใดก็ตามที่เป็นผู้ต้องสงสัย (ในกรณีนี้คือ Lil) จะเป็นการเริ่มเกม พร้อมทั้งตามหาผู้ต้องสงสัยทันที คุณจะต้องสังเกตข้อมูลต่าง ๆ ที่ปรากฏขึ้นรอบ ๆ ตัวของคุณทั้งหมด เหมือนกับการเล่นเกมในโหมดคลาสสิค"
   },
   {
     "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
@@ -3027,7 +3027,7 @@
     "key": "D4888E114F99D0A3CD0396AEE5175668",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "multiplayer (optional)",
-    "str": "ผู้เล่นหลายคน (ไม่จำเป็น)"
+    "str": "ผู้เล่นหลายคน (เลือกได้)"
   },
   {
     "key": "DB314878420CFAC0AE8E41A7B10CE3A3",
@@ -3135,7 +3135,7 @@
     "key": "FEFFD2EC495732A7FB2D3083906B98F9",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.TextBlock.Text",
     "id": "The box might not be related to the doll performing the action, but to another doll that was moved there earlier.",
-    "str": "กล่องอาจไม่เกี่ยวข้องกับตุ๊กตาที่กำลังแสดงท่าทาง แต่เป็นตุ๊กตาตัวอื่นที่ถูกย้ายไปที่นั่นก่อนหน้านี้."
+    "str": "กล่องอาจไม่เกี่ยวข้องกับตุ๊กตาที่กำลังแสดงท่าทาง แต่อาจจะเป็นตุ๊กตาตัวอื่นที่ถูกย้ายไปที่นั่นก่อนหน้านี้"
   },
   {
     "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
@@ -3153,7 +3153,7 @@
     "key": "7E7BE8534A4EEA2E07828BB7683F8722",
     "location": "/Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]",
     "id": "Share your thoughts.",
-    "str": "แบ่งปันความคิดของคุณ."
+    "str": "แบ่งปันความคิดของคุณ"
   },
   {
     "key": "5981A77041F835414316E0BEA0C3C8F8",
@@ -3177,7 +3177,7 @@
     "key": "6F0469EB48D6EC34F0C511B2D187D7D9",
     "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_1.Text",
     "id": "Have you had any issues?",
-    "str": "คุณเคยมีปัญหาบ้างไหม?"
+    "str": "คุณเคยประสบปัญหาบ้างไหม?"
   },
   {
     "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -3363,13 +3363,13 @@
     "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
     "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-    "str": "เพิ่มระดับความยากมากขึ้น ไม่มีเบาะแสให้เพิ่มเติม คุณไม่สามารถดูชื่อได้"
+    "str": "เพิ่มระดับความยากมากขึ้น ไม่มีเบาะแสให้เพิ่มเติม คุณไม่สามารถดูรายตุ๊กตาชื่อได้"
   },
   {
     "key": "DFC327DA4616540509FBF6AA40D0458B",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
     "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-    "str": "โหมดผู้เชี่ยวชาญ เริ่มเวลา 06:00 น. จะไม่มีเบาะแสเพิ่มเติมและไม่มีรูปตุ๊กตา"
+    "str": "โหมดผู้เชี่ยวชาญ เริ่มเวลา 06:00 น. จะไม่มีเบาะแสเพิ่มเติมและไม่มีรูปตุ๊กตาปรากฏ"
   },
   {
     "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
