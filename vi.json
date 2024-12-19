@@ -2253,7 +2253,7 @@
     "key": "EF176B2A4BCEA55C2F438CB60C8AC601",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getTexts [Script Bytecode]",
     "id": "Press key to bind",
-    "str": ""
+    "str": "Nhấn phím để liên kết"
   },
   {
     "key": "1793A7934071DB7EFDE6498C6D04FBC3",
@@ -2457,7 +2457,7 @@
     "key": "B06763C640AF25AF95E932927F9E6D59",
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Alright, I'll give you the rest of the elixirs to apply to Lil. Amicitia represents friendship, Inimicitia represents enemity, and Odium represents hatred. Each of these, with its specific color, will reveal Lil's relationships. Write down everything you observe, and remember that in some cases, Lil might not have any relationship with a specific role.",
-    "str": ""
+    "str": "Được rồi, tôi sẽ đưa cho bạn phần thuốc tiên còn lại để áp dụng cho Lil. Amicitia tượng trưng cho tình bạn, Inimicitia tượng trưng cho kẻ thù và Odium tượng trưng cho sự thù hận. Mỗi loại thuốc trong số này, với màu sắc cụ thể, sẽ tiết lộ các mối quan hệ của Lil. Viết ra tất cả những gì bạn quan sát được và ghi nhớ điều đó "
   },
   {
     "key": "B324B28C4466BEA72263AD9E23F8755D",
@@ -2547,7 +2547,7 @@
     "key": "F487E2A843DF53EB6108BB96F58E32BC",
     "location": "/Game/levels/mainMap.mainMap_C:ExecuteUbergraph_mainMap [Script Bytecode]",
     "id": "A new version of the client is available, please update to be able to play the latest version",
-    "str": ""
+    "str": "Đã có phiên bản mới của client, vui lòng cập nhật để có thể chơi phiên bản mới nhất"
   },
   {
     "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
@@ -3483,7 +3483,7 @@
     "key": "2CDD0CEC4E31721F7E60268C06941859",
     "location": "/Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]",
     "id": "The ticket has been created",
-    "str": ""
+    "str": "Vé đã được tạo"
   },
   {
     "key": "6C96758E4DEBFBB0E9901FA398B4BAFB",
@@ -3717,7 +3717,7 @@
     "key": "1586BC174775240305EB85A03C419F06",
     "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
     "id": "Interface Settings",
-    "str": ""
+    "str": "Cài đặt giao diện"
   },
   {
     "key": "45C632DB4CE38CCF91E0E89A3C83E11B",
@@ -4041,7 +4041,7 @@
     "key": "9C9216AA4FCCA498AFBE6CB6F1396CB2",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_56.Text",
     "id": "Show doll names",
-    "str": ""
+    "str": "Hiển thị tên búp bê"
   },
   {
     "key": "A7315029485656AEDD7500947B3C4E5B",
@@ -4083,13 +4083,13 @@
     "key": "054AC4C746C09AD57CA9C497A131F64F",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_63.Text",
     "id": "Show Press key to interact",
-    "str": ""
+    "str": "Hiển thị Nhấn phím để tương tác"
   },
   {
     "key": "DFC00BD04359DBA0F8F0DF9D8825DBF3",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_64.Text",
     "id": "Show player names",
-    "str": ""
+    "str": "Hiển thị tên người chơi"
   },
   {
     "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -4179,7 +4179,7 @@
     "key": "8B93BD17470B11ED45F8238325ED4DE9",
     "location": "/Game/UI/waiting.waiting_C:WidgetTree.TextBlock_11.Text",
     "id": "Start",
-    "str": ""
+    "str": "Bắt đầu"
   },
   {
     "key": "7C5426B14903868A801F738C63E212A4",
