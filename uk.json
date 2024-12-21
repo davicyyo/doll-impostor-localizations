@@ -2268,6 +2268,12 @@
     "str": "Пароль неправильний"
   },
   {
+    "key": "7C05B2D1458BF9056EFE4A98BF9D4544",
+    "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
+    "id": "You can't join a multiplayer match until you complete the tutorial.",
+    "str": "Ви не можете приєднатися до багатокористувацького матчу, доки не завершите навчання."
+  },
+  {
     "key": "EC2A6CF342794100347D079D5C709865",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "The lobby is full",
