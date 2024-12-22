@@ -2730,12 +2730,6 @@
     "str": "Ovi"
   },
   {
-    "key": "E9E818494A07397E77DFC8AEBFE671E0",
-    "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
-    "id": "Dolls",
-    "str": "Nuket"
-  },
-  {
     "key": "FA89ED204F28013D22A23CAE49ADAC61",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Sleep",
@@ -2860,6 +2854,12 @@
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
     "id": "Craft",
     "str": "Käsityö"
+  },
+  {
+    "key": "3FD3275141C46D8A4E7B0C8B98721113",
+    "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(3).Options.Label",
+    "id": "Settings",
+    "str": "Asetukset"
   },
   {
     "key": "A62242A84125B60CCB0E6EBF9F4D6E5A",
@@ -3192,6 +3192,18 @@
     "str": "Mene Turvalliseen taloon"
   },
   {
+    "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
+    "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text",
+    "id": "Browse Lobbies",
+    "str": "Selaa auloja"
+  },
+  {
+    "key": "0A9B45DB40B3BFE34DF53CB9717F18AC",
+    "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text",
+    "id": "Restart game",
+    "str": "Käynnistä peli uudelleen"
+  },
+  {
     "key": "2CB05BB340AA7F8DFF600E83A23BDADD",
     "location": "/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]",
     "id": "Unavailable",
@@ -3414,18 +3426,6 @@
     "str": "Kääntäjä: {people}"
   },
   {
-    "key": "3FD3275141C46D8A4E7B0C8B98721113",
-    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text",
-    "id": "Settings",
-    "str": "Asetukset"
-  },
-  {
-    "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
-    "id": "Exit",
-    "str": "Poistu"
-  },
-  {
     "key": "6AFC77BB43DCD66B4099688FF725AB13",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
     "id": "Play tutorial",
@@ -3448,12 +3448,6 @@
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
     "id": "Open lobby",
     "str": "Avoin aula"
-  },
-  {
-    "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
-    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
-    "id": "Browse Lobbies",
-    "str": "Selaa auloja"
   },
   {
     "key": "94DF171240785BD6422882B6ECC3CFDC",
@@ -3540,8 +3534,14 @@
     "str": "Jatka peliä"
   },
   {
+    "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
+    "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
+    "id": "Exit",
+    "str": "Poistu"
+  },
+  {
     "key": "2349798E480EE5B45348C4B753C4BCB8",
-    "location": "/Game/UI/notebook.notebook_C:WidgetTree.TextBlock_31.Text",
+    "location": "/Game/UI/notebook.Default__notebook_C.titles(1).titles",
     "id": "Doll List",
     "str": "Nukkeluettelo"
   },
@@ -3562,6 +3562,12 @@
     "location": "/Game/UI/results.results_C:ExecuteUbergraph_results [Script Bytecode]",
     "id": "Did you understand the tutorial well?",
     "str": "Ymmärsitkö opetusohjelman hyvin?"
+  },
+  {
+    "key": "E9E818494A07397E77DFC8AEBFE671E0",
+    "location": "/Game/UI/results.results_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
+    "id": "Dolls",
+    "str": "Nuket"
   },
   {
     "key": "A0C0892943CF5FC4B208879116F465F0",
