@@ -1095,7 +1095,7 @@
     "key": "F4CB65EF48F9C01CD6AB509912890A36",
     "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Ringmaster",
-    "str": "ประธานบริษัท"
+    "str": "หัวหน้าคณะ"
   },
   {
     "key": "BCB8724F4D70F43E391D0FB8984329C6",
@@ -2433,7 +2433,7 @@
     "key": "96567B804DFD2EED05E51E9BD49F3870",
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Now we'll use the Soul Book item. This item will officially start the game. Its use is simple: when you use this book, whoever the impostor is (in this case, Lil) will begin to take actions. At this point, you'll need to compare the information with what happens, just like in the original mode.",
-    "str": "ในตอนนี้เราจะเริ่มใช้หนังสือแห่งวิญญาณนี้ ก็จะเป็นการเริ่มเกมอย่างเป็นทางการ การใช้งานนั้นง่ายมาก: เมื่อคุณได้เริ่มใช้หนังสือเล่มนี้ ตุ๊กตาตัวใดก็ตามที่เป็นผู้ต้องสงสัย (ในกรณีนี้คือ Lil) จะเป็นการเริ่มเกม พร้อมทั้งตามหาผู้ต้องสงสัยทันที คุณจะต้องสังเกตข้อมูลต่าง ๆ ที่ปรากฏขึ้นรอบ ๆ ตัวของคุณทั้งหมด เหมือนกับการเล่นเกมในโหมดคลาสสิค"
+    "str": "ตอนนี้เราจะใช้หนังสือแห่งวิญญาณเล่มนี้ ก็จะเป็นการเริ่มเกมอย่างเป็นทางการ การใช้งานนั้นง่ายมาก: เมื่อคุณได้เริ่มใช้หนังสือเล่มนี้ ตุ๊กตาตัวใดก็ตามที่เป็นผู้ต้องสงสัย (ในกรณีนี้คือ Lil) จะเป็นการเริ่มเกม พร้อมทั้งตามหาผู้ต้องสงสัยทันที คุณจะต้องสังเกตข้อมูลต่าง ๆ ที่ปรากฏขึ้นรอบ ๆ ตัวของคุณทั้งหมด เหมือนกับการเล่นเกมในโหมดคลาสสิค"
   },
   {
     "key": "9B8ABC7E40B142594630D5A2C61ECC9A",
@@ -2589,7 +2589,7 @@
     "key": "08FC22B7498C0918FE50E0AB274B5889",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-    "str": "อย่าลืมล็อคกลอนประตู! หากคุณไม่ทำเช่นนั้น ตุ๊กตาอาจจะเข้ามาก่อกวนสิ่งที่คุณบันทึกไว้บนกระดาน หรือแม้กระทั่งฆ่าคุณได้ด้วยเช่นกัน!"
+    "str": "อย่าลืมล็อคกลอนประตู หากคุณไม่ทำเช่นนั้น ตุ๊กตาอาจจะเข้ามาก่อกวนสิ่งที่คุณบันทึกไว้บนกระดาน หรือแม้กระทั่งฆ่าคุณได้ด้วยเช่นกัน!"
   },
   {
     "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
@@ -2805,7 +2805,7 @@
     "key": "C41C767549A43DC569EB449CD5A2E3B5",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Be careful if you perform this action you will lose all your career mode progress, returning again to the tutorial, this includes your case history.",
-    "str": "โปรดระวัง! ถ้าหากคุณดำเนินการนี้ คุณอาจจะสูญเสียความคืบหน้าในโหมดอาชีพทั้งหมดไป ถ้ากลับมาเริ่มที่บทช่วยสอนอีกครั้ง ซึ่งรวมถึงประวัติเคสของคุณที่เคยทำไว้ก่อนหน้านี้ด้วย"
+    "str": "โปรดระวัง ถ้าหากคุณดำเนินการนี้ คุณอาจจะสูญเสียความคืบหน้าในโหมดอาชีพทั้งหมดไป ถ้ากลับมาเริ่มที่บทช่วยสอนอีกครั้ง ซึ่งรวมถึงประวัติเคสของคุณที่เคยทำไว้ก่อนหน้านี้ด้วย"
   },
   {
     "key": "E8BEC2F04785EFD5186984BE67C4B88A",
@@ -3111,13 +3111,13 @@
     "key": "A8E3F4F94BF11CC640BC06949C1574D2",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_11.Text",
     "id": "Blood in the case",
-    "str": "เลือดในกรณี"
+    "str": "เลือดในตู้"
   },
   {
     "key": "4DFBCFF84F6ABD25D8A1EEAC828D4EED",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_12.Text",
     "id": "Broken glass case",
-    "str": "เคสกระจกแตก"
+    "str": "ตู้กระจกแตก"
   },
   {
     "key": "194B739B4C7AA8D2F830669466E77A1F",
