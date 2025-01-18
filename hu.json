@@ -237,7 +237,7 @@
     "key": "F575F097497BA6B2D6BA70B712A1A8C1",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Show patrol",
-    "str": ""
+    "str": "Mutasd a járőrt"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -2229,7 +2229,7 @@
     "key": "FCBE9D6940E5F7F0C84C4BBFC1243204",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getFindRelationText [Script Bytecode]",
     "id": "Find {doll}'s {relationship}",
-    "str": ""
+    "str": "Találd meg {doll} {relationship}"
   },
   {
     "key": "410C72F3482B1E1E5F06FCBD4ABFF027",
@@ -2325,7 +2325,7 @@
     "key": "2DD3DC844B37E701E7C0E7BBA33D59F8",
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I have given you the necessary items to use in the case! Check the caravan's chest and carefully read what each item is for.",
-    "str": ""
+    "str": "Átadtam a szükséges használati tárgyakat a tokban! "
   },
   {
     "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -2535,43 +2535,43 @@
     "key": "7055F47B466C9C3B47C459A2BDF1373A",
     "location": "/Game/UI/bookCollector.bookCollector_C:GetText [Script Bytecode]",
     "id": "{player}'s cards",
-    "str": ""
+    "str": "{player} kártyái"
   },
   {
     "key": "6A3A40C1430499D32E1CA0AE6BBEA3C4",
     "location": "/Game/UI/bookCollector.bookCollector_C:WidgetTree.TextBlock_1.Text",
     "id": "Trade with player",
-    "str": ""
+    "str": "Kereskedj játékossal"
   },
   {
     "key": "1B95179E4ACD851A390CE1B153571224",
     "location": "/Game/UI/bookCollector.bookCollector_C:WidgetTree.TextBlock_3.Text",
     "id": "Available cards",
-    "str": ""
+    "str": "Elérhető kártyák"
   },
   {
     "key": "1AD3B9FF4F838BC05D16AEA7C3C82A31",
     "location": "/Game/UI/card.card_C:WidgetTree.TextBlock.Text",
     "id": "Purchase",
-    "str": ""
+    "str": "Vásárlás"
   },
   {
     "key": "F68D053E414CC5AAB4628ABC06C5BC1C",
     "location": "/Game/UI/card.card_C:WidgetTree.TextBlock_3.Text",
     "id": "Sell",
-    "str": ""
+    "str": "Elad"
   },
   {
     "key": "97AE09524959F5C7075F568F4047B1A7",
     "location": "/Game/UI/cardPurchable.cardPurchable_C:GetText [Script Bytecode]",
     "id": "Price: {price}",
-    "str": ""
+    "str": "Ár: {price}"
   },
   {
     "key": "EE9D433B44702B30A9D74F8F8CF6F008",
     "location": "/Game/UI/cardPurchable.cardPurchable_C:GetText_0 [Script Bytecode]",
     "id": "Available items: {quantity}",
-    "str": ""
+    "str": "Rendelkezésre álló tételek: {quantity}"
   },
   {
     "key": "09526FC54AA5D1983C1048ACADED01C4",
@@ -2847,7 +2847,7 @@
     "key": "A213AE2B42DEEB0AC450A9AEC96730E1",
     "location": "/Game/UI/career/ticketItem.ticketItem_C:WidgetTree.TextBlock_11.Text",
     "id": "Closed",
-    "str": ""
+    "str": "Zárt"
   },
   {
     "key": "59F469684F1CFCF7B313728720C8F09A",
@@ -2871,7 +2871,7 @@
     "key": "CA1C6A0A487A2DD8E6542DA36C569087",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Complete a perfect case in career mode",
-    "str": ""
+    "str": "Teljesíts egy tökéletes esetet karrier módban"
   },
   {
     "key": "CB6E9B074BD77CC8096801BD1B03B13E",
@@ -3309,7 +3309,7 @@
     "key": "1F08FDF0468D51F7E028E1BB99CD5292",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_8.Text",
     "id": "Your tickets",
-    "str": ""
+    "str": "A jegyeid"
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -3339,7 +3339,7 @@
     "key": "2CDD0CEC4E31721F7E60268C06941859",
     "location": "/Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]",
     "id": "The ticket has been created, do you want to see it?",
-    "str": ""
+    "str": "A jegy elkészült, szeretné látni?"
   },
   {
     "key": "7E7BE8534A4EEA2E07828BB7683F8722",
@@ -3417,13 +3417,13 @@
     "key": "2BB3FBB843E9BFD6353681B23923B65D",
     "location": "/Game/UI/purchaseUI.purchaseUI_C:WidgetTree.moneyField_1.Text",
     "id": "Cancel",
-    "str": ""
+    "str": "Mégsem"
   },
   {
     "key": "6371A84F40D0902115E78A9A1C09FBCE",
     "location": "/Game/UI/purchaseUI.purchaseUI_C:WidgetTree.TextBlock_28.Text",
     "id": "Do you want buy this product?",
-    "str": ""
+    "str": "Szeretné megvásárolni ezt a terméket?"
   },
   {
     "key": "A0C0892943CF5FC4B208879116F465F0",
@@ -3477,7 +3477,7 @@
     "key": "1D673DF841A45FC990837A9CBDDFC571",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "Steam Voice System",
-    "str": ""
+    "str": "Steam hangrendszer"
   },
   {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
@@ -3489,7 +3489,7 @@
     "key": "E8901D12461C4AAEEB67119A16A280B4",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "Doll Impostor uses Steam's voice system. If you want to configure the microphone, you can do so through Steam's interface in the Voice tab.",
-    "str": ""
+    "str": "A Doll Impostor a Steam hangrendszerét használja. Ha be szeretné állítani a mikrofont, ezt megteheti a Steam kezelőfelületén a Hang fülön."
   },
   {
     "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -3573,121 +3573,121 @@
     "key": "5E1F07F9481BBCB9286540A9845DA7DD",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(0).Options.Label",
     "id": "None",
-    "str": ""
+    "str": "Egyik sem"
   },
   {
     "key": "9CD3456342DFD2DAA352319215F6B3AE",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(1).Options.Label",
     "id": "Bright",
-    "str": ""
+    "str": "Fényes"
   },
   {
     "key": "5E5400A44B15F25FA890D0B2373F453E",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(10).Options.Label",
     "id": "Emboss",
-    "str": ""
+    "str": "Domborít"
   },
   {
     "key": "6253D35F4B2D594C07E03CAB7C86A1CE",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(11).Options.Label",
     "id": "Tired",
-    "str": ""
+    "str": "Fáradt"
   },
   {
     "key": "3E6C187646A0B1291793B49DDED900A6",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(12).Options.Label",
     "id": "Glitched Pixels",
-    "str": ""
+    "str": "Elhibázott pixelek"
   },
   {
     "key": "74A4E3F24FF6CD3383EFA6901E98F156",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(13).Options.Label",
     "id": "Iso lines",
-    "str": ""
+    "str": "Iso vonalak"
   },
   {
     "key": "94FF044043C9EB2D2028E3BD0E5E62CF",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(14).Options.Label",
     "id": "Pulses",
-    "str": ""
+    "str": "Hüvelyesek"
   },
   {
     "key": "D88E40CD4F08D4197DDCDF86C29D097C",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(15).Options.Label",
     "id": "Sepia",
-    "str": ""
+    "str": "Szépia"
   },
   {
     "key": "ED91A47B42D2DC0034204A82E08AAE23",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(16).Options.Label",
     "id": "Boom",
-    "str": ""
+    "str": "Fellendülés"
   },
   {
     "key": "C573433A416BBF251730D9A84816AB74",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(18).Options.Label",
     "id": "Poster",
-    "str": ""
+    "str": "Poszter"
   },
   {
     "key": "B78610A0459C5A40C3FDB9A57C2BE5FE",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(19).Options.Label",
     "id": "No light",
-    "str": ""
+    "str": "Nincs fény"
   },
   {
     "key": "F273CDEB4CBBC8B2C5C59B9FC06F778E",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(2).Options.Label",
     "id": "Black and White",
-    "str": ""
+    "str": "Fekete-fehér"
   },
   {
     "key": "F3D283B9477F83CAC5A54281AF77384B",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(20).Options.Label",
     "id": "Candy",
-    "str": ""
+    "str": "Cukorka"
   },
   {
     "key": "C42835B44E24B877F642058AF2281B18",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(3).Options.Label",
     "id": "Cel",
-    "str": ""
+    "str": "Cel"
   },
   {
     "key": "0725F2854852DEA4DF2881A6BD2BA2F8",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(4).Options.Label",
     "id": "Thermal",
-    "str": ""
+    "str": "Termikus"
   },
   {
     "key": "5ECF7B824E0ACCF31F367E90092E80DF",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(5).Options.Label",
     "id": "Blueprint",
-    "str": ""
+    "str": "Tervrajz"
   },
   {
     "key": "C55434474550A01F7B26BDBF6D577608",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(6).Options.Label",
     "id": "PS1",
-    "str": ""
+    "str": "PS1"
   },
   {
     "key": "A6264AE246BDD825E0DF60B020D9D8F4",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(7).Options.Label",
     "id": "CRT",
-    "str": ""
+    "str": "katódsugárcső"
   },
   {
     "key": "F3AF0D2F42BD084C03D973B394FB8FE8",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(8).Options.Label",
     "id": "Old",
-    "str": ""
+    "str": "Régi"
   },
   {
     "key": "3DF3D8BB47FE6CB6BEF07C9D391812FD",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(9).Options.Label",
     "id": "Contrast",
-    "str": ""
+    "str": "Kontraszt"
   },
   {
     "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
@@ -4047,25 +4047,25 @@
     "key": "9D87E5734B41DDCF1802E394C0061907",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_65.Text",
     "id": "Voice input device",
-    "str": ""
+    "str": "Hangbeviteli eszköz"
   },
   {
     "key": "199866AE428EABE43FCECCAFBC7C0483",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_66.Text",
     "id": "Steam settings",
-    "str": ""
+    "str": "Steam beállítások"
   },
   {
     "key": "F57A01E14C44815332D53ABD582EA66E",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_67.Text",
     "id": "Once the changes are made, it requires a restart",
-    "str": ""
+    "str": "A változtatások végrehajtása után újra kell indítani"
   },
   {
     "key": "933B001A4A8DE48AB89B0E934C10E394",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_69.Text",
     "id": "Filter",
-    "str": ""
+    "str": "Szűrő"
   },
   {
     "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -4143,31 +4143,31 @@
     "key": "EBE268F84D4CEBE50AAF908A7823DF79",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.dislikes_2.Text",
     "id": "Find the imposter and keep it in the bag",
-    "str": ""
+    "str": "Keresd meg a csalót, és tartsd a zsákban"
   },
   {
     "key": "7B34A441429642B9DA52218285A1BB2A",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.energy.Text",
     "id": "Turn on the electricity",
-    "str": ""
+    "str": "Kapcsolja be az áramot"
   },
   {
     "key": "5C75D8784B911BE2B7CA58A94B235798",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.photos.Text",
     "id": "Photograph the remaining dolls",
-    "str": ""
+    "str": "Fényképezd le a megmaradt babákat"
   },
   {
     "key": "BFD9681847D40C8577B0C49731F23FF8",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.soulbook.Text",
     "id": "Use the Book of Souls to Identify the Imposter",
-    "str": ""
+    "str": "Használja a Lelkek Könyvét a csaló azonosítására"
   },
   {
     "key": "8204CCFA44B783AD08234F8DE4E4D11B",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.TextBlock_21.Text",
     "id": "Todo list",
-    "str": ""
+    "str": "Todo lista"
   },
   {
     "key": "54288BFC4059AA21CBC614AA74C19EBE",
