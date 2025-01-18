@@ -2271,7 +2271,7 @@
     "key": "EF176B2A4BCEA55C2F438CB60C8AC601",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getTexts [Script Bytecode]",
     "id": "Press key to bind",
-    "str": "กดปุ่มเพื่อผูก"
+    "str": "กดปุ่มเพื่อมัด"
   },
   {
     "key": "1793A7934071DB7EFDE6498C6D04FBC3",
@@ -2595,7 +2595,7 @@
     "key": "4D302CC441AA152588642EBA8EEA7EB1",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Select those objects to craft another one.",
-    "str": "เลือกวัตถุที่ต้องการเพื่อประดิษฐ์อีกครั้ง"
+    "str": "เลือกวัตถุดิบที่ต้องการเพื่อทำประดิษฐ์อีกครั้ง"
   },
   {
     "key": "73A9B2C843821751DC8E15949E11E92D",
@@ -3291,7 +3291,7 @@
     "key": "DCC8B59542A6483748795F9617F86F55",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
     "id": "Open lobby",
-    "str": "เปิดล็อบบี้"
+    "str": "สร้างล็อบบี้"
   },
   {
     "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
@@ -4059,7 +4059,7 @@
     "key": "F57A01E14C44815332D53ABD582EA66E",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_67.Text",
     "id": "Once the changes are made, it requires a restart",
-    "str": "เมื่อทำการเปลี่ยนแปลงแล้ว จะต้องรีสตาร์ท"
+    "str": "เมื่อทำการเปลี่ยนแปลงแล้ว จะต้องทำการรีสตาร์ท"
   },
   {
     "key": "933B001A4A8DE48AB89B0E934C10E394",
@@ -4143,7 +4143,7 @@
     "key": "EBE268F84D4CEBE50AAF908A7823DF79",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.dislikes_2.Text",
     "id": "Find the imposter and keep it in the bag",
-    "str": "หาคนแอบอ้างแล้วเก็บไว้ในกระเป๋า"
+    "str": "หา Impostor แล้วเก็บไว้ในกระเป๋า"
   },
   {
     "key": "7B34A441429642B9DA52218285A1BB2A",
@@ -4161,7 +4161,7 @@
     "key": "BFD9681847D40C8577B0C49731F23FF8",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.soulbook.Text",
     "id": "Use the Book of Souls to Identify the Imposter",
-    "str": "ใช้หนังสือแห่งวิญญาณเพื่อระบุตัวผู้แอบอ้าง"
+    "str": "ใช้หนังสือแห่งวิญญาณเพื่อเปิดเผย Impostor"
   },
   {
     "key": "8204CCFA44B783AD08234F8DE4E4D11B",
