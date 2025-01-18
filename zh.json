@@ -3,7 +3,7 @@
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "冒名顶替者冒充{doll}一小时进行误导，并执行动作{action}."
+    "str": "卧底伪装成{doll}一小时进行误导，并执行{action}动作。"
   },
   {
     "key": "9F428B644FC340682C8E35A9365C2E1D",
@@ -27,7 +27,7 @@
     "key": "C312729245B39D3E05385886891922CF",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
     "id": "God, Save Us",
-    "str": "上帝，救救我们"
+    "str": "上苍啊，救救我们"
   },
   {
     "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
@@ -51,7 +51,7 @@
     "key": "D3B042044111E5CC7AE8239FB511F147",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(3).texts",
     "id": "Darkness surrounds us",
-    "str": "黑暗包围着我们"
+    "str": "黑暗将我们包围"
   },
   {
     "key": "46CE50D24305DF8EE5E3069A686AD62E",
@@ -201,19 +201,19 @@
     "key": "0525435A4091E8021EFF0D8B98CE9BC4",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "Wrong impostor",
-    "str": "冒名顶替者错误"
+    "str": "错误卧底"
   },
   {
     "key": "416137A54D8BDF2957A99DA3E3A214DB",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "You left several dolls uncrossed out",
-    "str": "你留下了几个没有划掉的娃娃"
+    "str": "你还有几个人偶未排除"
   },
   {
     "key": "27228C9F429D8354B0534FB17BD564AA",
     "location": "/Game/Blueprints/interactableUI3D.interactableUI3D_C:ExecuteUbergraph_interactableUI3D [Script Bytecode]",
     "id": "Interact",
-    "str": "相互影响"
+    "str": "互动"
   },
   {
     "key": "0CA5844D4070A29607D91D9C17419FCD",
@@ -237,7 +237,7 @@
     "key": "F575F097497BA6B2D6BA70B712A1A8C1",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Show patrol",
-    "str": "表演巡逻"
+    "str": "显示巡逻"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -2325,7 +2325,7 @@
     "key": "2DD3DC844B37E701E7C0E7BBA33D59F8",
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I have given you the necessary items to use in the case! Check the caravan's chest and carefully read what each item is for.",
-    "str": "我已经给你了箱子里需要使用的物品！"
+    "str": "我已为你提供所需物品！请查看箱子，并仔细阅读每件物品的用途。"
   },
   {
     "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -2547,7 +2547,7 @@
     "key": "1B95179E4ACD851A390CE1B153571224",
     "location": "/Game/UI/bookCollector.bookCollector_C:WidgetTree.TextBlock_3.Text",
     "id": "Available cards",
-    "str": "可用卡"
+    "str": "可用卡牌"
   },
   {
     "key": "1AD3B9FF4F838BC05D16AEA7C3C82A31",
@@ -2559,7 +2559,7 @@
     "key": "F68D053E414CC5AAB4628ABC06C5BC1C",
     "location": "/Game/UI/card.card_C:WidgetTree.TextBlock_3.Text",
     "id": "Sell",
-    "str": "卖"
+    "str": "出售"
   },
   {
     "key": "97AE09524959F5C7075F568F4047B1A7",
@@ -2571,7 +2571,7 @@
     "key": "EE9D433B44702B30A9D74F8F8CF6F008",
     "location": "/Game/UI/cardPurchable.cardPurchable_C:GetText_0 [Script Bytecode]",
     "id": "Available items: {quantity}",
-    "str": "可用商品：{quantity}"
+    "str": "可用物品：{quantity}"
   },
   {
     "key": "09526FC54AA5D1983C1048ACADED01C4",
@@ -2811,7 +2811,7 @@
     "key": "02384976426960372C5EAE9FE9459154",
     "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_2.Text",
     "id": "Your inventory",
-    "str": "你的库存"
+    "str": "你的物品栏"
   },
   {
     "key": "AE6D75704E0C22E2F8C107A8F12A0222",
@@ -2829,7 +2829,7 @@
     "key": "A90A8A4A498B03054AFD1880AEE94227",
     "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
     "id": "All objects placed here will be lost when you leave the map.",
-    "str": "当你离开地图时，放置在这里的所有物体都会丢失."
+    "str": "当你离开地图时，放置在这里的所有物体都会丢失。"
   },
   {
     "key": "CB775D1F41F692F4946D738AA83BB23E",
@@ -2871,7 +2871,7 @@
     "key": "CA1C6A0A487A2DD8E6542DA36C569087",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Complete a perfect case in career mode",
-    "str": "在职业模式中完成完美案例"
+    "str": "在生涯模式中达成完美案件"
   },
   {
     "key": "CB6E9B074BD77CC8096801BD1B03B13E",
@@ -3219,7 +3219,7 @@
     "key": "41A1A89A4ADCC9D9F94EABA4A93A05DB",
     "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text",
     "id": "Visibility",
-    "str": "可见度"
+    "str": "房间类型"
   },
   {
     "key": "283D414243F053A323317BB5FEAA82D7",
@@ -3309,7 +3309,7 @@
     "key": "1F08FDF0468D51F7E028E1BB99CD5292",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_8.Text",
     "id": "Your tickets",
-    "str": "您的门票"
+    "str": "你的票券"
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -3339,13 +3339,13 @@
     "key": "2CDD0CEC4E31721F7E60268C06941859",
     "location": "/Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]",
     "id": "The ticket has been created, do you want to see it?",
-    "str": "票证已创建，您想查看吗？"
+    "str": "票券已创建，要查看吗？"
   },
   {
     "key": "7E7BE8534A4EEA2E07828BB7683F8722",
     "location": "/Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]",
     "id": "Share your thoughts.",
-    "str": "分享您的想法."
+    "str": "分享您的想法。"
   },
   {
     "key": "6F0469EB48D6EC34F0C511B2D187D7D9",
@@ -3357,13 +3357,13 @@
     "key": "A2C08BE6447E2720D3051F8CA460E102",
     "location": "/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_10.Text",
     "id": "Can you help me with a positive review?",
-    "str": "能留下一篇好评吗？"
+    "str": "能留下好评吗？"
   },
   {
     "key": "575CEFFD4FA0D19F96B3A99FF6AEFBE1",
     "location": "/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_4.Text",
     "id": "Did you like it?",
-    "str": "你喜欢它吗？"
+    "str": "你喜欢这游戏吗？"
   },
   {
     "key": "D82E9CC948B03153A925558746DD99F2",
@@ -3477,19 +3477,19 @@
     "key": "1D673DF841A45FC990837A9CBDDFC571",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "Steam Voice System",
-    "str": "蒸汽语音系统"
+    "str": "Steam语音系统"
   },
   {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "For the changes to take effect, restart the game",
-    "str": "要使更改生效，请重新启动游戏"
+    "str": "为使更改生效，请重启游戏"
   },
   {
     "key": "E8901D12461C4AAEEB67119A16A280B4",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "Doll Impostor uses Steam's voice system. If you want to configure the microphone, you can do so through Steam's interface in the Voice tab.",
-    "str": "Doll Impostor 使用 Steam 的语音系统. 如果您想配置麦克风，可以通过 Steam 界面的“语音”选项卡."
+    "str": "Doll Impostor使用Steam的语音系统。通过Steam界面的“语音”选项卡可配置麦克风"
   },
   {
     "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -3507,7 +3507,7 @@
     "key": "28953C4E43697949852B609F8D0793FB",
     "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_17.Options(0).Options.Label",
     "id": "Off",
-    "str": "关闭"
+    "str": "关"
   },
   {
     "key": "7C75165C49E7D2EBD079048C7F8B471B",
@@ -3519,7 +3519,7 @@
     "key": "7286FEC6469CF65A5584DB896D227680",
     "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_212.Options(0).Options.Label",
     "id": "Windowed",
-    "str": "窗口模式"
+    "str": "窗口化"
   },
   {
     "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
@@ -3573,7 +3573,7 @@
     "key": "5E1F07F9481BBCB9286540A9845DA7DD",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(0).Options.Label",
     "id": "None",
-    "str": "没有任何"
+    "str": "无"
   },
   {
     "key": "9CD3456342DFD2DAA352319215F6B3AE",
@@ -3591,7 +3591,7 @@
     "key": "6253D35F4B2D594C07E03CAB7C86A1CE",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(11).Options.Label",
     "id": "Tired",
-    "str": "疲劳的"
+    "str": "疲惫的"
   },
   {
     "key": "3E6C187646A0B1291793B49DDED900A6",
@@ -3609,7 +3609,7 @@
     "key": "94FF044043C9EB2D2028E3BD0E5E62CF",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(14).Options.Label",
     "id": "Pulses",
-    "str": "豆类"
+    "str": "脉冲"
   },
   {
     "key": "D88E40CD4F08D4197DDCDF86C29D097C",
@@ -3651,13 +3651,13 @@
     "key": "C42835B44E24B877F642058AF2281B18",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(3).Options.Label",
     "id": "Cel",
-    "str": "赛尔"
+    "str": "帧"
   },
   {
     "key": "0725F2854852DEA4DF2881A6BD2BA2F8",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(4).Options.Label",
     "id": "Thermal",
-    "str": "热的"
+    "str": "保暖的"
   },
   {
     "key": "5ECF7B824E0ACCF31F367E90092E80DF",
@@ -3675,7 +3675,7 @@
     "key": "A6264AE246BDD825E0DF60B020D9D8F4",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(7).Options.Label",
     "id": "CRT",
-    "str": "显像管"
+    "str": "CRT显像管"
   },
   {
     "key": "F3AF0D2F42BD084C03D973B394FB8FE8",
@@ -3993,13 +3993,13 @@
     "key": "9C9216AA4FCCA498AFBE6CB6F1396CB2",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_56.Text",
     "id": "Show doll names",
-    "str": "显示娃娃名字"
+    "str": "显示人偶名字"
   },
   {
     "key": "A7315029485656AEDD7500947B3C4E5B",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_57.Text",
     "id": "This option will only be available on Easy difficulty.",
-    "str": "此选项仅在简单难度下可用."
+    "str": "此选项仅在简单难度下可用。"
   },
   {
     "key": "8BFB53E5448C16FA230515968C3ABF0A",
@@ -4029,7 +4029,7 @@
     "key": "C12D675E4F2DCB6DD3AE108F78AE04AD",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_62.Text",
     "id": "Push to talk",
-    "str": "一键通话"
+    "str": "按键通话"
   },
   {
     "key": "054AC4C746C09AD57CA9C497A131F64F",
@@ -4053,7 +4053,7 @@
     "key": "199866AE428EABE43FCECCAFBC7C0483",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_66.Text",
     "id": "Steam settings",
-    "str": "蒸汽设置"
+    "str": "Steam设置"
   },
   {
     "key": "F57A01E14C44815332D53ABD582EA66E",
@@ -4143,7 +4143,7 @@
     "key": "EBE268F84D4CEBE50AAF908A7823DF79",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.dislikes_2.Text",
     "id": "Find the imposter and keep it in the bag",
-    "str": "找到冒名顶替者并将其放在包里"
+    "str": "找到卧底并将其放在包里"
   },
   {
     "key": "7B34A441429642B9DA52218285A1BB2A",
@@ -4155,13 +4155,13 @@
     "key": "5C75D8784B911BE2B7CA58A94B235798",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.photos.Text",
     "id": "Photograph the remaining dolls",
-    "str": "拍摄剩下的娃娃"
+    "str": "拍摄剩下的人偶"
   },
   {
     "key": "BFD9681847D40C8577B0C49731F23FF8",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.soulbook.Text",
     "id": "Use the Book of Souls to Identify the Imposter",
-    "str": "使用灵魂之书识别冒名顶替者"
+    "str": "使用灵魂之书识别卧底"
   },
   {
     "key": "8204CCFA44B783AD08234F8DE4E4D11B",
@@ -4191,13 +4191,13 @@
     "key": "7C5426B14903868A801F738C63E212A4",
     "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock.Text",
     "id": "You've earned the Employee of the Week medal!",
-    "str": "您已获得本周最佳员工奖章！"
+    "str": "你获得了本周最佳员工奖章！"
   },
   {
     "key": "DB6479E94240EBE8EC3405AEE83EF579",
     "location": "/Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock_1.Text",
     "id": "You can now see this medal in your Employee of the Week chest!",
-    "str": "您现在可以在本周员工宝箱中看到这枚奖章！"
+    "str": "你现在可以在本周员工宝箱中看到这枚奖章！"
   },
   {
     "key": "4A4EFF4C40A276033B050495CB6E5179",
