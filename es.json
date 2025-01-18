@@ -237,7 +237,7 @@
     "key": "F575F097497BA6B2D6BA70B712A1A8C1",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Show patrol",
-    "str": "mostrar patrulla"
+    "str": "Mostrar patrulla"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -2229,7 +2229,7 @@
     "key": "FCBE9D6940E5F7F0C84C4BBFC1243204",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getFindRelationText [Script Bytecode]",
     "id": "Find {doll}'s {relationship}",
-    "str": "Encuentra la {doll} de {relationship}"
+    "str": "Encuentra {relationship} de {doll}"
   },
   {
     "key": "410C72F3482B1E1E5F06FCBD4ABFF027",
@@ -2325,7 +2325,7 @@
     "key": "2DD3DC844B37E701E7C0E7BBA33D59F8",
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I have given you the necessary items to use in the case! Check the caravan's chest and carefully read what each item is for.",
-    "str": "¡Te he dado los elementos necesarios para usar en el estuche! "
+    "str": "¡Te he dado los elementos necesarios para usar en el caso! Comprueba el cofre de la caravana y lee cuidadosamente para qué sirve cada elemento."
   },
   {
     "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -2547,13 +2547,13 @@
     "key": "1B95179E4ACD851A390CE1B153571224",
     "location": "/Game/UI/bookCollector.bookCollector_C:WidgetTree.TextBlock_3.Text",
     "id": "Available cards",
-    "str": "Tarjetas disponibles"
+    "str": "Cartas disponibles"
   },
   {
     "key": "1AD3B9FF4F838BC05D16AEA7C3C82A31",
     "location": "/Game/UI/card.card_C:WidgetTree.TextBlock.Text",
     "id": "Purchase",
-    "str": "Compra"
+    "str": "Comprar"
   },
   {
     "key": "F68D053E414CC5AAB4628ABC06C5BC1C",
@@ -3309,7 +3309,7 @@
     "key": "1F08FDF0468D51F7E028E1BB99CD5292",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_8.Text",
     "id": "Your tickets",
-    "str": "Tus entradas"
+    "str": "Tus tickets"
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -3477,7 +3477,7 @@
     "key": "1D673DF841A45FC990837A9CBDDFC571",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "Steam Voice System",
-    "str": "Sistema de voz de vapor"
+    "str": "Sistema de voz de steam"
   },
   {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
@@ -3609,7 +3609,7 @@
     "key": "94FF044043C9EB2D2028E3BD0E5E62CF",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(14).Options.Label",
     "id": "Pulses",
-    "str": "legumbres"
+    "str": "Pulsaciones"
   },
   {
     "key": "D88E40CD4F08D4197DDCDF86C29D097C",
@@ -3621,7 +3621,7 @@
     "key": "ED91A47B42D2DC0034204A82E08AAE23",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(16).Options.Label",
     "id": "Boom",
-    "str": "Auge"
+    "str": "Boom"
   },
   {
     "key": "C573433A416BBF251730D9A84816AB74",
@@ -3639,7 +3639,7 @@
     "key": "F273CDEB4CBBC8B2C5C59B9FC06F778E",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(2).Options.Label",
     "id": "Black and White",
-    "str": "En blanco y negro"
+    "str": "Blanco y negro"
   },
   {
     "key": "F3D283B9477F83CAC5A54281AF77384B",
@@ -3651,7 +3651,7 @@
     "key": "C42835B44E24B877F642058AF2281B18",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(3).Options.Label",
     "id": "Cel",
-    "str": "cel"
+    "str": "Cel"
   },
   {
     "key": "0725F2854852DEA4DF2881A6BD2BA2F8",
@@ -3663,7 +3663,7 @@
     "key": "5ECF7B824E0ACCF31F367E90092E80DF",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(5).Options.Label",
     "id": "Blueprint",
-    "str": "Cianotipo"
+    "str": "Plano"
   },
   {
     "key": "C55434474550A01F7B26BDBF6D577608",
@@ -4059,7 +4059,7 @@
     "key": "F57A01E14C44815332D53ABD582EA66E",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_67.Text",
     "id": "Once the changes are made, it requires a restart",
-    "str": "Una vez realizados los cambios, es necesario reiniciar."
+    "str": "Una vez realizados los cambios, será necesario reiniciar."
   },
   {
     "key": "933B001A4A8DE48AB89B0E934C10E394",
@@ -4155,7 +4155,7 @@
     "key": "5C75D8784B911BE2B7CA58A94B235798",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.photos.Text",
     "id": "Photograph the remaining dolls",
-    "str": "Fotografía las muñecas restantes."
+    "str": "Fotografía los muñecos restantes."
   },
   {
     "key": "BFD9681847D40C8577B0C49731F23FF8",
@@ -4167,7 +4167,7 @@
     "key": "8204CCFA44B783AD08234F8DE4E4D11B",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.TextBlock_21.Text",
     "id": "Todo list",
-    "str": "lista de tareas pendientes"
+    "str": "Lista de tareas pendientes"
   },
   {
     "key": "54288BFC4059AA21CBC614AA74C19EBE",
