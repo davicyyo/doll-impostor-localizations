@@ -6,12 +6,6 @@
     "str": "사기꾼은 한 시간 동안 {doll}으로 가장하여 오해를 불러일으키고 {action}. 작업을 수행했습니다."
   },
   {
-    "key": "9F428B644FC340682C8E35A9365C2E1D",
-    "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
-    "id": "You can't open the chest until you pass the career mode tutorial.",
-    "str": "커리어 모드 튜토리얼을 통과하기 전까지는 상자를 열 수 없습니다."
-  },
-  {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
     "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
     "id": "Back to the safehouse",
@@ -2992,6 +2986,12 @@
     "location": "/Game/UI/employerOfTheWeek.employerOfTheWeek_C:WidgetTree.TextBlock.Text",
     "id": "Employee of the Week Awards",
     "str": "금주의 직원상"
+  },
+  {
+    "key": "715AE4624267FE9F9EF6939C8ECFD3D1",
+    "location": "/Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]",
+    "id": "Do you want to leave the current lobby to go to your safehouse?",
+    "str": "현재 로비를 떠나 안전 가옥으로 이동하시겠습니까?"
   },
   {
     "key": "5981A77041F835414316E0BEA0C3C8F8",

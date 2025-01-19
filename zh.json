@@ -6,12 +6,6 @@
     "str": "卧底伪装成{doll}一小时进行误导，并执行{action}动作。"
   },
   {
-    "key": "9F428B644FC340682C8E35A9365C2E1D",
-    "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
-    "id": "You can't open the chest until you pass the career mode tutorial.",
-    "str": "在通过生涯模式教程之前无法打开宝箱。"
-  },
-  {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
     "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
     "id": "Back to the safehouse",
@@ -2992,6 +2986,12 @@
     "location": "/Game/UI/employerOfTheWeek.employerOfTheWeek_C:WidgetTree.TextBlock.Text",
     "id": "Employee of the Week Awards",
     "str": "本周最佳员工奖"
+  },
+  {
+    "key": "715AE4624267FE9F9EF6939C8ECFD3D1",
+    "location": "/Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]",
+    "id": "Do you want to leave the current lobby to go to your safehouse?",
+    "str": "你想离开当前大厅前往你的安全屋吗？"
   },
   {
     "key": "5981A77041F835414316E0BEA0C3C8F8",
