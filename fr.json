@@ -6,6 +6,12 @@
     "str": "L'imposteur vous a induit en erreur en se faisant passer pour {doll} pendant une heure et a effectué l'action {action}."
   },
   {
+    "key": "9F428B644FC340682C8E35A9365C2E1D",
+    "location": "/Game/Blueprints/crateInventory.crateInventory_C:ExecuteUbergraph_crateInventory [Script Bytecode]",
+    "id": "You can't open the chest until you pass the career mode tutorial.",
+    "str": "Vous ne pourrez pas ouvrir le coffre jusqu'à ce que le tutorial du mode carrière soit complété."
+  },
+  {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
     "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
     "id": "Back to the safehouse",
@@ -2319,7 +2325,7 @@
     "key": "2DD3DC844B37E701E7C0E7BBA33D59F8",
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I have given you the necessary items to use in the case! Check the caravan's chest and carefully read what each item is for.",
-    "str": "Je vous ai donné les éléments nécessaires à utiliser dans l'affaire ! "
+    "str": "Je vous ai donné les éléments nécessaires à utiliser dans l'affaire ! Vérifier le coffre de la caravane et lisez attentivement à quoi servent chaques objets."
   },
   {
     "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -3597,7 +3603,7 @@
     "key": "3E6C187646A0B1291793B49DDED900A6",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(12).Options.Label",
     "id": "Glitched Pixels",
-    "str": "Pixels défectueux"
+    "str": "Pixels Défectueux"
   },
   {
     "key": "74A4E3F24FF6CD3383EFA6901E98F156",
@@ -3609,7 +3615,7 @@
     "key": "94FF044043C9EB2D2028E3BD0E5E62CF",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(14).Options.Label",
     "id": "Pulses",
-    "str": "Les légumineuses"
+    "str": "Légumineuses"
   },
   {
     "key": "D88E40CD4F08D4197DDCDF86C29D097C",
