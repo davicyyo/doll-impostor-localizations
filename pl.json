@@ -231,7 +231,7 @@
     "key": "C53301F94E23646EB809A29EA74DFB65",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Show robot",
-    "str": ""
+    "str": "Pokaż robota"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -2601,7 +2601,7 @@
     "key": "7855004746EF18F049F620BD89F0F99B",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "If you accept, all the products in your inventory will be sold, even if they are not selected.",
-    "str": ""
+    "str": "Jeśli się zgodzisz, wszystkie produkty z Twojego asortymentu zostaną sprzedane, nawet jeśli nie zostaną wybrane."
   },
   {
     "key": "7C1F780F43047787285C17A26FC3B81B",
@@ -2733,7 +2733,7 @@
     "key": "CBD1EF154E2CEF2BFE37BEBFE4B17C22",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_19.Text",
     "id": "Sell all products",
-    "str": ""
+    "str": "Sprzedaj wszystkie produkty"
   },
   {
     "key": "1AD8A0BB4BE62F5DE96885933B1E65FE",
@@ -2745,7 +2745,7 @@
     "key": "F1B4F68246B1BBFBC8F39D923B883A13",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_20.Text",
     "id": "Robot",
-    "str": ""
+    "str": "Robot"
   },
   {
     "key": "612C02664338E6F05B4191AC77E63DA9",
@@ -2769,7 +2769,7 @@
     "key": "B54A893A4A60B55596718C9AFAF7D18B",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_27.Text",
     "id": "Sell selected",
-    "str": ""
+    "str": "Sprzedaj wybrane"
   },
   {
     "key": "F5A1B20A4E970FD062976FB28CEBCEC2",
@@ -2781,7 +2781,7 @@
     "key": "7762080D40ED45980EBA798576E1E4FE",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_29.Text",
     "id": "The reward will be multiplied by 10 if the robot is activated",
-    "str": ""
+    "str": "Jeśli robot zostanie aktywowany, nagroda zostanie pomnożona przez 10"
   },
   {
     "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -4101,7 +4101,7 @@
     "key": "3DBC5EBC49FC8E185982FAAAD0A10C1C",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_70.Text",
     "id": "Robot Volume",
-    "str": ""
+    "str": "Objętość robota"
   },
   {
     "key": "7826866B435A8EE313772C8979CA261B",
