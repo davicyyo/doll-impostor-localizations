@@ -1473,7 +1473,7 @@
     "key": "C9DD78084F647953E55A8196CE872921",
     "location": "/Game/enums/actions.actions.DisplayNameMap(47 - Value).DisplayNameMap",
     "id": "Gramophone",
-    "str": "แผ่นเสียง"
+    "str": "เครื่องเล่นแผ่นเสียง"
   },
   {
     "key": "18D93C0E4280B2D8733C3B9098852779",
@@ -1509,7 +1509,7 @@
     "key": "80178DF845B4F8C8D4B5DABBDC29F983",
     "location": "/Game/enums/actions.actions.DisplayNameMap(52 - Value).DisplayNameMap",
     "id": "Firecrackers",
-    "str": "พลุ"
+    "str": "พลุประทัด"
   },
   {
     "key": "ECA7B6BD4DC5448D5BC007A0A56EFE97",
@@ -1527,7 +1527,7 @@
     "key": "2F564E2B4FB1B7CB88A558A4D73A0B22",
     "location": "/Game/enums/actions.actions.DisplayNameMap(55 - Value).DisplayNameMap",
     "id": "Canvas",
-    "str": "ผ้าใบ"
+    "str": "ผ้าใบวาดรูป"
   },
   {
     "key": "3F370B9043F249CD818C5C9E9D7218CD",
@@ -2331,19 +2331,19 @@
     "key": "F487E2A843DF53EB6108BB96F58E32BC",
     "location": "/Game/levels/mainMap.mainMap_C:ExecuteUbergraph_mainMap [Script Bytecode]",
     "id": "A new version of the client is available, please update to be able to play the latest version",
-    "str": "มีไคลเอนต์เวอร์ชันใหม่แล้ว โปรดอัปเดตเพื่อให้สามารถเล่นเวอร์ชันล่าสุดได้"
+    "str": "มีไคลเอนต์เวอร์ชันใหม่แล้ว โปรดอัปเดตเพื่อให้สามารถเล่นในเวอร์ชันล่าสุดได้"
   },
   {
     "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
     "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking yes or no questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-    "str": "Doll Who เป็นเกมกระดานที่ใช้การหักลบ โดยผู้เล่นสองคนจะพยายามเดาตัวตนของตัวละครที่ฝ่ายตรงข้ามเลือก แต่ละคนจะมีแผ่นกระดานที่มีตัวละครหลากหลายลักษณะ ผู้เล่นสามารถถามคำถามที่ตอบได้ด้วย ใช่ หรือ ไม่ใช่ เกี่ยวกับลักษณะของตัวละคร (เช่น มีหมวกหรือเคยปรากฏในแผนที่สถานเลี้ยงเด็ก) เพื่อลดตัวเลือกจนกว่าจะพบตัวละครของฝ่ายตรงข้าม ผู้เล่นที่เดาถูกคนแรกจะเป็นผู้ชนะ"
+    "str": "Doll Who เป็นเกมกระดานที่ใช้ทักษะความน่าจะเป็นหรือการคาดเดา โดยผู้เล่นสองฝ่ายจะต้องใช้พยายามเดาตุ๊กตาของผู้เล่นที่ฝ่ายตรงข้ามเลือกเอาไว้ โดยแต่ละคนจะมีแผ่นกระดานที่มีตุ๊กตาหลากหลายลักษณะแตกต่างกันไป โดยผู้เล่นสามารถผลัดกันตั้งถามโต้ตอบสลับกัน โดยถามคำถามที่ตอบว่า ใช่ หรือ ไม่ใช่ เพื่อถามเกี่ยวกับลักษณะของตุ๊กตา (เช่น มีหมวกหรือเคยปรากฏในแผนที่สถานเลี้ยงเด็ก) โดยคัดตัวเลือกที่ไม่ใช่ออกจนกว่าจะพบตุ๊กตาของฝ่ายตรงข้ามที่ได้เลือกไว้ ผู้เล่นที่เดาถูกคนแรกจะเป็นผู้ชนะในเกมนั้นๆ"
   },
   {
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-    "str": "ยินดีต้อนรับสู่ที่หลบภัย! ที่นี่เป็นเขตปลอดภัย คุณสามารถเริ่มเกมใหม่ได้ที่นี่ ตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ และยังสามารถปรับแต่งสถานที่นี้ด้วยการเลือกสีบนโต๊ะทำงานของคุณได้อีกด้วย! "
+    "str": "ยินดีต้อนรับสู่ที่หลบภัย! ที่นี่เป็นเขตปลอดภัย คุณสามารถเริ่มเกมใหม่ในโหมดต่างๆ ได้ที่นี่ คุณลองตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ บนชั้น และยังสามารถปรับแต่งสถานที่นี้ได้อย่างอิสระ ด้วยการเลือกสีบนโต๊ะทำงานของคุณได้อีกด้วย! "
   },
   {
     "key": "B75DC93941A74B4A564DF389EB387762",
@@ -2361,19 +2361,19 @@
     "key": "04119A0C4BAB3896CA5F208DA41F582A",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-    "str": "ดูเหมือนว่าผู้ต้องสงสัยได้กระทำอะไรบางอย่าง เหตุการณ์เหล่านี้จะแสดงบนกระดานทางด้านซ้ายของคุณ โปรดสังเกตและเข้าไปในห้องตุ๊กตาเพื่อตรวจสอบอีกครั้ง"
+    "str": "ดูเหมือนว่าผู้ต้องสงสัยได้กระทำอะไรบางอย่าง เหตุการณ์เหล่านี้จะแสดงบนกระดานทางด้านซ้ายของคุณ โปรดสังเกตและเข้าไปในห้องตุ๊กตาเพื่อทำการตรวจสอบอีกครั้ง"
   },
   {
     "key": "08FC22B7498C0918FE50E0AB274B5889",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-    "str": "อย่าลืมล็อคกลอนประตู หากคุณไม่ทำเช่นนั้น ตุ๊กตาอาจจะเข้ามาก่อกวนสิ่งที่คุณบันทึกไว้บนกระดาน หรือแม้กระทั่งฆ่าคุณได้ด้วยเช่นกัน!"
+    "str": "อย่าลืมล็อคกลอนประตู ถ้าหากคุณไม่ทำเช่นนั้น ตุ๊กตาอาจจะเข้ามาก่อกวนสิ่งที่คุณบันทึกไว้บนกระดาน หรือแม้กระทั่งฆ่าคุณได้ด้วยเช่นกัน!"
   },
   {
     "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-    "str": "ที่นี่คือห้องตุ๊กตา คุณจะเห็นว่าตุ๊กตาเหล่านี้ได้ทำอะไรบางอย่างในขณะที่คุณนอนหลับ ลองจับตาดูพวกเขาแล้วกลับไปที่ห้องนอน"
+    "str": "ที่นี่คือห้องตุ๊กตา คุณจะเห็นว่าตุ๊กตาเหล่านี้ได้ทำอะไรบางอย่างในขณะที่คุณนอนหลับ ลองจับตาดูพวกเขา สังเกตการณ์แล้วกลับไปที่ห้องนอน"
   },
   {
     "key": "0A3D5EC2435134BB35A189A4B69C4101",
@@ -2391,7 +2391,7 @@
     "key": "0E888CB843DF92D55BD437BEB42F99EB",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-    "str": "กลับไปที่กระดานและเริ่มคัดผู้ต้องสงสัยที่ไม่ตรงกับหลักฐานของเราออกไป"
+    "str": "กลับไปที่กระดานและเริ่มคัดกรองผู้ต้องสงสัยบนกระดานที่ไม่ตรงกับหลักฐานของเราออกไป"
   },
   {
     "key": "34AFF09749F832F67360E0923F227F4F",
@@ -2403,19 +2403,19 @@
     "key": "3A4B9B82453A3C78DD066BBB53AFC867",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-    "str": "ตอนนี้เราเหลืออยู่เพียง 3 ตัวเท่านั้น ลองกลับไปที่ห้องตุ๊กตาเพื่อตรวจดูว่ามีใครขยับหรือโดนย้ายหรือไม่"
+    "str": "ตอนนี้เราเหลืออยู่เพียง 3 ตัวเท่านั้น ลองกลับไปตรวจสอบที่ห้องตุ๊กตาเพื่อตรวจดูว่ามีใครขยับหรือโดนย้ายหรือไม่"
   },
   {
     "key": "47254BE24A91487FA9DB08918BAFEBED",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-    "str": "คุณผ่านการฝึกสอนและรู้พื้นฐานเบื้องต้นแล้ว! กลับไปนอนที่เตียงเพื่อเป็นการจบการฝึกสอนและกลับไปยังเซฟเฮาส์ของคุณ จากนั้นใช้คอมพิวเตอร์เพื่อเริ่มเกม!"
+    "str": "คุณผ่านการฝึกสอนและรู้พื้นฐานเบื้องต้นแล้ว! กลับไปนอนที่เตียงเพื่อเป็นการจบการฝึกสอนและกลับไปยังเซฟเฮาส์ของคุณ หลังจากนั้นคุณสามารถใช้คอมพิวเตอร์เพื่อเริ่มเกมต่างๆ ได้!"
   },
   {
     "key": "5220ED3742AAD20F53D18B86F110B811",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-    "str": "คุณคือผู้ดูแลตุ๊กตา หนึ่งในนั้นมีชีวิตและวางแผนจะฆ่าคุณ คุณต้องสืบว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
+    "str": "คุณคือผู้ดูแลตุ๊กตา หนึ่งในนั้นมีชีวิตและวางแผนจะฆ่าคุณ คุณต้องทำการสืบหาหลักฐาน ว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
   },
   {
     "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
@@ -2445,7 +2445,7 @@
     "key": "7F18D69F420F68627730E39CE489A2EC",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-    "str": "มาวางกับดักสำหรับผู้ต้องสงสัยกันเถอะ เรารู้แล้วว่าเขาชอบ ทีวี กับ เพลง เรามาเปิดไฟเอาไว้กัน"
+    "str": "มาวางกับดักสำหรับผู้ต้องสงสัยกันเถอะ เรารู้แล้วว่าเขาชอบ ทีวี กับ ดนตรี เรามาลองเปิดไฟเอาไว้กัน"
   },
   {
     "key": "815797D840D1A6AEC45401A9A3996DE0",
@@ -2469,7 +2469,7 @@
     "key": "AFC2B2644270E4DDA921A0AA0660BA68",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "To sleep, simply point at the bed and click on it.",
-    "str": "หันไปและคลิกที่เตียงเพื่อนอน"
+    "str": "การนอนข้ามชั่วโมง ให้คุณหันไปและคลิกที่เตียงเพื่อนอน"
   },
   {
     "key": "B300BE9147F822906E54C7A227BF23BA",
@@ -2601,7 +2601,7 @@
     "key": "7855004746EF18F049F620BD89F0F99B",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "If you accept, all the products in your inventory will be sold, even if they are not selected.",
-    "str": "หากคุณยอมรับ ผลิตภัณฑ์ทั้งหมดในสินค้าคงคลังของคุณจะถูกขาย แม้ว่าจะไม่ได้เลือกก็ตาม."
+    "str": "หากคุณกดยอมรับ ผลิตภัณฑ์ทั้งหมดในสินค้าคงคลังของคุณจะถูกขาย แม้ว่าคุณจะไม่ได้เลือกไว้ก็ตาม"
   },
   {
     "key": "7C1F780F43047787285C17A26FC3B81B",
@@ -2661,7 +2661,7 @@
     "key": "EDA5294F43DB42C2856059B83C9A6BF5",
     "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget_1 [Script Bytecode]",
     "id": "This probability will be latent every time you travel; you might encounter a box that will contain things inside.",
-    "str": "มีความเป็นไปได้ในขณะที่คุณออกเดินทาง คุณอาจจะเจอกล่องปริศนาที่บรรจุสิ่งของบางอย่างอยู่ข้างใน"
+    "str": "ในการออกเดินทางแต่ละครั้ง มีความเป็นไปได้ในขณะที่คุณออกเดินทาง คุณอาจจะเจอกล่องปริศนาที่บรรจุสิ่งของบางอย่างอยู่ข้างใน"
   },
   {
     "key": "1DFB0F2649F857BCBC918D9215167D9B",
@@ -2781,7 +2781,7 @@
     "key": "7762080D40ED45980EBA798576E1E4FE",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_29.Text",
     "id": "The reward will be multiplied by 10 if the robot is activated",
-    "str": "รางวัลจะคูณด้วย 10 ถ้าหุ่นยนต์ถูกเปิดใช้งาน"
+    "str": "รางวัลจะคูณด้วย 10 เท่า ถ้าหุ่นยนต์ถูกเปิดใช้งาน"
   },
   {
     "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -2895,13 +2895,13 @@
     "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the map {map} with {nights} nights in endless mode",
-    "str": "เอาชนะแผนที่ {map} ด้วย {nights} คืนในโหมดไม่มีที่สิ้นสุด"
+    "str": "เอาชนะแผนที่ {map} ด้วย {nights} คืนในโหมดไม่รู้จบ"
   },
   {
     "key": "CA1C6A0A487A2DD8E6542DA36C569087",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Complete a perfect case in career mode",
-    "str": "ทำคดีให้สมบูรณ์แบบในโหมดอาชีพ"
+    "str": "ทำเคสให้เสร็จสมบูรณ์แบบในโหมดอาชีพ"
   },
   {
     "key": "CB6E9B074BD77CC8096801BD1B03B13E",
@@ -2925,7 +2925,7 @@
     "key": "D98620CC409728F91A9E77AE5FE1D2B2",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock.Text",
     "id": "Claimed Reward",
-    "str": "รับรางวัลแล้ว"
+    "str": "ได้รับรางวัลแล้ว"
   },
   {
     "key": "9B6292A84A111FF42D574085642D7D63",
@@ -3153,7 +3153,7 @@
     "key": "8C118CF148C516FD54C9BC8FE28F9A95",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
     "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-    "str": "โหมดสุ่มแบบจับเวลา ค้นหาตุ๊กตาก่อนที่เวลาจะหมด และแลกถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
+    "str": "โหมดสุ่มแบบจับเวลา ค้นหาตุ๊กตาและตอบให้ถูกต้องก่อนที่เวลาจะหมด และแลกถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
   },
   {
     "key": "F167859643FD37B593110B9A866E9EB3",
