@@ -138,6 +138,12 @@
     "str": "Hai sbloccato la mappa {map}!"
   },
   {
+    "key": "29996BA046E32225A477C4BF9759D962",
+    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+    "id": "The robot has caught you",
+    "str": "Il robot ti ha catturato"
+  },
+  {
     "key": "313664F547D8F4158BB67E8898134C0E",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} leave the game",
@@ -2286,16 +2292,16 @@
     "str": "Non puoi partecipare a una partita multiplayer finché non completi il tutorial."
   },
   {
+    "key": "DD24411D4ABAB447C1584B86E08D6117",
+    "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
+    "id": "Something has gone wrong, try restarting steam, the host may need to restart the lobby",
+    "str": ""
+  },
+  {
     "key": "EC2A6CF342794100347D079D5C709865",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "The lobby is full",
     "str": "L'atrio è pieno"
-  },
-  {
-    "key": "FE1C90DA472898B05D0AE29D5FCA51FC",
-    "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
-    "id": "Something has gone wrong",
-    "str": "Qualcosa è andato storto"
   },
   {
     "key": "FEB9026C48BC0599149DBA9898C6CB45",
@@ -2652,6 +2658,12 @@
     "str": "Avrai a disposizione un caso con diversi parametri dinamici. Mostrerà informazioni come quello attuale e, se non ti piace, potrai cercare un nuovo caso in cambio di denaro. Al momento, in modalità tutorial, abbiamo limitato le interazioni: non si potrà acquistare, creare, uscire dal caso o cercare un nuovo caso."
   },
   {
+    "key": "240CC6A3457918D03B0A80839015CF5E",
+    "location": "/Game/UI/career/careerUI.careerUI_C:GetText_4 [Script Bytecode]",
+    "id": "The reward will be multiplied by {num} if the robot is activated",
+    "str": ""
+  },
+  {
     "key": "074C094B4943E77D1E7501B3B9277A09",
     "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
     "id": "The costs will be reflected in the prices of the items in the store",
@@ -2776,12 +2788,6 @@
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_28.Text",
     "id": "Reset Career Mode",
     "str": "Ripristina la modalità Carriera"
-  },
-  {
-    "key": "7762080D40ED45980EBA798576E1E4FE",
-    "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_29.Text",
-    "id": "The reward will be multiplied by 10 if the robot is activated",
-    "str": "La ricompensa verrà moltiplicata per 10 se il robot viene attivato"
   },
   {
     "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -3508,6 +3514,18 @@
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
     "id": "Results",
     "str": "Risultati"
+  },
+  {
+    "key": "1057619F4616D8E4F8AA27A80261F8A7",
+    "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_6.Text",
+    "id": "Robot",
+    "str": ""
+  },
+  {
+    "key": "6C83DA6D4FA3B0A1533DFA8D160E04FA",
+    "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_7.Text",
+    "id": "You have lost 100% of the robot's reward for not discovering the impostor",
+    "str": ""
   },
   {
     "key": "1D673DF841A45FC990837A9CBDDFC571",

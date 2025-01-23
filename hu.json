@@ -138,6 +138,12 @@
     "str": "Feloldotta a {map} térkép zárolását!"
   },
   {
+    "key": "29996BA046E32225A477C4BF9759D962",
+    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+    "id": "The robot has caught you",
+    "str": "A robot elkapott"
+  },
+  {
     "key": "313664F547D8F4158BB67E8898134C0E",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} leave the game",
@@ -2286,16 +2292,16 @@
     "str": "Nem csatlakozhatsz többjátékos mérkőzéshez, amíg be nem fejezed az oktatót."
   },
   {
+    "key": "DD24411D4ABAB447C1584B86E08D6117",
+    "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
+    "id": "Something has gone wrong, try restarting steam, the host may need to restart the lobby",
+    "str": ""
+  },
+  {
     "key": "EC2A6CF342794100347D079D5C709865",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "The lobby is full",
     "str": "Az előcsarnok tele van"
-  },
-  {
-    "key": "FE1C90DA472898B05D0AE29D5FCA51FC",
-    "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
-    "id": "Something has gone wrong",
-    "str": "Valami elromlott"
   },
   {
     "key": "FEB9026C48BC0599149DBA9898C6CB45",
@@ -2652,6 +2658,12 @@
     "str": "Különféle dinamikus paraméterekkel lesz elérhető egy tok. Az aktuálishoz hasonló információkat jelenít meg, és ha nem tetszik, kereshet új tokot pénzért cserébe. Jelenleg oktató módban korlátoztuk az interakcióit "
   },
   {
+    "key": "240CC6A3457918D03B0A80839015CF5E",
+    "location": "/Game/UI/career/careerUI.careerUI_C:GetText_4 [Script Bytecode]",
+    "id": "The reward will be multiplied by {num} if the robot is activated",
+    "str": ""
+  },
+  {
     "key": "074C094B4943E77D1E7501B3B9277A09",
     "location": "/Game/UI/career/careerUI.careerUI_C:GetToolTipWidget [Script Bytecode]",
     "id": "The costs will be reflected in the prices of the items in the store",
@@ -2776,12 +2788,6 @@
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_28.Text",
     "id": "Reset Career Mode",
     "str": "Állítsa vissza a Karrier módot"
-  },
-  {
-    "key": "7762080D40ED45980EBA798576E1E4FE",
-    "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_29.Text",
-    "id": "The reward will be multiplied by 10 if the robot is activated",
-    "str": "A jutalom 10-zel szorozódik meg, ha a robot aktiválva van"
   },
   {
     "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -3508,6 +3514,18 @@
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
     "id": "Results",
     "str": "Eredmények"
+  },
+  {
+    "key": "1057619F4616D8E4F8AA27A80261F8A7",
+    "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_6.Text",
+    "id": "Robot",
+    "str": ""
+  },
+  {
+    "key": "6C83DA6D4FA3B0A1533DFA8D160E04FA",
+    "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_7.Text",
+    "id": "You have lost 100% of the robot's reward for not discovering the impostor",
+    "str": ""
   },
   {
     "key": "1D673DF841A45FC990837A9CBDDFC571",
