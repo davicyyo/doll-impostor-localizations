@@ -2295,7 +2295,7 @@
     "key": "DD24411D4ABAB447C1584B86E08D6117",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "Something has gone wrong, try restarting steam, the host may need to restart the lobby",
-    "str": ""
+    "str": "Κάτι πήγε στραβά, δοκιμάστε να επανεκκινήσετε το steam, ο οικοδεσπότης μπορεί να χρειαστεί να επανεκκινήσει το λόμπι"
   },
   {
     "key": "EC2A6CF342794100347D079D5C709865",
@@ -2661,7 +2661,7 @@
     "key": "240CC6A3457918D03B0A80839015CF5E",
     "location": "/Game/UI/career/careerUI.careerUI_C:GetText_4 [Script Bytecode]",
     "id": "The reward will be multiplied by {num} if the robot is activated",
-    "str": ""
+    "str": "Η ανταμοιβή θα πολλαπλασιαστεί επί {num} εάν το ρομπότ είναι ενεργοποιημένο"
   },
   {
     "key": "074C094B4943E77D1E7501B3B9277A09",
@@ -3519,13 +3519,13 @@
     "key": "1057619F4616D8E4F8AA27A80261F8A7",
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_6.Text",
     "id": "Robot",
-    "str": ""
+    "str": "Ρομπότ"
   },
   {
     "key": "6C83DA6D4FA3B0A1533DFA8D160E04FA",
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_7.Text",
     "id": "You have lost 100% of the robot's reward for not discovering the impostor",
-    "str": ""
+    "str": "Έχετε χάσει 100% της ανταμοιβής του ρομπότ επειδή δεν ανακαλύψατε τον απατεώνα"
   },
   {
     "key": "1D673DF841A45FC990837A9CBDDFC571",
