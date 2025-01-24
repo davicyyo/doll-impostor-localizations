@@ -39,13 +39,13 @@ jobs:
       - name: Format JSON Files
         run: |
           # Use Prettier to format all JSON files with tabulation settings
-          npx prettier --write "**/*.json"
+          npx prettier --write "*.json"
 
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add .
+          git add *.json
           git commit -m "Format JSON files with Prettier"
           git push origin HEAD:${{ github.head_ref }}
         env:
