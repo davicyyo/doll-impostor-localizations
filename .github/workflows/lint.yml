@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: Install jq, jsonlint and Prettier
         run: |
@@ -36,5 +38,16 @@ jobs:
 
       - name: Format JSON Files
         run: |
-          # Use Prettier to format all JSON files with tabulation settings
-          npx prettier --write "**/*.json"
+          # Use Prettier to format JSON files in the root directory, excluding package-lock.json and package.json
+          npx prettier --write . --tab-width 2
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add *.json
+          git reset package.json package-lock.json
+          git commit -m "Format JSON files with Prettier"
+          git push origin HEAD:${{ github.head_ref }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
