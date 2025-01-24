@@ -38,8 +38,12 @@ jobs:
 
       - name: Format JSON Files
         run: |
-          # Use Prettier to format all JSON files with tabulation settings
-          npx prettier --write "*.json"
+          # Use Prettier to format JSON files in the root directory, excluding package-lock.json and package.json
+          for file in *.json; do
+            if [[ "$file" != "package.json" && "$file" != "package-lock.json" ]]; then
+              npx prettier --write "$file" --parser json --tab-width 2
+            fi
+          done
 
       - name: Commit and Push Changes
         run: |
