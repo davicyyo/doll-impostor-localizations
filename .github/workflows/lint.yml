@@ -12,7 +12,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Install jq and jsonlint
+      - name: Install jq, jsonlint, and Prettier
         run: |
           sudo apt-get update
           sudo apt-get install -y jq
@@ -33,3 +33,8 @@ jobs:
               exit 1
             fi
           done
+
+      - name: Format JSON Files
+        run: |
+          # Use Prettier to format all JSON files with tabulation settings
+          npx prettier --write "**/*.json"
