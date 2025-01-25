@@ -1,10 +1,9 @@
 [
-     {
-
+    {
         "key": "100DA204405F9111E1C236B3FF176270",
         "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
         "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-        "str": "Oszust wprowadził w błąd, udając {doll} przez godzinę i wykonał akcję {action}."
+        "str": "Impostor wprowadził w błąd, udając {doll} przez godzinę i wykonał akcję {action}."
     },
     {
         "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -202,7 +201,7 @@
         "key": "0525435A4091E8021EFF0D8B98CE9BC4",
         "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
         "id": "Wrong impostor",
-        "str": "Zły oszust"
+        "str": "Zły impostor"
     },
     {
         "key": "416137A54D8BDF2957A99DA3E3A214DB",
@@ -568,7 +567,7 @@
         "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
         "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
         "id": "Activate the final battle to uncover the impostor.",
-        "str": "Aktywuj ostateczną bitwę, aby odkryć oszusta."
+        "str": "Aktywuj ostateczną bitwę, aby odkryć impostora."
     },
     {
         "key": "CA5357694E9708D4AC84699C2DC77CBD",
@@ -1630,7 +1629,7 @@
         "key": "E60C061E42EEE57516BA1B83B2A64C7E",
         "location": "/Game/enums/probability.probability.DisplayNameMap(2 - Value).DisplayNameMap",
         "id": "Normal",
-        "str": "Normalna"
+        "str": "Normalny"
     },
     {
         "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -2368,7 +2367,7 @@
         "key": "04119A0C4BAB3896CA5F208DA41F582A",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-        "str": "Wygląda na to, że oszust dokonał pewnych zmian w pokoju. Zostaną one wyświetlone na lewej tablicy. Przejrzyj je, a następnie ponownie wejdź do pokoju."
+        "str": "Wygląda na to, że impostor dokonał pewnych zmian w pokoju. Zostaną one wyświetlone na lewej tablicy. Przejrzyj je, a następnie ponownie wejdź do pokoju."
     },
     {
         "key": "08FC22B7498C0918FE50E0AB274B5889",
@@ -2380,7 +2379,7 @@
         "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-        "str": "To jest pokój lalek. Tutaj zobaczysz, co zrobiły, podczas gdy spałeś. Przyjrzyj się im następnie wróćmy do pokoju. z tablicami"
+        "str": "To jest pokój lalek. Tutaj zobaczysz, co zrobiły, podczas gdy spałeś. Przyjrzyj się im a następnie wróćmy do pokoju z tablicami."
     },
     {
         "key": "0A3D5EC2435134BB35A189A4B69C4101",
@@ -2440,19 +2439,19 @@
         "key": "6621BA854D50DB36041E58AFE9A250D5",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-        "str": "Została nam godzina, to nasza ostatnia szansa, aby odnaleźć oszusta! Chodźmy do pokoju."
+        "str": "Została nam godzina, to nasza ostatnia szansa, aby odnaleźć impostora! Chodźmy do pokoju."
     },
     {
         "key": "75DB907D4C3E80ED887ACDA2AADF602C",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-        "str": "Będziesz pełnił rolę detektywa, w której  lubi, a czego nie, kim sbędziesz musiał określić, na podstawie upodobań oszusta wymienionych na tablicy po lewej stronie, kim są jego wrogowie, przyjaciele, osoby które kocha oraz nienawidzi."
+        "str": "Będziesz pełnić rolę detektywa, w której na podstawie upodobań i niechęci impostora wymienionych na panelu po twojej lewej stronie będziesz musiał określić, co lubi i czego nie lubi, kto jest jego wrogiem, przyjacielem, miłością lub znienawidzoną osobą."
     },
     {
         "key": "7F18D69F420F68627730E39CE489A2EC",
         "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
         "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-        "str": "Zastawmy pułapkę na oszusta. Już wiemy, że lubi telewizję i muzykę. Włącz światło."
+        "str": "Zastawmy pułapkę na impostora. Już wiemy, że lubi telewizję i muzykę. Włącz światło."
     },
     {
         "key": "815797D840D1A6AEC45401A9A3996DE0",
@@ -3022,7 +3021,7 @@
         "key": "FEFFD2EC495732A7FB2D3083906B98F9",
         "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.TextBlock.Text",
         "id": "The box might not be related to the doll performing the action, but to another doll that was moved there earlier.",
-        "str": " Skrzynka może nie być związana z lalką wykonującą akcję, a z inną lalką, która została tam przeniesiona wcześniej."
+        "str": "Skrzynka może nie być związana z lalką wykonującą akcję, a z inną lalką, która została tam przeniesiona wcześniej."
     },
     {
         "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
@@ -3124,7 +3123,7 @@
         "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
         "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-        "str": " Tylko dla profesjonalistów; zaczynasz o 08:00, masz zaledwie 3 skuteczne wskazówki, brak zdjęć i innych pomocy. Część danych jest ukryta, a dostęp do mapy jest ograniczony."
+        "str": "Tylko dla profesjonalistów; zaczynasz o 08:00, masz zaledwie 3 skuteczne wskazówki, brak zdjęć i innych pomocy. Część danych jest ukryta, a dostęp do mapy jest ograniczony."
     },
     {
         "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -3256,7 +3255,7 @@
         "key": "6540E66F480EE470D56246880E1AAC02",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
         "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-        "str": "Standardowy poziom trudności dla każdego gracza, wszystkie wskazówki będą udostępniane o 08:00, masz możliwość zobaczenia nazw lalek oraz listy działań oszusta"
+        "str": "Standardowy poziom trudności dla każdego gracza, wszystkie wskazówki będą udostępniane o 08:00, masz możliwość zobaczenia nazw lalek oraz listy działań impostora"
     },
     {
         "key": "41A1A89A4ADCC9D9F94EABA4A93A05DB",
@@ -3394,7 +3393,7 @@
         "key": "6F0469EB48D6EC34F0C511B2D187D7D9",
         "location": "/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_1.Text",
         "id": "Have you had any issues?",
-        "str": "Czy miałeś jakieś problemy?"
+        "str": "Napotkałeś jakieś problemy?"
     },
     {
         "key": "A2C08BE6447E2720D3051F8CA460E102",
@@ -3472,7 +3471,7 @@
         "key": "A0C0892943CF5FC4B208879116F465F0",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text",
         "id": "Impostor Selected",
-        "str": "Wybrano oszusta"
+        "str": "Wybrano impostora"
     },
     {
         "key": "FEEFC0A44A89E6CC7163CEB1F9C3F1B8",
@@ -3502,7 +3501,7 @@
         "key": "EDD9076E4875FB9F12D9D790EC0CE5B6",
         "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_41.Text",
         "id": "You have lost 75% for not discovering the impostor",
-        "str": "Straciłeś 75% całej nagrody za to, że nie odkryłeś oszusta"
+        "str": "Straciłeś 75% całej nagrody za to, że nie odkryłeś impostora"
     },
     {
         "key": "B03E1FBA436DD65AC1BDFB9C7CED0AAE",
@@ -4078,7 +4077,7 @@
         "key": "054AC4C746C09AD57CA9C497A131F64F",
         "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_63.Text",
         "id": "Show Press key to interact",
-        "str": "Pokaż Naciśnij klawisz, aby wejść w interakcję"
+        "str": "Pokaż naciśnij klawisz, aby wejść w interakcję"
     },
     {
         "key": "DFC00BD04359DBA0F8F0DF9D8825DBF3",
@@ -4192,7 +4191,7 @@
         "key": "EBE268F84D4CEBE50AAF908A7823DF79",
         "location": "/Game/UI/todoList.todoList_C:WidgetTree.dislikes_2.Text",
         "id": "Find the imposter and keep it in the bag",
-        "str": "Znajdź oszusta i trzymaj go w torbie"
+        "str": "Znajdź impostora i trzymaj go w torbie"
     },
     {
         "key": "7B34A441429642B9DA52218285A1BB2A",
@@ -4210,7 +4209,7 @@
         "key": "BFD9681847D40C8577B0C49731F23FF8",
         "location": "/Game/UI/todoList.todoList_C:WidgetTree.soulbook.Text",
         "id": "Use the Book of Souls to Identify the Imposter",
-        "str": "Skorzystaj z Księgi Dusz, aby zidentyfikować oszusta"
+        "str": "Skorzystaj z Księgi Dusz, aby zidentyfikować impostora"
     },
     {
         "key": "8204CCFA44B783AD08234F8DE4E4D11B",
@@ -4258,7 +4257,7 @@
         "key": "B383AEBA444328B5A71FF88EF36A0DBB",
         "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
         "id": "Impostor",
-        "str": "Oszust"
+        "str": "Impostor"
     },
     {
         "key": "E447809B421298C1BDA5E4B063D86F49",
