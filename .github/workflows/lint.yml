@@ -47,7 +47,11 @@ jobs:
           git config user.email "actions@github.com"
           git add *.json
           git reset package.json package-lock.json
-          git commit -m "Format JSON files with Prettier"
-          git push origin HEAD:${{ github.head_ref }}
+          if [ -n "$(git diff --cached)" ]; then
+            git commit -m "Format JSON files with Prettier"
+            git push origin HEAD:${{ github.head_ref }}
+          else
+            echo "No changes to commit"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
