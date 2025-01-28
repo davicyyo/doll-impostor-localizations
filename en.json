@@ -2874,12 +2874,6 @@
     "str": "Friends"
   },
   {
-    "key": "56EBFA974C38A9B5F563D3A75E5BF0E0",
-    "location": "/Game/UI/career/historyCases.historyCases_C:WidgetTree.TextBlock_11.Text",
-    "id": "Back",
-    "str": "Back"
-  },
-  {
     "key": "A213AE2B42DEEB0AC450A9AEC96730E1",
     "location": "/Game/UI/career/ticketItem.ticketItem_C:WidgetTree.TextBlock_11.Text",
     "id": "Closed",
@@ -4120,6 +4114,12 @@
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_70.Text",
     "id": "Robot Volume",
     "str": "Robot Volume"
+  },
+  {
+    "key": "4B42EDC74552B167B6C050B42EED7773",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_71.Text",
+    "id": "Toggle lock",
+    "str": "Toggle lock"
   },
   {
     "key": "7826866B435A8EE313772C8979CA261B",
