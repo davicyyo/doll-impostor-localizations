@@ -2832,10 +2832,10 @@
     "str": "Halihazırda donattığınız öğelerden bazıları"
   },
   {
-    "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
+    "key": "046B76E840D9FECA7307A2B3B07E3645",
     "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
-    "id": "You can only equip a maximum of 10 items",
-    "str": "En fazla 10 eşya donatabilirsiniz"
+    "id": "You can only equip a maximum of {x} items",
+    "str": "En fazla {x} eşya donatabilirsiniz"
   },
   {
     "key": "F4678833417F67BF4FB742B959AD7E80",

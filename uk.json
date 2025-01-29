@@ -2832,10 +2832,16 @@
     "str": "Деякі з елементів ви вже обладнали"
   },
   {
-    "key": "E70BD9AB4A85E6A6ADCE4B8E7C2F2260",
+    "key": "046B76E840D9FECA7307A2B3B07E3645",
     "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
-    "id": "You can only equip a maximum of 10 items",
-    "str": "Ви можете спорядити не більше 10 предметів"
+    "id": "You can only equip a maximum of {x} items",
+    "str": "Ви можете спорядити не більше {x} предметів"
+  },
+  {
+    "key": "046B76E840D9FECA7307A2B3B07E3645",
+    "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
+    "id": "You can only equip a maximum of {x} items",
+    "str": "최대 {x}개의 아이템만 장착할 수 있습니다."
   },
   {
     "key": "F4678833417F67BF4FB742B959AD7E80",
