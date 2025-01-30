@@ -828,9 +828,9 @@
     "str": "Elixir care dezvăluie prietenia"
   },
   {
-    "key": "7EB47B9449369EB3E3F18C972CC18786",
+    "key": "3476372A4D2230003B5F31ACAEA21E85",
     "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
-    "id": "Elixir that reveals enmity",
+    "id": "Elixir that reveals enemity",
     "str": "Elixir care dezvăluie dușmănia"
   },
   {
@@ -2826,16 +2826,16 @@
     "str": "{count} zile"
   },
   {
-    "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
-    "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
-    "id": "Some of the elements you already have equipped",
-    "str": "Unele dintre elementele pe care le-ai echipat deja"
-  },
-  {
     "key": "046B76E840D9FECA7307A2B3B07E3645",
     "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
     "id": "You can only equip a maximum of {x} items",
     "str": "Puteți echipa doar maximum {x} articole"
+  },
+  {
+    "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
+    "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
+    "id": "Some of the elements you already have equipped",
+    "str": "Unele dintre elementele pe care le-ai echipat deja"
   },
   {
     "key": "F4678833417F67BF4FB742B959AD7E80",
@@ -3522,22 +3522,10 @@
     "str": "Ai pierdut 100% din recompensa robotului pentru că nu l-ai descoperit pe impostor"
   },
   {
-    "key": "1D673DF841A45FC990837A9CBDDFC571",
-    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
-    "id": "Steam Voice System",
-    "str": "Sistem de voce Steam"
-  },
-  {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "For the changes to take effect, restart the game",
     "str": "Pentru ca modificările să intre în vigoare, reporniți jocul"
-  },
-  {
-    "key": "E8901D12461C4AAEEB67119A16A280B4",
-    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
-    "id": "Doll Impostor uses Steam's voice system. If you want to configure the microphone, you can do so through Steam's interface in the Voice tab.",
-    "str": "Doll Impostor folosește sistemul de voce Steam. Dacă doriți să configurați microfonul, puteți face acest lucru prin interfața Steam din fila Voce."
   },
   {
     "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -3984,10 +3972,10 @@
     "str": "Calitatea umbririi"
   },
   {
-    "key": "71DA9AC944078FAD69976DAAA19A68C0",
+    "key": "20F643D0433786C0252EBF9BC0704CDC",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
-    "id": "Volumetric Fog Quality",
-    "str": "Calitatea ceață volumetrică"
+    "id": "The game will use the system's default microphone. Changing it requires a restart.",
+    "str": "Jocul va folosi microfonul implicit al sistemului. Schimbarea acestuia necesită o repornire."
   },
   {
     "key": "2DE4F4264AEB90D45B2363B38034FA9E",
@@ -4078,24 +4066,6 @@
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_64.Text",
     "id": "Show player names",
     "str": "Afișează numele jucătorilor"
-  },
-  {
-    "key": "9D87E5734B41DDCF1802E394C0061907",
-    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_65.Text",
-    "id": "Voice input device",
-    "str": "Dispozitiv de intrare vocală"
-  },
-  {
-    "key": "199866AE428EABE43FCECCAFBC7C0483",
-    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_66.Text",
-    "id": "Steam settings",
-    "str": "Setări pentru abur"
-  },
-  {
-    "key": "F57A01E14C44815332D53ABD582EA66E",
-    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_67.Text",
-    "id": "Once the changes are made, it requires a restart",
-    "str": "Odată ce modificările sunt făcute, este nevoie de o repornire"
   },
   {
     "key": "933B001A4A8DE48AB89B0E934C10E394",
