@@ -237,7 +237,7 @@
     "key": "C53301F94E23646EB809A29EA74DFB65",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Show robot",
-    "str": "Montrer le robot"
+    "str": "Afficher le robot"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -831,7 +831,7 @@
     "key": "3476372A4D2230003B5F31ACAEA21E85",
     "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Elixir that reveals enemity",
-    "str": "Élixir qui révèle l'inimitié"
+    "str": "Élixir qui révèle l'Inimitié"
   },
   {
     "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -2826,16 +2826,16 @@
     "str": "{count} jours"
   },
   {
-    "key": "046B76E840D9FECA7307A2B3B07E3645",
-    "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
-    "id": "You can only equip a maximum of {x} items",
-    "str": "Vous ne pouvez équiper qu'un maximum de {x} objets"
-  },
-  {
     "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
     "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
     "id": "Some of the elements you already have equipped",
     "str": "Certains des éléments que vous avez déjà équipés"
+  },
+  {
+    "key": "046B76E840D9FECA7307A2B3B07E3645",
+    "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
+    "id": "You can only equip a maximum of {x} items",
+    "str": "Vous ne pouvez équiper qu'un maximum de {x} objets"
   },
   {
     "key": "F4678833417F67BF4FB742B959AD7E80",
@@ -4083,7 +4083,7 @@
     "key": "3DBC5EBC49FC8E185982FAAAD0A10C1C",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_70.Text",
     "id": "Robot Volume",
-    "str": "Volume des robots"
+    "str": "Volume du Robot"
   },
   {
     "key": "4B42EDC74552B167B6C050B42EED7773",
