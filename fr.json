@@ -3522,12 +3522,6 @@
     "str": "Vous avez perdu 100% de la récompense du robot pour ne pas avoir découvert l'imposteur"
   },
   {
-    "key": "1D673DF841A45FC990837A9CBDDFC571",
-    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
-    "id": "Steam Voice System",
-    "str": "Système vocal Steam"
-  },
-  {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "For the changes to take effect, restart the game",
