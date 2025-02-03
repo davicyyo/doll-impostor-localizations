@@ -237,7 +237,7 @@
     "key": "C53301F94E23646EB809A29EA74DFB65",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Show robot",
-    "str": "แสดงหุ่นยนต์"
+    "str": "เปิดหุ่นยนต์"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -447,7 +447,7 @@
     "key": "93917B7240A1743F582D7E9208B16F62",
     "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Paper that reveals dislikes",
-    "str": "กระดาษที่เผยให้เห็นสิ่งที่ไม่ชอบ"
+    "str": "ชิ้นกระดาษที่เผยสิ่งที่ไม่ชอบ"
   },
   {
     "key": "2E06BFD64361FE191A01DD86C96EBAEE",
@@ -519,7 +519,7 @@
     "key": "C28723EC476B280B7C783CAAD9FE2784",
     "location": "/Game/data-tables/itemList.itemList.NewRow_16.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A white and delicate feather.",
-    "str": "ขนนกสีขาวละเอียดละมุน"
+    "str": "ขนนกสีขาวละเอียด"
   },
   {
     "key": "814D9929402ED9670B11B8A5F77DD89E",
@@ -555,7 +555,7 @@
     "key": "F746170F4C38F9AE155525AEA0B83F1C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_19.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Soft and fragrant rose petals.",
-    "str": "กลีบกุหลาบอันหอมหวล"
+    "str": "กลีบกุหลาบหอมหวล"
   },
   {
     "key": "AF3764E04E32829AB3E75FBD938BF9C1",
@@ -567,7 +567,7 @@
     "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Activate the final battle to uncover the impostor.",
-    "str": "หนังสือสำหรับการใช้งานเพื่อเปิดเผยตัวตนของ Impostor"
+    "str": "เปิดใช้งานหนังสือเพื่อเปิดเผยตัวตนของ Impostor ในขั้นตอนสุดท้าย"
   },
   {
     "key": "CA5357694E9708D4AC84699C2DC77CBD",
@@ -651,7 +651,7 @@
     "key": "E67B208049756CC3B5F16089AC41B470",
     "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Refreshing green leaves.",
-    "str": "ใบไม้เขียวที่ให้ความสดชื่น"
+    "str": "ใบไม้เขียวเพื่มความสดชื่น"
   },
   {
     "key": "AC46E8C5498572C242CBADA69A94A0A7",
@@ -675,7 +675,7 @@
     "key": "6FDA4FB448EF65CB05B874842143CD74",
     "location": "/Game/data-tables/itemList.itemList.NewRow_28.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Small and juicy fruits.",
-    "str": "ผลไม้ขนาดเล็กผลหวานฉ่ำ"
+    "str": "ผลไม้เล็กหวานฉ่ำ"
   },
   {
     "key": "091617E74F451B4492E4B78A534E9BF3",
@@ -723,7 +723,7 @@
     "key": "17BF9A32484E32062DAF9F8542DD97A7",
     "location": "/Game/data-tables/itemList.itemList.NewRow_31.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A gnarled and sinister root.",
-    "str": "รากบิดเบี้ยวอันน่าขนลุก"
+    "str": "รากบิดเบี้ยวน่าขนลุก"
   },
   {
     "key": "F671810346E2F778C0E4E7BA69FE7D9C",
@@ -831,7 +831,7 @@
     "key": "3476372A4D2230003B5F31ACAEA21E85",
     "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Elixir that reveals enemity",
-    "str": "น้ำอมฤตที่เผยความเป็นศัตรู"
+    "str": "น้ำอมฤตแห่งปรปักษ์"
   },
   {
     "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -843,7 +843,7 @@
     "key": "92CDFBB847F726D64FF6169E8B2A6631",
     "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Paper that reveals likes",
-    "str": "กระดาษที่เผยให้เห็นความชอบ"
+    "str": "ชิ้นกระดาษที่เผยความชอบ"
   },
   {
     "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
@@ -2295,7 +2295,7 @@
     "key": "DD24411D4ABAB447C1584B86E08D6117",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "Something has gone wrong, try restarting steam, the host may need to restart the lobby",
-    "str": "มีข้อผิดพลาดเกิดขึ้น ลองรีสตาร์ท Steam โฮสต์อาจต้องรีสตาร์ทล็อบบี้"
+    "str": "มีข้อผิดพลาดบางอย่างเกิดขึ้น ลองรีสตาร์ท Steam โฮสต์อาจจะต้องรีสตาร์ทล็อบบี้ใหม่"
   },
   {
     "key": "EC2A6CF342794100347D079D5C709865",
@@ -2325,7 +2325,7 @@
     "key": "2DD3DC844B37E701E7C0E7BBA33D59F8",
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I have given you the necessary items to use in the case! Check the caravan's chest and carefully read what each item is for.",
-    "str": "ฉันมอบสิ่งของที่จำเป็นสำหรับใช้ในกรณีนี้ให้คุณแล้ว! "
+    "str": "ฉันมอบสิ่งของที่จำเป็นสำหรับใช้ในกรณีนี้ให้คุณแล้ว! ลองตรวจสอบกล่องและตรวจสอบอุปกรณ์ให้ละเอียดก่อนใช้งาน"
   },
   {
     "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -2349,7 +2349,7 @@
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-    "str": "ยินดีต้อนรับสู่ที่หลบภัย! ที่นี่เป็นเขตปลอดภัย คุณสามารถเริ่มเกมใหม่ในโหมดต่างๆ ได้ที่นี่ คุณลองตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ บนชั้น และยังสามารถปรับแต่งสถานที่นี้ได้อย่างอิสระ ด้วยการเลือกสีบนโต๊ะทำงานของคุณได้อีกด้วย! "
+    "str": "ยินดีต้อนรับสู่เซฟเฮาส์! ที่นี่เป็นเขตปลอดภัย คุณสามารถเริ่มเกมใหม่ในโหมดต่าง ๆ ได้ที่นี่ คุณลองตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ บนชั้น และยังสามารถปรับแต่งสถานที่นี้ได้อย่างอิสระได้อีกด้วย ด้วยการกดปุ่มจานสีบนโต๊ะทำงานของคุณ! "
   },
   {
     "key": "B75DC93941A74B4A564DF389EB387762",
@@ -2655,13 +2655,13 @@
     "key": "F6BDE5474A3477CD35632DB6FFE0323F",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "You will have a case available with various dynamic parameters. It will display information like the current one, and if you don't like it, you can search for a new case in exchange for money. Currently, in tutorial mode, we have limited your interactions; you won't be able to buy, craft, exit the case, or search for a new case.",
-    "str": "คุณจะมีเคสที่พร้อมใช้งานพร้อมพารามิเตอร์แบบไดนามิกต่างๆ มันจะแสดงข้อมูลเหมือนกับข้อมูลปัจจุบัน และถ้าหากคุณไม่ชอบ คุณสามารถเปลี่ยนเคสได้โดยแลกกับเงิน ในโหมดการฝึกสอนขณะนี้ เราได้ทำการจำกัดการโต้ตอบของคุณ คุณจะไม่สามารถซื้อของ ประดิษฐ์สิ่งของ ออกจากเคส หรือค้นหาเคสใหม่ได้"
+    "str": "คุณจะมีเคสที่พร้อมใช้งานพร้อมพารามิเตอร์แบบไดนามิกต่าง ๆ มันจะแสดงข้อมูลเหมือนกับข้อมูลปัจจุบัน และถ้าหากคุณไม่ชอบ คุณสามารถเปลี่ยนเคสได้โดยแลกกับเงิน ในโหมดการฝึกสอนขณะนี้ เราได้ทำการจำกัดการโต้ตอบของคุณ คุณจะไม่สามารถซื้อของ ประดิษฐ์สิ่งของ ออกจากเคส หรือค้นหาเคสใหม่ได้"
   },
   {
     "key": "240CC6A3457918D03B0A80839015CF5E",
     "location": "/Game/UI/career/careerUI.careerUI_C:GetText_4 [Script Bytecode]",
     "id": "The reward will be multiplied by {num} if the robot is activated",
-    "str": "รางวัลจะถูกคูณด้วย {num} หากหุ่นยนต์ถูกเปิดใช้งาน"
+    "str": "รางวัลจะถูกคูณด้วย {num} ถ้าหากหุ่นยนต์ถูกเปิดใช้งาน"
   },
   {
     "key": "074C094B4943E77D1E7501B3B9277A09",
@@ -2913,7 +2913,7 @@
     "key": "D4888E114F99D0A3CD0396AEE5175668",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "multiplayer (optional)",
-    "str": "ผู้เล่นหลายคน (เลือกได้)"
+    "str": "ผู้เล่นหลายคน (ตามต้องการ)"
   },
   {
     "key": "DB314878420CFAC0AE8E41A7B10CE3A3",
@@ -3087,7 +3087,7 @@
     "key": "27F0561948852E1FB316F9A6EAEB5841",
     "location": "/Game/UI/gameMenu.gameMenu_C:GetText_1 [Script Bytecode]",
     "id": "Streak of {days} consecutive days!",
-    "str": "ติดต่อกัน {days} วัน!"
+    "str": "เล่นติดต่อกันแล้ว {days} วัน!"
   },
   {
     "key": "49B315454A07028DFEC0AD8B9D05C3FA",
@@ -3519,7 +3519,7 @@
     "key": "6C83DA6D4FA3B0A1533DFA8D160E04FA",
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_7.Text",
     "id": "You have lost 100% of the robot's reward for not discovering the impostor",
-    "str": "คุณสูญเสียรางวัลของหุ่นยนต์ไป 100% จากการไม่พบผู้แอบอ้าง"
+    "str": "คุณสูญเสียรางวัลของหุ่นยนต์ไป 100% เนื่องจากไม่สามารถหา Impostor ได้"
   },
   {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
@@ -3633,7 +3633,7 @@
     "key": "94FF044043C9EB2D2028E3BD0E5E62CF",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(14).Options.Label",
     "id": "Pulses",
-    "str": "พัลส์"
+    "str": "ชีพจร"
   },
   {
     "key": "D88E40CD4F08D4197DDCDF86C29D097C",
@@ -3975,7 +3975,7 @@
     "key": "20F643D0433786C0252EBF9BC0704CDC",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
     "id": "The game will use the system's default microphone. Changing it requires a restart.",
-    "str": "เกมจะใช้ไมโครโฟนเริ่มต้นของระบบ การเปลี่ยนแปลงต้องรีสตาร์ท"
+    "str": "เกมจะใช้ไมโครโฟนแบบเริ่มต้นของระบบ หลังจากเปลี่ยนแปลงแล้วต้องทำการรีสตาร์ทเกม"
   },
   {
     "key": "2DE4F4264AEB90D45B2363B38034FA9E",
@@ -4023,7 +4023,7 @@
     "key": "A7315029485656AEDD7500947B3C4E5B",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_57.Text",
     "id": "This option will only be available on Easy difficulty.",
-    "str": "ตัวเลือกนี้จะใช้ได้เฉพาะในระดับความง่าย"
+    "str": "ตัวเลือกนี้จะใช้ได้เฉพาะในระดับความง่ายเท่านั้น"
   },
   {
     "key": "8BFB53E5448C16FA230515968C3ABF0A",
@@ -4071,7 +4071,7 @@
     "key": "933B001A4A8DE48AB89B0E934C10E394",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_69.Text",
     "id": "Filter",
-    "str": "กรอง"
+    "str": "ฟิลเตอร์"
   },
   {
     "key": "BC06960A474C65DE361B3CB2C89626B3",
@@ -4083,7 +4083,7 @@
     "key": "3DBC5EBC49FC8E185982FAAAD0A10C1C",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_70.Text",
     "id": "Robot Volume",
-    "str": "ปริมาณหุ่นยนต์"
+    "str": "ระดับเสียงหุ่นยนต์"
   },
   {
     "key": "4B42EDC74552B167B6C050B42EED7773",
@@ -4161,13 +4161,13 @@
     "key": "EBE268F84D4CEBE50AAF908A7823DF79",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.dislikes_2.Text",
     "id": "Find the imposter and keep it in the bag",
-    "str": "หา Impostor แล้วเก็บไว้ในกระเป๋า"
+    "str": "ค้นหา Impostor แล้วเก็บไว้ในกระเป๋า"
   },
   {
     "key": "7B34A441429642B9DA52218285A1BB2A",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.energy.Text",
     "id": "Turn on the electricity",
-    "str": "เปิดไฟฟ้า"
+    "str": "เปิดระบบไฟฟ้า"
   },
   {
     "key": "5C75D8784B911BE2B7CA58A94B235798",
@@ -4185,7 +4185,7 @@
     "key": "8204CCFA44B783AD08234F8DE4E4D11B",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.TextBlock_21.Text",
     "id": "Todo list",
-    "str": "รายการสิ่งที่ต้องทำ"
+    "str": "รายการที่ต้องทำ"
   },
   {
     "key": "54288BFC4059AA21CBC614AA74C19EBE",
