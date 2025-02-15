@@ -237,7 +237,7 @@
       "key": "C53301F94E23646EB809A29EA74DFB65",
       "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
       "id": "Show robot",
-      "str": "Afficher le robot"
+      "str": "Activer le Robot"
   },
   {
       "key": "0590A39240854404475C3696E14AF5A8",
@@ -3069,7 +3069,7 @@
       "key": "0A9B45DB40B3BFE34DF53CB9717F18AC",
       "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text",
       "id": "Restart game",
-      "str": "Redémarrez le jeu"
+      "str": "Redémarrer la partie"
   },
   {
       "key": "2CB05BB340AA7F8DFF600E83A23BDADD",
@@ -3327,7 +3327,7 @@
       "key": "DCC8B59542A6483748795F9617F86F55",
       "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
       "id": "Open lobby",
-      "str": "Salon Ouvert"
+      "str": "Ouvrir un Salon"
   },
   {
       "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
@@ -3345,7 +3345,7 @@
       "key": "1F08FDF0468D51F7E028E1BB99CD5292",
       "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_8.Text",
       "id": "Your tickets",
-      "str": "Vos billets"
+      "str": "Vos Tickets"
   },
   {
       "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -3399,7 +3399,7 @@
       "key": "575CEFFD4FA0D19F96B3A99FF6AEFBE1",
       "location": "/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_4.Text",
       "id": "Did you like it?",
-      "str": "Avez-vous apprécié?"
+      "str": "Avez-vous apprécié ?"
   },
   {
       "key": "D82E9CC948B03153A925558746DD99F2",
@@ -4173,7 +4173,7 @@
       "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
       "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
       "id": "Win cases",
-      "str": "Gagner des affaires"
+      "str": "Affaires Gagnées"
   },
   {
       "key": "467D9B7144D32E320B1C6AA6D55B95B5",
