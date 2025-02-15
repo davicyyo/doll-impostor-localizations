@@ -237,7 +237,7 @@
     "key": "C53301F94E23646EB809A29EA74DFB65",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Show robot",
-    "str": "Afficher le robot"
+    "str": "Activer le Robot"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -828,9 +828,9 @@
     "str": "Élixir qui révèle l'amitié"
   },
   {
-    "key": "3476372A4D2230003B5F31ACAEA21E85",
+    "key": "7EB47B9449369EB3E3F18C972CC18786",
     "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
-    "id": "Elixir that reveals enemity",
+    "id": "Elixir that reveals enmity",
     "str": "Élixir qui révèle l'Inimitié"
   },
   {
@@ -3069,7 +3069,7 @@
     "key": "0A9B45DB40B3BFE34DF53CB9717F18AC",
     "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text",
     "id": "Restart game",
-    "str": "Redémarrez le jeu"
+    "str": "Redémarrer la partie"
   },
   {
     "key": "2CB05BB340AA7F8DFF600E83A23BDADD",
@@ -3327,7 +3327,7 @@
     "key": "DCC8B59542A6483748795F9617F86F55",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
     "id": "Open lobby",
-    "str": "Salon Ouvert"
+    "str": "Ouvrir un Salon"
   },
   {
     "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
@@ -3345,7 +3345,7 @@
     "key": "1F08FDF0468D51F7E028E1BB99CD5292",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_8.Text",
     "id": "Your tickets",
-    "str": "Vos billets"
+    "str": "Vos Tickets"
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -3399,7 +3399,7 @@
     "key": "575CEFFD4FA0D19F96B3A99FF6AEFBE1",
     "location": "/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_4.Text",
     "id": "Did you like it?",
-    "str": "Avez-vous apprécié?"
+    "str": "Avez-vous apprécié ?"
   },
   {
     "key": "D82E9CC948B03153A925558746DD99F2",
@@ -3522,10 +3522,22 @@
     "str": "Vous avez perdu 100% de la récompense du robot pour ne pas avoir découvert l'imposteur"
   },
   {
+    "key": "1D673DF841A45FC990837A9CBDDFC571",
+    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
+    "id": "Steam Voice System",
+    "str": "Système vocal Steam"
+  },
+  {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "For the changes to take effect, restart the game",
     "str": "Pour que les modifications prennent effet, redémarrez le jeu"
+  },
+  {
+    "key": "E8901D12461C4AAEEB67119A16A280B4",
+    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
+    "id": "Doll Impostor uses Steam's voice system. If you want to configure the microphone, you can do so through Steam's interface in the Voice tab.",
+    "str": "Doll Impostor utilise le système vocal de Steam. Si vous souhaitez configurer le microphone, vous pouvez le faire via l'interface de Steam dans l'onglet Voix."
   },
   {
     "key": "D59D437D4A5623BB300F15B9DEB2DFC9",
@@ -3972,10 +3984,10 @@
     "str": "Qualité de l'Ombrage"
   },
   {
-    "key": "20F643D0433786C0252EBF9BC0704CDC",
+    "key": "71DA9AC944078FAD69976DAAA19A68C0",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text",
-    "id": "The game will use the system's default microphone. Changing it requires a restart.",
-    "str": "Le jeu utilisera le microphone par défaut du système. Le changer nécessite un redémarrage."
+    "id": "Volumetric Fog Quality",
+    "str": "Qualité du Brouillard Volumétrique"
   },
   {
     "key": "2DE4F4264AEB90D45B2363B38034FA9E",
@@ -4068,6 +4080,24 @@
     "str": "Afficher les noms des joueurs"
   },
   {
+    "key": "9D87E5734B41DDCF1802E394C0061907",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_65.Text",
+    "id": "Voice input device",
+    "str": "Périphérique de saisie vocale"
+  },
+  {
+    "key": "199866AE428EABE43FCECCAFBC7C0483",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_66.Text",
+    "id": "Steam settings",
+    "str": "Paramètres Steam"
+  },
+  {
+    "key": "F57A01E14C44815332D53ABD582EA66E",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_67.Text",
+    "id": "Once the changes are made, it requires a restart",
+    "str": "Une fois les modifications apportées, cela nécessite un redémarrage"
+  },
+  {
     "key": "933B001A4A8DE48AB89B0E934C10E394",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_69.Text",
     "id": "Filter",
@@ -4143,7 +4173,7 @@
     "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
     "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
     "id": "Win cases",
-    "str": "Gagner des affaires"
+    "str": "Affaires Gagnées"
   },
   {
     "key": "467D9B7144D32E320B1C6AA6D55B95B5",
