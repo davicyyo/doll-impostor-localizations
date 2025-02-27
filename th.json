@@ -9,7 +9,7 @@
     "key": "FA639CDD4018768675D08E937A324AF2",
     "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
     "id": "Weekly Leaderboard Endless",
-    "str": "ลีดเดอร์บอร์ดประจำสัปดาห์ไม่มีที่สิ้นสุด"
+    "str": "กระดานผู้นำประจำสัปดาห์ไม่มีที่สิ้นสุด"
   },
   {
     "key": "100DA204405F9111E1C236B3FF176270",
@@ -165,19 +165,19 @@
     "key": "31F028F14458C827E8B896A573933074",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've broken your new weekly record with {new} nights! of the {old} nights before!",
-    "str": "คุณได้ทำลายสถิติใหม่ประจำสัปดาห์ของคุณด้วย {new} คืน! "
+    "str": "คุณได้ทำลายสถิติใหม่ประจำสัปดาห์ของคุณด้วยจำนวน {new} คืน! "
   },
   {
     "key": "57040D874D4ECC42E93EEBA119A420B0",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your weekly record of {old} nights",
-    "str": "คุณมี {new} คืนคุณยังไม่สามารถเอาชนะบันทึกประจำสัปดาห์ของคุณได้ที่ {old} nights"
+    "str": "คุณมี {new} คืน ที่คุณยังไม่สามารถเอาชนะบันทึกประจำสัปดาห์ของคุณที่ {old} คืน ได้"
   },
   {
     "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your global record of {old} nights",
-    "str": "คุณมี {new} คืนคุณยังไม่สามารถเอาชนะบันทึกระดับโลกของคุณในคืน {old} nights"
+    "str": "คุณมี {new} คืน ที่คุณยังไม่สามารถเอาชนะบันทึกระดับโลกของคุณที่ {old} คืน ได้ "
   },
   {
     "key": "97F7579E41A844AC5D7FDDAB706274C6",
@@ -201,7 +201,7 @@
     "key": "C6A5EF874754CC2689ADB69E1CF529FE",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've broken your new global record with {new} nights! of the {old} nights before!",
-    "str": "คุณได้ทำลายสถิติโลกใหม่ของคุณด้วย {new} คืน! "
+    "str": "คุณได้ทำลายสถิติใหม่ในระดับโลกของคุณด้วยจำนวน {new} คืน! "
   },
   {
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
@@ -441,7 +441,7 @@
     "key": "3FE7DD094BD2D76BA8B7BC975328185E",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Inventory Box where you can share objects with other players in your lobby",
-    "str": "กล่องสินค้าคงคลังที่คุณสามารถแบ่งปันวัตถุกับผู้เล่นคนอื่น ๆ ในล็อบบี้ของคุณ"
+    "str": "คุณสามารถแบ่งปันอุปกรณ์กับผู้เล่นคนอื่น ๆ ได้จากกล่องสินค้าคงคลังในล็อบบี้ของคุณได้"
   },
   {
     "key": "6411F5FC448D9766116676924D091830",
@@ -453,7 +453,7 @@
     "key": "248912CB4D92726E9643E1AC09AF929C",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_0.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the Doll Impostor playlist radio",
-    "str": "ปลดล็อกวิทยุเพลย์ลิสต์ตัวหลอกลวงตุ๊กตา"
+    "str": "ปลดล็อกวิทยุเพลย์ลิสต์ Doll Impostor"
   },
   {
     "key": "B75EFA334329B52DD906DC8C54262916",
@@ -471,13 +471,13 @@
     "key": "768293AA49D6732C57669FAC91A3F198",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
     "id": "Guess who room",
-    "str": "เดาว่าใครห้อง"
+    "str": "ห้องเล่นบุคคลปริศนา"
   },
   {
     "key": "E0F0C61A4E3FA26397234BA16ACDD9DE",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_2.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the guard robot in your lobby, it will be peaceful",
-    "str": "ปลดล็อกหุ่นยนต์ยามในล็อบบี้ของคุณมันจะสงบสุข"
+    "str": "ปลดล็อกหุ่นยนต์ลาดตระเวนในล็อบบี้เพื่อความสงบสุขของคุณ"
   },
   {
     "key": "DB95D1FA4F747BA6B54643824F6731AA",
@@ -2283,7 +2283,7 @@
     "key": "046B76E840D9FECA7307A2B3B07E3645",
     "location": "/Game/functions/itemFunctions.itemFunctions_C:equipItems [Script Bytecode]",
     "id": "You can only equip a maximum of {x} items",
-    "str": "คุณสามารถใส่อุปกรณ์ได้สูงสุด {x} รายการ"
+    "str": "คุณสามารถใส่อุปกรณ์ได้สูงสุด {x} รายการ เท่านั้น"
   },
   {
     "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
@@ -2349,91 +2349,91 @@
     "key": "029B765A4F68CB6CDCC148AF5BBA2E93",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "We shall meet again... somewhere else.",
-    "str": "เราจะได้พบกันอีกครั้ง ... ที่อื่น"
+    "str": "เราจะได้พบกันอีกครั้ง ... ในที่ใดซักแห่ง"
   },
   {
     "key": "1B78D2B546450B245D7FEF8436E4A4CB",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Fate will cross our paths again.",
-    "str": "โชคชะตาจะข้ามเส้นทางของเราอีกครั้ง"
+    "str": "โชคชะตาจะพาให้เรามาพบกันอีกครั้ง"
   },
   {
     "key": "1E9530574969BD3390A057982A8ADBB3",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "An honor to have shared lag with you.",
-    "str": "เกียรติที่ได้แบ่งปันความล่าช้ากับคุณ"
+    "str": "เป็นเกียรติที่ได้แบ่งกันความรู้สึกที่ดีกับคุณ"
   },
   {
     "key": "210966B1438A8794A13CD198E4D58B37",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Epic match! May the bugs always be with us.",
-    "str": "การแข่งขันมหากาพย์! "
+    "str": "การแข่งขันอันกล้าหาญ! ขอจงอยู่กับเราตลอดไป"
   },
   {
     "key": "26F317714EFF63CB9F7B9F817CF8125C",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It wasn’t luck, it was destiny.",
-    "str": "มันไม่โชคดีมันเป็นโชคชะตา"
+    "str": "ไม่ใช่เรื่องบังเอิญ แต่มันเป็นโชคชะตา"
   },
   {
     "key": "4D23C5CA4EB057CE6E40CC80C89EC5FB",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "One more step in our gaming story.",
-    "str": "อีกก้าวหนึ่งในเรื่องราวการเล่นเกมของเรา"
+    "str": "เป็นอีกก้าวหนึ่งในเรื่องราวการเล่นเกมของเรา"
   },
   {
     "key": "65E9ED0F4443E3F584BD3EA799519E28",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "This was not our last match.",
-    "str": "นี่ไม่ใช่นัดสุดท้ายของเรา"
+    "str": "ครั้งนี่จะไม่ใช่นัดสุดท้ายของเรา"
   },
   {
     "key": "6C928E3D409261E7EA2609B47E286EA2",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It was a pleasure sharing a match, see you in another one.",
-    "str": "มันเป็นความสุขที่แบ่งปันการแข่งขันเจอกันอีกครั้ง"
+    "str": "เป็นความสุขที่อยากแบ่งปันอีก แล้วเจอกันใหม่ในรอบหน้า"
   },
   {
     "key": "7611E28141CB4F315E69D4A911220F8C",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "You were the MVP in my heart, even if not on the scoreboard.",
-    "str": "คุณเป็น MVP ในใจของฉันแม้ว่าจะไม่ได้อยู่บนกระดานคะแนนก็ตาม"
+    "str": "คุณคือ MVP ในใจฉันเลย แม้ว่าจะไม่ได้อยู่บนกระดานคะแนนก็ตาม"
   },
   {
     "key": "8B08FC8D435C7783D1A5AAACD8B00B3D",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It was fun playing with you, let's do it again soon!",
-    "str": "มันสนุกกับการเล่นกับคุณมาทำมันอีกครั้งเร็ว ๆ นี้!"
+    "str": "มันช่างสนุกกับการเล่นเกมกับคุณ เรามาเล่นกันใหม่เร็ว ๆ นี้!"
   },
   {
     "key": "9A4F977440B30028B7A056A91FB8F0A1",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "I enjoyed playing with you, see you next time!",
-    "str": "ฉันสนุกกับการเล่นกับคุณเจอกันครั้งต่อไป!"
+    "str": "ฉันสนุกกับการเล่นกับคุณมาก เจอกันครั้งต่อไป!"
   },
   {
     "key": "DC4760E443CE4902DCA99AB981DDF978",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Good game, though I'm still wondering what happened there.",
-    "str": "เกมที่ดีแม้ว่าฉันจะยังคงสงสัยว่าเกิดอะไรขึ้นที่นั่น"
+    "str": "เป็นเกมที่ดี แม้ฉันยังไม่รู้ว่าเกิดอะไรขึ้นที่นั่น"
   },
   {
     "key": "E7484B2747CB11E478EBE7AF6523F710",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Good game! Hope to see you again.",
-    "str": "เกมที่ดี! "
+    "str": "เป็นเกมที่ดีมาก! หวังว่าจะได้พบกันอีก"
   },
   {
     "key": "E867EDC04CEEFA4761304DB9E045A22F",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "We survived (or almost), that’s already an achievement.",
-    "str": "เรารอดชีวิตมาได้ (หรือเกือบ) นั่นเป็นความสำเร็จแล้ว"
+    "str": "เรารอดชีวิตมาได้ (หรือเกือบไม่รอด) ก็ถือว่าเราประสบความสำเร็จแล้ว"
   },
   {
     "key": "EF4702EA4EFDD26ED06C3CB15D3059F3",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Good company, good game. See you around!",
-    "str": "บริษัท ที่ดีเกมที่ดี "
+    "str": "เป็นเกมที่ดี แล้วเจอกันใหม่! "
   },
   {
     "key": "EF176B2A4BCEA55C2F438CB60C8AC601",
@@ -2505,13 +2505,13 @@
     "key": "9A2BA8AD46FB871F204232B31F7E2465",
     "location": "/Game/levels/houseMap.houseMap:PersistentLevel.infoTrigger_C_1.description",
     "id": "You're trying to sleep in this bed... in this house... with these possessed dolls. Sounds like a terrible idea. Better head to the caravan—at least there, nothing will watch you sleep... probably.",
-    "str": "คุณกำลังพยายามนอนบนเตียงนี้ ... ในบ้านหลังนี้ ... กับตุ๊กตาที่ถูกครอบงำเหล่านี้ "
+    "str": "คุณกำลังพยายามนอนบนเตียงนี้ ... ภายในบ้านหลังนี้ ... กับตุ๊กตาที่ถูกผีสิงเหล่านี้ มันเป็นไอเดียที่ไม่ควรทำอย่างยิ่ง เราคิดว่าการกลับไปนอนที่รถตู้ของคุณเป็นทางออกที่ดีกว่า อาจจะไม่มีใครมาแอบดูตอนคุณนอนหลับได้ ... ก็เป็นได้"
   },
   {
     "key": "C117437C4A0C8D8570FA27995BFCC2F2",
     "location": "/Game/levels/houseMap.houseMap:PersistentLevel.infoTrigger_C_1.title",
     "id": "Nice try... but you wouldn't want to sleep here!",
-    "str": "ลองดี ... แต่คุณไม่อยากนอนที่นี่!"
+    "str": "พยายามได้ดี ... แต่คุณไม่ควรมานอนที่นี่นะ!"
   },
   {
     "key": "F487E2A843DF53EB6108BB96F58E32BC",
@@ -2787,7 +2787,7 @@
     "key": "A54F37AD4B04FC9EC886C6A8FED7D1F3",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Your cases have been purged.",
-    "str": "กรณีของคุณถูกกำจัด"
+    "str": "เคสของคุณได้เคลียร์หมดแล้ว"
   },
   {
     "key": "AE1DC03A4DE0A9637C9F3FA115C15F1E",
@@ -2961,13 +2961,13 @@
     "key": "1020029349D166BCDD13B3BD47A65070",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_31.Text",
     "id": "Purge cases",
-    "str": "กรณีล้าง"
+    "str": "เคลียร์เคส"
   },
   {
     "key": "071F2C1141BD2426BEA4269FE066DEFF",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_32.Text",
     "id": "This will delete all your cases except the last one, to keep track of the cases.",
-    "str": "สิ่งนี้จะลบกรณีทั้งหมดของคุณยกเว้นกรณีสุดท้ายเพื่อติดตามกรณี"
+    "str": "สิ่งนี้จะทำให้คุณลบเคสทั้งหมด ยกเว้นเคสล่าสุด เพื่อเป็นการติดตามเคสเอาไว้"
   },
   {
     "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
@@ -3141,13 +3141,13 @@
     "key": "A081117442D49E705B12F0A39C05191F",
     "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_1_Text [Script Bytecode]",
     "id": "Employee of week",
-    "str": "พนักงานประจำสัปดาห์"
+    "str": "พนักงานดีเด่นประจำสัปดาห์"
   },
   {
     "key": "CF3199204E05DD1583F260B6FB731ABD",
     "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_7_Text [Script Bytecode]",
     "id": "Streak days",
-    "str": "วัน"
+    "str": "วันที่เล่นติดต่อกัน"
   },
   {
     "key": "4191F3C04D16D6B588127484A538B7E5",
@@ -4281,19 +4281,19 @@
     "key": "5F3A8B94430029F272E6B087EFFE6C79",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_66.Text",
     "id": "Clear all achievements",
-    "str": "ล้างความสำเร็จทั้งหมด"
+    "str": "เคลียร์ความสำเร็จทั้งหมด"
   },
   {
     "key": "7DAA5504439C77D6D132F88F80DC083D",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_67.Text",
     "id": "Purge all Steam cloud save",
-    "str": "ล้างคลาวด์ไอน้ำทั้งหมดบันทึก"
+    "str": "ล้าง save Steam cloud ทั้งหมด"
   },
   {
     "key": "FF55AC7148DC82901808C0AE258E41BF",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_68.Text",
     "id": "Purge local save",
-    "str": "ล้างข้อมูลในท้องถิ่น"
+    "str": "ล้าง local save"
   },
   {
     "key": "933B001A4A8DE48AB89B0E934C10E394",
@@ -4341,7 +4341,7 @@
     "key": "11F9C64645C559D22EC13CBF95B6B34B",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_75.Text",
     "id": "Shake",
-    "str": "สั่นคลอน"
+    "str": "เขย่า"
   },
   {
     "key": "E6E5563145CE2732C896519D18711948",
@@ -4365,7 +4365,7 @@
     "key": "4F25154F492889931F8B37B7A8085613",
     "location": "/Game/UI/signs.signs_C:WidgetTree.TextBlock_4.Text",
     "id": "No signs yet",
-    "str": "ยังไม่มีสัญญาณ"
+    "str": "ไม่มีสัญญาณ"
   },
   {
     "key": "4B70F7494C37681AE0AA74BE49283C5F",
