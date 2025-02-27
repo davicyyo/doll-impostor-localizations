@@ -1,5 +1,17 @@
 [
   {
+    "key": "2DEA68154A30209AA0698497E47F9DA9",
+    "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
+    "id": "Leaderboard Endless",
+    "str": "Classement Sans Fin"
+  },
+  {
+    "key": "FA639CDD4018768675D08E937A324AF2",
+    "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
+    "id": "Weekly Leaderboard Endless",
+    "str": "Classement hebdomadaire sans fin"
+  },
+  {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
@@ -150,16 +162,22 @@
     "str": "{player} a quitté la partie"
   },
   {
-    "key": "798C9DA54AB7FB8B77443DA0EE442098",
+    "key": "31F028F14458C827E8B896A573933074",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-    "id": "Go to Safe House",
-    "str": "Aller au Refuge"
+    "id": "You've broken your new weekly record with {new} nights! of the {old} nights before!",
+    "str": "Vous avez battu votre nouveau record hebdomadaire avec {new} nuits! "
   },
   {
-    "key": "8098B1CA4AED33E029A8D4878EE21A49",
+    "key": "57040D874D4ECC42E93EEBA119A420B0",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-    "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-    "str": "Vous avez battu votre ancien record de {old} nuits ! Votre nouveau record est de {new} nuits !"
+    "id": "You've got {new} nights, you haven't managed to beat your weekly record of {old} nights",
+    "str": "Vous avez des nuits {new}, vous n'avez pas réussi à battre votre record hebdomadaire de {old} nuits"
+  },
+  {
+    "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
+    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+    "id": "You've got {new} nights, you haven't managed to beat your global record of {old} nights",
+    "str": "Vous avez des nuits {new}, vous n'avez pas réussi à battre votre dossier mondial de {old} nuits"
   },
   {
     "key": "97F7579E41A844AC5D7FDDAB706274C6",
@@ -180,6 +198,12 @@
     "str": "Félicitations !"
   },
   {
+    "key": "C6A5EF874754CC2689ADB69E1CF529FE",
+    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+    "id": "You've broken your new global record with {new} nights! of the {old} nights before!",
+    "str": "Vous avez battu votre nouveau record mondial avec {new} Nuits! "
+  },
+  {
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} joined the game",
@@ -190,12 +214,6 @@
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "Oh no...",
     "str": "Oh non..."
-  },
-  {
-    "key": "FC67115746EDB65A022A51B4C1176418",
-    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-    "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-    "str": "Vous avez battu {new} nuits, vous n'avez pas réussi à battre votre record de {old} nuits."
   },
   {
     "key": "0525435A4091E8021EFF0D8B98CE9BC4",
@@ -418,6 +436,54 @@
     "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
     "id": "PC Right Side",
     "str": "Côté Droit du PC"
+  },
+  {
+    "key": "3FE7DD094BD2D76BA8B7BC975328185E",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.description_11_824BF2764BEA15D0E158889D98A10228",
+    "id": "Inventory Box where you can share objects with other players in your lobby",
+    "str": "Boîte d'inventaire où vous pouvez partager des objets avec d'autres joueurs dans votre hall"
+  },
+  {
+    "key": "6411F5FC448D9766116676924D091830",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
+    "id": "Inventory box",
+    "str": "Boîte d'inventaire"
+  },
+  {
+    "key": "248912CB4D92726E9643E1AC09AF929C",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_0.description_11_824BF2764BEA15D0E158889D98A10228",
+    "id": "Unlock the Doll Impostor playlist radio",
+    "str": "Déverrouillez la radio de playlist de l'imposteur de poupée"
+  },
+  {
+    "key": "B75EFA334329B52DD906DC8C54262916",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_0.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
+    "id": "Radio",
+    "str": "Radio"
+  },
+  {
+    "key": "19DDC502474EF80CF581C28691820477",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.description_11_824BF2764BEA15D0E158889D98A10228",
+    "id": "Unlock the Guess Who room in your lobby",
+    "str": "Débloquez la supposition de qui dans votre hall"
+  },
+  {
+    "key": "768293AA49D6732C57669FAC91A3F198",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
+    "id": "Guess who room",
+    "str": "Devinez qui était de la place"
+  },
+  {
+    "key": "E0F0C61A4E3FA26397234BA16ACDD9DE",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_2.description_11_824BF2764BEA15D0E158889D98A10228",
+    "id": "Unlock the guard robot in your lobby, it will be peaceful",
+    "str": "Déverrouiller le robot de garde dans votre hall, ce sera paisible"
+  },
+  {
+    "key": "DB95D1FA4F747BA6B54643824F6731AA",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_2.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
+    "id": "Robot",
+    "str": "Robot"
   },
   {
     "key": "D249146742516BB46178BA859A421873",
@@ -2214,6 +2280,18 @@
     "str": "La cible n'a pas été détectée, essayez de mieux mettre au point et de rester à une distance spécifique où toute la cible peut être vue"
   },
   {
+    "key": "046B76E840D9FECA7307A2B3B07E3645",
+    "location": "/Game/functions/itemFunctions.itemFunctions_C:equipItems [Script Bytecode]",
+    "id": "You can only equip a maximum of {x} items",
+    "str": "Vous ne pouvez équiper qu'un maximum de {x} objets"
+  },
+  {
+    "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
+    "location": "/Game/functions/itemFunctions.itemFunctions_C:equipItems [Script Bytecode]",
+    "id": "Some of the elements you already have equipped",
+    "str": "Certains des éléments que vous avez déjà équipés"
+  },
+  {
     "key": "FDEB25754C7E891058DB1A97A81A0820",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
     "id": "You couldn't join the game because {reason}",
@@ -2266,6 +2344,96 @@
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
     "id": "Require Energy",
     "str": "Nécéssite de l'Énergie"
+  },
+  {
+    "key": "029B765A4F68CB6CDCC148AF5BBA2E93",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "We shall meet again... somewhere else.",
+    "str": "Nous nous reverrons ... ailleurs."
+  },
+  {
+    "key": "1B78D2B546450B245D7FEF8436E4A4CB",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Fate will cross our paths again.",
+    "str": "Le destin traversera à nouveau nos chemins."
+  },
+  {
+    "key": "1E9530574969BD3390A057982A8ADBB3",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "An honor to have shared lag with you.",
+    "str": "Un honneur d'avoir partagé le décalage avec vous."
+  },
+  {
+    "key": "210966B1438A8794A13CD198E4D58B37",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Epic match! May the bugs always be with us.",
+    "str": "Match épique! "
+  },
+  {
+    "key": "26F317714EFF63CB9F7B9F817CF8125C",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "It wasn’t luck, it was destiny.",
+    "str": "Ce n'était pas de la chance, c'était le destin."
+  },
+  {
+    "key": "4D23C5CA4EB057CE6E40CC80C89EC5FB",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "One more step in our gaming story.",
+    "str": "Un pas de plus dans notre histoire de jeu."
+  },
+  {
+    "key": "65E9ED0F4443E3F584BD3EA799519E28",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "This was not our last match.",
+    "str": "Ce n'était pas notre dernier match."
+  },
+  {
+    "key": "6C928E3D409261E7EA2609B47E286EA2",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "It was a pleasure sharing a match, see you in another one.",
+    "str": "Ce fut un plaisir de partager un match, à voir dans un autre."
+  },
+  {
+    "key": "7611E28141CB4F315E69D4A911220F8C",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "You were the MVP in my heart, even if not on the scoreboard.",
+    "str": "Vous étiez le MVP dans mon cœur, même si ce n'était pas sur le tableau de bord."
+  },
+  {
+    "key": "8B08FC8D435C7783D1A5AAACD8B00B3D",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "It was fun playing with you, let's do it again soon!",
+    "str": "C'était amusant de jouer avec vous, refaisons-le bientôt!"
+  },
+  {
+    "key": "9A4F977440B30028B7A056A91FB8F0A1",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "I enjoyed playing with you, see you next time!",
+    "str": "J'ai aimé jouer avec vous, à la prochaine fois!"
+  },
+  {
+    "key": "DC4760E443CE4902DCA99AB981DDF978",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Good game, though I'm still wondering what happened there.",
+    "str": "Bon jeu, même si je me demande toujours ce qui s'est passé là-bas."
+  },
+  {
+    "key": "E7484B2747CB11E478EBE7AF6523F710",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Good game! Hope to see you again.",
+    "str": "Bon jeu! "
+  },
+  {
+    "key": "E867EDC04CEEFA4761304DB9E045A22F",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "We survived (or almost), that’s already an achievement.",
+    "str": "Nous avons survécu (ou presque), c'est déjà une réussite."
+  },
+  {
+    "key": "EF4702EA4EFDD26ED06C3CB15D3059F3",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Good company, good game. See you around!",
+    "str": "Bonne compagnie, bon jeu. "
   },
   {
     "key": "EF176B2A4BCEA55C2F438CB60C8AC601",
@@ -2332,6 +2500,18 @@
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Inventory",
     "str": "Inventaire"
+  },
+  {
+    "key": "9A2BA8AD46FB871F204232B31F7E2465",
+    "location": "/Game/levels/houseMap.houseMap:PersistentLevel.infoTrigger_C_1.description",
+    "id": "You're trying to sleep in this bed... in this house... with these possessed dolls. Sounds like a terrible idea. Better head to the caravan—at least there, nothing will watch you sleep... probably.",
+    "str": "Vous essayez de dormir dans ce lit ... dans cette maison ... avec ces poupées possédées. "
+  },
+  {
+    "key": "C117437C4A0C8D8570FA27995BFCC2F2",
+    "location": "/Game/levels/houseMap.houseMap:PersistentLevel.infoTrigger_C_1.title",
+    "id": "Nice try... but you wouldn't want to sleep here!",
+    "str": "Bien essayé ... mais vous ne voudriez pas dormir ici!"
   },
   {
     "key": "F487E2A843DF53EB6108BB96F58E32BC",
@@ -2550,18 +2730,6 @@
     "str": "Cartes disponibles"
   },
   {
-    "key": "1AD3B9FF4F838BC05D16AEA7C3C82A31",
-    "location": "/Game/UI/card.card_C:WidgetTree.TextBlock.Text",
-    "id": "Purchase",
-    "str": "Achat"
-  },
-  {
-    "key": "F68D053E414CC5AAB4628ABC06C5BC1C",
-    "location": "/Game/UI/card.card_C:WidgetTree.TextBlock_3.Text",
-    "id": "Sell",
-    "str": "Vendre"
-  },
-  {
     "key": "97AE09524959F5C7075F568F4047B1A7",
     "location": "/Game/UI/cardPurchable.cardPurchable_C:GetText [Script Bytecode]",
     "id": "Price: {price}",
@@ -2578,12 +2746,6 @@
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
     "str": "Vous avez maintenant accepté l'affaire. En dehors du didacticiel, vous pourrez abandonner l'affaire à tout moment, mais plus trouver de nouvelles affaires une fois que vous l'aurez acceptée. Une fois compris, voyagez jusqu'à l'emplacement lorsque vous êtes prêt."
-  },
-  {
-    "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
-    "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
-    "id": "You cannot travel when there are players in your safehouse who have not completed the tutorial for career mode.",
-    "str": "Vous ne pouvez pas voyager quand des joueurs n'ayant pas complété le tutoriel du mode carrière sont présent dans votre refuge."
   },
   {
     "key": "3E89DE624ACBA88C4179C9852E9C70AD",
@@ -2620,6 +2782,12 @@
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Career Mode",
     "str": "Mode Carrière"
+  },
+  {
+    "key": "A54F37AD4B04FC9EC886C6A8FED7D1F3",
+    "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+    "id": "Your cases have been purged.",
+    "str": "Vos cas ont été purgés."
   },
   {
     "key": "AE1DC03A4DE0A9637C9F3FA115C15F1E",
@@ -2790,6 +2958,18 @@
     "str": "Réinitialiser le Mode Carrière"
   },
   {
+    "key": "1020029349D166BCDD13B3BD47A65070",
+    "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_31.Text",
+    "id": "Purge cases",
+    "str": "Caisses de purge"
+  },
+  {
+    "key": "071F2C1141BD2426BEA4269FE066DEFF",
+    "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_32.Text",
+    "id": "This will delete all your cases except the last one, to keep track of the cases.",
+    "str": "Cela supprimera tous vos cas sauf le dernier, pour garder une trace des cas."
+  },
+  {
     "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_5.Text",
     "id": "Buy All",
@@ -2824,18 +3004,6 @@
     "location": "/Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]",
     "id": "{count} days",
     "str": "{count} jours"
-  },
-  {
-    "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
-    "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
-    "id": "Some of the elements you already have equipped",
-    "str": "Certains des éléments que vous avez déjà équipés"
-  },
-  {
-    "key": "046B76E840D9FECA7307A2B3B07E3645",
-    "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
-    "id": "You can only equip a maximum of {x} items",
-    "str": "Vous ne pouvez équiper qu'un maximum de {x} objets"
   },
   {
     "key": "F4678833417F67BF4FB742B959AD7E80",
@@ -2928,6 +3096,12 @@
     "str": "Récompense Récupérée"
   },
   {
+    "key": "BE0B31354A5A7B3192DFA6BB958679BE",
+    "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_1.Text",
+    "id": "Daily challenge",
+    "str": "Défi quotidien"
+  },
+  {
     "key": "9B6292A84A111FF42D574085642D7D63",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_14.Text",
     "id": "Claim reward",
@@ -2956,6 +3130,30 @@
     "location": "/Game/UI/confirm.Default__confirm_C.DismissButton",
     "id": "Deny",
     "str": "Refuser"
+  },
+  {
+    "key": "F99D56D545BB046A33792D96F6883D65",
+    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_11_Text [Script Bytecode]",
+    "id": "Achievements",
+    "str": "Réalisations"
+  },
+  {
+    "key": "A081117442D49E705B12F0A39C05191F",
+    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_1_Text [Script Bytecode]",
+    "id": "Employee of week",
+    "str": "Employé de la semaine"
+  },
+  {
+    "key": "CF3199204E05DD1583F260B6FB731ABD",
+    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_7_Text [Script Bytecode]",
+    "id": "Streak days",
+    "str": "Jours de séquence"
+  },
+  {
+    "key": "4191F3C04D16D6B588127484A538B7E5",
+    "location": "/Game/UI/customizer.customizer_C:WidgetTree.DefaultSpinner_1.Options(0).Options.Label",
+    "id": "Customize",
+    "str": "Personnaliser"
   },
   {
     "key": "2BB11678432B1B25F353A1A7B4A35E7E",
@@ -3042,12 +3240,6 @@
     "str": "VOUS AVEZ PERDU"
   },
   {
-    "key": "96BE28504D901245DE1115BF00D47E10",
-    "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
-    "id": "Action Details",
-    "str": "Détails des Actions"
-  },
-  {
     "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
     "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
     "id": "You didn't close the door",
@@ -3060,6 +3252,12 @@
     "str": "Rejouer"
   },
   {
+    "key": "798C9DA54AB7FB8B77443DA0EE442098",
+    "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
+    "id": "Go to Safe House",
+    "str": "Aller au Refuge"
+  },
+  {
     "key": "F699B0844A39D7ABCF0260916BF5F41B",
     "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock.Text",
     "id": "Invite players",
@@ -3070,6 +3268,18 @@
     "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text",
     "id": "Restart game",
     "str": "Redémarrer la partie"
+  },
+  {
+    "key": "1F66019F447C68AA3AEE3A8D1EBEECAA",
+    "location": "/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]",
+    "id": "Buy",
+    "str": "Acheter"
+  },
+  {
+    "key": "30ED8E4E4C558463E5B1609F5B9BB29F",
+    "location": "/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]",
+    "id": "Bought",
+    "str": "Acheté"
   },
   {
     "key": "2CB05BB340AA7F8DFF600E83A23BDADD",
@@ -3088,18 +3298,6 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:GetText_1 [Script Bytecode]",
     "id": "Streak of {days} consecutive days!",
     "str": "Séquence de {days} jours consécutifs !"
-  },
-  {
-    "key": "49B315454A07028DFEC0AD8B9D05C3FA",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
-    "id": "Global",
-    "str": "Global"
-  },
-  {
-    "key": "834E072547D98D80C120CD87A16FA4D6",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
-    "id": "Friends",
-    "str": "Amis"
   },
   {
     "key": "BF4FA5364C39224BE93EC080C21FF285",
@@ -3130,12 +3328,6 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
     "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
     "str": "Vous avez trouvé toutes les preuves et les informations à propos des poupées, mais elles sont complètement aléatoire pour chaque poupée."
-  },
-  {
-    "key": "11739C0E41A20499E9C760B853C45A40",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
-    "id": "Back",
-    "str": "Retour"
   },
   {
     "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -3174,24 +3366,6 @@
     "str": "Extras"
   },
   {
-    "key": "AB6B64D64932C68A8743709693AF267B",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
-    "id": "Position",
-    "str": "Position"
-  },
-  {
-    "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_21.Text",
-    "id": "Name",
-    "str": "Nom"
-  },
-  {
-    "key": "901E40384D0FE3FAD3508F98408C18C7",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_22.Text",
-    "id": "Nights",
-    "str": "Nuits"
-  },
-  {
     "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
     "id": "As you unlock new levels, new ones will appear!",
@@ -3202,18 +3376,6 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
     "id": "New Game",
     "str": "Nouvelle Partie"
-  },
-  {
-    "key": "C57783D7420781183A6283BAE805F52F",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text",
-    "id": "Daily challenge",
-    "str": "Défi Journalier"
-  },
-  {
-    "key": "2DEA68154A30209AA0698497E47F9DA9",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text",
-    "id": "Leaderboard Endless",
-    "str": "Classement Sans Fin"
   },
   {
     "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -3250,6 +3412,18 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
     "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
     "str": "La difficulté standard pour chaque joueur, tous les indices seront donnés à 08h00, vous avez la possibilité de voir les noms des poupées et la liste des actions de l'imposteur."
+  },
+  {
+    "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
+    "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text",
+    "id": "Name",
+    "str": "Nom"
+  },
+  {
+    "key": "D82E9CC948B03153A925558746DD99F2",
+    "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text",
+    "id": "Password",
+    "str": "Mot-de-passe"
   },
   {
     "key": "41A1A89A4ADCC9D9F94EABA4A93A05DB",
@@ -3372,6 +3546,18 @@
     "str": "Code de Salon"
   },
   {
+    "key": "AB6B64D64932C68A8743709693AF267B",
+    "location": "/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_20.Text",
+    "id": "Position",
+    "str": "Position"
+  },
+  {
+    "key": "901E40384D0FE3FAD3508F98408C18C7",
+    "location": "/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text",
+    "id": "Nights",
+    "str": "Nuits"
+  },
+  {
     "key": "2CDD0CEC4E31721F7E60268C06941859",
     "location": "/Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]",
     "id": "The ticket has been created, do you want to see it?",
@@ -3402,12 +3588,6 @@
     "str": "Avez-vous apprécié ?"
   },
   {
-    "key": "D82E9CC948B03153A925558746DD99F2",
-    "location": "/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]",
-    "id": "Password",
-    "str": "Mot-de-passe"
-  },
-  {
     "key": "36DAFDA641D110060CAB6BBD14FE3722",
     "location": "/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]",
     "id": "Continue",
@@ -3424,6 +3604,12 @@
     "location": "/Game/UI/notebook.Default__notebook_C.titles(1).titles",
     "id": "Doll List",
     "str": "Liste des poupées"
+  },
+  {
+    "key": "834E072547D98D80C120CD87A16FA4D6",
+    "location": "/Game/UI/paperInterface.paperInterface_C:GetText_0 [Script Bytecode]",
+    "id": "Friends",
+    "str": "Amis"
   },
   {
     "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -3522,6 +3708,18 @@
     "str": "Vous avez perdu 100% de la récompense du robot pour ne pas avoir découvert l'imposteur"
   },
   {
+    "key": "1FEC6BF54861A572D22E959A41960743",
+    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
+    "id": "Are you sure?",
+    "str": "Es-tu sûr?"
+  },
+  {
+    "key": "278B569940F273D601053B97FD50AC6B",
+    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
+    "id": "This action cannot be undone.",
+    "str": "Cette action ne peut pas être annulée."
+  },
+  {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "For the changes to take effect, restart the game",
@@ -3592,6 +3790,12 @@
     "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(4).Options.Label",
     "id": "Input Settings",
     "str": "Paramètres des Contrôles"
+  },
+  {
+    "key": "5CB127A3485E81E42B473984FAD83220",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(5).Options.Label",
+    "id": "Data Settings",
+    "str": "Paramètres de données"
   },
   {
     "key": "5E1F07F9481BBCB9286540A9845DA7DD",
@@ -4068,6 +4272,30 @@
     "str": "Afficher les noms des joueurs"
   },
   {
+    "key": "53A5F3684B1F84B1F9A0AFA2B1C6B539",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_65.Text",
+    "id": "Reset all stats",
+    "str": "Réinitialisez toutes les statistiques"
+  },
+  {
+    "key": "5F3A8B94430029F272E6B087EFFE6C79",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_66.Text",
+    "id": "Clear all achievements",
+    "str": "Effacer toutes les réalisations"
+  },
+  {
+    "key": "7DAA5504439C77D6D132F88F80DC083D",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_67.Text",
+    "id": "Purge all Steam cloud save",
+    "str": "Purger tous les nuages ​​de vapeur sauvegarder"
+  },
+  {
+    "key": "FF55AC7148DC82901808C0AE258E41BF",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_68.Text",
+    "id": "Purge local save",
+    "str": "Purge Save local"
+  },
+  {
     "key": "933B001A4A8DE48AB89B0E934C10E394",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_69.Text",
     "id": "Filter",
@@ -4092,6 +4320,36 @@
     "str": "Basculer le verrou"
   },
   {
+    "key": "6825277540EC01C05B094C81655574A0",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_72.Text",
+    "id": "Reset all game data",
+    "str": "Réinitialisez toutes les données de jeu"
+  },
+  {
+    "key": "E143975C40D6C30516F06AA9DA4171AE",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_73.Text",
+    "id": "Warning [Screen space] in (VR) can cause flashing.",
+    "str": "Avertissement [Espace d'écran] dans (VR) peut provoquer un clignotement."
+  },
+  {
+    "key": "AD460B994229EF2082F3E6AC24B1C826",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_74.Text",
+    "id": "Gamepad scroll",
+    "str": "GamePad Scroll"
+  },
+  {
+    "key": "11F9C64645C559D22EC13CBF95B6B34B",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_75.Text",
+    "id": "Shake",
+    "str": "Secouer"
+  },
+  {
+    "key": "E6E5563145CE2732C896519D18711948",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_76.Text",
+    "id": "VR Interface Pointer",
+    "str": "Pointeur d'interface VR"
+  },
+  {
     "key": "7826866B435A8EE313772C8979CA261B",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
     "id": "Jumpscares Volume",
@@ -4102,6 +4360,18 @@
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
     "id": "Footsteps Volume",
     "str": "Volume des Pas"
+  },
+  {
+    "key": "4F25154F492889931F8B37B7A8085613",
+    "location": "/Game/UI/signs.signs_C:WidgetTree.TextBlock_4.Text",
+    "id": "No signs yet",
+    "str": "Aucun signe encore"
+  },
+  {
+    "key": "4B70F7494C37681AE0AA74BE49283C5F",
+    "location": "/Game/UI/signs.signs_C:WidgetTree.TextBlock_62.Text",
+    "id": "Sign",
+    "str": "Signe"
   },
   {
     "key": "E83704FB46F7B20DD3FF688CFE41B9CC",
@@ -4234,6 +4504,18 @@
     "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
     "id": "Action Dolls",
     "str": "Actions des Poupées"
+  },
+  {
+    "key": "11739C0E41A20499E9C760B853C45A40",
+    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+    "id": "Back",
+    "str": "Retour"
+  },
+  {
+    "key": "96BE28504D901245DE1115BF00D47E10",
+    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_2.Text",
+    "id": "Action Details",
+    "str": "Détails des Actions"
   },
   {
     "key": "37F6FE7147465126D16EBCAB90C1274D",

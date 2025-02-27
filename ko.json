@@ -1,5 +1,17 @@
 [
   {
+    "key": "2DEA68154A30209AA0698497E47F9DA9",
+    "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
+    "id": "Leaderboard Endless",
+    "str": "끝없는 리더보드"
+  },
+  {
+    "key": "FA639CDD4018768675D08E937A324AF2",
+    "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
+    "id": "Weekly Leaderboard Endless",
+    "str": "주간 리더 보드 끝이 없습니다"
+  },
+  {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
@@ -150,16 +162,22 @@
     "str": "{player}이(가) 게임에서 나가요"
   },
   {
-    "key": "798C9DA54AB7FB8B77443DA0EE442098",
+    "key": "31F028F14458C827E8B896A573933074",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-    "id": "Go to Safe House",
-    "str": "안전가옥으로 이동"
+    "id": "You've broken your new weekly record with {new} nights! of the {old} nights before!",
+    "str": "당신은 {new} nights로 새로운 주간 레코드를 깨뜨 렸습니다! "
   },
   {
-    "key": "8098B1CA4AED33E029A8D4878EE21A49",
+    "key": "57040D874D4ECC42E93EEBA119A420B0",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-    "id": "You've broken your new record with {new} nights! of the {old} nights before!",
-    "str": "{new}박으로 새로운 기록을 경신하셨습니다! 이전 {old}박보다!"
+    "id": "You've got {new} nights, you haven't managed to beat your weekly record of {old} nights",
+    "str": "당신은 {new} 밤이 있습니다. 당신은 {old} 밤의 주간 기록을 이길 수 없었습니다."
+  },
+  {
+    "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
+    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+    "id": "You've got {new} nights, you haven't managed to beat your global record of {old} nights",
+    "str": "당신은 {new} 밤이 있습니다. 당신은 {old} 밤의 글로벌 레코드를 이길 수 없었습니다."
   },
   {
     "key": "97F7579E41A844AC5D7FDDAB706274C6",
@@ -180,6 +198,12 @@
     "str": "축하해요!"
   },
   {
+    "key": "C6A5EF874754CC2689ADB69E1CF529FE",
+    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+    "id": "You've broken your new global record with {new} nights! of the {old} nights before!",
+    "str": "당신은 {new} nights로 새로운 글로벌 레코드를 깨뜨 렸습니다! "
+  },
+  {
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} joined the game",
@@ -190,12 +214,6 @@
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "Oh no...",
     "str": "아 안돼..."
-  },
-  {
-    "key": "FC67115746EDB65A022A51B4C1176418",
-    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
-    "id": "You've got {new} nights, you haven't managed to beat your record of {old} nights",
-    "str": "현재 {new}박을 유지하고 있지만 {old}박의 기록을 깨지 못했습니다."
   },
   {
     "key": "0525435A4091E8021EFF0D8B98CE9BC4",
@@ -418,6 +436,54 @@
     "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_8.label_17_E97135F84728B1D3E2D91DAE099E4D25",
     "id": "PC Right Side",
     "str": "PC 오른쪽"
+  },
+  {
+    "key": "3FE7DD094BD2D76BA8B7BC975328185E",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.description_11_824BF2764BEA15D0E158889D98A10228",
+    "id": "Inventory Box where you can share objects with other players in your lobby",
+    "str": "로비에서 다른 플레이어와 물건을 공유 할 수있는 인벤토리 박스"
+  },
+  {
+    "key": "6411F5FC448D9766116676924D091830",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
+    "id": "Inventory box",
+    "str": "인벤토리 박스"
+  },
+  {
+    "key": "248912CB4D92726E9643E1AC09AF929C",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_0.description_11_824BF2764BEA15D0E158889D98A10228",
+    "id": "Unlock the Doll Impostor playlist radio",
+    "str": "Doll Impostor Playlist Radio의 잠금을 해제하십시오"
+  },
+  {
+    "key": "B75EFA334329B52DD906DC8C54262916",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_0.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
+    "id": "Radio",
+    "str": "라디오"
+  },
+  {
+    "key": "19DDC502474EF80CF581C28691820477",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.description_11_824BF2764BEA15D0E158889D98A10228",
+    "id": "Unlock the Guess Who room in your lobby",
+    "str": "로비의 공간을 추측 할 수 있습니다"
+  },
+  {
+    "key": "768293AA49D6732C57669FAC91A3F198",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
+    "id": "Guess who room",
+    "str": "누가 방을 맞춰보세요"
+  },
+  {
+    "key": "E0F0C61A4E3FA26397234BA16ACDD9DE",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_2.description_11_824BF2764BEA15D0E158889D98A10228",
+    "id": "Unlock the guard robot in your lobby, it will be peaceful",
+    "str": "로비에서 가드 로봇의 잠금을 해제하면 평화 롭습니다."
+  },
+  {
+    "key": "DB95D1FA4F747BA6B54643824F6731AA",
+    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_2.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
+    "id": "Robot",
+    "str": "기계 인간"
   },
   {
     "key": "D249146742516BB46178BA859A421873",
@@ -2214,6 +2280,18 @@
     "str": "표적이 감지되지 않았습니다. 더 초점을 맞추고 표적 전체를 볼 수 있는 특정 거리에 머물도록 하십시오."
   },
   {
+    "key": "046B76E840D9FECA7307A2B3B07E3645",
+    "location": "/Game/functions/itemFunctions.itemFunctions_C:equipItems [Script Bytecode]",
+    "id": "You can only equip a maximum of {x} items",
+    "str": "최대 {x}개의 아이템만 장착할 수 있습니다."
+  },
+  {
+    "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
+    "location": "/Game/functions/itemFunctions.itemFunctions_C:equipItems [Script Bytecode]",
+    "id": "Some of the elements you already have equipped",
+    "str": "이미 장착한 일부 요소"
+  },
+  {
     "key": "FDEB25754C7E891058DB1A97A81A0820",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
     "id": "You couldn't join the game because {reason}",
@@ -2266,6 +2344,96 @@
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getRequireEnergyText [Script Bytecode]",
     "id": "Require Energy",
     "str": "에너지 필요"
+  },
+  {
+    "key": "029B765A4F68CB6CDCC148AF5BBA2E93",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "We shall meet again... somewhere else.",
+    "str": "우리는 다시 만날 것입니다 ... 다른 곳에서."
+  },
+  {
+    "key": "1B78D2B546450B245D7FEF8436E4A4CB",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Fate will cross our paths again.",
+    "str": "운명은 우리의 길을 다시 건너 갈 것입니다."
+  },
+  {
+    "key": "1E9530574969BD3390A057982A8ADBB3",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "An honor to have shared lag with you.",
+    "str": "당신과 지연을 공유하게되어 영광입니다."
+  },
+  {
+    "key": "210966B1438A8794A13CD198E4D58B37",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Epic match! May the bugs always be with us.",
+    "str": "서사시 경기! "
+  },
+  {
+    "key": "26F317714EFF63CB9F7B9F817CF8125C",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "It wasn’t luck, it was destiny.",
+    "str": "운이 좋지 않았고 운명이었습니다."
+  },
+  {
+    "key": "4D23C5CA4EB057CE6E40CC80C89EC5FB",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "One more step in our gaming story.",
+    "str": "게임 스토리에서 한 걸음 더 한 단계."
+  },
+  {
+    "key": "65E9ED0F4443E3F584BD3EA799519E28",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "This was not our last match.",
+    "str": "이것은 우리의 마지막 경기가 아니 었습니다."
+  },
+  {
+    "key": "6C928E3D409261E7EA2609B47E286EA2",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "It was a pleasure sharing a match, see you in another one.",
+    "str": "경기를 나누는 것이 기뻤습니다. 다른 경기에서 만나요."
+  },
+  {
+    "key": "7611E28141CB4F315E69D4A911220F8C",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "You were the MVP in my heart, even if not on the scoreboard.",
+    "str": "당신은 스코어 보드에 있지 않더라도 내 마음에 MVP였습니다."
+  },
+  {
+    "key": "8B08FC8D435C7783D1A5AAACD8B00B3D",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "It was fun playing with you, let's do it again soon!",
+    "str": "당신과 함께 노는 것이 재미 있었어요, 곧 다시 해보자!"
+  },
+  {
+    "key": "9A4F977440B30028B7A056A91FB8F0A1",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "I enjoyed playing with you, see you next time!",
+    "str": "나는 당신과 함께 노는 것을 즐겼습니다. 다음에 만나요!"
+  },
+  {
+    "key": "DC4760E443CE4902DCA99AB981DDF978",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Good game, though I'm still wondering what happened there.",
+    "str": "좋은 게임이지만 아직 무슨 일이 있었는지 궁금합니다."
+  },
+  {
+    "key": "E7484B2747CB11E478EBE7AF6523F710",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Good game! Hope to see you again.",
+    "str": "좋은 게임! "
+  },
+  {
+    "key": "E867EDC04CEEFA4761304DB9E045A22F",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "We survived (or almost), that’s already an achievement.",
+    "str": "우리는 살아 남았습니다."
+  },
+  {
+    "key": "EF4702EA4EFDD26ED06C3CB15D3059F3",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Good company, good game. See you around!",
+    "str": "좋은 회사, 좋은 게임. "
   },
   {
     "key": "EF176B2A4BCEA55C2F438CB60C8AC601",
@@ -2332,6 +2500,18 @@
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "Inventory",
     "str": "목록"
+  },
+  {
+    "key": "9A2BA8AD46FB871F204232B31F7E2465",
+    "location": "/Game/levels/houseMap.houseMap:PersistentLevel.infoTrigger_C_1.description",
+    "id": "You're trying to sleep in this bed... in this house... with these possessed dolls. Sounds like a terrible idea. Better head to the caravan—at least there, nothing will watch you sleep... probably.",
+    "str": "당신은이 침대에서 잠을 자려고 노력하고 있습니다 ...이 집에서 ...이 인형과 함께. "
+  },
+  {
+    "key": "C117437C4A0C8D8570FA27995BFCC2F2",
+    "location": "/Game/levels/houseMap.houseMap:PersistentLevel.infoTrigger_C_1.title",
+    "id": "Nice try... but you wouldn't want to sleep here!",
+    "str": "좋은 시도 ...하지만 여기서 자고 싶지 않을 것입니다!"
   },
   {
     "key": "F487E2A843DF53EB6108BB96F58E32BC",
@@ -2550,18 +2730,6 @@
     "str": "사용 가능한 카드"
   },
   {
-    "key": "1AD3B9FF4F838BC05D16AEA7C3C82A31",
-    "location": "/Game/UI/card.card_C:WidgetTree.TextBlock.Text",
-    "id": "Purchase",
-    "str": "구입"
-  },
-  {
-    "key": "F68D053E414CC5AAB4628ABC06C5BC1C",
-    "location": "/Game/UI/card.card_C:WidgetTree.TextBlock_3.Text",
-    "id": "Sell",
-    "str": "팔다"
-  },
-  {
     "key": "97AE09524959F5C7075F568F4047B1A7",
     "location": "/Game/UI/cardPurchable.cardPurchable_C:GetText [Script Bytecode]",
     "id": "Price: {price}",
@@ -2578,12 +2746,6 @@
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
     "str": "이제 사례를 수락했습니다. 튜토리얼 외에 언제든지 사례를 포기할 수 있지만 일단 수락하면 새 사례를 찾을 수 없습니다.. 이 문제가 해결되면 준비가 되면 해당 위치로 이동합니다."
-  },
-  {
-    "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
-    "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
-    "id": "You cannot travel when there are players in your safehouse who have not completed the tutorial for career mode.",
-    "str": "은신처에 커리어 모드 튜토리얼을 완료하지 않은 플레이어가 있으면 여행할 수 없습니다."
   },
   {
     "key": "3E89DE624ACBA88C4179C9852E9C70AD",
@@ -2620,6 +2782,12 @@
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Career Mode",
     "str": "커리어 모드"
+  },
+  {
+    "key": "A54F37AD4B04FC9EC886C6A8FED7D1F3",
+    "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
+    "id": "Your cases have been purged.",
+    "str": "당신의 사건은 정화되었습니다."
   },
   {
     "key": "AE1DC03A4DE0A9637C9F3FA115C15F1E",
@@ -2790,6 +2958,18 @@
     "str": "커리어 모드 재설정"
   },
   {
+    "key": "1020029349D166BCDD13B3BD47A65070",
+    "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_31.Text",
+    "id": "Purge cases",
+    "str": "퍼지 케이스"
+  },
+  {
+    "key": "071F2C1141BD2426BEA4269FE066DEFF",
+    "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_32.Text",
+    "id": "This will delete all your cases except the last one, to keep track of the cases.",
+    "str": "이것은 사건을 추적하기 위해 마지막 사례를 제외한 모든 사례를 제외한 모든 사례를 삭제합니다."
+  },
+  {
     "key": "5A417E174DAE0F1865DA91B85DC6AFF4",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_5.Text",
     "id": "Buy All",
@@ -2824,18 +3004,6 @@
     "location": "/Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]",
     "id": "{count} days",
     "str": "{count}일"
-  },
-  {
-    "key": "046B76E840D9FECA7307A2B3B07E3645",
-    "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
-    "id": "You can only equip a maximum of {x} items",
-    "str": "최대 {x}개의 아이템만 장착할 수 있습니다."
-  },
-  {
-    "key": "D3C6D63B4A98961E44BEEB8EC2FEF2D1",
-    "location": "/Game/UI/career/chestUI.chestUI_C:ExecuteUbergraph_chestUI [Script Bytecode]",
-    "id": "Some of the elements you already have equipped",
-    "str": "이미 장착한 일부 요소"
   },
   {
     "key": "F4678833417F67BF4FB742B959AD7E80",
@@ -2928,6 +3096,12 @@
     "str": "보상 청구"
   },
   {
+    "key": "BE0B31354A5A7B3192DFA6BB958679BE",
+    "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_1.Text",
+    "id": "Daily challenge",
+    "str": "매일 도전"
+  },
+  {
     "key": "9B6292A84A111FF42D574085642D7D63",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_14.Text",
     "id": "Claim reward",
@@ -2956,6 +3130,30 @@
     "location": "/Game/UI/confirm.Default__confirm_C.DismissButton",
     "id": "Deny",
     "str": "부인하다"
+  },
+  {
+    "key": "F99D56D545BB046A33792D96F6883D65",
+    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_11_Text [Script Bytecode]",
+    "id": "Achievements",
+    "str": "업적"
+  },
+  {
+    "key": "A081117442D49E705B12F0A39C05191F",
+    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_1_Text [Script Bytecode]",
+    "id": "Employee of week",
+    "str": "일주일의 직원"
+  },
+  {
+    "key": "CF3199204E05DD1583F260B6FB731ABD",
+    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_7_Text [Script Bytecode]",
+    "id": "Streak days",
+    "str": "줄무늬 일"
+  },
+  {
+    "key": "4191F3C04D16D6B588127484A538B7E5",
+    "location": "/Game/UI/customizer.customizer_C:WidgetTree.DefaultSpinner_1.Options(0).Options.Label",
+    "id": "Customize",
+    "str": "사용자 정의하십시오"
   },
   {
     "key": "2BB11678432B1B25F353A1A7B4A35E7E",
@@ -3042,12 +3240,6 @@
     "str": "당신은 패배"
   },
   {
-    "key": "96BE28504D901245DE1115BF00D47E10",
-    "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
-    "id": "Action Details",
-    "str": "작업 세부정보"
-  },
-  {
     "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
     "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
     "id": "You didn't close the door",
@@ -3060,6 +3252,12 @@
     "str": "다시 하다"
   },
   {
+    "key": "798C9DA54AB7FB8B77443DA0EE442098",
+    "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
+    "id": "Go to Safe House",
+    "str": "안전가옥으로 이동"
+  },
+  {
     "key": "F699B0844A39D7ABCF0260916BF5F41B",
     "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock.Text",
     "id": "Invite players",
@@ -3070,6 +3268,18 @@
     "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text",
     "id": "Restart game",
     "str": "게임을 다시 시작하십시오"
+  },
+  {
+    "key": "1F66019F447C68AA3AEE3A8D1EBEECAA",
+    "location": "/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]",
+    "id": "Buy",
+    "str": "구입하다"
+  },
+  {
+    "key": "30ED8E4E4C558463E5B1609F5B9BB29F",
+    "location": "/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]",
+    "id": "Bought",
+    "str": "구입했다"
   },
   {
     "key": "2CB05BB340AA7F8DFF600E83A23BDADD",
@@ -3088,18 +3298,6 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:GetText_1 [Script Bytecode]",
     "id": "Streak of {days} consecutive days!",
     "str": "연속으로 {days}일 연속!"
-  },
-  {
-    "key": "49B315454A07028DFEC0AD8B9D05C3FA",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
-    "id": "Global",
-    "str": "글로벌"
-  },
-  {
-    "key": "834E072547D98D80C120CD87A16FA4D6",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.DefaultSpinner.Options(1).Options.Label",
-    "id": "Friends",
-    "str": "친구"
   },
   {
     "key": "BF4FA5364C39224BE93EC080C21FF285",
@@ -3130,12 +3328,6 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
     "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
     "str": "당신은 인형에 대한 모든 단서와 모든 정보를 가지고 있지만 이것은 각 인형에 대해 완전히 무작위입니다."
-  },
-  {
-    "key": "11739C0E41A20499E9C760B853C45A40",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
-    "id": "Back",
-    "str": "뒤쪽에"
   },
   {
     "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -3174,24 +3366,6 @@
     "str": "엑스트라"
   },
   {
-    "key": "AB6B64D64932C68A8743709693AF267B",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
-    "id": "Position",
-    "str": "위치"
-  },
-  {
-    "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_21.Text",
-    "id": "Name",
-    "str": "이름"
-  },
-  {
-    "key": "901E40384D0FE3FAD3508F98408C18C7",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_22.Text",
-    "id": "Nights",
-    "str": "밤"
-  },
-  {
     "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
     "id": "As you unlock new levels, new ones will appear!",
@@ -3202,18 +3376,6 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
     "id": "New Game",
     "str": "새로운 게임"
-  },
-  {
-    "key": "C57783D7420781183A6283BAE805F52F",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text",
-    "id": "Daily challenge",
-    "str": "일일 도전"
-  },
-  {
-    "key": "2DEA68154A30209AA0698497E47F9DA9",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text",
-    "id": "Leaderboard Endless",
-    "str": "끝없는 리더보드"
   },
   {
     "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -3250,6 +3412,18 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
     "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
     "str": "각 플레이어의 표준 난이도, 모든 단서는 08:00에 생성됩니다. 인형 이름과 사기꾼의 행동 목록을 볼 수 있는 옵션이 있습니다."
+  },
+  {
+    "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
+    "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text",
+    "id": "Name",
+    "str": "이름"
+  },
+  {
+    "key": "D82E9CC948B03153A925558746DD99F2",
+    "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text",
+    "id": "Password",
+    "str": "비밀번호"
   },
   {
     "key": "41A1A89A4ADCC9D9F94EABA4A93A05DB",
@@ -3372,6 +3546,18 @@
     "str": "로비 코드"
   },
   {
+    "key": "AB6B64D64932C68A8743709693AF267B",
+    "location": "/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_20.Text",
+    "id": "Position",
+    "str": "위치"
+  },
+  {
+    "key": "901E40384D0FE3FAD3508F98408C18C7",
+    "location": "/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text",
+    "id": "Nights",
+    "str": "밤"
+  },
+  {
     "key": "2CDD0CEC4E31721F7E60268C06941859",
     "location": "/Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]",
     "id": "The ticket has been created, do you want to see it?",
@@ -3402,12 +3588,6 @@
     "str": "마음에 들었나요?"
   },
   {
-    "key": "D82E9CC948B03153A925558746DD99F2",
-    "location": "/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]",
-    "id": "Password",
-    "str": "비밀번호"
-  },
-  {
     "key": "36DAFDA641D110060CAB6BBD14FE3722",
     "location": "/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]",
     "id": "Continue",
@@ -3424,6 +3604,12 @@
     "location": "/Game/UI/notebook.Default__notebook_C.titles(1).titles",
     "id": "Doll List",
     "str": "인형 목록"
+  },
+  {
+    "key": "834E072547D98D80C120CD87A16FA4D6",
+    "location": "/Game/UI/paperInterface.paperInterface_C:GetText_0 [Script Bytecode]",
+    "id": "Friends",
+    "str": "친구"
   },
   {
     "key": "694809A74B440CDD18D181A8C6BA0434",
@@ -3522,6 +3708,18 @@
     "str": "사기꾼을 발견하지 못한 대가로 로봇 보상의 100%을 잃었습니다."
   },
   {
+    "key": "1FEC6BF54861A572D22E959A41960743",
+    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
+    "id": "Are you sure?",
+    "str": "확실합니까?"
+  },
+  {
+    "key": "278B569940F273D601053B97FD50AC6B",
+    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
+    "id": "This action cannot be undone.",
+    "str": "이 조치는 취소 할 수 없습니다."
+  },
+  {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
     "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
     "id": "For the changes to take effect, restart the game",
@@ -3592,6 +3790,12 @@
     "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(4).Options.Label",
     "id": "Input Settings",
     "str": "입력 설정"
+  },
+  {
+    "key": "5CB127A3485E81E42B473984FAD83220",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(5).Options.Label",
+    "id": "Data Settings",
+    "str": "데이터 설정"
   },
   {
     "key": "5E1F07F9481BBCB9286540A9845DA7DD",
@@ -4068,6 +4272,30 @@
     "str": "플레이어 이름 표시"
   },
   {
+    "key": "53A5F3684B1F84B1F9A0AFA2B1C6B539",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_65.Text",
+    "id": "Reset all stats",
+    "str": "모든 통계를 재설정하십시오"
+  },
+  {
+    "key": "5F3A8B94430029F272E6B087EFFE6C79",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_66.Text",
+    "id": "Clear all achievements",
+    "str": "모든 업적을 명확하게하십시오"
+  },
+  {
+    "key": "7DAA5504439C77D6D132F88F80DC083D",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_67.Text",
+    "id": "Purge all Steam cloud save",
+    "str": "모든 증기 구름 저장을 제거하십시오"
+  },
+  {
+    "key": "FF55AC7148DC82901808C0AE258E41BF",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_68.Text",
+    "id": "Purge local save",
+    "str": "지역 저장을 제거하십시오"
+  },
+  {
     "key": "933B001A4A8DE48AB89B0E934C10E394",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_69.Text",
     "id": "Filter",
@@ -4092,6 +4320,36 @@
     "str": "잠금 전환"
   },
   {
+    "key": "6825277540EC01C05B094C81655574A0",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_72.Text",
+    "id": "Reset all game data",
+    "str": "모든 게임 데이터를 재설정합니다"
+  },
+  {
+    "key": "E143975C40D6C30516F06AA9DA4171AE",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_73.Text",
+    "id": "Warning [Screen space] in (VR) can cause flashing.",
+    "str": "(VR)의 경고 [스크린 공간]은 깜박일 수 있습니다."
+  },
+  {
+    "key": "AD460B994229EF2082F3E6AC24B1C826",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_74.Text",
+    "id": "Gamepad scroll",
+    "str": "게임 패드 스크롤"
+  },
+  {
+    "key": "11F9C64645C559D22EC13CBF95B6B34B",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_75.Text",
+    "id": "Shake",
+    "str": "떨림"
+  },
+  {
+    "key": "E6E5563145CE2732C896519D18711948",
+    "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_76.Text",
+    "id": "VR Interface Pointer",
+    "str": "VR 인터페이스 포인터"
+  },
+  {
     "key": "7826866B435A8EE313772C8979CA261B",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text",
     "id": "Jumpscares Volume",
@@ -4102,6 +4360,18 @@
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text",
     "id": "Footsteps Volume",
     "str": "발자국 볼륨"
+  },
+  {
+    "key": "4F25154F492889931F8B37B7A8085613",
+    "location": "/Game/UI/signs.signs_C:WidgetTree.TextBlock_4.Text",
+    "id": "No signs yet",
+    "str": "아직 징후가 없습니다"
+  },
+  {
+    "key": "4B70F7494C37681AE0AA74BE49283C5F",
+    "location": "/Game/UI/signs.signs_C:WidgetTree.TextBlock_62.Text",
+    "id": "Sign",
+    "str": "징후"
   },
   {
     "key": "E83704FB46F7B20DD3FF688CFE41B9CC",
@@ -4234,6 +4504,18 @@
     "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
     "id": "Action Dolls",
     "str": "액션 인형"
+  },
+  {
+    "key": "11739C0E41A20499E9C760B853C45A40",
+    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+    "id": "Back",
+    "str": "뒤쪽에"
+  },
+  {
+    "key": "96BE28504D901245DE1115BF00D47E10",
+    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_2.Text",
+    "id": "Action Details",
+    "str": "작업 세부정보"
   },
   {
     "key": "37F6FE7147465126D16EBCAB90C1274D",
