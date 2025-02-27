@@ -3,7 +3,7 @@
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "Impostor ได้ทำการสวมรอยเป็น {doll} เพื่อทำให้เข้าใจผิดเป็นเวลาหนึ่งชั่วโมงแล้ว และได้ทำการ {action}"
+    "str": "Impostor ได้ทำการสวมรอยเป็น {doll} เพื่อทำให้เข้าใจผิดเป็นเวลาหนึ่งชั่วโมง และได้ทำการ {action}"
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -651,7 +651,7 @@
     "key": "E67B208049756CC3B5F16089AC41B470",
     "location": "/Game/data-tables/itemList.itemList.NewRow_26.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Refreshing green leaves.",
-    "str": "ใบไม้เขียวเพื่มความสดชื่น"
+    "str": "ใบไม้เขียวเพิ่มความสดชื่น"
   },
   {
     "key": "AC46E8C5498572C242CBADA69A94A0A7",
@@ -759,7 +759,7 @@
     "key": "BF1AC59D4D99C0F9E92606B3C78A909C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_34.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A precious gemstone known for its extreme hardness and brilliance, commonly used in jewelry and valued for its purity and rarity.",
-    "str": "อัญมณีอันล้ำค่าขึ้นชื่อเรื่องความแข็ง ความแวววาว และงดงาม เหมาะกับการทำเป็นเครื่องประดับอันทรงคุณค่า มีทั้งความบริสุทธิ์และความหายากที่จะครอบครอง"
+    "str": "อัญมณีอันล้ำค่าขึ้นชื่อเรื่องความแข็งแรง ความแวววาว และงดงาม เหมาะกับการทำเป็นเครื่องประดับอันทรงคุณค่า มีทั้งความบริสุทธิ์และความหายากที่จะครอบครอง"
   },
   {
     "key": "6BF7F5344FD96A246EE841869E9C0DB0",
@@ -2409,19 +2409,19 @@
     "key": "3A4B9B82453A3C78DD066BBB53AFC867",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-    "str": "ตอนนี้เราเหลืออยู่เพียง 3 ตัวเท่านั้น ลองกลับไปตรวจสอบที่ห้องตุ๊กตาเพื่อตรวจดูว่ามีใครขยับหรือโดนย้ายหรือไม่"
+    "str": "ตอนนี้เราเหลืออยู่เพียง 3 ตัวเท่านั้น ลองกลับไปตรวจสอบที่ห้องตุ๊กตาเพื่อตรวจดูว่ามีใครขยับหรือถูกย้ายหรือไม่"
   },
   {
     "key": "47254BE24A91487FA9DB08918BAFEBED",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-    "str": "คุณผ่านการฝึกสอนและรู้พื้นฐานเบื้องต้นแล้ว! กลับไปนอนที่เตียงเพื่อเป็นการจบการฝึกสอนและกลับไปยังเซฟเฮาส์ของคุณ หลังจากนั้นคุณสามารถใช้คอมพิวเตอร์เพื่อเริ่มเกมต่างๆ ได้!"
+    "str": "คุณผ่านการทดสอบและมีความรู้พื้นฐานเบื้องต้นแล้ว! กลับไปนอนที่เตียงเพื่อเป็นการจบแบบทดสอบและกลับไปยังเซฟเฮาส์ของคุณ หลังจากนั้นคุณสามารถใช้คอมพิวเตอร์เพื่อเริ่มเกมต่าง ๆ ได้เลย!"
   },
   {
     "key": "5220ED3742AAD20F53D18B86F110B811",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-    "str": "คุณคือผู้ดูแลตุ๊กตา หนึ่งในนั้นมีชีวิตและวางแผนจะฆ่าคุณ คุณต้องทำการสืบหาหลักฐาน ว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
+    "str": "คุณคือผู้ดูแลตุ๊กตา โดยมีเพียงหนึ่งตัวในนั้นมีชีวิตและวางแผนจะฆ่าคุณ คุณต้องทำการสืบหาหลักฐาน ว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
   },
   {
     "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
@@ -2439,7 +2439,7 @@
     "key": "6621BA854D50DB36041E58AFE9A250D5",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-    "str": "นี่เป็นชั่วโมงสุดท้ายแล้ว เราเหลือเพียงโอกาสเดียวเท่านั้นในการสืบหา ไปที่ห้องตุ๊กตากันเถอะ"
+    "str": "นี่เป็นชั่วโมงสุดท้ายแล้ว เราเหลือเพียงโอกาสเดียวเท่านั้นในการสืบหา ไปสำรวจที่ห้องตุ๊กตากันเถอะ"
   },
   {
     "key": "75DB907D4C3E80ED887ACDA2AADF602C",
@@ -2505,7 +2505,7 @@
     "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-    "str": "เขาติดกับดักของเราแล้ว เขามาปิดไฟที่เราเปิดไว้ ตอนนี้เราสามารถคัดตุ๊กตาที่ชอบแสงไฟออกได้"
+    "str": "เขาติดกับดักของเราแล้ว เขามาปิดไฟที่เราเปิดไว้ ตอนนี้เราสามารถคัดตุ๊กตาที่ชอบแสงไฟออกไปได้"
   },
   {
     "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -2529,7 +2529,7 @@
     "key": "FAD096A047C791A2435446A372491A59",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-    "str": "เราพบ Ricky บนโซฟาและ Monty ที่เปียโน ดังนั้นเราเหลือผู้ต้องสงสัยที่เป็นไปได้ 2 ตัว แต่อย่างไรก็ตามเราจะไม่ลองเสี่ยงโอกาส 50/50 นี้ เราควรกลับไปที่ห้องเพื่อคัดกรองตุ๊กตาที่ไม่เกี่ยวข้องและรอเบาะแสถัดไป"
+    "str": "เราพบ Ricky อยู่บนโซฟาและ Monty ที่เปียโน ดังนั้นเราเหลือผู้ต้องสงสัยที่เป็นไปได้ 2 ตัว แต่อย่างไรก็ตามเราจะไม่เสี่ยงโอกาส 50/50 นี้ แนะนำว่าเราควรกลับไปที่ห้องเพื่อทำการคัดกรองตุ๊กตาที่ไม่เกี่ยวข้องและรอเบาะแสถัดไป"
   },
   {
     "key": "7055F47B466C9C3B47C459A2BDF1373A",
@@ -2577,7 +2577,7 @@
     "key": "09526FC54AA5D1983C1048ACADED01C4",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-    "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณยังสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ แต่จะไม่สามารถหาเคสใหม่ถ้าหากคุณเลือกรับเคสก่อนหน้านี้ไว้แล้ว เมื่อคุณจัดการเรียบร้อยแล้ว ให้เดินทางไปยังสถานที่นั้นเมื่อคุณพร้อม"
+    "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณยังสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ แต่จะไม่สามารถหาเคสใหม่ถ้าหากคุณเลือกรับเคสก่อนหน้านี้ไว้แล้ว เมื่อคุณจัดการเรียบร้อยแล้ว ให้เดินทางไปยังสถานที่นั้นเมื่อคุณเตรียมตัวพร้อมแล้ว"
   },
   {
     "key": "29AEF2C34EFF95CC9931F9BFDE3A81A6",
@@ -2607,13 +2607,13 @@
     "key": "7855004746EF18F049F620BD89F0F99B",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "If you accept, all the products in your inventory will be sold, even if they are not selected.",
-    "str": "หากคุณกดยอมรับ ผลิตภัณฑ์ทั้งหมดในสินค้าคงคลังของคุณจะถูกขาย แม้ว่าคุณจะไม่ได้เลือกไว้ก็ตาม"
+    "str": "หากคุณกดยอมรับ ผลิตภัณฑ์ทั้งหมดในสินค้าคงคลังของคุณจะถูกขายไป แม้ว่าคุณจะไม่ได้เลือกไว้ก็ตาม"
   },
   {
     "key": "7C1F780F43047787285C17A26FC3B81B",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-    "str": "เมื่อคุณทำโหมดฝึกสอนเสร็จแล้ว คุณอาจประสบปัญหาทางการเงิน เราขอเสนอวิธีการแก้ปัญหาเหล่านี้ โดยคุณสามารถเล่นโหมดคลาสสิก และเงินที่ได้รับมากหรือน้อย ขึ้นอยู่กับระดับความยากง่ายตามที่คุณเลือกเคสเอาไว้"
+    "str": "เมื่อคุณทำโหมดฝึกสอนเสร็จแล้ว คุณอาจประสบปัญหาทางการเงิน เราขอเสนอวิธีการแก้ปัญหาเหล่านี้ โดยคุณสามารถเล่นโหมดคลาสสิก และเงินที่ได้รับจะมากหรือน้อย ขึ้นอยู่กับระดับความยากง่ายตามที่คุณได้เลือกเอาไว้"
   },
   {
     "key": "95529FFB4B5C7B8BF0D230810B54E147",
@@ -3015,7 +3015,7 @@
     "key": "FEFFD2EC495732A7FB2D3083906B98F9",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.TextBlock.Text",
     "id": "The box might not be related to the doll performing the action, but to another doll that was moved there earlier.",
-    "str": "กล่องอาจไม่เกี่ยวข้องกับตุ๊กตาที่กำลังแสดงท่าทาง แต่อาจจะเป็นตุ๊กตาตัวอื่นที่ถูกย้ายไปที่นั่นก่อนหน้านี้"
+    "str": "กล่องตุ๊กตาอาจไม่เกี่ยวข้องกับตุ๊กตาที่กำลังแสดงหลักฐานการกระทำ แต่บางทีอาจจะเป็นตุ๊กตาตัวอื่นที่ถูกย้ายไปที่นั่นก่อนหน้านี้แล้ว"
   },
   {
     "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
@@ -3117,7 +3117,7 @@
     "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
     "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-    "str": "เหมาะสำหรับมืออาชีพเท่านั้น เริ่มเวลา 08:00 น. และมีเบาะแสที่สำคัญเพียง 3 อย่างเท่านั้น ไม่มีรูปประกอบและข้อมูลบางส่วนถูกปิดไว้ และเข้าถึงได้บางพื้นที่เท่านั้น"
+    "str": "เหมาะสำหรับมืออาชีพเท่านั้น เริ่มที่เวลา 08:00 น. และมีเบาะแสที่สำคัญเพียง 3 รายการเท่านั้น ไม่มีรูปภาพตุ๊กตาและข้อมูลบางส่วนถูกปิดเอาไว้ รวมถึงถูกจำกัดพื้นที่ในการเข้าถึงแค่บางส่วนเท่านั้น"
   },
   {
     "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -3153,7 +3153,7 @@
     "key": "8C118CF148C516FD54C9BC8FE28F9A95",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
     "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-    "str": "โหมดสุ่มแบบจับเวลา ค้นหาตุ๊กตาและตอบให้ถูกต้องก่อนที่เวลาจะหมด และแลกถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
+    "str": "โหมดสุ่มแบบจับเวลา ค้นหาตุ๊กตาและตอบให้ถูกต้องก่อนที่เวลาจะหมด และรับถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
   },
   {
     "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3165,7 +3165,7 @@
     "key": "5A6092F448BE77B01756FFA578E7435A",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
     "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-    "str": "โหมดสุ่มแบบไม่รู้จบ คุณมีเวลาเพียง 3 นาที ในการสืบหาตุ๊กตาและมีกระดานผู้นำทั่วโลก"
+    "str": "โหมดสุ่มแบบไม่รู้จบ คุณมีเวลาเพียง 3 นาที มีข้อมูลในการสืบหาตุ๊กตาให้ทั้งหมด และมีกระดานผู้นำทั่วโลก"
   },
   {
     "key": "3E3E53D64E987B22AD5967A23BB5AC57",
@@ -3231,13 +3231,13 @@
     "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
     "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-    "str": "เพิ่มระดับความยากมากขึ้น ไม่มีเบาะแสให้เพิ่มเติม คุณไม่สามารถดูรายตุ๊กตาชื่อได้"
+    "str": "เพิ่มระดับความยากเล็กน้อย จะไม่มีเบาะแสให้บนกระดาน และคุณไม่สามารถดูชื่อตุ๊กตาที่ตัวตุ๊กตาได้"
   },
   {
     "key": "DFC327DA4616540509FBF6AA40D0458B",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
     "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-    "str": "โหมดผู้เชี่ยวชาญ เริ่มเวลา 06:00 น. จะไม่มีเบาะแสเพิ่มเติมและไม่มีรูปตุ๊กตาปรากฏ"
+    "str": "โหมดสำหรับผู้เชี่ยวชาญ เริ่มเวลา 06:00 น. เบาะแสลดจำนวนลง และไม่มีรูปภาพตุ๊กตาปรากฏให้"
   },
   {
     "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
@@ -3669,7 +3669,7 @@
     "key": "F3D283B9477F83CAC5A54281AF77384B",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(20).Options.Label",
     "id": "Candy",
-    "str": "ลูกอม"
+    "str": "แคนดี้"
   },
   {
     "key": "C42835B44E24B877F642058AF2281B18",
@@ -4161,7 +4161,7 @@
     "key": "EBE268F84D4CEBE50AAF908A7823DF79",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.dislikes_2.Text",
     "id": "Find the imposter and keep it in the bag",
-    "str": "ค้นหา Impostor แล้วเก็บไว้ในกระเป๋า"
+    "str": "ตามหา Impostor แล้วจับตัวมาเก็บใส่ไว้ในกระเป๋า"
   },
   {
     "key": "7B34A441429642B9DA52218285A1BB2A",
@@ -4179,7 +4179,7 @@
     "key": "BFD9681847D40C8577B0C49731F23FF8",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.soulbook.Text",
     "id": "Use the Book of Souls to Identify the Imposter",
-    "str": "ใช้หนังสือแห่งวิญญาณเพื่อเปิดเผย Impostor"
+    "str": "ใช้หนังสือแห่งวิญญาณเพื่อเปิดเผยตัวตนของ Impostor"
   },
   {
     "key": "8204CCFA44B783AD08234F8DE4E4D11B",
