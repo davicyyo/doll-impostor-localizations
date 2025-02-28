@@ -9,7 +9,7 @@
     "key": "FA639CDD4018768675D08E937A324AF2",
     "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
     "id": "Weekly Leaderboard Endless",
-    "str": "Tabla de clasificación semanal sin fin"
+    "str": "Tabla de clasificación semanal modo infinito"
   },
   {
     "key": "100DA204405F9111E1C236B3FF176270",
@@ -123,7 +123,7 @@
     "key": "51B58C89473E1AE2A37E6A8118DC37C1",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-    "str": "¿Alguna vez te has preguntado de dónde proviene la información sobre las muñecas? ¡En el modo carrera, descubrirás la información sobre las muñecas con casos infinitos, economía, niveles, tienda, crafteo y mucho más!"
+    "str": "¿Alguna vez te has preguntado de dónde proviene la información sobre los muñecos? ¡En el modo carrera, descubrirás la información sobre los muñecos con casos infinitos, economía, niveles, tienda, crafteo y mucho más!"
   },
   {
     "key": "839DA89C42E027A3CA515CA3BC5BE204",
@@ -255,7 +255,7 @@
     "key": "C53301F94E23646EB809A29EA74DFB65",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Show robot",
-    "str": "mostrar robot"
+    "str": "Mostrar robot"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -3279,13 +3279,13 @@
     "key": "30ED8E4E4C558463E5B1609F5B9BB29F",
     "location": "/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]",
     "id": "Bought",
-    "str": "Compró"
+    "str": "Comprado"
   },
   {
     "key": "2CB05BB340AA7F8DFF600E83A23BDADD",
     "location": "/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]",
     "id": "Unavailable",
-    "str": "Indisponible"
+    "str": "No disponible"
   },
   {
     "key": "AD01C42149F1EF55342AAAB262E7D9C8",
@@ -3303,7 +3303,7 @@
     "key": "BF4FA5364C39224BE93EC080C21FF285",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock.Text",
     "id": "Mixed dolls",
-    "str": "Muñecas mixtas"
+    "str": "Muñecos mixtos"
   },
   {
     "key": "EABE87674E476F817EEF85B6E5E00296",
@@ -4365,7 +4365,7 @@
     "key": "4F25154F492889931F8B37B7A8085613",
     "location": "/Game/UI/signs.signs_C:WidgetTree.TextBlock_4.Text",
     "id": "No signs yet",
-    "str": "Todavía no hay señales"
+    "str": "Todavía no hay firmas"
   },
   {
     "key": "4B70F7494C37681AE0AA74BE49283C5F",
@@ -4377,7 +4377,7 @@
     "key": "E83704FB46F7B20DD3FF688CFE41B9CC",
     "location": "/Game/UI/sleepUI.sleepUI_C:WidgetTree.TextBlock_11.Text",
     "id": "Cancel sleep",
-    "str": "cancelar el sueño"
+    "str": "Cancelar dormir"
   },
   {
     "key": "57B4EC5445C5BADF97E3D48264009545",
@@ -4407,7 +4407,7 @@
     "key": "C24AF8B14A567648475D7BB6A3A92BF2",
     "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text",
     "id": "Number of photographs taken of dolls",
-    "str": "Número de fotografías tomadas de las muñecas"
+    "str": "Número de fotografías tomadas de los muñecos"
   },
   {
     "key": "D2D6CDB64FBDE59DEFB55CA83D00110D",
