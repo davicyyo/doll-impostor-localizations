@@ -3,19 +3,19 @@
     "key": "2DEA68154A30209AA0698497E47F9DA9",
     "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
     "id": "Leaderboard Endless",
-    "str": "Nieskończona tablica wyników"
+    "str": "Tablica wyników trybu Endless"
   },
   {
     "key": "FA639CDD4018768675D08E937A324AF2",
     "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
     "id": "Weekly Leaderboard Endless",
-    "str": "Cotygodniowa tablica liderów niekończąca się"
+    "str": "Tygodniowa tablica wyników trybu Endless"
   },
   {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "Oszust wprowadził w błąd, udając {doll} przez godzinę i wykonał akcję {action}."
+    "str": "Impostor wprowadził w błąd, udając {doll} przez godzinę i wykonał akcję {action}."
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -165,19 +165,19 @@
     "key": "31F028F14458C827E8B896A573933074",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've broken your new weekly record with {new} nights! of the {old} nights before!",
-    "str": "Pobrałeś swój nowy cotygodniowy rekord z {new} Nights! "
+    "str": "Pobiłeś swój nowy tygodniowy rekord z {new} nocami! Poprzedni rekord wynosił {old} nocy!"
   },
   {
     "key": "57040D874D4ECC42E93EEBA119A420B0",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your weekly record of {old} nights",
-    "str": "Masz {new} noce, nie udało ci się pokonać cotygodniowych rekordów {old} Nights"
+    "str": "Masz {new} nocy, nie udało ci się pobić swojego tygodniowego rekordu wynoszącego {old} nocy."
   },
   {
     "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your global record of {old} nights",
-    "str": "Masz {new} noce, nie udało ci się pokonać globalnego rekordu {old} Nights"
+    "str": "Masz {new} nocy, nie udało ci się pobić swojego globalnego rekordu wynoszącego {old} nocy."
   },
   {
     "key": "97F7579E41A844AC5D7FDDAB706274C6",
@@ -201,7 +201,7 @@
     "key": "C6A5EF874754CC2689ADB69E1CF529FE",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've broken your new global record with {new} nights! of the {old} nights before!",
-    "str": "Pobijesz swój nowy globalny rekord z {new} noce! "
+    "str": "Pobiłeś swój nowy globalny rekord z {new} nocami! Poprzedni rekord wynosił {old} nocy!"
   },
   {
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
@@ -2523,7 +2523,7 @@
     "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
     "location": "/Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description",
     "id": "Doll Who is a deduction board game where two players try to guess the identity of the character chosen by their opponent. Each player has a board with a series of characters with different traits. By asking yes or no questions about the characters' features (such as whether they have a hat or appeared in the daycare map), players eliminate options until they discover the opponent's character. The first player to guess correctly wins.",
-    "str": "Doll Who to gra planszowa typu dedukcyjnego, w której dwóch graczy stara się odgadnąć tożsamość postaci wybranej przez przeciwnika. Każdy gracz ma planszę z szeregiem postaci o różnych cechach. Zadając pytania, na które można odpowiedzieć \n\n\n\n\ntak\n\n\n\n\n\n lub \n\n\n\n\nie\n\n\n\n\n\n (np. czy postać ma kapelusz lub pojawiła się na mapie przedszkola), gracze eliminują opcje, aż odkryją postać przeciwnika. Pierwszy gracz, który zgadnie poprawnie, wygrywa."
+    "str": "Doll Who to gra planszowa typu dedukcyjnego, w której dwóch graczy stara się odgadnąć tożsamość postaci wybranej przez przeciwnika. Każdy gracz ma planszę z szeregiem postaci o różnych cechach. Zadając pytania, na które można odpowiedzieć tak lub ie (np. czy postać ma kapelusz lub pojawiła się na mapie przedszkola), gracze eliminują opcje, aż odkryją postać przeciwnika. Pierwszy gracz, który zgadnie poprawnie, wygrywa."
   },
   {
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
@@ -4329,7 +4329,7 @@
     "key": "E143975C40D6C30516F06AA9DA4171AE",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_73.Text",
     "id": "Warning [Screen space] in (VR) can cause flashing.",
-    "str": "Ostrzeżenie [przestrzeń ekranowa] w (VR) może powodować miganie."
+    "str": "Ostrzeżenie [Przestrzeń ekranu] w (VR) może powodować migotanie."
   },
   {
     "key": "AD460B994229EF2082F3E6AC24B1C826",
