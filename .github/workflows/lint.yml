@@ -39,7 +39,7 @@ jobs:
       - name: Format JSON Files
         run: |
           # Use Prettier to format JSON files in the root directory, excluding package-lock.json and package.json
-          npx prettier --write . --tab-width 2
+          npx prettier . --write
 
       - name: Commit and Push Changes
         run: |
