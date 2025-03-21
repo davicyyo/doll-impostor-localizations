@@ -288,6 +288,18 @@
     "str": "Du har använt allt du behövde för att använda här."
   },
   {
+    "key": "3CB2A0B24617CF31968FC28E978F4153",
+    "location": "/Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text",
+    "id": "Blueprints",
+    "str": ""
+  },
+  {
+    "key": "F2A8B642470514630D564A877B6C0FD7",
+    "location": "/Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text",
+    "id": "Static Meshes",
+    "str": ""
+  },
+  {
     "key": "8E794D794CCEA0D30D037D8DA2BFD248",
     "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25",
     "id": "Lights",
@@ -1296,6 +1308,132 @@
     "str": "Cirkus"
   },
   {
+    "key": "3D9FD42E45538D66DD5CFBBAC921B9BF",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The winner",
+    "str": ""
+  },
+  {
+    "key": "456D7E5E4F50AB3A38DF2B9E29E8CE9F",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Outcast",
+    "str": ""
+  },
+  {
+    "key": "70DDA86E445DCB6BBB3B31BB8C5DA625",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Lurker",
+    "str": ""
+  },
+  {
+    "key": "83010E2948BC54A397596AB84E5B62A2",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The popular",
+    "str": ""
+  },
+  {
+    "key": "ACCFC2124F7E816A3A1C5FA43F97E9C6",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Speedster",
+    "str": ""
+  },
+  {
+    "key": "852398F5495BF5F04FA860A27630541D",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The challenger",
+    "str": ""
+  },
+  {
+    "key": "2A2583CD4241E272F99066B7CB66F8EF",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Murmurer",
+    "str": ""
+  },
+  {
+    "key": "A2DA993D4C8D5803246FE6BF9A720632",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The King in the North",
+    "str": ""
+  },
+  {
+    "key": "D66671DD433D8F8AAFEDA7997FFB55F3",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Protocute",
+    "str": ""
+  },
+  {
+    "key": "98856C914B2FFB85622539B3A7DC529F",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Analyst",
+    "str": ""
+  },
+  {
+    "key": "6DA543AF44AAEFD2447E468497B52D89",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "Baba Yaga",
+    "str": ""
+  },
+  {
+    "key": "F1DF3E44495D6E1F76C17B99CF33D038",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Solemn",
+    "str": ""
+  },
+  {
+    "key": "F241102A460A1ADA609A19BE0187A073",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Giggler",
+    "str": ""
+  },
+  {
+    "key": "A15D9F2E47DAC9557344E6A31803D031",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Wanderer",
+    "str": ""
+  },
+  {
+    "key": "A50A499E42D6F180DCFF23A55B5D7335",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Hollow",
+    "str": ""
+  },
+  {
+    "key": "1F6AA84C466ABB6835E5169D988912BC",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Forgotten",
+    "str": ""
+  },
+  {
+    "key": "0F7DB03A46D370457ABC6B8ACED0EF2A",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Trickster",
+    "str": ""
+  },
+  {
+    "key": "CFED712040C045766F0B5B99553678AA",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Stoic",
+    "str": ""
+  },
+  {
+    "key": "C3B8291C41BED0B937DB0CA5B87EBD80",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Weeper",
+    "str": ""
+  },
+  {
+    "key": "1E06984A47C71E6D55F8E382739EFF2B",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Echo",
+    "str": ""
+  },
+  {
+    "key": "9C6C75F04D147EC179FD38B01562A9DF",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_3.name_18_82096130492E34A890A0138C4910D929",
+    "id": "Cabin in the woods",
+    "str": ""
+  },
+  {
     "key": "F2BC9C064F532236387F0ABC86BA8078",
     "location": "/Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap",
     "id": "Organization",
@@ -1620,16 +1758,88 @@
     "str": "Animerat gosedjur"
   },
   {
+    "key": "F2550E874A39FA03A636BFB12632A579",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(59 - Value).DisplayNameMap",
+    "id": "Bonfire with friends",
+    "str": ""
+  },
+  {
     "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
     "location": "/Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap",
     "id": "Move Others",
     "str": "Flytta andra"
   },
   {
+    "key": "8D1E4BAE4B57E8AEF49DC187DE36802E",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(60 - Value).DisplayNameMap",
+    "id": "Bonfire with enemies",
+    "str": ""
+  },
+  {
+    "key": "2216B8AD47D0F974DCE7569F14A71283",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(61 - Value).DisplayNameMap",
+    "id": "Hang",
+    "str": ""
+  },
+  {
+    "key": "43E917A74DB0CD9DFDE917ADC750AF59",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(62 - Value).DisplayNameMap",
+    "id": "Voodoo",
+    "str": ""
+  },
+  {
+    "key": "4575A0784C42B9D9639C2CABE36F982E",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(63 - Value).DisplayNameMap",
+    "id": "Animals",
+    "str": ""
+  },
+  {
+    "key": "B8B1AB824EC7C75129514A8A200E9DEA",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(64 - Value).DisplayNameMap",
+    "id": "Well",
+    "str": ""
+  },
+  {
+    "key": "9BABABE4426D6C93B6D1FE988FCC4DE5",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(65 - Value).DisplayNameMap",
+    "id": "Bury",
+    "str": ""
+  },
+  {
+    "key": "B7A638724F93540DDB033B810A83BD63",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(66 - Value).DisplayNameMap",
+    "id": "Amulets",
+    "str": ""
+  },
+  {
+    "key": "288F89914C42FBC4E8BB12A6966AECB8",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(67 - Value).DisplayNameMap",
+    "id": "Rituals",
+    "str": ""
+  },
+  {
+    "key": "A133CAAA4AC53B748904A680FE7C7424",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(68 - Value).DisplayNameMap",
+    "id": "Cook",
+    "str": ""
+  },
+  {
+    "key": "559AACD74E3C3672B1EC148B84BD0FF6",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(69 - Value).DisplayNameMap",
+    "id": "Treehouse",
+    "str": ""
+  },
+  {
     "key": "F343C45143C6D6F84AC69C85B3A85B2F",
     "location": "/Game/enums/actions.actions.DisplayNameMap(7 - Value).DisplayNameMap",
     "id": "Tv",
     "str": "Tv"
+  },
+  {
+    "key": "58463A01483064ED239E849F40302FE1",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(70 - Value).DisplayNameMap",
+    "id": "Chop logs",
+    "str": ""
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -2712,12 +2922,6 @@
     "str": "Vi har Ricky i soffan och Monty vid pianot, så vi har redan de 2 möjliga kandidaterna. Men vi kommer inte att ta risken på 50%. Låt oss gå tillbaka till rummet för att utesluta den som inte kan vara och vänta på "
   },
   {
-    "key": "7055F47B466C9C3B47C459A2BDF1373A",
-    "location": "/Game/UI/bookCollector.bookCollector_C:GetText [Script Bytecode]",
-    "id": "{player}'s cards",
-    "str": "{player}s kort"
-  },
-  {
     "key": "6A3A40C1430499D32E1CA0AE6BBEA3C4",
     "location": "/Game/UI/bookCollector.bookCollector_C:WidgetTree.TextBlock_1.Text",
     "id": "Trade with player",
@@ -3060,6 +3264,18 @@
     "str": "Slå {map}-kartan i tidskörning med {medal}-medalj"
   },
   {
+    "key": "1FEC6BF54861A572D22E959A41960743",
+    "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
+    "id": "Are you sure?",
+    "str": "Är du säker?"
+  },
+  {
+    "key": "278B569940F273D601053B97FD50AC6B",
+    "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
+    "id": "This action cannot be undone.",
+    "str": "Denna åtgärd kan inte ångras."
+  },
+  {
     "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the map {map} with {nights} nights in endless mode",
@@ -3106,6 +3322,12 @@
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_14.Text",
     "id": "Claim reward",
     "str": "Gör anspråk på belöning"
+  },
+  {
+    "key": "4E5F59B949A1A9E7B5E9E0961598AC43",
+    "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_2.Text",
+    "id": "Reset day",
+    "str": "Återställ dag"
   },
   {
     "key": "53601F8C474D490D252A5AB16AC0B004",
@@ -3706,18 +3928,6 @@
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_7.Text",
     "id": "You have lost 100% of the robot's reward for not discovering the impostor",
     "str": "Du har förlorat 100% av robotens belöning för att du inte upptäckte bedragaren"
-  },
-  {
-    "key": "1FEC6BF54861A572D22E959A41960743",
-    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
-    "id": "Are you sure?",
-    "str": "Är du säker?"
-  },
-  {
-    "key": "278B569940F273D601053B97FD50AC6B",
-    "location": "/Game/UI/settings.settings_C:ExecuteUbergraph_settings [Script Bytecode]",
-    "id": "This action cannot be undone.",
-    "str": "Denna åtgärd kan inte ångras."
   },
   {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
