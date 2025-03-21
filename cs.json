@@ -291,13 +291,13 @@
     "key": "3CB2A0B24617CF31968FC28E978F4153",
     "location": "/Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text",
     "id": "Blueprints",
-    "str": ""
+    "str": "Blueprints"
   },
   {
     "key": "F2A8B642470514630D564A877B6C0FD7",
     "location": "/Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text",
     "id": "Static Meshes",
-    "str": ""
+    "str": "Statické oka"
   },
   {
     "key": "8E794D794CCEA0D30D037D8DA2BFD248",
@@ -1311,127 +1311,127 @@
     "key": "3D9FD42E45538D66DD5CFBBAC921B9BF",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The winner",
-    "str": ""
+    "str": "Vítěz"
   },
   {
     "key": "456D7E5E4F50AB3A38DF2B9E29E8CE9F",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Outcast",
-    "str": ""
+    "str": "Vyvrženec"
   },
   {
     "key": "70DDA86E445DCB6BBB3B31BB8C5DA625",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Lurker",
-    "str": ""
+    "str": "Lurker"
   },
   {
     "key": "83010E2948BC54A397596AB84E5B62A2",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The popular",
-    "str": ""
+    "str": "Populární"
   },
   {
     "key": "ACCFC2124F7E816A3A1C5FA43F97E9C6",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Speedster",
-    "str": ""
+    "str": "Speedster"
   },
   {
     "key": "852398F5495BF5F04FA860A27630541D",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The challenger",
-    "str": ""
+    "str": "Challenger"
   },
   {
     "key": "2A2583CD4241E272F99066B7CB66F8EF",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Murmurer",
-    "str": ""
+    "str": "Murmurer"
   },
   {
     "key": "A2DA993D4C8D5803246FE6BF9A720632",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The King in the North",
-    "str": ""
+    "str": "Král na severu"
   },
   {
     "key": "D66671DD433D8F8AAFEDA7997FFB55F3",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Protocute",
-    "str": ""
+    "str": "Protocute"
   },
   {
     "key": "98856C914B2FFB85622539B3A7DC529F",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Analyst",
-    "str": ""
+    "str": "Analytik"
   },
   {
     "key": "6DA543AF44AAEFD2447E468497B52D89",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "Baba Yaga",
-    "str": ""
+    "str": "Baba Yaga"
   },
   {
     "key": "F1DF3E44495D6E1F76C17B99CF33D038",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Solemn",
-    "str": ""
+    "str": "Slavnostní"
   },
   {
     "key": "F241102A460A1ADA609A19BE0187A073",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Giggler",
-    "str": ""
+    "str": "Giggler"
   },
   {
     "key": "A15D9F2E47DAC9557344E6A31803D031",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Wanderer",
-    "str": ""
+    "str": "Wanderer"
   },
   {
     "key": "A50A499E42D6F180DCFF23A55B5D7335",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Hollow",
-    "str": ""
+    "str": "Dutina"
   },
   {
     "key": "1F6AA84C466ABB6835E5169D988912BC",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Forgotten",
-    "str": ""
+    "str": "Zapomenuté"
   },
   {
     "key": "0F7DB03A46D370457ABC6B8ACED0EF2A",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Trickster",
-    "str": ""
+    "str": "Trickster"
   },
   {
     "key": "CFED712040C045766F0B5B99553678AA",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Stoic",
-    "str": ""
+    "str": "Stoic"
   },
   {
     "key": "C3B8291C41BED0B937DB0CA5B87EBD80",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Weeper",
-    "str": ""
+    "str": "Weeper"
   },
   {
     "key": "1E06984A47C71E6D55F8E382739EFF2B",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Echo",
-    "str": ""
+    "str": "Ozvěna"
   },
   {
     "key": "9C6C75F04D147EC179FD38B01562A9DF",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.name_18_82096130492E34A890A0138C4910D929",
     "id": "Cabin in the woods",
-    "str": ""
+    "str": "Kabina v lese"
   },
   {
     "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -1761,7 +1761,7 @@
     "key": "F2550E874A39FA03A636BFB12632A579",
     "location": "/Game/enums/actions.actions.DisplayNameMap(59 - Value).DisplayNameMap",
     "id": "Bonfire with friends",
-    "str": ""
+    "str": "Bonfire s přáteli"
   },
   {
     "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1773,61 +1773,61 @@
     "key": "8D1E4BAE4B57E8AEF49DC187DE36802E",
     "location": "/Game/enums/actions.actions.DisplayNameMap(60 - Value).DisplayNameMap",
     "id": "Bonfire with enemies",
-    "str": ""
+    "str": "Bonfire s nepřáteli"
   },
   {
     "key": "2216B8AD47D0F974DCE7569F14A71283",
     "location": "/Game/enums/actions.actions.DisplayNameMap(61 - Value).DisplayNameMap",
     "id": "Hang",
-    "str": ""
+    "str": "Pověsit"
   },
   {
     "key": "43E917A74DB0CD9DFDE917ADC750AF59",
     "location": "/Game/enums/actions.actions.DisplayNameMap(62 - Value).DisplayNameMap",
     "id": "Voodoo",
-    "str": ""
+    "str": "Voodoo"
   },
   {
     "key": "4575A0784C42B9D9639C2CABE36F982E",
     "location": "/Game/enums/actions.actions.DisplayNameMap(63 - Value).DisplayNameMap",
     "id": "Animals",
-    "str": ""
+    "str": "Zvířata"
   },
   {
     "key": "B8B1AB824EC7C75129514A8A200E9DEA",
     "location": "/Game/enums/actions.actions.DisplayNameMap(64 - Value).DisplayNameMap",
     "id": "Well",
-    "str": ""
+    "str": "Dobře"
   },
   {
     "key": "9BABABE4426D6C93B6D1FE988FCC4DE5",
     "location": "/Game/enums/actions.actions.DisplayNameMap(65 - Value).DisplayNameMap",
     "id": "Bury",
-    "str": ""
+    "str": "Pohřbít"
   },
   {
     "key": "B7A638724F93540DDB033B810A83BD63",
     "location": "/Game/enums/actions.actions.DisplayNameMap(66 - Value).DisplayNameMap",
     "id": "Amulets",
-    "str": ""
+    "str": "Amulety"
   },
   {
     "key": "288F89914C42FBC4E8BB12A6966AECB8",
     "location": "/Game/enums/actions.actions.DisplayNameMap(67 - Value).DisplayNameMap",
     "id": "Rituals",
-    "str": ""
+    "str": "Rituály"
   },
   {
     "key": "A133CAAA4AC53B748904A680FE7C7424",
     "location": "/Game/enums/actions.actions.DisplayNameMap(68 - Value).DisplayNameMap",
     "id": "Cook",
-    "str": ""
+    "str": "Vařit"
   },
   {
     "key": "559AACD74E3C3672B1EC148B84BD0FF6",
     "location": "/Game/enums/actions.actions.DisplayNameMap(69 - Value).DisplayNameMap",
     "id": "Treehouse",
-    "str": ""
+    "str": "Treehouse"
   },
   {
     "key": "F343C45143C6D6F84AC69C85B3A85B2F",
@@ -1839,7 +1839,7 @@
     "key": "58463A01483064ED239E849F40302FE1",
     "location": "/Game/enums/actions.actions.DisplayNameMap(70 - Value).DisplayNameMap",
     "id": "Chop logs",
-    "str": ""
+    "str": "Nasekací protokoly"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
