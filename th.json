@@ -471,13 +471,13 @@
     "key": "19DDC502474EF80CF581C28691820477",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the Guess Who room in your lobby",
-    "str": "ปลดล็อกการเดาว่าใครอยู่ในล็อบบี้ของคุณ"
+    "str": "ปลดล็อกเกมห้องบุคคลปริศนาในล็อบบี้ของคุณ"
   },
   {
     "key": "768293AA49D6732C57669FAC91A3F198",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
     "id": "Guess who room",
-    "str": "ห้องเล่นบุคคลปริศนา"
+    "str": "ห้องบุคคลปริศนา"
   },
   {
     "key": "E0F0C61A4E3FA26397234BA16ACDD9DE",
@@ -969,7 +969,7 @@
     "key": "B46005B1494B233FC63D6C92DB922873",
     "location": "/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Doorman",
-    "str": "ทวารบาล"
+    "str": "ยามประตู"
   },
   {
     "key": "CF3A6ECB45A9488C10D246A3FD143977",
@@ -1329,7 +1329,7 @@
     "key": "ACCFC2124F7E816A3A1C5FA43F97E9C6",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Speedster",
-    "str": "สปีดสเตอร์"
+    "str": "ลมกรด"
   },
   {
     "key": "852398F5495BF5F04FA860A27630541D",
@@ -1347,7 +1347,7 @@
     "key": "A2DA993D4C8D5803246FE6BF9A720632",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The King in the North",
-    "str": "กษัตริย์ในภาคเหนือ"
+    "str": "เจ้าแห่งทิศอุดร"
   },
   {
     "key": "D66671DD433D8F8AAFEDA7997FFB55F3",
@@ -1371,19 +1371,19 @@
     "key": "F1DF3E44495D6E1F76C17B99CF33D038",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Solemn",
-    "str": "ผู้เคร่งขรึม"
+    "str": "เคร่งขรึม"
   },
   {
     "key": "F241102A460A1ADA609A19BE0187A073",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Giggler",
-    "str": "หัวเราะคิกคัก"
+    "str": "คิกคัก"
   },
   {
     "key": "A15D9F2E47DAC9557344E6A31803D031",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Wanderer",
-    "str": "คนหลงทาง"
+    "str": "พเนจร"
   },
   {
     "key": "8B7BEED04A64FDBA38C388891DF8F479",
@@ -1395,25 +1395,25 @@
     "key": "1F6AA84C466ABB6835E5169D988912BC",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Forgotten",
-    "str": "ถูกลืม"
+    "str": "เลือนลาง"
   },
   {
     "key": "0F7DB03A46D370457ABC6B8ACED0EF2A",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Trickster",
-    "str": "นักเล่นกล"
+    "str": "เล่ห์กล"
   },
   {
     "key": "CFED712040C045766F0B5B99553678AA",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Stoic",
-    "str": "Stoic"
+    "str": "มั่นคง"
   },
   {
     "key": "C3B8291C41BED0B937DB0CA5B87EBD80",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Weeper",
-    "str": "ผู้ร้องไห้"
+    "str": "คร่ำครวญ"
   },
   {
     "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
@@ -1425,7 +1425,7 @@
     "key": "9C6C75F04D147EC179FD38B01562A9DF",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.name_18_82096130492E34A890A0138C4910D929",
     "id": "Cabin in the woods",
-    "str": "กระท่อมในป่า"
+    "str": "กระท่อมกลางป่า"
   },
   {
     "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -1755,7 +1755,7 @@
     "key": "F2550E874A39FA03A636BFB12632A579",
     "location": "/Game/enums/actions.actions.DisplayNameMap(59 - Value).DisplayNameMap",
     "id": "Bonfire with friends",
-    "str": "กองไฟกับเพื่อน ๆ"
+    "str": "กองไฟกับเพื่อน"
   },
   {
     "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1791,7 +1791,7 @@
     "key": "B8B1AB824EC7C75129514A8A200E9DEA",
     "location": "/Game/enums/actions.actions.DisplayNameMap(64 - Value).DisplayNameMap",
     "id": "Well",
-    "str": "ดี"
+    "str": "บ่อน้ำ"
   },
   {
     "key": "9BABABE4426D6C93B6D1FE988FCC4DE5",
@@ -1833,7 +1833,7 @@
     "key": "58463A01483064ED239E849F40302FE1",
     "location": "/Game/enums/actions.actions.DisplayNameMap(70 - Value).DisplayNameMap",
     "id": "Chop logs",
-    "str": "บันทึกสับ"
+    "str": "ท่อนไม้"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -2541,7 +2541,7 @@
     "key": "1E9530574969BD3390A057982A8ADBB3",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "An honor to have shared lag with you.",
-    "str": "เป็นเกียรติที่ได้แบ่งกันความรู้สึกที่ดีกับคุณ"
+    "str": "เป็นเกียรติที่ได้อยู่เคียงข้างกายกับคุณ"
   },
   {
     "key": "210966B1438A8794A13CD198E4D58B37",
