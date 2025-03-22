@@ -1938,12 +1938,6 @@
     "str": "มืดมน"
   },
   {
-    "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
-    "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-    "id": "The Echo",
-    "str": "กังวาน"
-  },
-  {
     "key": "042571704BB706480B0FDD806AE57897",
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Morbid",
@@ -2214,12 +2208,6 @@
     "str": "วิฬาร์รักษ์"
   },
   {
-    "key": "7969D08443D6AB359F1A76AFDC805E0F",
-    "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-    "id": "The Murmurer",
-    "str": "พึมพำ"
-  },
-  {
     "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Hush",
@@ -2260,12 +2248,6 @@
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Whispering Breeze",
     "str": "ลางผีบอก"
-  },
-  {
-    "key": "8B7BEED04A64FDBA38C388891DF8F479",
-    "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-    "id": "The Hollow",
-    "str": "ด่างพร้อย"
   },
   {
     "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
@@ -2410,12 +2392,6 @@
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Shudder",
     "str": "สั่นเครือ"
-  },
-  {
-    "key": "D54AD32246C068D95A3BF5911FDC1807",
-    "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-    "id": "The Lurker",
-    "str": "เฝ้ามอง"
   },
   {
     "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
@@ -3120,12 +3096,6 @@
     "str": "ยกเลิกเคส"
   },
   {
-    "key": "F1B4F68246B1BBFBC8F39D923B883A13",
-    "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_20.Text",
-    "id": "Robot",
-    "str": "หุ่นยนต์"
-  },
-  {
     "key": "612C02664338E6F05B4191AC77E63DA9",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_23.Text",
     "id": "Recipe List",
@@ -3232,12 +3202,6 @@
     "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
     "id": "All objects placed here will be lost when you leave the map.",
     "str": "วัตถุทั้งหมดที่วางอยู่ที่นี่จะหายไปถ้าหากคุณออกจากแผนที่"
-  },
-  {
-    "key": "CB775D1F41F692F4946D738AA83BB23E",
-    "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_26.Text",
-    "id": "Friends",
-    "str": "เพื่อน"
   },
   {
     "key": "A213AE2B42DEEB0AC450A9AEC96730E1",
@@ -3910,12 +3874,6 @@
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
     "id": "Results",
     "str": "ผลลัพธ์"
-  },
-  {
-    "key": "1057619F4616D8E4F8AA27A80261F8A7",
-    "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_6.Text",
-    "id": "Robot",
-    "str": "หุ่นยนต์"
   },
   {
     "key": "6C83DA6D4FA3B0A1533DFA8D160E04FA",
@@ -4630,6 +4588,12 @@
     "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
     "id": "Most Earned Doll",
     "str": "ตุ๊กตาที่สะสมได้มากที่สุด"
+  },
+  {
+    "key": "CB775D1F41F692F4946D738AA83BB23E",
+    "location": "/Game/UI/todoList.todoList_C:getDollFriends [Script Bytecode]",
+    "id": "Friends",
+    "str": "เพื่อน"
   },
   {
     "key": "EBE268F84D4CEBE50AAF908A7823DF79",
