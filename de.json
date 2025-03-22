@@ -468,12 +468,6 @@
     "str": "Schalte das Puppen -Impostor -Playlist -Radio frei"
   },
   {
-    "key": "B75EFA334329B52DD906DC8C54262916",
-    "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_0.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
-    "id": "Radio",
-    "str": "Radio"
-  },
-  {
     "key": "19DDC502474EF80CF581C28691820477",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the Guess Who room in your lobby",
@@ -492,7 +486,7 @@
     "str": "Schalte den Wachroboter in deiner Lobby frei, er wird friedlich sein"
   },
   {
-    "key": "DB95D1FA4F747BA6B54643824F6731AA",
+    "key": "1057619F4616D8E4F8AA27A80261F8A7",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_2.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
     "id": "Robot",
     "str": "Roboter"
@@ -1320,7 +1314,7 @@
     "str": "Der Ausgestoßene"
   },
   {
-    "key": "70DDA86E445DCB6BBB3B31BB8C5DA625",
+    "key": "D54AD32246C068D95A3BF5911FDC1807",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Lurker",
     "str": "Der Lurker"
@@ -1344,10 +1338,10 @@
     "str": "Der Herausforderer"
   },
   {
-    "key": "2A2583CD4241E272F99066B7CB66F8EF",
+    "key": "7969D08443D6AB359F1A76AFDC805E0F",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Murmurer",
-    "str": "Der Murteur"
+    "str": "Der Murrer"
   },
   {
     "key": "A2DA993D4C8D5803246FE6BF9A720632",
@@ -1392,10 +1386,10 @@
     "str": "Der Wanderer"
   },
   {
-    "key": "A50A499E42D6F180DCFF23A55B5D7335",
+    "key": "8B7BEED04A64FDBA38C388891DF8F479",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Hollow",
-    "str": "Die Mulde"
+    "str": "Die Höhle"
   },
   {
     "key": "1F6AA84C466ABB6835E5169D988912BC",
@@ -1422,7 +1416,7 @@
     "str": "Das Weinen"
   },
   {
-    "key": "1E06984A47C71E6D55F8E382739EFF2B",
+    "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Echo",
     "str": "Das Echo"
@@ -1620,7 +1614,7 @@
     "str": "Ouija"
   },
   {
-    "key": "E0DDAB024B5C9B1C6FD0A8BAB68ED718",
+    "key": "B75EFA334329B52DD906DC8C54262916",
     "location": "/Game/enums/actions.actions.DisplayNameMap(38 - Value).DisplayNameMap",
     "id": "Radio",
     "str": "Radio"
@@ -1944,12 +1938,6 @@
     "str": "Der Dunkle"
   },
   {
-    "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
-    "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-    "id": "The Echo",
-    "str": "Das Echo"
-  },
-  {
     "key": "042571704BB706480B0FDD806AE57897",
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Morbid",
@@ -2220,12 +2208,6 @@
     "str": "Das Echolied"
   },
   {
-    "key": "7969D08443D6AB359F1A76AFDC805E0F",
-    "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-    "id": "The Murmurer",
-    "str": "Der Murrer"
-  },
-  {
     "key": "7B05AC704AB111B1076AAFBB3A5C66E5",
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Hush",
@@ -2266,12 +2248,6 @@
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Whispering Breeze",
     "str": "Die flüsternde Brise"
-  },
-  {
-    "key": "8B7BEED04A64FDBA38C388891DF8F479",
-    "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-    "id": "The Hollow",
-    "str": "Die Höhle"
   },
   {
     "key": "91F60C4F49676E09BAD1F2BC4320EEC5",
@@ -2416,12 +2392,6 @@
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Shudder",
     "str": "Der Schauder"
-  },
-  {
-    "key": "D54AD32246C068D95A3BF5911FDC1807",
-    "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
-    "id": "The Lurker",
-    "str": "Der Lurker"
   },
   {
     "key": "D9E1915C4338A30647EBA6BB3EEB4D2C",
@@ -3126,12 +3096,6 @@
     "str": "Fall aufgeben"
   },
   {
-    "key": "F1B4F68246B1BBFBC8F39D923B883A13",
-    "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_20.Text",
-    "id": "Robot",
-    "str": "Roboter"
-  },
-  {
     "key": "612C02664338E6F05B4191AC77E63DA9",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_23.Text",
     "id": "Recipe List",
@@ -3238,12 +3202,6 @@
     "location": "/Game/UI/career/chestUI.chestUI_C:WidgetTree.TextBlock_9.Text",
     "id": "All objects placed here will be lost when you leave the map.",
     "str": "Alle hier platzierten Objekte gehen verloren, wenn Sie die Karte verlassen."
-  },
-  {
-    "key": "CB775D1F41F692F4946D738AA83BB23E",
-    "location": "/Game/UI/career/dollNotes.dollNotes_C:WidgetTree.TextBlock_26.Text",
-    "id": "Friends",
-    "str": "Freunde"
   },
   {
     "key": "A213AE2B42DEEB0AC450A9AEC96730E1",
@@ -3916,12 +3874,6 @@
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text",
     "id": "Results",
     "str": "Ergebnisse"
-  },
-  {
-    "key": "1057619F4616D8E4F8AA27A80261F8A7",
-    "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_6.Text",
-    "id": "Robot",
-    "str": "Roboter"
   },
   {
     "key": "6C83DA6D4FA3B0A1533DFA8D160E04FA",
@@ -4636,6 +4588,12 @@
     "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
     "id": "Most Earned Doll",
     "str": "Meistverdiente Puppe"
+  },
+  {
+    "key": "CB775D1F41F692F4946D738AA83BB23E",
+    "location": "/Game/UI/todoList.todoList_C:getDollFriends [Script Bytecode]",
+    "id": "Friends",
+    "str": "Freunde"
   },
   {
     "key": "EBE268F84D4CEBE50AAF908A7823DF79",
