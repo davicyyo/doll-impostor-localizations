@@ -9,25 +9,25 @@
     "key": "FA639CDD4018768675D08E937A324AF2",
     "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
     "id": "Weekly Leaderboard Endless",
-    "str": "每周排行榜无尽"
+    "str": "无尽排行周榜"
   },
   {
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "卧底伪装成{doll}一小时进行误导，并执行{action}动作。"
+    "str": "卧底伪装成{doll}一小时，并执行{action}行动。"
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
     "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
     "id": "Back to the safehouse",
-    "str": "回到安全屋"
+    "str": "返回安全屋"
   },
   {
     "key": "E0A26C2A477073293C2A5093569FFE5E",
     "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
     "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-    "str": "如果你回到安全屋，房子将恢复原状，你将失去装备"
+    "str": "如果你返回安全屋，房子将恢复原状，你将失去装备"
   },
   {
     "key": "C312729245B39D3E05385886891922CF",
@@ -45,7 +45,7 @@
     "key": "806D1B0C4EFCAD5D435AD6A24A208010",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(10).texts",
     "id": "Who will listen to us?",
-    "str": "谁会听我们的？"
+    "str": "谁能倾听我们诉苦？"
   },
   {
     "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
@@ -165,31 +165,31 @@
     "key": "31F028F14458C827E8B896A573933074",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've broken your new weekly record with {new} nights! of the {old} nights before!",
-    "str": "您已经用{new}夜晚打破了新的每周记录！ "
+    "str": "你用{new}夜打破了之前的{old}夜每周记录！ "
   },
   {
     "key": "57040D874D4ECC42E93EEBA119A420B0",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your weekly record of {old} nights",
-    "str": "您已经有{new}夜晚，您还没有设法击败{old}夜晚的每周记录"
+    "str": "你度过了{new}夜，未能打破{old}夜的每周记录"
   },
   {
     "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your global record of {old} nights",
-    "str": "您有{new}夜晚，您还没有设法超越{old}夜晚的全球记录"
+    "str": "你度过了{new}夜，未能打破{old}夜的全球记录"
   },
   {
     "key": "97F7579E41A844AC5D7FDDAB706274C6",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "Try again",
-    "str": "再试一次"
+    "str": "重试"
   },
   {
     "key": "A54FC3294EFCB8B57B533BBF0FABD261",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "The time limit for a player to join has been exceeded, what do you want to do?",
-    "str": "已超过玩家加入的时间限制，您想做什么？"
+    "str": "已超过玩家加入的时间限制，要做什么？"
   },
   {
     "key": "B4559452445FD99D5366B68268BCFC9E",
@@ -207,7 +207,7 @@
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} joined the game",
-    "str": "{player} 加入了游戏"
+    "str": "{player}加入了游戏"
   },
   {
     "key": "F83E76BC49FC84244322C382556B6E5F",
@@ -255,7 +255,7 @@
     "key": "C53301F94E23646EB809A29EA74DFB65",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Show robot",
-    "str": "展示机器人"
+    "str": "显示机器人"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -273,7 +273,7 @@
     "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-    "str": "无法创建在线会话。请检查你的连接并重启游戏。如果你决定继续，游戏将以离线模式运行。"
+    "str": "无法创建在线会话。请检查连接并重启游戏。如果你决定继续，游戏将以离线模式运行。"
   },
   {
     "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -297,7 +297,7 @@
     "key": "F2A8B642470514630D564A877B6C0FD7",
     "location": "/Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text",
     "id": "Static Meshes",
-    "str": "静态网眼"
+    "str": "静态网格"
   },
   {
     "key": "8E794D794CCEA0D30D037D8DA2BFD248",
@@ -465,25 +465,25 @@
     "key": "248912CB4D92726E9643E1AC09AF929C",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_0.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the Doll Impostor playlist radio",
-    "str": "解锁娃娃冒名顶替播放列表广播"
+    "str": "解锁人偶卧底播放列表广播"
   },
   {
     "key": "19DDC502474EF80CF581C28691820477",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the Guess Who room in your lobby",
-    "str": "解锁您大厅里谁的猜测"
+    "str": "解锁大厅里的猜测房"
   },
   {
     "key": "768293AA49D6732C57669FAC91A3F198",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
     "id": "Guess who room",
-    "str": "猜猜谁的房间"
+    "str": "猜测房"
   },
   {
     "key": "E0F0C61A4E3FA26397234BA16ACDD9DE",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_2.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the guard robot in your lobby, it will be peaceful",
-    "str": "在您的大厅中解锁警卫机器人，这将是和平的"
+    "str": "在大厅中解锁警卫机器人，别担心，它不会伤人"
   },
   {
     "key": "1057619F4616D8E4F8AA27A80261F8A7",
@@ -843,7 +843,7 @@
     "key": "C4B2BB4B48FA324D2BC7979577E55027",
     "location": "/Game/data-tables/itemList.itemList.NewRow_35.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A solid block of refined gold, highly pure, used as an investment or store of value, characterized by its weight and golden luster.",
-    "str": "一个由精炼黄金制成的固体块，纯度极高，用作投资或储值，特点是其重量和金色光泽。"
+    "str": "纯金条，用于投资保值，其重量和金光独一无二。"
   },
   {
     "key": "22B8C07045CAEA974D03AD9C0D933A4E",
@@ -855,7 +855,7 @@
     "key": "415807E5403F54FCC16EEA9338CF267F",
     "location": "/Game/data-tables/itemList.itemList.NewRow_36.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "A trophy in the shape of a cup, usually golden, awarded as a symbol of victory in sports competitions or prestigious ceremonies.",
-    "str": "一个杯形奖杯，通常是金色的，作为体育比赛或重要仪式的胜利象征而颁发。"
+    "str": "杯形奖杯，通常是金色的，作为体育比赛或重要仪式的胜利象征而颁发。"
   },
   {
     "key": "9A3A87B047A1CC933C4F6197811B657B",
@@ -867,7 +867,7 @@
     "key": "86BE55834614BDEE6BACCD821A069F89",
     "location": "/Game/data-tables/itemList.itemList.NewRow_37.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "An elegant piece of jewelry made up of a string of round pearls, known for their soft luster and associated with sophistication and luxury.",
-    "str": "由一串圆形珍珠组成的优雅珠宝，以其柔和的光泽著称，并与精致和奢华联系在一起。"
+    "str": "由一串圆形珍珠组成的优雅珠宝，以柔和光泽著称，象征优雅奢华。"
   },
   {
     "key": "82B77C5A456740B0D72910B21AF4A463",
@@ -879,7 +879,7 @@
     "key": "C0FD3F65464661A0D220FFAF9A25C2D4",
     "location": "/Game/data-tables/itemList.itemList.NewRow_4.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Fuse to activate electrical circuits",
-    "str": "启动电路的保险丝"
+    "str": "激活电路的保险丝"
   },
   {
     "key": "DE011C1944710509D6330C8C62491DBA",
@@ -903,7 +903,7 @@
     "key": "3476372A4D2230003B5F31ACAEA21E85",
     "location": "/Game/data-tables/itemList.itemList.NewRow_7.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Elixir that reveals enemity",
-    "str": "显露敌意的药剂"
+    "str": "揭示敌意的药剂"
   },
   {
     "key": "58DD772D4ABE943A14B03D9A569701B6",
@@ -1779,7 +1779,7 @@
     "key": "43E917A74DB0CD9DFDE917ADC750AF59",
     "location": "/Game/enums/actions.actions.DisplayNameMap(62 - Value).DisplayNameMap",
     "id": "Voodoo",
-    "str": "伏都教"
+    "str": "巫毒"
   },
   {
     "key": "4575A0784C42B9D9639C2CABE36F982E",
@@ -1791,7 +1791,7 @@
     "key": "B8B1AB824EC7C75129514A8A200E9DEA",
     "location": "/Game/enums/actions.actions.DisplayNameMap(64 - Value).DisplayNameMap",
     "id": "Well",
-    "str": "出色地"
+    "str": "出色"
   },
   {
     "key": "9BABABE4426D6C93B6D1FE988FCC4DE5",
@@ -1833,7 +1833,7 @@
     "key": "58463A01483064ED239E849F40302FE1",
     "location": "/Game/enums/actions.actions.DisplayNameMap(70 - Value).DisplayNameMap",
     "id": "Chop logs",
-    "str": "切碎日志"
+    "str": "砍伐木头"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -1899,7 +1899,7 @@
     "key": "E60C061E42EEE57516BA1B83B2A64C7E",
     "location": "/Game/enums/probability.probability.DisplayNameMap(2 - Value).DisplayNameMap",
     "id": "Normal",
-    "str": "正常"
+    "str": "普通"
   },
   {
     "key": "9404939C41414F86FA16B8B0C5B74E9D",
@@ -1911,7 +1911,7 @@
     "key": "A87033014B68DAC4F5312BB46BEB28AF",
     "location": "/Game/enums/probability.probability.DisplayNameMap(4 - Value).DisplayNameMap",
     "id": "Very High",
-    "str": "非常高"
+    "str": "很高"
   },
   {
     "key": "7B965EEB441BE13C098439BB745C2F25",
@@ -1923,7 +1923,7 @@
     "key": "DCBD9A3F418F5F127DABDD996614C5B0",
     "location": "/Game/functions/craftFunctions.craftFunctions_C:craftItem [Script Bytecode]",
     "id": "You can't make this, it doesn't fit any recipe",
-    "str": "没有配方，不能这么做"
+    "str": "没有配方，制作失败"
   },
   {
     "key": "003123EB4E325C82B8C7E192D319CF55",
@@ -2457,7 +2457,7 @@
     "key": "26C6D54D41B3F28C6F8033ADBE044F08",
     "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
     "id": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen",
-    "str": "The target has not been detected, try to focus more and stay at a specific distance where the entire target can be seen"
+    "str": "未检测到目标，请集中注意力，保持适当距离，完整观察目标"
   },
   {
     "key": "046B76E840D9FECA7307A2B3B07E3645",
@@ -2529,37 +2529,37 @@
     "key": "029B765A4F68CB6CDCC148AF5BBA2E93",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "We shall meet again... somewhere else.",
-    "str": "我们将再次见面...其他地方。"
+    "str": "我们将在他处再次见面……"
   },
   {
     "key": "1B78D2B546450B245D7FEF8436E4A4CB",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Fate will cross our paths again.",
-    "str": "命运将再次越过我们的道路。"
+    "str": "命运会让我们的道路再次交织。"
   },
   {
     "key": "1E9530574969BD3390A057982A8ADBB3",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "An honor to have shared lag with you.",
-    "str": "很荣幸与您分享滞后。"
+    "str": "很荣幸与你一同品尝这份卡顿。"
   },
   {
     "key": "210966B1438A8794A13CD198E4D58B37",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Epic match! May the bugs always be with us.",
-    "str": "史诗般的比赛！"
+    "str": "真厉害！愿BUG与你同在。"
   },
   {
     "key": "26F317714EFF63CB9F7B9F817CF8125C",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It wasn’t luck, it was destiny.",
-    "str": "那不是运气，那是命运。"
+    "str": "那不是运气，而是命运使然。"
   },
   {
     "key": "4D23C5CA4EB057CE6E40CC80C89EC5FB",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "One more step in our gaming story.",
-    "str": "在我们的游戏故事中又一步。"
+    "str": "在我们的游戏故事中又进一步。"
   },
   {
     "key": "65E9ED0F4443E3F584BD3EA799519E28",
@@ -2571,55 +2571,55 @@
     "key": "6C928E3D409261E7EA2609B47E286EA2",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It was a pleasure sharing a match, see you in another one.",
-    "str": "很高兴分享一场比赛，在另一场比赛中见。"
+    "str": "很荣幸能与您同场竞技，期待下一场相遇。"
   },
   {
     "key": "7611E28141CB4F315E69D4A911220F8C",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "You were the MVP in my heart, even if not on the scoreboard.",
-    "str": "即使不在记分牌上，您也是我心中的MVP。"
+    "str": "即使不在记分牌上，你也是我心中的MVP。"
   },
   {
     "key": "8B08FC8D435C7783D1A5AAACD8B00B3D",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It was fun playing with you, let's do it again soon!",
-    "str": "和您一起玩很有趣，让我们尽快再做一次！"
+    "str": "和你玩得很愉快，期待下次再聚！"
   },
   {
     "key": "9A4F977440B30028B7A056A91FB8F0A1",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "I enjoyed playing with you, see you next time!",
-    "str": "我喜欢和你一起玩，下次见！"
+    "str": "打得不错，下场见！"
   },
   {
     "key": "DC4760E443CE4902DCA99AB981DDF978",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Good game, though I'm still wondering what happened there.",
-    "str": "好游戏，尽管我仍然想知道那里发生了什么。"
+    "str": "好游戏，不明觉厉。"
   },
   {
     "key": "E7484B2747CB11E478EBE7AF6523F710",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Good game! Hope to see you again.",
-    "str": "好游戏！"
+    "str": "GG！再见！"
   },
   {
     "key": "E867EDC04CEEFA4761304DB9E045A22F",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "We survived (or almost), that’s already an achievement.",
-    "str": "我们幸存（或几乎），这已经是一项成就。"
+    "str": "我们活下来了（也许是暂时的），但这就已经很了不起了。"
   },
   {
     "key": "EF4702EA4EFDD26ED06C3CB15D3059F3",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Good company, good game. See you around!",
-    "str": "好的公司，好游戏。"
+    "str": "好游戏，真好玩。再见！"
   },
   {
     "key": "EF176B2A4BCEA55C2F438CB60C8AC601",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getTexts [Script Bytecode]",
     "id": "Press key to bind",
-    "str": "按 键进行绑定"
+    "str": "按要绑定的键"
   },
   {
     "key": "1793A7934071DB7EFDE6498C6D04FBC3",
@@ -2643,7 +2643,7 @@
     "key": "DD24411D4ABAB447C1584B86E08D6117",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "Something has gone wrong, try restarting steam, the host may need to restart the lobby",
-    "str": "出了问题，请尝试重新启动steam，主机可能需要重新启动大厅"
+    "str": "出现错误，请尝试重启Steam，主机可能需要重开大厅"
   },
   {
     "key": "EC2A6CF342794100347D079D5C709865",
@@ -2685,19 +2685,19 @@
     "key": "9A2BA8AD46FB871F204232B31F7E2465",
     "location": "/Game/levels/houseMap.houseMap:PersistentLevel.infoTrigger_C_1.description",
     "id": "You're trying to sleep in this bed... in this house... with these possessed dolls. Sounds like a terrible idea. Better head to the caravan—at least there, nothing will watch you sleep... probably.",
-    "str": "您正在试图在这张床上睡觉...在这所房子里...和这些拥有的洋娃娃。"
+    "str": "你竟然想在这间房子里，这张床上睡觉……而且周围还有这些被附身的人偶。这听起来真是个糟糕的主意。最好还是去车里睡吧——至少在那里，没什么东西会盯着你睡觉……大概吧。"
   },
   {
     "key": "C117437C4A0C8D8570FA27995BFCC2F2",
     "location": "/Game/levels/houseMap.houseMap:PersistentLevel.infoTrigger_C_1.title",
     "id": "Nice try... but you wouldn't want to sleep here!",
-    "str": "不错的尝试...但是您不想在这里睡觉！"
+    "str": "别乱搞……你肯定不想在这里睡觉！"
   },
   {
     "key": "F487E2A843DF53EB6108BB96F58E32BC",
     "location": "/Game/levels/mainMap.mainMap_C:ExecuteUbergraph_mainMap [Script Bytecode]",
     "id": "A new version of the client is available, please update to be able to play the latest version",
-    "str": "有新版本客户端上线，请更新才能玩最新版本"
+    "str": "有新版本客户端，请更新至最新版"
   },
   {
     "key": "BC337B2B42B2192B0CEC87925C1BFA2C",
@@ -2709,7 +2709,7 @@
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-    "str": "欢迎来到避难所！"
+    "str": "欢迎来到庇护所！这里是你的安全区。你可以在电脑上开始新游戏，查看人偶和奖杯收藏，还可以点击桌面上的调色板图标来装修这地方！"
   },
   {
     "key": "B75DC93941A74B4A564DF389EB387762",
@@ -3285,7 +3285,7 @@
     "key": "4E5F59B949A1A9E7B5E9E0961598AC43",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_2.Text",
     "id": "Reset day",
-    "str": "重置日"
+    "str": "重置天数"
   },
   {
     "key": "53601F8C474D490D252A5AB16AC0B004",
@@ -3321,13 +3321,13 @@
     "key": "A081117442D49E705B12F0A39C05191F",
     "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_1_Text [Script Bytecode]",
     "id": "Employee of week",
-    "str": "一周的雇员"
+    "str": "本周最佳员工"
   },
   {
     "key": "CF3199204E05DD1583F260B6FB731ABD",
     "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_7_Text [Script Bytecode]",
     "id": "Streak days",
-    "str": "条纹日"
+    "str": "连胜天数"
   },
   {
     "key": "4191F3C04D16D6B588127484A538B7E5",
@@ -3351,19 +3351,19 @@
     "key": "EAB84FBB483ADA0AE254B58FE13593EA",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_10.Text",
     "id": "Dead",
-    "str": "死的"
+    "str": "死亡"
   },
   {
     "key": "A8E3F4F94BF11CC640BC06949C1574D2",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_11.Text",
     "id": "Blood in the case",
-    "str": "案子里有血"
+    "str": "血腥箱子"
   },
   {
     "key": "4DFBCFF84F6ABD25D8A1EEAC828D4EED",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_12.Text",
     "id": "Broken glass case",
-    "str": "破碎的玻璃盒"
+    "str": "破碎玻璃箱"
   },
   {
     "key": "194B739B4C7AA8D2F830669466E77A1F",
@@ -3387,13 +3387,13 @@
     "key": "B1CD68AA49EED6E1F88A3E87FFBC3F83",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_5.Text",
     "id": "Disliked/Crossed Out",
-    "str": "不喜欢/划掉"
+    "str": "厌恶/划掉"
   },
   {
     "key": "FEFFD2EC495732A7FB2D3083906B98F9",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.TextBlock.Text",
     "id": "The box might not be related to the doll performing the action, but to another doll that was moved there earlier.",
-    "str": "该盒子可能与执行该动作的玩偶无关，而是与之前移到那里的另一个玩偶相关."
+    "str": "该盒子可能与执行该行动的玩偶无关，而是与之前移到那里的其他玩偶相关。"
   },
   {
     "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
@@ -3405,7 +3405,7 @@
     "key": "715AE4624267FE9F9EF6939C8ECFD3D1",
     "location": "/Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]",
     "id": "Do you want to leave the current lobby to go to your safehouse?",
-    "str": "你想离开当前大厅前往你的安全屋吗？"
+    "str": "要离开当前大厅前往安全屋吗？"
   },
   {
     "key": "5981A77041F835414316E0BEA0C3C8F8",
@@ -3447,19 +3447,19 @@
     "key": "0A9B45DB40B3BFE34DF53CB9717F18AC",
     "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text",
     "id": "Restart game",
-    "str": "重新开始游戏"
+    "str": "重开游戏"
   },
   {
     "key": "1F66019F447C68AA3AEE3A8D1EBEECAA",
     "location": "/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]",
     "id": "Buy",
-    "str": "买"
+    "str": "购买"
   },
   {
     "key": "30ED8E4E4C558463E5B1609F5B9BB29F",
     "location": "/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]",
     "id": "Bought",
-    "str": "买"
+    "str": "已买"
   },
   {
     "key": "2CB05BB340AA7F8DFF600E83A23BDADD",
@@ -3477,7 +3477,7 @@
     "key": "27F0561948852E1FB316F9A6EAEB5841",
     "location": "/Game/UI/gameMenu.gameMenu_C:GetText_1 [Script Bytecode]",
     "id": "Streak of {days} consecutive days!",
-    "str": "连续{days}天！"
+    "str": "{days}天连胜！"
   },
   {
     "key": "BF4FA5364C39224BE93EC080C21FF285",
@@ -3627,13 +3627,13 @@
     "key": "15673F574D5DA742FD4F428DA263DCB1",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "Your save game has been successfully restored, it may be wise to restart the game.",
-    "str": "您的游戏存档已成功恢复，重新启动游戏可能是明智之举."
+    "str": "存档已成功恢复，最好重启游戏。"
   },
   {
     "key": "469ECCB843B337021C8C1397242D2EE4",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "The backup has been successfully saved, if you want to restore it, just restart the game and you will see (restore previous save) in this menu.",
-    "str": "备份已成功保存，如果要恢复，只需重新启动游戏即可在该菜单中看到（恢复之前的保存）."
+    "str": "备份已成功保存，如果要恢复，只需重启游戏即可在该菜单中看到（恢复之前的存档）。"
   },
   {
     "key": "6088379D4B73AB0746BE8EB73EB9DB33",
@@ -3705,19 +3705,19 @@
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
     "location": "/Game/UI/joinGameUI.joinGameUI_C:ExecuteUbergraph_joinGameUI [Script Bytecode]",
     "id": "An error occurred while displaying the server listing, please try again later.",
-    "str": "显示服务器列表时出错，请稍后重试."
+    "str": "显示服务器列表时出错，请稍后重试。"
   },
   {
     "key": "75D49E32426B3C46A006EBBE3CC6E2AA",
     "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText [Script Bytecode]",
     "id": "{qty} results",
-    "str": "{qty} 个结果"
+    "str": "{qty}个结果"
   },
   {
     "key": "A85819064528FECBC2EF4AB84DC1708C",
     "location": "/Game/UI/joinGameUI.joinGameUI_C:GetText_0 [Script Bytecode]",
     "id": "Reloading in {seconds} seconds",
-    "str": "{seconds} 秒后重新加载"
+    "str": "{seconds}秒后重新加载"
   },
   {
     "key": "EC60982146DDA1930C60798F475610A6",
@@ -3879,7 +3879,7 @@
     "key": "6C83DA6D4FA3B0A1533DFA8D160E04FA",
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_7.Text",
     "id": "You have lost 100% of the robot's reward for not discovering the impostor",
-    "str": "由于没有发现冒名顶替者，您已经损失了 100% 的机器人奖励"
+    "str": "由于没有发现卧底，损失100%的机器人奖励"
   },
   {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
@@ -3969,7 +3969,7 @@
     "key": "9CD3456342DFD2DAA352319215F6B3AE",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(1).Options.Label",
     "id": "Bright",
-    "str": "明亮的"
+    "str": "明亮"
   },
   {
     "key": "5E5400A44B15F25FA890D0B2373F453E",
@@ -4041,13 +4041,13 @@
     "key": "C42835B44E24B877F642058AF2281B18",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(3).Options.Label",
     "id": "Cel",
-    "str": "帧"
+    "str": "声名远扬"
   },
   {
     "key": "0725F2854852DEA4DF2881A6BD2BA2F8",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(4).Options.Label",
     "id": "Thermal",
-    "str": "保暖的"
+    "str": "保暖"
   },
   {
     "key": "5ECF7B824E0ACCF31F367E90092E80DF",
@@ -4683,7 +4683,7 @@
     "key": "96BE28504D901245DE1115BF00D47E10",
     "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_2.Text",
     "id": "Action Details",
-    "str": "动作细节"
+    "str": "行动细节"
   },
   {
     "key": "37F6FE7147465126D16EBCAB90C1274D",
