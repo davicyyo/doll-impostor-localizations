@@ -1425,7 +1425,7 @@
     "key": "9C6C75F04D147EC179FD38B01562A9DF",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.name_18_82096130492E34A890A0138C4910D929",
     "id": "Cabin in the woods",
-    "str": "Cabine dans les bois"
+    "str": "Cabane dans les Bois"
   },
   {
     "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -1755,7 +1755,7 @@
     "key": "F2550E874A39FA03A636BFB12632A579",
     "location": "/Game/enums/actions.actions.DisplayNameMap(59 - Value).DisplayNameMap",
     "id": "Bonfire with friends",
-    "str": "Feu de joie avec des amis"
+    "str": "Feu de Camp avec ses amis"
   },
   {
     "key": "5DFAFA884E37BBC8C2C6959F8EF168A7",
@@ -1767,7 +1767,7 @@
     "key": "8D1E4BAE4B57E8AEF49DC187DE36802E",
     "location": "/Game/enums/actions.actions.DisplayNameMap(60 - Value).DisplayNameMap",
     "id": "Bonfire with enemies",
-    "str": "Feu de joie avec ennemis"
+    "str": "Feu de Camp avec ses ennemis"
   },
   {
     "key": "2216B8AD47D0F974DCE7569F14A71283",
@@ -1791,7 +1791,7 @@
     "key": "B8B1AB824EC7C75129514A8A200E9DEA",
     "location": "/Game/enums/actions.actions.DisplayNameMap(64 - Value).DisplayNameMap",
     "id": "Well",
-    "str": "Bien"
+    "str": "Puit"
   },
   {
     "key": "9BABABE4426D6C93B6D1FE988FCC4DE5",
@@ -1833,7 +1833,7 @@
     "key": "58463A01483064ED239E849F40302FE1",
     "location": "/Game/enums/actions.actions.DisplayNameMap(70 - Value).DisplayNameMap",
     "id": "Chop logs",
-    "str": "Coups de coupe"
+    "str": "Couper des Bûches"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
