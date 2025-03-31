@@ -15,7 +15,7 @@
     "key": "100DA204405F9111E1C236B3FF176270",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "Impostor ได้ทำการสวมรอยเป็น {doll} เพื่อทำให้เข้าใจผิดเป็นเวลาหนึ่งชั่วโมง และได้ทำการ {action}"
+    "str": "Impostor ได้ทำการสวมรอยเป็น {doll} เพื่อทำให้เข้าใจผิดเป็นเวลาหนึ่งชั่วโมง โดยใช้ {action} ของตุ๊กตาตัวนั้น"
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -27,7 +27,7 @@
     "key": "E0A26C2A477073293C2A5093569FFE5E",
     "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
     "id": "If you return to the safehouse, the house will restore its state and you will lose the equipped items",
-    "str": "ถ้าหากคุณกลับไปที่เซฟเฮาส์ บ้านจะกลับไปสู่สภาพเดิม และคุณอาจจะสูญเสียไอเท็มที่ได้จัดเตรียมเอาไว้"
+    "str": "ถ้าหากคุณกลับไปยังเซฟเฮาส์ตอนนี้ บ้านจะกลับสู่สภาพเดิม และคุณจะสูญเสียไอเท็มที่ได้จัดเตรียมเอาไว้ทั้งหมด"
   },
   {
     "key": "C312729245B39D3E05385886891922CF",
@@ -171,13 +171,13 @@
     "key": "57040D874D4ECC42E93EEBA119A420B0",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your weekly record of {old} nights",
-    "str": "คุณมี {new} คืน ที่คุณยังไม่สามารถเอาชนะบันทึกประจำสัปดาห์ของคุณที่ {old} คืน ได้"
+    "str": "คุณเล่นไป {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณในอันดำประจำสัปดาห์ที่ {old} คืน ได้"
   },
   {
     "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your global record of {old} nights",
-    "str": "คุณมี {new} คืน ที่คุณยังไม่สามารถเอาชนะบันทึกระดับโลกของคุณที่ {old} คืน ได้ "
+    "str": "คุณเล่นไป {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณในอันดับระดับโลกที่ {old} คืน ได้ "
   },
   {
     "key": "97F7579E41A844AC5D7FDDAB706274C6",
@@ -189,7 +189,7 @@
     "key": "A54FC3294EFCB8B57B533BBF0FABD261",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "The time limit for a player to join has been exceeded, what do you want to do?",
-    "str": "หมดเวลาสำหรับผู้เล่นที่จะเข้าร่วมเกม คุณต้องการทำอย่างไร?"
+    "str": "หมดเวลาสำหรับผู้เล่นที่จะเข้าร่วมเกมของคุณแล้ว คุณจะทำอย่างไร?"
   },
   {
     "key": "B4559452445FD99D5366B68268BCFC9E",
@@ -315,7 +315,7 @@
     "key": "3D3092E04B30FAE9F91970831F869B44",
     "location": "/Game/data-tables/customizerRooms.customizerRooms.NewRow_0.label_17_E97135F84728B1D3E2D91DAE099E4D25",
     "id": "Wall",
-    "str": "กำแพง"
+    "str": "ผนัง"
   },
   {
     "key": "E93B4EC241D67CCBA288EAB44234C576",
@@ -453,13 +453,13 @@
     "key": "3FE7DD094BD2D76BA8B7BC975328185E",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Inventory Box where you can share objects with other players in your lobby",
-    "str": "คุณสามารถแบ่งปันอุปกรณ์กับผู้เล่นคนอื่น ๆ ได้จากกล่องสินค้าคงคลังในล็อบบี้ของคุณได้"
+    "str": "คุณสามารถแบ่งปันอุปกรณ์กับผู้เล่นคนอื่น ๆ ได้จากกล่องเก็บของในล็อบบี้ของคุณได้"
   },
   {
     "key": "6411F5FC448D9766116676924D091830",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8",
     "id": "Inventory box",
-    "str": "กล่องสินค้าคงคลัง"
+    "str": "กล่องเก็บของ"
   },
   {
     "key": "248912CB4D92726E9643E1AC09AF929C",
@@ -519,7 +519,7 @@
     "key": "93917B7240A1743F582D7E9208B16F62",
     "location": "/Game/data-tables/itemList.itemList.NewRow_10.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Paper that reveals dislikes",
-    "str": "ชิ้นกระดาษที่เผยสิ่งที่ไม่ชอบ"
+    "str": "แผ่นกระดาษที่เผยสิ่งที่ไม่ชอบ"
   },
   {
     "key": "2E06BFD64361FE191A01DD86C96EBAEE",
@@ -543,7 +543,7 @@
     "key": "3B43B2384C4FFE5DE5823BAB1338EC37",
     "location": "/Game/data-tables/itemList.itemList.NewRow_12.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "An ancient piece of paper.",
-    "str": "ชิ้นกระดาษโบราณ"
+    "str": "แผ่นกระดาษโบราณ"
   },
   {
     "key": "CEB55E1E480248C3E1553AB0E3E06BA3",
@@ -771,7 +771,7 @@
     "key": "D597FBE342A7B8B23676A3BB4B81D863",
     "location": "/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Take notes on the behavior of the dolls",
-    "str": "สมุดบันทึกสำหรับจดบันทึกพฤติกรรมของตุ๊กตา"
+    "str": "สมุดสำหรับจดบันทึกพฤติกรรมของตุ๊กตา"
   },
   {
     "key": "ED2F4CB1487E0D6D9070899567BB98B0",
@@ -915,7 +915,7 @@
     "key": "92CDFBB847F726D64FF6169E8B2A6631",
     "location": "/Game/data-tables/itemList.itemList.NewRow_9.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Paper that reveals likes",
-    "str": "ชิ้นกระดาษที่เผยความชอบ"
+    "str": "แผ่นกระดาษที่เผยความชอบ"
   },
   {
     "key": "FF45EB7F42E49E1D9D364DAFAB0467BE",
@@ -1305,13 +1305,13 @@
     "key": "3D9FD42E45538D66DD5CFBBAC921B9BF",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The winner",
-    "str": "ผู้ชนะ"
+    "str": "ชนะเลิศ"
   },
   {
     "key": "456D7E5E4F50AB3A38DF2B9E29E8CE9F",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Outcast",
-    "str": "ผู้ถูกขับไล่"
+    "str": "จัณฑาล"
   },
   {
     "key": "D54AD32246C068D95A3BF5911FDC1807",
@@ -1335,7 +1335,7 @@
     "key": "852398F5495BF5F04FA860A27630541D",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The challenger",
-    "str": "ผู้ท้าชิง"
+    "str": "ท้าดวล"
   },
   {
     "key": "7969D08443D6AB359F1A76AFDC805E0F",
@@ -1395,7 +1395,7 @@
     "key": "1F6AA84C466ABB6835E5169D988912BC",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Forgotten",
-    "str": "เลือนลาง"
+    "str": "จืดจาง"
   },
   {
     "key": "0F7DB03A46D370457ABC6B8ACED0EF2A",
@@ -1773,7 +1773,7 @@
     "key": "2216B8AD47D0F974DCE7569F14A71283",
     "location": "/Game/enums/actions.actions.DisplayNameMap(61 - Value).DisplayNameMap",
     "id": "Hang",
-    "str": "แขวน"
+    "str": "แขวนของ"
   },
   {
     "key": "43E917A74DB0CD9DFDE917ADC750AF59",
@@ -1785,7 +1785,7 @@
     "key": "4575A0784C42B9D9639C2CABE36F982E",
     "location": "/Game/enums/actions.actions.DisplayNameMap(63 - Value).DisplayNameMap",
     "id": "Animals",
-    "str": "สัตว์"
+    "str": "สัตว์ป่า"
   },
   {
     "key": "B8B1AB824EC7C75129514A8A200E9DEA",
@@ -1797,7 +1797,7 @@
     "key": "9BABABE4426D6C93B6D1FE988FCC4DE5",
     "location": "/Game/enums/actions.actions.DisplayNameMap(65 - Value).DisplayNameMap",
     "id": "Bury",
-    "str": "ฝัง"
+    "str": "ฝังดิน"
   },
   {
     "key": "B7A638724F93540DDB033B810A83BD63",
@@ -1833,7 +1833,7 @@
     "key": "58463A01483064ED239E849F40302FE1",
     "location": "/Game/enums/actions.actions.DisplayNameMap(70 - Value).DisplayNameMap",
     "id": "Chop logs",
-    "str": "ท่อนไม้"
+    "str": "สับท่อนไม้"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -1971,7 +1971,7 @@
     "key": "156635BF49E1B3C111682A92C49899D7",
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Murmur",
-    "str": "พึมพำ"
+    "str": "ขมุบขมิบ"
   },
   {
     "key": "158063504E027E4AF2D595A2CE468770",
@@ -2079,7 +2079,7 @@
     "key": "37E26C5949E57421072DF6AFA351D3FD",
     "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
     "id": "The Moan",
-    "str": "คร่ำครวญ"
+    "str": "โอดครวญ"
   },
   {
     "key": "3AEB5BB747D3C431D54680AEFDB7D404",
@@ -3393,7 +3393,7 @@
     "key": "FEFFD2EC495732A7FB2D3083906B98F9",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.TextBlock.Text",
     "id": "The box might not be related to the doll performing the action, but to another doll that was moved there earlier.",
-    "str": "กล่องตุ๊กตาอาจไม่เกี่ยวข้องกับตุ๊กตาที่กำลังแสดงหลักฐานการกระทำ แต่บางทีอาจจะเป็นตุ๊กตาตัวอื่นที่ถูกย้ายไปที่นั่นก่อนหน้านี้แล้ว"
+    "str": "ตู้ของตุ๊กตาอาจไม่เกี่ยวข้องกับตุ๊กตาที่ปรากฏหลักฐานการกระทำอยู่ แต่บางทีอาจจะเป็นตุ๊กตาตัวอื่นที่ถูกย้ายไปที่นั่นก่อนหน้านี้แล้ว"
   },
   {
     "key": "EF9484874E9B2D923F2B00B2C0CAAF9D",
@@ -3879,7 +3879,7 @@
     "key": "6C83DA6D4FA3B0A1533DFA8D160E04FA",
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_7.Text",
     "id": "You have lost 100% of the robot's reward for not discovering the impostor",
-    "str": "คุณสูญเสียรางวัลของหุ่นยนต์ไป 100% เนื่องจากไม่สามารถหา Impostor ได้"
+    "str": "คุณสูญเสียรางวัล 100% เนื่องจากถูกหุ่นยนต์จับได้ และไม่สามารถหา Impostor ได้"
   },
   {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
@@ -3981,13 +3981,13 @@
     "key": "6253D35F4B2D594C07E03CAB7C86A1CE",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(11).Options.Label",
     "id": "Tired",
-    "str": "เหนื่อย"
+    "str": "ยาง"
   },
   {
     "key": "3E6C187646A0B1291793B49DDED900A6",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(12).Options.Label",
     "id": "Glitched Pixels",
-    "str": "พิกเซลผิดพลาด"
+    "str": "กลิชพิกเซล"
   },
   {
     "key": "74A4E3F24FF6CD3383EFA6901E98F156",
@@ -4479,7 +4479,7 @@
     "key": "4B42EDC74552B167B6C050B42EED7773",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_71.Text",
     "id": "Toggle lock",
-    "str": "สลับการล็อก"
+    "str": "แตะปุ่มล็อก"
   },
   {
     "key": "6825277540EC01C05B094C81655574A0",
@@ -4527,13 +4527,13 @@
     "key": "4F25154F492889931F8B37B7A8085613",
     "location": "/Game/UI/signs.signs_C:WidgetTree.TextBlock_4.Text",
     "id": "No signs yet",
-    "str": "ไม่มีสัญญาณ"
+    "str": "ยังไม่มีการลงชื่อ"
   },
   {
     "key": "4B70F7494C37681AE0AA74BE49283C5F",
     "location": "/Game/UI/signs.signs_C:WidgetTree.TextBlock_62.Text",
     "id": "Sign",
-    "str": "เข้าสู่ระบบ"
+    "str": "ลงชื่อ"
   },
   {
     "key": "E83704FB46F7B20DD3FF688CFE41B9CC",
