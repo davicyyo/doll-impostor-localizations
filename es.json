@@ -1437,7 +1437,7 @@
     "key": "9C6C75F04D147EC179FD38B01562A9DF",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.name_18_82096130492E34A890A0138C4910D929",
     "id": "Cabin in the woods",
-    "str": "Cabina en el bosque"
+    "str": "Cabaña en el bosque"
   },
   {
     "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -1845,7 +1845,7 @@
     "key": "58463A01483064ED239E849F40302FE1",
     "location": "/Game/enums/actions.actions.DisplayNameMap(70 - Value).DisplayNameMap",
     "id": "Chop logs",
-    "str": "Picar troncos"
+    "str": "Cortar troncos"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
