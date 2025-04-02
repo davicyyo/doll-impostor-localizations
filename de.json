@@ -1803,7 +1803,7 @@
     "key": "B8B1AB824EC7C75129514A8A200E9DEA",
     "location": "/Game/enums/actions.actions.DisplayNameMap(64 - Value).DisplayNameMap",
     "id": "Well",
-    "str": "Also"
+    "str": "Brunnen"
   },
   {
     "key": "9BABABE4426D6C93B6D1FE988FCC4DE5",
@@ -1845,7 +1845,7 @@
     "key": "58463A01483064ED239E849F40302FE1",
     "location": "/Game/enums/actions.actions.DisplayNameMap(70 - Value).DisplayNameMap",
     "id": "Chop logs",
-    "str": "Chop -Protokolle"
+    "str": "Holz hacken"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
