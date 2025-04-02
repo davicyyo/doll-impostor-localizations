@@ -4011,7 +4011,7 @@
     "key": "6253D35F4B2D594C07E03CAB7C86A1CE",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(11).Options.Label",
     "id": "Tired",
-    "str": "ยาง"
+    "str": "อ่อนเพลีย"
   },
   {
     "key": "3E6C187646A0B1291793B49DDED900A6",
@@ -4065,7 +4065,7 @@
     "key": "F3D283B9477F83CAC5A54281AF77384B",
     "location": "/Game/UI/settings.settings_C:WidgetTree.Filters.Options(20).Options.Label",
     "id": "Candy",
-    "str": "แคนดี้"
+    "str": "ลูกกวาด"
   },
   {
     "key": "C42835B44E24B877F642058AF2281B18",
