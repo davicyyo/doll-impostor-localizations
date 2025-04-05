@@ -12,10 +12,10 @@
     "str": "Tygodniowa tablica wyników trybu Endless"
   },
   {
-    "key": "100DA204405F9111E1C236B3FF176270",
+    "key": "8953E06D4224FADDDA2E008D8A0E56FB",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
-    "id": "The impostor used mislead by posing as {doll} for an hour and performed the action {action}.",
-    "str": "Impostor wprowadził w błąd, udając {doll} przez godzinę i wykonał akcję {action}."
+    "id": "The impostor used mislead by performing the action {action}; it may have broken or attacked friends to confuse you.",
+    "str": "Oszust użył podstępu, wykonując akcję {action}; mógł uszkodzić lub zaatakować przyjaciół, by cię zmylić."
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -3438,12 +3438,6 @@
     "str": "PRZEGRAŁEŚ"
   },
   {
-    "key": "96BE28504D901245DE1115BF00D47E10",
-    "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
-    "id": "Action Details",
-    "str": "Szczegóły akcji"
-  },
-  {
     "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
     "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
     "id": "You didn't close the door",
@@ -3466,12 +3460,6 @@
     "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock.Text",
     "id": "Invite players",
     "str": "Zaproś graczy"
-  },
-  {
-    "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
-    "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text",
-    "id": "Browse Lobbies",
-    "str": "Przeglądaj serwery"
   },
   {
     "key": "0A9B45DB40B3BFE34DF53CB9717F18AC",
@@ -3538,12 +3526,6 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
     "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
     "str": "Masz wszystkie wskazówki i pełne informacje o lalkach, jednak dla każdej z nich wszystko jest całkowicie losowe."
-  },
-  {
-    "key": "11739C0E41A20499E9C760B853C45A40",
-    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
-    "id": "Back",
-    "str": "Wróć"
   },
   {
     "key": "CE77947D46EF18A8A49309A22EB6E699",
@@ -3630,6 +3612,18 @@
     "str": "Standardowy poziom trudności dla każdego gracza, wszystkie wskazówki będą udostępniane o 08:00, masz możliwość zobaczenia nazw lalek oraz listy działań oszusta"
   },
   {
+    "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
+    "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text",
+    "id": "Name",
+    "str": "Nazwa"
+  },
+  {
+    "key": "D82E9CC948B03153A925558746DD99F2",
+    "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text",
+    "id": "Password",
+    "str": "Hasło"
+  },
+  {
     "key": "41A1A89A4ADCC9D9F94EABA4A93A05DB",
     "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text",
     "id": "Visibility",
@@ -3678,6 +3672,12 @@
     "str": "Przetłumaczone przez: {people}"
   },
   {
+    "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
+    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
+    "id": "Exit",
+    "str": "Wyjście"
+  },
+  {
     "key": "6AFC77BB43DCD66B4099688FF725AB13",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text",
     "id": "Play tutorial",
@@ -3700,6 +3700,12 @@
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
     "id": "Open lobby",
     "str": "Stwórz lobby"
+  },
+  {
+    "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
+    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
+    "id": "Browse Lobbies",
+    "str": "Przeglądaj serwery"
   },
   {
     "key": "94DF171240785BD6422882B6ECC3CFDC",
@@ -3744,12 +3750,6 @@
     "str": "Pozycja"
   },
   {
-    "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
-    "location": "/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text",
-    "id": "Name",
-    "str": "Nazwa"
-  },
-  {
     "key": "901E40384D0FE3FAD3508F98408C18C7",
     "location": "/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text",
     "id": "Nights",
@@ -3786,12 +3786,6 @@
     "str": "Podobało Ci się?"
   },
   {
-    "key": "D82E9CC948B03153A925558746DD99F2",
-    "location": "/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]",
-    "id": "Password",
-    "str": "Hasło"
-  },
-  {
     "key": "36DAFDA641D110060CAB6BBD14FE3722",
     "location": "/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]",
     "id": "Continue",
@@ -3802,12 +3796,6 @@
     "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
     "id": "Resume Game",
     "str": "Wznów grę"
-  },
-  {
-    "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-    "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
-    "id": "Exit",
-    "str": "Wyjście"
   },
   {
     "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -4702,6 +4690,18 @@
     "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
     "id": "Action Dolls",
     "str": "Aktywność lalki"
+  },
+  {
+    "key": "11739C0E41A20499E9C760B853C45A40",
+    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
+    "id": "Back",
+    "str": "Wróć"
+  },
+  {
+    "key": "96BE28504D901245DE1115BF00D47E10",
+    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_2.Text",
+    "id": "Action Details",
+    "str": "Szczegóły akcji"
   },
   {
     "key": "37F6FE7147465126D16EBCAB90C1274D",
