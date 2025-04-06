@@ -15,7 +15,7 @@
     "key": "8953E06D4224FADDDA2E008D8A0E56FB",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by performing the action {action}; it may have broken or attacked friends to confuse you.",
-    "str": "ผู้แอบอ้างใช้กลลวงโดยทำการกระทำ {action}; อาจทำลายหรือโจมตีเพื่อนเพื่อทำให้คุณสับสน"
+    "str": "Impostor ได้ทำการปลอมตัวและได้ใช้ {action} เป็นหลักฐานปลอม ซึ่งอาจจะทำลายตู้หรือโจมตีเพื่อนตัวเองเพื่อทำให้คุณสับสน"
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -171,7 +171,7 @@
     "key": "57040D874D4ECC42E93EEBA119A420B0",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your weekly record of {old} nights",
-    "str": "คุณเล่นไป {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณในอันดำประจำสัปดาห์ที่ {old} คืน ได้"
+    "str": "คุณเล่นไป {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณในอันดับประจำสัปดาห์ที่ {old} คืน ได้"
   },
   {
     "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
@@ -267,7 +267,7 @@
     "key": "F42DAF34495A3991F4CB5F89BD0E3528",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "The function will be triggered only upon entering and exiting the caravan.",
-    "str": "ฟังก์ชั่นจะถูกกระตุ้นเมื่อเข้าและออกจากคาราวานเท่านั้น"
+    "str": "ฟังก์ชั่นจะถูกกระตุ้นเมื่อได้เข้าและออกจากคาราวานเท่านั้น"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
@@ -285,7 +285,7 @@
     "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-    "str": "เราไม่สามารถสร้างเซสชันออนไลน์ได้ โปรดตรวจสอบการเชื่อมต่อของคุณและเริ่มเกมใหม่ หากคุณตัดสินใจที่จะดำเนินการต่อ เกมจะทำงานในโหมดออฟไลน์"
+    "str": "เราไม่สามารถสร้างเซสชันออนไลน์ได้ โปรดตรวจสอบการเชื่อมต่อของคุณและเริ่มเกมใหม่ หากคุณตัดสินใจดำเนินการต่อ เกมจะทำงานในโหมดออฟไลน์"
   },
   {
     "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -4629,7 +4629,7 @@
     "key": "5C75D8784B911BE2B7CA58A94B235798",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.photos.Text",
     "id": "Photograph the remaining dolls",
-    "str": "ถ่ายรูปตุ๊กตาที่เหลือ"
+    "str": "ถ่ายรูปตุ๊กตาที่เหลืออยู่"
   },
   {
     "key": "BFD9681847D40C8577B0C49731F23FF8",
