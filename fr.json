@@ -15,13 +15,13 @@
     "key": "8953E06D4224FADDDA2E008D8A0E56FB",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by performing the action {action}; it may have broken or attacked friends to confuse you.",
-    "str": "L'imposteur a utilisé la tromperie en effectuant l'action {action} ; il a peut-être cassé ou attaqué des amis pour te troubler."
+    "str": "L'imposteur vous a induit en erreur en effectuant l'action {action} ; il a peut-être brisé ou attaqué des alliés pour semer la confusion."
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
     "location": "/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]",
     "id": "Back to the safehouse",
-    "str": "Retourner au refuge"
+    "str": "Retour au refuge"
   },
   {
     "key": "E0A26C2A477073293C2A5093569FFE5E",
@@ -33,19 +33,19 @@
     "key": "C312729245B39D3E05385886891922CF",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts",
     "id": "God, Save Us",
-    "str": "Dieu, Sauve nous"
+    "str": "Dieu, sauvez-nous"
   },
   {
     "key": "78CDF9F24D7F05B20507E99EF8B9D6B4",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(1).texts",
     "id": "Where is the hope?",
-    "str": "Où est l'espoir ?"
+    "str": "Où est l'espoir ?"
   },
   {
     "key": "806D1B0C4EFCAD5D435AD6A24A208010",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(10).texts",
     "id": "Who will listen to us?",
-    "str": "Qui nous écoutera ?"
+    "str": "Qui nous écoutera ?"
   },
   {
     "key": "4CC12ED04C0CCDD4B99137BA4EFF21F1",
@@ -63,7 +63,7 @@
     "key": "46CE50D24305DF8EE5E3069A686AD62E",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(4).texts",
     "id": "What do we have left?",
-    "str": "Qu'est ce qu'il nous reste ?"
+    "str": "Que nous reste-t-il ?"
   },
   {
     "key": "7C103CB840F8E092D02937A8D8ACCCCF",
@@ -75,13 +75,13 @@
     "key": "C868184542C8CF8CE45E35881EB2FB7F",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(6).texts",
     "id": "The pain is overwhelming",
-    "str": "La douleur est insupportable"
+    "str": "La douleur est accablante"
   },
   {
     "key": "1B91C6234DA146AEDD1F52A4882D4BE0",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(7).texts",
     "id": "There seems to be no way out",
-    "str": "Il semble n'y avoir aucune issue"
+    "str": "Il semble qu’il n’y ait aucune issue"
   },
   {
     "key": "8013788A45FE0968E12AA3BAF0AE5233",
@@ -93,31 +93,31 @@
     "key": "FB77087A4862A67B758D529F87748C2F",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
     "id": "Chaos consumes us",
-    "str": "Le Chaos nous consume à petit feu"
+    "str": "Le chaos nous consume"
   },
   {
     "key": "1C4A0DD846CCF542A5D75C843FB42C43",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "This doll is under effects, wait for the effect to finish to apply another one",
-    "str": "Cette poupée est sous effets, attendez que l'effet soit terminé pour en appliquer un autre"
+    "str": "Cette poupée est sous l'effet d'une influence ; veuillez attendre la fin de celle-ci pour en appliquer une autre."
   },
   {
     "key": "486E52D945C3D792DA06099F44AC1A7A",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "Be careful, you will lose the equipped items",
-    "str": "Faites attention, vous perdrez les objets équipés"
+    "str": "Faites attention, vous perdrez les objets équipés."
   },
   {
     "key": "5DAA61584F29C51BE364D59FAF17F7CB",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "You need to use the book of souls before you save the imposter doll",
-    "str": "Vous devez utiliser le Livre des Âmes avant de sélectionner la poupée imposteur"
+    "str": "Vous devez utiliser le Livre des Âmes avant de sauver la poupée imposteur."
   },
   {
     "key": "073BF882481ECDE57F50FF98957A3C22",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "You've unlocked a new difficulty!",
-    "str": "Vous avez débloqué une nouvelle difficulté !"
+    "str": "Vous avez débloqué une nouvelle difficulté !"
   },
   {
     "key": "51B58C89473E1AE2A37E6A8118DC37C1",
@@ -135,25 +135,25 @@
     "key": "9472CB7546EB19A64D00B9B40CF7BC7D",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "You've unlocked a new extra mode!",
-    "str": "Vous avez débloqué un nouveau mode extra !"
+    "str": "Vous avez débloqué un nouveau mode supplémentaire !"
   },
   {
     "key": "B372B7564467D935DC5122B7415A738C",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "You've unlocked the career mode!",
-    "str": "Vous avez débloqué le mode Carrière !"
+    "str": "Vous avez débloqué le mode Carrière !"
   },
   {
     "key": "FE11E6ED4FA63C5B12631383E56A20B5",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "You've unlocked the {map} Map!",
-    "str": "Vous avez débloquer le niveau {map} !"
+    "str": "Vous avez débloqué la carte {map} !"
   },
   {
     "key": "29996BA046E32225A477C4BF9759D962",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "The robot has caught you",
-    "str": "Le robot t'a attrapé"
+    "str": "Le robot vous a attrapé"
   },
   {
     "key": "313664F547D8F4158BB67E8898134C0E",
@@ -183,7 +183,7 @@
     "key": "97F7579E41A844AC5D7FDDAB706274C6",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "Try again",
-    "str": "Essayez encore"
+    "str": "Réessayez"
   },
   {
     "key": "A54FC3294EFCB8B57B533BBF0FABD261",
@@ -225,7 +225,7 @@
     "key": "416137A54D8BDF2957A99DA3E3A214DB",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:isCorrectImpostor [Script Bytecode]",
     "id": "You left several dolls uncrossed out",
-    "str": "Vous avez oublié de barrer certaines poupées"
+    "str": "Vous avez laissé plusieurs poupées non barrées"
   },
   {
     "key": "27228C9F429D8354B0534FB17BD564AA",
