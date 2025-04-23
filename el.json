@@ -174,6 +174,12 @@
     "str": "Έχετε {new} νύχτες, δεν καταφέρατε να νικήσετε το εβδομαδιαίο ρεκόρ σας {old} νύχτες"
   },
   {
+    "key": "798C9DA54AB7FB8B77443DA0EE442098",
+    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+    "id": "Go to Safe House",
+    "str": "Πηγαίνετε στο Safe House"
+  },
+  {
     "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your global record of {old} nights",
@@ -276,10 +282,22 @@
     "str": "Εντοπίσαμε μια αλλαγή στα στοιχεία σας."
   },
   {
+    "key": "3F82A2864259BCB639BD6AA1600CAEED",
+    "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+    "id": "An error occurred while trying to find a match. Please try again or come back later.",
+    "str": "Παρουσιάστηκε σφάλμα ενώ προσπάθησε να βρει έναν αγώνα. "
+  },
+  {
     "key": "821BBE2A48EE821074956AB736CA0ECB",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "Input detected!",
     "str": "Εντοπίστηκε είσοδος!"
+  },
+  {
+    "key": "93B997314AF656293CD3E6A5CB67FA1B",
+    "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+    "id": "Error",
+    "str": "Σφάλμα"
   },
   {
     "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
@@ -288,16 +306,34 @@
     "str": "Δεν μπορέσαμε να δημιουργήσουμε μια διαδικτυακή περίοδο σύνδεσης. Ελέγξτε τη σύνδεσή σας και επανεκκινήστε το παιχνίδι. Εάν αποφασίσετε να συνεχίσετε, το παιχνίδι θα λειτουργήσει σε λειτουργία εκτός σύνδεσης."
   },
   {
+    "key": "B1656BA74A31111BA2FF87B17BE080E3",
+    "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+    "id": "{msg}...",
+    "str": "{msg} ..."
+  },
+  {
     "key": "BCA4F7E9472918A4030087B0CBCF7608",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "OK",
     "str": "ΕΝΤΑΞΕΙ"
   },
   {
+    "key": "C0592C6C49617410AFF0AEA0D20C4C38",
+    "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+    "id": "You have 5 unfinished games. You can't start a new one until those games are completed.",
+    "str": "Έχετε 5 ημιτελή παιχνίδια. "
+  },
+  {
     "key": "79B48418402866A435B0658D650C041D",
     "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
     "id": "You've used everything you needed to use here.",
     "str": "Έχετε χρησιμοποιήσει όλα όσα χρειάζεστε για να χρησιμοποιήσετε εδώ."
+  },
+  {
+    "key": "3FD1B85F401719EF8E895AA11EA72F39",
+    "location": "/Game/Blueprints/worldMultiplayer.worldMultiplayer_C:ExecuteUbergraph_worldMultiplayer [Script Bytecode]",
+    "id": "The power has gone out, insert a fuse to turn it back on.",
+    "str": "Η δύναμη έχει βγει, εισάγετε μια ασφάλεια για να την ενεργοποιήσετε ξανά."
   },
   {
     "key": "3CB2A0B24617CF31968FC28E978F4153",
@@ -1848,6 +1884,24 @@
     "str": "Κούτσουρα"
   },
   {
+    "key": "8C71383749B1D50C469953B74B91BBB3",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(71 - Value).DisplayNameMap",
+    "id": "Bonfire",
+    "str": "Φωτιά για γιορτή"
+  },
+  {
+    "key": "5949CA3341DE9902B8CCCB9B7E2F625A",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(72 - Value).DisplayNameMap",
+    "id": "Burn",
+    "str": "Εγκαυμα"
+  },
+  {
+    "key": "DA67C85643923D037A5EE39EE298CE74",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(73 - Value).DisplayNameMap",
+    "id": "Lantern",
+    "str": "Φανός"
+  },
+  {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
     "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
     "id": "Tea with enemies",
@@ -2472,6 +2526,12 @@
     "str": "Ο στόχος δεν έχει εντοπιστεί, προσπαθήστε να εστιάσετε περισσότερο και μείνετε σε μια συγκεκριμένη απόσταση όπου φαίνεται ολόκληρος ο στόχος"
   },
   {
+    "key": "48491A974F3D5B7AE34F89B54BEC6EB6",
+    "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
+    "id": "Shake photo to develop it.",
+    "str": "Ανακινήστε τη φωτογραφία για να την αναπτύξετε."
+  },
+  {
     "key": "046B76E840D9FECA7307A2B3B07E3645",
     "location": "/Game/functions/itemFunctions.itemFunctions_C:equipItems [Script Bytecode]",
     "id": "You can only equip a maximum of {x} items",
@@ -2488,12 +2548,6 @@
     "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
     "id": "You couldn't join the game because {reason}",
     "str": "Δεν μπορούσατε να συμμετάσχετε στο παιχνίδι επειδή {reason}"
-  },
-  {
-    "key": "93B997314AF656293CD3E6A5CB67FA1B",
-    "location": "/Game/functions/messageFunctions.messageFunctions_C:getErrorText [Script Bytecode]",
-    "id": "Error",
-    "str": "Σφάλμα"
   },
   {
     "key": "FCBE9D6940E5F7F0C84C4BBFC1243204",
@@ -2544,10 +2598,28 @@
     "str": "Θα συναντηθούμε ξανά ... κάπου αλλού."
   },
   {
+    "key": "02E98E3746E4F5372E8472A9CB5886D2",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "We played so badly it must’ve been part of the plan.",
+    "str": "Παίξαμε τόσο άσχημα ότι πρέπει να ήταν μέρος του σχεδίου."
+  },
+  {
+    "key": "12B1497F47B6F8D70F4C2E8366B0D4E5",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Thanks for carrying me—straight back to the lobby.",
+    "str": "Ευχαριστώ που με μεταφέρατε με το λόμπι."
+  },
+  {
     "key": "1B78D2B546450B245D7FEF8436E4A4CB",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Fate will cross our paths again.",
     "str": "Η μοίρα θα διασχίσει ξανά τα μονοπάτια μας."
+  },
+  {
+    "key": "1B9FB76C46F1512B0A29F782E47D1462",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "One more match, one less brain cell.",
+    "str": "Ένας ακόμη αγώνας, ένα λιγότερο εγκεφαλικό κύτταρο."
   },
   {
     "key": "1E9530574969BD3390A057982A8ADBB3",
@@ -2566,6 +2638,12 @@
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It wasn’t luck, it was destiny.",
     "str": "Δεν ήταν τύχη, ήταν πεπρωμένο."
+  },
+  {
+    "key": "375E194F46163C84C5ADD4B5A9B195F4",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "See you in the next epic defeat.",
+    "str": "Τα λέμε στην επόμενη επική ήττα."
   },
   {
     "key": "4D23C5CA4EB057CE6E40CC80C89EC5FB",
@@ -2604,10 +2682,46 @@
     "str": "Μου άρεσε να παίζω μαζί σου, σε λέμε την επόμενη φορά!"
   },
   {
+    "key": "9B2EC09349E2EAF22713108A50FB1109",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "GG, though the Doll didn’t even notice we were there.",
+    "str": "GG, αν και η κούκλα δεν παρατηρήθηκε καν ότι ήμασταν εκεί."
+  },
+  {
+    "key": "ABB2AE084F554986BC695BA9BD30719E",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "We didn’t lose, we just chose to be humble today.",
+    "str": "Δεν χάσαμε, επιλέξαμε να είμαστε ταπεινοί σήμερα."
+  },
+  {
+    "key": "C0E6DBB942CAE2B2BA0AE3BEE0FA2AF2",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "The important thing is no one got hurt... emotionally, maybe.",
+    "str": "Το σημαντικό είναι ότι κανείς δεν τραυματίστηκε ... συναισθηματικά, ίσως."
+  },
+  {
+    "key": "C78877444F58EF005DABB287AF3D0A30",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "I learned a lot... about what not to do.",
+    "str": "Έμαθα πολλά ... για το τι δεν πρέπει να κάνω."
+  },
+  {
+    "key": "D417698C4B628BDF2B39FD82056698EA",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "It wasn’t your fault, the universe just conspired against you.",
+    "str": "Δεν ήταν δικό σας λάθος, το σύμπαν απλώς συνωμοτεί εναντίον σας."
+  },
+  {
     "key": "DC4760E443CE4902DCA99AB981DDF978",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Good game, though I'm still wondering what happened there.",
     "str": "Καλό παιχνίδι, αν και εξακολουθώ να αναρωτιέμαι τι συνέβη εκεί."
+  },
+  {
+    "key": "E4D153634D02AC70C2C82499E0C3DAFA",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Your skills left me speechless... and matchless.",
+    "str": "Οι δεξιότητές σας με άφησαν άφωνους ... και χωρίς αγώνα."
   },
   {
     "key": "E7484B2747CB11E478EBE7AF6523F710",
@@ -2722,6 +2836,12 @@
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
     "str": "Καλώς ήρθατε στο καταφύγιο! "
+  },
+  {
+    "key": "AE7921274BBCE3DD133FC885B09DE5F9",
+    "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
+    "id": "Loading matchmaking data...",
+    "str": "Φόρτωση δεδομένων αντιστοίχισης ..."
   },
   {
     "key": "B75DC93941A74B4A564DF389EB387762",
@@ -3336,16 +3456,64 @@
     "str": "Επιτεύγματα"
   },
   {
-    "key": "A081117442D49E705B12F0A39C05191F",
-    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_1_Text [Script Bytecode]",
-    "id": "Employee of week",
-    "str": "Υπάλληλος της εβδομάδας"
+    "key": "E1DCDC434E0C29BD9C9E839E5E485661",
+    "location": "/Game/UI/contracts/contract.contract_C:GetText_2 [Script Bytecode]",
+    "id": "{time} am or earlier",
+    "str": "{time} am ή νωρίτερα"
   },
   {
-    "key": "CF3199204E05DD1583F260B6FB731ABD",
-    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_7_Text [Script Bytecode]",
-    "id": "Streak days",
-    "str": "Μέρες ραβδί"
+    "key": "4D39CE7341DAF76B7D4B30B0F5D517E7",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock.Text",
+    "id": "Approve",
+    "str": "Εγκρίνω"
+  },
+  {
+    "key": "80677A9C4FD43A72501BB88301EFDB5C",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_12.Text",
+    "id": "Reward",
+    "str": "Ανταμοιβή"
+  },
+  {
+    "key": "4892E0854EBE7A4830C8569356E9F5B6",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_47.Text",
+    "id": "Contract",
+    "str": "Σύμβαση"
+  },
+  {
+    "key": "4D3A5C034446E93B138F8DBF8934968C",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_5.Text",
+    "id": "Difficulty",
+    "str": "Δυσκολία"
+  },
+  {
+    "key": "70DDD36542F90AF7ABFEACB0673FAF68",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_82.Text",
+    "id": "Location",
+    "str": "Τοποθεσία"
+  },
+  {
+    "key": "7701FD52493C0B02EA08D8BAF5BD5C0A",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_9.Text",
+    "id": "Time",
+    "str": "Φορά"
+  },
+  {
+    "key": "C1C5BFCA4E442F838ECA2C8BE442A641",
+    "location": "/Game/UI/contracts/contracts.contracts_C:WidgetTree.TextBlock_4.Text",
+    "id": "Contracts",
+    "str": "Συμβόλαια"
+  },
+  {
+    "key": "0615C47F4CB607F4DD02D6936E6018CD",
+    "location": "/Game/UI/contracts/endContract.endContract_C:GetText [Script Bytecode]",
+    "id": "Successful contract",
+    "str": "Επιτυχής σύμβαση"
+  },
+  {
+    "key": "EC3D80E34855E73C0C83C28EAD2CA339",
+    "location": "/Game/UI/contracts/endContract.endContract_C:GetText [Script Bytecode]",
+    "id": "Failed contract",
+    "str": "Αποτυχημένη σύμβαση"
   },
   {
     "key": "4191F3C04D16D6B588127484A538B7E5",
@@ -3438,6 +3606,12 @@
     "str": "ΧΑΝΕΙΣ"
   },
   {
+    "key": "96BE28504D901245DE1115BF00D47E10",
+    "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+    "id": "Action Details",
+    "str": "Λεπτομέρειες δράσης"
+  },
+  {
     "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
     "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
     "id": "You didn't close the door",
@@ -3448,12 +3622,6 @@
     "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
     "id": "Replay",
     "str": "Ξαναπαίζω"
-  },
-  {
-    "key": "798C9DA54AB7FB8B77443DA0EE442098",
-    "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
-    "id": "Go to Safe House",
-    "str": "Πηγαίνετε στο Safe House"
   },
   {
     "key": "F699B0844A39D7ABCF0260916BF5F41B",
@@ -3528,6 +3696,12 @@
     "str": "Έχετε όλες τις ενδείξεις και όλες τις πληροφορίες για τις κούκλες, αλλά αυτό είναι εντελώς τυχαίο για κάθε κούκλα."
   },
   {
+    "key": "11739C0E41A20499E9C760B853C45A40",
+    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
+    "id": "Back",
+    "str": "Πίσω"
+  },
+  {
     "key": "CE77947D46EF18A8A49309A22EB6E699",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
     "id": "Stats",
@@ -3564,6 +3738,12 @@
     "str": "Έξτρα"
   },
   {
+    "key": "0958AB2948217C45C2F03B9AA2FFBBD5",
+    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
+    "id": "Contract",
+    "str": "Σύμβαση"
+  },
+  {
     "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
     "id": "As you unlock new levels, new ones will appear!",
@@ -3574,6 +3754,12 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
     "id": "New Game",
     "str": "Νέο Παιχνίδι"
+  },
+  {
+    "key": "74CB94924A0D7B248DF67DA581AFEEE9",
+    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text",
+    "id": "Matchmaking",
+    "str": "Παντρολογήματα"
   },
   {
     "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -3796,6 +3982,72 @@
     "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
     "id": "Resume Game",
     "str": "Συνέχιση του παιχνιδιού"
+  },
+  {
+    "key": "AC84F8B94C4CFF5DD57791BC7770A5BB",
+    "location": "/Game/UI/matchmaking/allMatches.allMatches_C:WidgetTree.TextBlock.Text",
+    "id": "Your matches",
+    "str": "Οι αγώνες σας"
+  },
+  {
+    "key": "11F6F8AD467824048DD4B5A9C8C838E0",
+    "location": "/Game/UI/matchmaking/allMatches.allMatches_C:WidgetTree.TextBlock_6.Text",
+    "id": "Global matches",
+    "str": "Παγκόσμιοι αγώνες"
+  },
+  {
+    "key": "9B8FAFEE4B1253F62A27C7993DAD17E4",
+    "location": "/Game/UI/matchmaking/Match.Match_C:WidgetTree.TextBlock_11.Text",
+    "id": "Waiting",
+    "str": "Αναμονή"
+  },
+  {
+    "key": "50E952474428E42B3F7E09A5A5643AA4",
+    "location": "/Game/UI/matchmaking/Match.Match_C:WidgetTree.TextBlock_8.Text",
+    "id": "Winner",
+    "str": "Νικητής"
+  },
+  {
+    "key": "64A6ECDC45AFA33F2F9571B03D686CF3",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_1.Text",
+    "id": "Find Match",
+    "str": "Βρείτε αγώνα"
+  },
+  {
+    "key": "C3897C8745442FE78430F8A926789CA9",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_2.Text",
+    "id": "All matches",
+    "str": "Όλοι οι αγώνες"
+  },
+  {
+    "key": "D2B1C5344321A79D5E2704A2F870B831",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_4.Text",
+    "id": "Top Elo players",
+    "str": "Κορυφαίοι παίκτες elo"
+  },
+  {
+    "key": "C52F9F10483B5DB15BE1459A67C0EA36",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_5.Text",
+    "id": "Matchmaking",
+    "str": "Παντρολογήματα"
+  },
+  {
+    "key": "8520674D43548D021E595CABA678C0F5",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_6.Text",
+    "id": "Map Selector",
+    "str": "Εκλεκτής χάρτη"
+  },
+  {
+    "key": "16EFA1C84A69BF60F01C6F9720D2149A",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_84.Text",
+    "id": "Last matches",
+    "str": "Τελευταίοι αγώνες"
+  },
+  {
+    "key": "17389C2D46C82043BD67EFA835A30050",
+    "location": "/Game/UI/matchmaking/MMResult.MMResult_C:WidgetTree.TextBlock.Text",
+    "id": "Recent Matches Won",
+    "str": "Οι πρόσφατοι αγώνες κέρδισαν"
   },
   {
     "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -4566,6 +4818,12 @@
     "str": "Παίκτες σε αναμονή..."
   },
   {
+    "key": "2B2B52694919914C41928BABBBBE89FB",
+    "location": "/Game/UI/stats.stats_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
+    "id": "User",
+    "str": "Μεταχειριζόμενος"
+  },
+  {
     "key": "43B95535434D97B9189B93A2A4594202",
     "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_1.Text",
     "id": "Amount of Information discovered",
@@ -4594,6 +4852,18 @@
     "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
     "id": "Win cases",
     "str": "Κερδισμένες υποθέσεις"
+  },
+  {
+    "key": "A081117442D49E705B12F0A39C05191F",
+    "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_6.Text",
+    "id": "Employee of week",
+    "str": "Υπάλληλος της εβδομάδας"
+  },
+  {
+    "key": "CF3199204E05DD1583F260B6FB731ABD",
+    "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_7.Text",
+    "id": "Streak days",
+    "str": "Μέρες ραβδί"
   },
   {
     "key": "467D9B7144D32E320B1C6AA6D55B95B5",
@@ -4690,18 +4960,6 @@
     "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
     "id": "Action Dolls",
     "str": "Κούκλες δράσης"
-  },
-  {
-    "key": "11739C0E41A20499E9C760B853C45A40",
-    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
-    "id": "Back",
-    "str": "Πίσω"
-  },
-  {
-    "key": "96BE28504D901245DE1115BF00D47E10",
-    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_2.Text",
-    "id": "Action Details",
-    "str": "Λεπτομέρειες δράσης"
   },
   {
     "key": "37F6FE7147465126D16EBCAB90C1274D",

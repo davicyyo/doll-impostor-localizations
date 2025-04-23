@@ -174,6 +174,12 @@
     "str": "您已經有{new}夜晚，您還沒有設法擊敗{old}夜晚的每週記錄"
   },
   {
+    "key": "798C9DA54AB7FB8B77443DA0EE442098",
+    "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
+    "id": "Go to Safe House",
+    "str": "到安全屋"
+  },
+  {
     "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your global record of {old} nights",
@@ -276,10 +282,22 @@
     "str": "我們偵測到您的輸入發生變化."
   },
   {
+    "key": "3F82A2864259BCB639BD6AA1600CAEED",
+    "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+    "id": "An error occurred while trying to find a match. Please try again or come back later.",
+    "str": "試圖找到比賽時發生了錯誤。請重試或稍後再回來。"
+  },
+  {
     "key": "821BBE2A48EE821074956AB736CA0ECB",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "Input detected!",
     "str": "偵測到輸入！"
+  },
+  {
+    "key": "93B997314AF656293CD3E6A5CB67FA1B",
+    "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+    "id": "Error",
+    "str": "錯誤"
   },
   {
     "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
@@ -288,16 +306,34 @@
     "str": "我們無法建立線上會話. 請檢查您的連線並重新啟動遊戲. 如果您決定繼續，遊戲將以離線模式執行."
   },
   {
+    "key": "B1656BA74A31111BA2FF87B17BE080E3",
+    "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+    "id": "{msg}...",
+    "str": "{msg} ..."
+  },
+  {
     "key": "BCA4F7E9472918A4030087B0CBCF7608",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "OK",
     "str": "好"
   },
   {
+    "key": "C0592C6C49617410AFF0AEA0D20C4C38",
+    "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
+    "id": "You have 5 unfinished games. You can't start a new one until those games are completed.",
+    "str": "您有5個未完成的遊戲。在完成這些遊戲之前，您不能啟動新遊戲。"
+  },
+  {
     "key": "79B48418402866A435B0658D650C041D",
     "location": "/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]",
     "id": "You've used everything you needed to use here.",
     "str": "您已經使用了所有需要使用的東西"
+  },
+  {
+    "key": "3FD1B85F401719EF8E895AA11EA72F39",
+    "location": "/Game/Blueprints/worldMultiplayer.worldMultiplayer_C:ExecuteUbergraph_worldMultiplayer [Script Bytecode]",
+    "id": "The power has gone out, insert a fuse to turn it back on.",
+    "str": "電源已經消失了，插入保險絲以將其重新打開。"
   },
   {
     "key": "3CB2A0B24617CF31968FC28E978F4153",
@@ -1848,6 +1884,24 @@
     "str": "切碎日誌"
   },
   {
+    "key": "8C71383749B1D50C469953B74B91BBB3",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(71 - Value).DisplayNameMap",
+    "id": "Bonfire",
+    "str": "篝火"
+  },
+  {
+    "key": "5949CA3341DE9902B8CCCB9B7E2F625A",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(72 - Value).DisplayNameMap",
+    "id": "Burn",
+    "str": "燒傷"
+  },
+  {
+    "key": "DA67C85643923D037A5EE39EE298CE74",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(73 - Value).DisplayNameMap",
+    "id": "Lantern",
+    "str": "燈籠"
+  },
+  {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
     "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
     "id": "Tea with enemies",
@@ -2472,6 +2526,12 @@
     "str": "目標未被檢測到，請嘗試更專注並保持在特定距離，以便可以看到整個目標"
   },
   {
+    "key": "48491A974F3D5B7AE34F89B54BEC6EB6",
+    "location": "/Game/functions/dynamicWorldFunctions.dynamicWorldFunctions_C:setPhoto [Script Bytecode]",
+    "id": "Shake photo to develop it.",
+    "str": "搖動照片來開發它。"
+  },
+  {
     "key": "046B76E840D9FECA7307A2B3B07E3645",
     "location": "/Game/functions/itemFunctions.itemFunctions_C:equipItems [Script Bytecode]",
     "id": "You can only equip a maximum of {x} items",
@@ -2488,12 +2548,6 @@
     "location": "/Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]",
     "id": "You couldn't join the game because {reason}",
     "str": "您無法加入遊戲，因為{reason}"
-  },
-  {
-    "key": "93B997314AF656293CD3E6A5CB67FA1B",
-    "location": "/Game/functions/messageFunctions.messageFunctions_C:getErrorText [Script Bytecode]",
-    "id": "Error",
-    "str": "錯誤"
   },
   {
     "key": "FCBE9D6940E5F7F0C84C4BBFC1243204",
@@ -2544,10 +2598,28 @@
     "str": "我們將再次見面...其他地方。"
   },
   {
+    "key": "02E98E3746E4F5372E8472A9CB5886D2",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "We played so badly it must’ve been part of the plan.",
+    "str": "我們玩得很厲害，一定是計劃的一部分。"
+  },
+  {
+    "key": "12B1497F47B6F8D70F4C2E8366B0D4E5",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Thanks for carrying me—straight back to the lobby.",
+    "str": "感謝您帶我 - 坦率地回到大廳。"
+  },
+  {
     "key": "1B78D2B546450B245D7FEF8436E4A4CB",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Fate will cross our paths again.",
     "str": "命運將再次越過我們的道路。"
+  },
+  {
+    "key": "1B9FB76C46F1512B0A29F782E47D1462",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "One more match, one less brain cell.",
+    "str": "另一項匹配，較少的腦細胞。"
   },
   {
     "key": "1E9530574969BD3390A057982A8ADBB3",
@@ -2566,6 +2638,12 @@
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It wasn’t luck, it was destiny.",
     "str": "那不是運氣，那是命運。"
+  },
+  {
+    "key": "375E194F46163C84C5ADD4B5A9B195F4",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "See you in the next epic defeat.",
+    "str": "在下一個史詩般的失敗中見。"
   },
   {
     "key": "4D23C5CA4EB057CE6E40CC80C89EC5FB",
@@ -2604,10 +2682,46 @@
     "str": "我喜歡和你一起玩，下次見！"
   },
   {
+    "key": "9B2EC09349E2EAF22713108A50FB1109",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "GG, though the Doll didn’t even notice we were there.",
+    "str": "GG，儘管娃娃甚至沒有註意到我們在那裡。"
+  },
+  {
+    "key": "ABB2AE084F554986BC695BA9BD30719E",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "We didn’t lose, we just chose to be humble today.",
+    "str": "我們沒有輸，我們只是選擇謙虛。"
+  },
+  {
+    "key": "C0E6DBB942CAE2B2BA0AE3BEE0FA2AF2",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "The important thing is no one got hurt... emotionally, maybe.",
+    "str": "重要的是沒有人受到傷害...也許是在情感上。"
+  },
+  {
+    "key": "C78877444F58EF005DABB287AF3D0A30",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "I learned a lot... about what not to do.",
+    "str": "我學到了很多...關於不做的事情。"
+  },
+  {
+    "key": "D417698C4B628BDF2B39FD82056698EA",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "It wasn’t your fault, the universe just conspired against you.",
+    "str": "這不是你的錯，宇宙只是串謀反對你。"
+  },
+  {
     "key": "DC4760E443CE4902DCA99AB981DDF978",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Good game, though I'm still wondering what happened there.",
     "str": "好遊戲，儘管我仍然想知道那裡發生了什麼。"
+  },
+  {
+    "key": "E4D153634D02AC70C2C82499E0C3DAFA",
+    "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
+    "id": "Your skills left me speechless... and matchless.",
+    "str": "您的技能使我無語...並且無與倫比。"
   },
   {
     "key": "E7484B2747CB11E478EBE7AF6523F710",
@@ -2722,6 +2836,12 @@
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
     "str": "歡迎來到避難所！"
+  },
+  {
+    "key": "AE7921274BBCE3DD133FC885B09DE5F9",
+    "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
+    "id": "Loading matchmaking data...",
+    "str": "加載對接數據..."
   },
   {
     "key": "B75DC93941A74B4A564DF389EB387762",
@@ -3336,16 +3456,64 @@
     "str": "成就"
   },
   {
-    "key": "A081117442D49E705B12F0A39C05191F",
-    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_1_Text [Script Bytecode]",
-    "id": "Employee of week",
-    "str": "一周的僱員"
+    "key": "E1DCDC434E0C29BD9C9E839E5E485661",
+    "location": "/Game/UI/contracts/contract.contract_C:GetText_2 [Script Bytecode]",
+    "id": "{time} am or earlier",
+    "str": "{time} am或更早"
   },
   {
-    "key": "CF3199204E05DD1583F260B6FB731ABD",
-    "location": "/Game/UI/contentSides.contentSides_C:Get_moneyField_7_Text [Script Bytecode]",
-    "id": "Streak days",
-    "str": "條紋日"
+    "key": "4D39CE7341DAF76B7D4B30B0F5D517E7",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock.Text",
+    "id": "Approve",
+    "str": "批准"
+  },
+  {
+    "key": "80677A9C4FD43A72501BB88301EFDB5C",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_12.Text",
+    "id": "Reward",
+    "str": "報酬"
+  },
+  {
+    "key": "4892E0854EBE7A4830C8569356E9F5B6",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_47.Text",
+    "id": "Contract",
+    "str": "合約"
+  },
+  {
+    "key": "4D3A5C034446E93B138F8DBF8934968C",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_5.Text",
+    "id": "Difficulty",
+    "str": "困難"
+  },
+  {
+    "key": "70DDD36542F90AF7ABFEACB0673FAF68",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_82.Text",
+    "id": "Location",
+    "str": "地點"
+  },
+  {
+    "key": "7701FD52493C0B02EA08D8BAF5BD5C0A",
+    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_9.Text",
+    "id": "Time",
+    "str": "時間"
+  },
+  {
+    "key": "C1C5BFCA4E442F838ECA2C8BE442A641",
+    "location": "/Game/UI/contracts/contracts.contracts_C:WidgetTree.TextBlock_4.Text",
+    "id": "Contracts",
+    "str": "合約"
+  },
+  {
+    "key": "0615C47F4CB607F4DD02D6936E6018CD",
+    "location": "/Game/UI/contracts/endContract.endContract_C:GetText [Script Bytecode]",
+    "id": "Successful contract",
+    "str": "成功合同"
+  },
+  {
+    "key": "EC3D80E34855E73C0C83C28EAD2CA339",
+    "location": "/Game/UI/contracts/endContract.endContract_C:GetText [Script Bytecode]",
+    "id": "Failed contract",
+    "str": "合同失敗"
   },
   {
     "key": "4191F3C04D16D6B588127484A538B7E5",
@@ -3438,6 +3606,12 @@
     "str": "你輸了"
   },
   {
+    "key": "96BE28504D901245DE1115BF00D47E10",
+    "location": "/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]",
+    "id": "Action Details",
+    "str": "行動細節"
+  },
+  {
     "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
     "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
     "id": "You didn't close the door",
@@ -3448,12 +3622,6 @@
     "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text",
     "id": "Replay",
     "str": "重玩"
-  },
-  {
-    "key": "798C9DA54AB7FB8B77443DA0EE442098",
-    "location": "/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_7.Text",
-    "id": "Go to Safe House",
-    "str": "到安全屋"
   },
   {
     "key": "F699B0844A39D7ABCF0260916BF5F41B",
@@ -3528,6 +3696,12 @@
     "str": "你擁有關於這些人偶的所有線索和資訊，但每個人偶的資訊都是完全隨機的。"
   },
   {
+    "key": "11739C0E41A20499E9C760B853C45A40",
+    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text",
+    "id": "Back",
+    "str": "返回"
+  },
+  {
     "key": "CE77947D46EF18A8A49309A22EB6E699",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text",
     "id": "Stats",
@@ -3564,6 +3738,12 @@
     "str": "額外關卡"
   },
   {
+    "key": "0958AB2948217C45C2F03B9AA2FFBBD5",
+    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
+    "id": "Contract",
+    "str": "合約"
+  },
+  {
     "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
     "id": "As you unlock new levels, new ones will appear!",
@@ -3574,6 +3754,12 @@
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
     "id": "New Game",
     "str": "新遊戲"
+  },
+  {
+    "key": "74CB94924A0D7B248DF67DA581AFEEE9",
+    "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text",
+    "id": "Matchmaking",
+    "str": "對接"
   },
   {
     "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -3796,6 +3982,72 @@
     "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
     "id": "Resume Game",
     "str": "繼續遊戲"
+  },
+  {
+    "key": "AC84F8B94C4CFF5DD57791BC7770A5BB",
+    "location": "/Game/UI/matchmaking/allMatches.allMatches_C:WidgetTree.TextBlock.Text",
+    "id": "Your matches",
+    "str": "你的比賽"
+  },
+  {
+    "key": "11F6F8AD467824048DD4B5A9C8C838E0",
+    "location": "/Game/UI/matchmaking/allMatches.allMatches_C:WidgetTree.TextBlock_6.Text",
+    "id": "Global matches",
+    "str": "全球比賽"
+  },
+  {
+    "key": "9B8FAFEE4B1253F62A27C7993DAD17E4",
+    "location": "/Game/UI/matchmaking/Match.Match_C:WidgetTree.TextBlock_11.Text",
+    "id": "Waiting",
+    "str": "等待"
+  },
+  {
+    "key": "50E952474428E42B3F7E09A5A5643AA4",
+    "location": "/Game/UI/matchmaking/Match.Match_C:WidgetTree.TextBlock_8.Text",
+    "id": "Winner",
+    "str": "優勝者"
+  },
+  {
+    "key": "64A6ECDC45AFA33F2F9571B03D686CF3",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_1.Text",
+    "id": "Find Match",
+    "str": "查找比賽"
+  },
+  {
+    "key": "C3897C8745442FE78430F8A926789CA9",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_2.Text",
+    "id": "All matches",
+    "str": "所有比賽"
+  },
+  {
+    "key": "D2B1C5344321A79D5E2704A2F870B831",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_4.Text",
+    "id": "Top Elo players",
+    "str": "頂級ELO球員"
+  },
+  {
+    "key": "C52F9F10483B5DB15BE1459A67C0EA36",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_5.Text",
+    "id": "Matchmaking",
+    "str": "對接"
+  },
+  {
+    "key": "8520674D43548D021E595CABA678C0F5",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_6.Text",
+    "id": "Map Selector",
+    "str": "地圖選擇器"
+  },
+  {
+    "key": "16EFA1C84A69BF60F01C6F9720D2149A",
+    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_84.Text",
+    "id": "Last matches",
+    "str": "最後一場比賽"
+  },
+  {
+    "key": "17389C2D46C82043BD67EFA835A30050",
+    "location": "/Game/UI/matchmaking/MMResult.MMResult_C:WidgetTree.TextBlock.Text",
+    "id": "Recent Matches Won",
+    "str": "最近的比賽獲勝"
   },
   {
     "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -4566,6 +4818,12 @@
     "str": "等待玩家..."
   },
   {
+    "key": "2B2B52694919914C41928BABBBBE89FB",
+    "location": "/Game/UI/stats.stats_C:WidgetTree.DefaultSpinner.Options(2).Options.Label",
+    "id": "User",
+    "str": "用戶"
+  },
+  {
     "key": "43B95535434D97B9189B93A2A4594202",
     "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_1.Text",
     "id": "Amount of Information discovered",
@@ -4594,6 +4852,18 @@
     "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text",
     "id": "Win cases",
     "str": "贏得案件"
+  },
+  {
+    "key": "A081117442D49E705B12F0A39C05191F",
+    "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_6.Text",
+    "id": "Employee of week",
+    "str": "一周的僱員"
+  },
+  {
+    "key": "CF3199204E05DD1583F260B6FB731ABD",
+    "location": "/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_7.Text",
+    "id": "Streak days",
+    "str": "條紋日"
   },
   {
     "key": "467D9B7144D32E320B1C6AA6D55B95B5",
@@ -4690,18 +4960,6 @@
     "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text",
     "id": "Action Dolls",
     "str": "動作人偶"
-  },
-  {
-    "key": "11739C0E41A20499E9C760B853C45A40",
-    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_11.Text",
-    "id": "Back",
-    "str": "返回"
-  },
-  {
-    "key": "96BE28504D901245DE1115BF00D47E10",
-    "location": "/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_2.Text",
-    "id": "Action Details",
-    "str": "行動細節"
   },
   {
     "key": "37F6FE7147465126D16EBCAB90C1274D",
