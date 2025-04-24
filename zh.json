@@ -15,7 +15,7 @@
     "key": "8953E06D4224FADDDA2E008D8A0E56FB",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by performing the action {action}; it may have broken or attacked friends to confuse you.",
-    "str": "冒名者通过执行动作 {action} 进行了误导；它可能破坏或攻击了朋友来迷惑你。"
+    "str": "卧底通过{action}进行了误导；它可能破坏或攻击了朋友来迷惑你。"
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -207,7 +207,7 @@
     "key": "C6A5EF874754CC2689ADB69E1CF529FE",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've broken your new global record with {new} nights! of the {old} nights before!",
-    "str": "您已经用{new}夜晚打破了新的全球记录！ "
+    "str": "你用{new}夜晚的成绩打破全球记录！ "
   },
   {
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
@@ -261,7 +261,7 @@
     "key": "9C7FB3D34DCE290E70FB6792846CE427",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "Enable bodyblock",
-    "str": "启用健美"
+    "str": "开启身体阻挡"
   },
   {
     "key": "C53301F94E23646EB809A29EA74DFB65",
@@ -273,19 +273,19 @@
     "key": "F42DAF34495A3991F4CB5F89BD0E3528",
     "location": "/Game/Blueprints/options.options_C:ExecuteUbergraph_options [Script Bytecode]",
     "id": "The function will be triggered only upon entering and exiting the caravan.",
-    "str": "该功能仅在进入和退出大篷车时才会触发。"
+    "str": "该功能仅在进入和退出车辆时触发。"
   },
   {
     "key": "0590A39240854404475C3696E14AF5A8",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "We have detected a change in your inputs.",
-    "str": "检测到您的输入按键发生变化。"
+    "str": "检测到输入按键发生变化。"
   },
   {
     "key": "3F82A2864259BCB639BD6AA1600CAEED",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "An error occurred while trying to find a match. Please try again or come back later.",
-    "str": "试图找到比赛时发生了错误。"
+    "str": "搜索比赛时发生错误。"
   },
   {
     "key": "821BBE2A48EE821074956AB736CA0ECB",
@@ -309,7 +309,7 @@
     "key": "B1656BA74A31111BA2FF87B17BE080E3",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "{msg}...",
-    "str": "{msg} ..."
+    "str": "{msg}……"
   },
   {
     "key": "BCA4F7E9472918A4030087B0CBCF7608",
@@ -321,7 +321,7 @@
     "key": "C0592C6C49617410AFF0AEA0D20C4C38",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "You have 5 unfinished games. You can't start a new one until those games are completed.",
-    "str": "您有5个未完成的游戏。"
+    "str": "你有5个未完成的游戏。在完成这些游戏前无法开始新的。"
   },
   {
     "key": "79B48418402866A435B0658D650C041D",
@@ -333,7 +333,7 @@
     "key": "3FD1B85F401719EF8E895AA11EA72F39",
     "location": "/Game/Blueprints/worldMultiplayer.worldMultiplayer_C:ExecuteUbergraph_worldMultiplayer [Script Bytecode]",
     "id": "The power has gone out, insert a fuse to turn it back on.",
-    "str": "电源已经消失了，插入保险丝以将其重新打开。"
+    "str": "已断电，放入保险丝恢复电力。"
   },
   {
     "key": "3CB2A0B24617CF31968FC28E978F4153",
@@ -1383,7 +1383,7 @@
     "key": "83010E2948BC54A397596AB84E5B62A2",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The popular",
-    "str": "受欢迎的"
+    "str": "受欢迎"
   },
   {
     "key": "C3B8291C41BED0B937DB0CA5B87EBD80",
@@ -1431,7 +1431,7 @@
     "key": "6DA543AF44AAEFD2447E468497B52D89",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "Baba Yaga",
-    "str": "巴巴·亚加（Baba Yaga）"
+    "str": "芭芭雅嘎"
   },
   {
     "key": "D54AD32246C068D95A3BF5911FDC1807",
@@ -1473,7 +1473,7 @@
     "key": "9C6C75F04D147EC179FD38B01562A9DF",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.name_18_82096130492E34A890A0138C4910D929",
     "id": "Cabin in the woods",
-    "str": "树林中的小屋"
+    "str": "林中小屋"
   },
   {
     "key": "F2BC9C064F532236387F0ABC86BA8078",
@@ -1815,7 +1815,7 @@
     "key": "8D1E4BAE4B57E8AEF49DC187DE36802E",
     "location": "/Game/enums/actions.actions.DisplayNameMap(60 - Value).DisplayNameMap",
     "id": "Bonfire with enemies",
-    "str": "与敌人的篝火"
+    "str": "与敌人共度篝火"
   },
   {
     "key": "2216B8AD47D0F974DCE7569F14A71283",
@@ -2607,7 +2607,7 @@
     "key": "12B1497F47B6F8D70F4C2E8366B0D4E5",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Thanks for carrying me—straight back to the lobby.",
-    "str": "感谢您带我 - 坦率地回到大厅。"
+    "str": "感谢你待我回大厅。"
   },
   {
     "key": "1B78D2B546450B245D7FEF8436E4A4CB",
@@ -2619,7 +2619,7 @@
     "key": "1B9FB76C46F1512B0A29F782E47D1462",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "One more match, one less brain cell.",
-    "str": "另一项匹配，较少的脑细胞。"
+    "str": "另一项匹配，脑细胞较少。"
   },
   {
     "key": "1E9530574969BD3390A057982A8ADBB3",
@@ -2721,7 +2721,7 @@
     "key": "E4D153634D02AC70C2C82499E0C3DAFA",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Your skills left me speechless... and matchless.",
-    "str": "您的技能使我无语...并且无与伦比。"
+    "str": "你无与伦比的技能令我无话可说……"
   },
   {
     "key": "E7484B2747CB11E478EBE7AF6523F710",
@@ -2811,7 +2811,7 @@
     "key": "9A2BA8AD46FB871F204232B31F7E2465",
     "location": "/Game/levels/houseMap.houseMap:PersistentLevel.infoTrigger_C_1.description",
     "id": "You're trying to sleep in this bed... in this house... with these possessed dolls. Sounds like a terrible idea. Better head to the caravan—at least there, nothing will watch you sleep... probably.",
-    "str": "你竟然想在这间房子里，这张床上睡觉……而且周围还有这些被附身的人偶。这听起来真是个糟糕的主意。最好还是去车里睡吧——至少在那里，没什么东西会盯着你睡觉……大概吧。"
+    "str": "你竟想在这房里的这张床上睡觉……而且周围还有这些被附身的人偶。这怎么也不合适吧。最好还是去车里睡吧——至少在那里，没什么东西会盯着你睡觉……大概吧。"
   },
   {
     "key": "C117437C4A0C8D8570FA27995BFCC2F2",
@@ -2841,7 +2841,7 @@
     "key": "AE7921274BBCE3DD133FC885B09DE5F9",
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Loading matchmaking data...",
-    "str": "加载对接数据..."
+    "str": "加载匹配数据中……"
   },
   {
     "key": "B75DC93941A74B4A564DF389EB387762",
@@ -3081,13 +3081,13 @@
     "key": "7855004746EF18F049F620BD89F0F99B",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "If you accept, all the products in your inventory will be sold, even if they are not selected.",
-    "str": "如果您接受，您库存中的所有产品都将被出售，即使它们未被选中."
+    "str": "如果接受，将出售物品栏中所有物品。"
   },
   {
     "key": "7C1F780F43047787285C17A26FC3B81B",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Once you finish the tutorial, you may face financial difficulties. To address this, you can play the classic mode, and depending on the difficulty level, it will grant you more or less money to use in the cases.",
-    "str": "完成教程后，您可能会面临财务困难。为了解决这个问题，您可以玩经典模式，根据难度级别，它会给您提供更多或更少的钱用于案件中。"
+    "str": "完成教程后，你可能会面临财务困难的风险。为此，你可以玩经典模式，根据难度级别，它会给您提供更多或更少的钱用于案件。"
   },
   {
     "key": "95529FFB4B5C7B8BF0D230810B54E147",
@@ -3099,7 +3099,7 @@
     "key": "A54F37AD4B04FC9EC886C6A8FED7D1F3",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "Your cases have been purged.",
-    "str": "您的案件已被清除。"
+    "str": "你的案件已清除。"
   },
   {
     "key": "AE1DC03A4DE0A9637C9F3FA115C15F1E",
@@ -4023,31 +4023,31 @@
     "key": "D2B1C5344321A79D5E2704A2F870B831",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_4.Text",
     "id": "Top Elo players",
-    "str": "顶级ELO球员"
+    "str": "顶级ELO玩家"
   },
   {
     "key": "C52F9F10483B5DB15BE1459A67C0EA36",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_5.Text",
     "id": "Matchmaking",
-    "str": "对接"
+    "str": "匹配"
   },
   {
     "key": "8520674D43548D021E595CABA678C0F5",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_6.Text",
     "id": "Map Selector",
-    "str": "地图选择器"
+    "str": "地图选择"
   },
   {
     "key": "16EFA1C84A69BF60F01C6F9720D2149A",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_84.Text",
     "id": "Last matches",
-    "str": "最后一场比赛"
+    "str": "上一场比赛"
   },
   {
     "key": "17389C2D46C82043BD67EFA835A30050",
     "location": "/Game/UI/matchmaking/MMResult.MMResult_C:WidgetTree.TextBlock.Text",
     "id": "Recent Matches Won",
-    "str": "最近的比赛获胜"
+    "str": "最近获胜的比赛"
   },
   {
     "key": "2349798E480EE5B45348C4B753C4BCB8",
@@ -4095,7 +4095,7 @@
     "key": "6371A84F40D0902115E78A9A1C09FBCE",
     "location": "/Game/UI/purchaseUI.purchaseUI_C:WidgetTree.TextBlock_28.Text",
     "id": "Do you want buy this product?",
-    "str": "您想购买该产品吗？"
+    "str": "你要购买该产品吗？"
   },
   {
     "key": "A0C0892943CF5FC4B208879116F465F0",
@@ -4113,7 +4113,7 @@
     "key": "7954AA374982804CD0C829A2D5575131",
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_17.Text",
     "id": "Money Earned",
-    "str": "赚到的钱"
+    "str": "赚取金钱"
   },
   {
     "key": "871328BF4DE67CD410188ABF20504C05",
@@ -4191,7 +4191,7 @@
     "key": "B7A232F04263043B9FEA5F8F6A6CBF61",
     "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(4).Options.Label",
     "id": "Unlimited",
-    "str": "无限"
+    "str": "无限制"
   },
   {
     "key": "77DAE76A48EC13E45F2983881F23E808",
