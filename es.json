@@ -2841,7 +2841,7 @@
     "key": "AE7921274BBCE3DD133FC885B09DE5F9",
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Loading matchmaking data...",
-    "str": "Cargando datos de emparejamiento ..."
+    "str": "Cargando datos de emparejamiento..."
   },
   {
     "key": "B75DC93941A74B4A564DF389EB387762",
@@ -3759,7 +3759,7 @@
     "key": "74CB94924A0D7B248DF67DA581AFEEE9",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text",
     "id": "Matchmaking",
-    "str": "Casamentero"
+    "str": "Emparejamiento"
   },
   {
     "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -4011,7 +4011,7 @@
     "key": "64A6ECDC45AFA33F2F9571B03D686CF3",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_1.Text",
     "id": "Find Match",
-    "str": "Encontrar el partido"
+    "str": "Encontrar partido"
   },
   {
     "key": "C3897C8745442FE78430F8A926789CA9",
@@ -4023,13 +4023,13 @@
     "key": "D2B1C5344321A79D5E2704A2F870B831",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_4.Text",
     "id": "Top Elo players",
-    "str": "Los mejores jugadores de elo"
+    "str": "Top Elo"
   },
   {
     "key": "C52F9F10483B5DB15BE1459A67C0EA36",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_5.Text",
     "id": "Matchmaking",
-    "str": "Casamentero"
+    "str": "Emparejamiento"
   },
   {
     "key": "8520674D43548D021E595CABA678C0F5",

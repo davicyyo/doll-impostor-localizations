@@ -3759,7 +3759,7 @@
     "key": "74CB94924A0D7B248DF67DA581AFEEE9",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text",
     "id": "Matchmaking",
-    "str": "Сваты"
+    "str": "Соревновательные матчи"
   },
   {
     "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -3987,7 +3987,7 @@
     "key": "AC84F8B94C4CFF5DD57791BC7770A5BB",
     "location": "/Game/UI/matchmaking/allMatches.allMatches_C:WidgetTree.TextBlock.Text",
     "id": "Your matches",
-    "str": "Ваши спички"
+    "str": "Ваши матчи"
   },
   {
     "key": "11F6F8AD467824048DD4B5A9C8C838E0",
@@ -4029,13 +4029,13 @@
     "key": "C52F9F10483B5DB15BE1459A67C0EA36",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_5.Text",
     "id": "Matchmaking",
-    "str": "Сваты"
+    "str": "Соревновательные матчи"
   },
   {
     "key": "8520674D43548D021E595CABA678C0F5",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_6.Text",
     "id": "Map Selector",
-    "str": "Селектор карт"
+    "str": "Выбор карты"
   },
   {
     "key": "16EFA1C84A69BF60F01C6F9720D2149A",
