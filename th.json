@@ -1239,7 +1239,7 @@
     "key": "5AC930984185A24BC84F5EB1E734B80E",
     "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Tubesocks",
-    "str": "เบาหวิว"
+    "str": "ทูบซอคส์"
   },
   {
     "key": "2CE416DB412AC40BEE092AAD7EC2F3F6",
@@ -1257,7 +1257,7 @@
     "key": "FACAB65943781B084CD803A77E0F7266",
     "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Gurl",
-    "str": "แต๋วแตก"
+    "str": "เดอะเกิร์ล"
   },
   {
     "key": "8482CDF142B6B8DA6AB0148C9B01430B",
@@ -1335,7 +1335,7 @@
     "key": "9CE4FD774DFBE4C84DC711A634666FA7",
     "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Bot",
-    "str": "หุ่นพยนต์"
+    "str": "เดอะบอท"
   },
   {
     "key": "9CDEB80D4E621DB2CC0B839965697925",
@@ -1353,7 +1353,7 @@
     "key": "A2DA993D4C8D5803246FE6BF9A720632",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The King in the North",
-    "str": "เจ้าแห่งทิศอุดร"
+    "str": "เดอะคิงอินเดอะนอร์ธ"
   },
   {
     "key": "3D9FD42E45538D66DD5CFBBAC921B9BF",
@@ -1893,13 +1893,13 @@
     "key": "5949CA3341DE9902B8CCCB9B7E2F625A",
     "location": "/Game/enums/actions.actions.DisplayNameMap(72 - Value).DisplayNameMap",
     "id": "Burn",
-    "str": "เผา"
+    "str": "เตาเผา"
   },
   {
     "key": "DA67C85643923D037A5EE39EE298CE74",
     "location": "/Game/enums/actions.actions.DisplayNameMap(73 - Value).DisplayNameMap",
     "id": "Lantern",
-    "str": "โคมไฟ"
+    "str": "ตะเกียง"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -3477,7 +3477,7 @@
     "key": "4892E0854EBE7A4830C8569356E9F5B6",
     "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_47.Text",
     "id": "Contract",
-    "str": "สัญญา"
+    "str": "สัญญาจ้าง"
   },
   {
     "key": "4D3A5C034446E93B138F8DBF8934968C",
@@ -3501,19 +3501,19 @@
     "key": "C1C5BFCA4E442F838ECA2C8BE442A641",
     "location": "/Game/UI/contracts/contracts.contracts_C:WidgetTree.TextBlock_4.Text",
     "id": "Contracts",
-    "str": "สัญญา"
+    "str": "สัญญาจ้าง"
   },
   {
     "key": "0615C47F4CB607F4DD02D6936E6018CD",
     "location": "/Game/UI/contracts/endContract.endContract_C:GetText [Script Bytecode]",
     "id": "Successful contract",
-    "str": "สัญญาที่เสร็จสมบูรณ์"
+    "str": "สัญญาจ้างเสร็จสมบูรณ์"
   },
   {
     "key": "EC3D80E34855E73C0C83C28EAD2CA339",
     "location": "/Game/UI/contracts/endContract.endContract_C:GetText [Script Bytecode]",
     "id": "Failed contract",
-    "str": "สัญญาที่ล้มเหลว"
+    "str": "สัญญาจ้างไม่สำเร็จ"
   },
   {
     "key": "4191F3C04D16D6B588127484A538B7E5",
@@ -3741,7 +3741,7 @@
     "key": "0958AB2948217C45C2F03B9AA2FFBBD5",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text",
     "id": "Contract",
-    "str": "สัญญา"
+    "str": "สัญญาจ้าง"
   },
   {
     "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
@@ -3759,7 +3759,7 @@
     "key": "74CB94924A0D7B248DF67DA581AFEEE9",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text",
     "id": "Matchmaking",
-    "str": "การจับคู่"
+    "str": "กาาจับคู่แข่งขัน"
   },
   {
     "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -4023,31 +4023,31 @@
     "key": "D2B1C5344321A79D5E2704A2F870B831",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_4.Text",
     "id": "Top Elo players",
-    "str": "ผู้เล่น ELO ชั้นนำ"
+    "str": "อันดับท้อปผู้เล่น ELO"
   },
   {
     "key": "C52F9F10483B5DB15BE1459A67C0EA36",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_5.Text",
     "id": "Matchmaking",
-    "str": "การจับคู่"
+    "str": "การจับคู่แข่ง"
   },
   {
     "key": "8520674D43548D021E595CABA678C0F5",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_6.Text",
     "id": "Map Selector",
-    "str": "เลือกแผนที่"
+    "str": "ตัวเลือกแผนที่"
   },
   {
     "key": "16EFA1C84A69BF60F01C6F9720D2149A",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_84.Text",
     "id": "Last matches",
-    "str": "นัดสุดท้าย"
+    "str": "การแข่งล่าสุด"
   },
   {
     "key": "17389C2D46C82043BD67EFA835A30050",
     "location": "/Game/UI/matchmaking/MMResult.MMResult_C:WidgetTree.TextBlock.Text",
     "id": "Recent Matches Won",
-    "str": "รายการแข่งชนะที่ผ่านมา"
+    "str": "ลำดับการแข่งที่ชนะ"
   },
   {
     "key": "2349798E480EE5B45348C4B753C4BCB8",
