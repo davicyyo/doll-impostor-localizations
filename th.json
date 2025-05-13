@@ -57,7 +57,7 @@
     "key": "D3B042044111E5CC7AE8239FB511F147",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(3).texts",
     "id": "Darkness surrounds us",
-    "str": "ความมืดมนครองงำพวกเรา"
+    "str": "ความมืดมนกำลังครอบงำพวกเรา"
   },
   {
     "key": "46CE50D24305DF8EE5E3069A686AD62E",
@@ -87,13 +87,13 @@
     "key": "8013788A45FE0968E12AA3BAF0AE5233",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(8).texts",
     "id": "The silence is deafening",
-    "str": "ความเงียบมันช่างหดหู่"
+    "str": "ความเงียบมันช่างหดหู่เหลือเกิน"
   },
   {
     "key": "FB77087A4862A67B758D529F87748C2F",
     "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
     "id": "Chaos consumes us",
-    "str": "ความโกลาหลกลืนกินพวกเรา"
+    "str": "ความโกลาหลกลืนกินพวกเราแล้ว"
   },
   {
     "key": "1C4A0DD846CCF542A5D75C843FB42C43",
@@ -153,7 +153,7 @@
     "key": "29996BA046E32225A477C4BF9759D962",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "The robot has caught you",
-    "str": "คุณถูกหุ่นยนต์จับได้แล้ว"
+    "str": "คุณถูกหุ่นยนต์จับตัวแล้ว"
   },
   {
     "key": "313664F547D8F4158BB67E8898134C0E",
@@ -177,7 +177,7 @@
     "key": "798C9DA54AB7FB8B77443DA0EE442098",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "Go to Safe House",
-    "str": "ไปยังเซฟเฮาส์"
+    "str": "กลับไปยังเซฟเฮาส์"
   },
   {
     "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
@@ -1527,7 +1527,7 @@
     "key": "D8A8DBB34AAD96AC66B54A87365822C9",
     "location": "/Game/enums/actions.actions.DisplayNameMap(16 - Value).DisplayNameMap",
     "id": "Knives",
-    "str": "มีด"
+    "str": "มีดกล"
   },
   {
     "key": "0593C38042D49BC9D0958EB990324EFA",
@@ -1599,7 +1599,7 @@
     "key": "A7C36D644573AD30716F4283EBBE53D2",
     "location": "/Game/enums/actions.actions.DisplayNameMap(28 - Value).DisplayNameMap",
     "id": "Swings",
-    "str": "ชิงช้า"
+    "str": "นั่งชิงช้า"
   },
   {
     "key": "D627A24C4957566043D3F0ADF0F70B9E",
@@ -1629,7 +1629,7 @@
     "key": "0285258748FED1BC6E542F80A9097CE9",
     "location": "/Game/enums/actions.actions.DisplayNameMap(32 - Value).DisplayNameMap",
     "id": "Tea",
-    "str": "ชา"
+    "str": "โต๊ะน้ำชา"
   },
   {
     "key": "8DDD1FD04F1754E2F728208EBEF897FC",
@@ -1827,7 +1827,7 @@
     "key": "43E917A74DB0CD9DFDE917ADC750AF59",
     "location": "/Game/enums/actions.actions.DisplayNameMap(62 - Value).DisplayNameMap",
     "id": "Voodoo",
-    "str": "วูดู"
+    "str": "ตุ๊กตาวูดู"
   },
   {
     "key": "4575A0784C42B9D9639C2CABE36F982E",
@@ -2559,19 +2559,19 @@
     "key": "410C72F3482B1E1E5F06FCBD4ABFF027",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
     "id": "Bronze",
-    "str": "ทองแดง"
+    "str": "เหรียญทองแดง"
   },
   {
     "key": "88B68C7C48445F64A23763BC309EBB74",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
     "id": "Gold",
-    "str": "ทอง"
+    "str": "เหรียญทอง"
   },
   {
     "key": "F7676B734952CBD210E2C4900B44F1E2",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]",
     "id": "Silver",
-    "str": "เงิน"
+    "str": "เหรียญเงิน"
   },
   {
     "key": "5154AFE04B70A5D272398C80C9353C25",
@@ -2673,7 +2673,7 @@
     "key": "8B08FC8D435C7783D1A5AAACD8B00B3D",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It was fun playing with you, let's do it again soon!",
-    "str": "มันช่างสนุกกับการเล่นเกมกับคุณ เรามาเล่นกันใหม่เร็ว ๆ นี้!"
+    "str": "มันช่างสนุกกับการเล่นเกมกับคุณ เราจะมาเล่นกันใหม่เร็ว ๆ นี้!"
   },
   {
     "key": "9A4F977440B30028B7A056A91FB8F0A1",
@@ -2685,7 +2685,7 @@
     "key": "9B2EC09349E2EAF22713108A50FB1109",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "GG, though the Doll didn’t even notice we were there.",
-    "str": "เกมที่ดี แม้ว่าตุ๊กตาไม่ได้สังเกตว่าเราอยู่ที่นั่น"
+    "str": "เป็นเกมที่ดี แม้ว่าตุ๊กตาไม่ได้สังเกตว่าเราอยู่ที่นั่น"
   },
   {
     "key": "ABB2AE084F554986BC695BA9BD30719E",
@@ -2721,7 +2721,7 @@
     "key": "E4D153634D02AC70C2C82499E0C3DAFA",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Your skills left me speechless... and matchless.",
-    "str": "ทักษะของคุณทำให้ฉันพูดไม่ออก ... และไม่มีที่ติ"
+    "str": "ทักษะของคุณทำให้ฉันพูดไม่ออก ... และไร้ที่ติ"
   },
   {
     "key": "E7484B2747CB11E478EBE7AF6523F710",
@@ -2799,7 +2799,7 @@
     "key": "2DD3DC844B37E701E7C0E7BBA33D59F8",
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I have given you the necessary items to use in the case! Check the caravan's chest and carefully read what each item is for.",
-    "str": "ฉันมอบสิ่งของที่จำเป็นสำหรับใช้ในกรณีนี้ให้คุณแล้ว! ลองตรวจสอบกล่องและตรวจสอบอุปกรณ์ให้ละเอียดก่อนใช้งาน"
+    "str": "ฉันมอบสิ่งของที่จำเป็นสำหรับใช้ในเคสนี้ให้คุณแล้ว! ลองตรวจสอบกล่องและตรวจสอบอุปกรณ์ให้ละเอียดก่อนใช้งาน"
   },
   {
     "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -2913,7 +2913,7 @@
     "key": "5220ED3742AAD20F53D18B86F110B811",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00.",
-    "str": "คุณคือผู้ดูแลตุ๊กตา โดยมีเพียงหนึ่งตัวในนั้นมีชีวิตและได้วางแผนจะฆ่าคุณ คุณต้องทำการสืบหาหลักฐาน ว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
+    "str": "คุณคือผู้ดูแลตุ๊กตา โดยมีหนึ่งตัวในนั้นมีได้มีชีวิตขึ้นมาและได้วางแผนจะฆ่าคุณ คุณต้องทำการสืบหาหลักฐานต่าง ๆ ว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
   },
   {
     "key": "53A10A0B4D95DA3B8371AEA60CDFE0CF",
@@ -2985,7 +2985,7 @@
     "key": "BDC3A1864427A6240202ACAFA646188C",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-    "str": "กลับไปนอน แล้วมาดูว่า จะมีเบาะแสใหม่ในชั่วโมงถัดไปหรือไม่"
+    "str": "กลับไปนอน แล้วมาตรวจดูว่า จะมีเบาะแสใหม่ในชั่วโมงถัดไปหรือไม่"
   },
   {
     "key": "BF587B62432840655EC059BE5054E289",
@@ -2997,7 +2997,7 @@
     "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "He has fallen into our trap and turned off the lights. We can now discard all those who like the light.",
-    "str": "เขาติดกับดักของเราแล้ว เขามาปิดไฟที่เราเปิดไว้ ตอนนี้เราสามารถคัดตุ๊กตาที่ชอบแสงไฟออกไปได้"
+    "str": "เขาติดกับดักของเราแล้ว เขาได้มาปิดไฟที่เราเปิดเอาไว้ ตอนนี้เราสามารถคัดตุ๊กตาที่ชอบแสงไฟออกไปได้"
   },
   {
     "key": "DA89561543E0C4540EBC6E8D9B7FCF8A",
@@ -3015,7 +3015,7 @@
     "key": "FA89ED204F28013D22A23CAE49ADAC61",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Sleep",
-    "str": "นอน"
+    "str": "การนอน"
   },
   {
     "key": "FAD096A047C791A2435446A372491A59",
@@ -3513,7 +3513,7 @@
     "key": "EC3D80E34855E73C0C83C28EAD2CA339",
     "location": "/Game/UI/contracts/endContract.endContract_C:GetText [Script Bytecode]",
     "id": "Failed contract",
-    "str": "สัญญาจ้างไม่สำเร็จ"
+    "str": "สัญญาจ้างล้มเหลว"
   },
   {
     "key": "4191F3C04D16D6B588127484A538B7E5",
@@ -3561,13 +3561,13 @@
     "key": "1D8FD7BF41336E508A0C819D98D92E5C",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_3.Text",
     "id": "Love",
-    "str": "รัก"
+    "str": "คนรัก"
   },
   {
     "key": "5F725F7240D646C0E28BA6BCB803C985",
     "location": "/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_4.Text",
     "id": "Hate",
-    "str": "เกลียด"
+    "str": "คนเกลียด"
   },
   {
     "key": "B1CD68AA49EED6E1F88A3E87FFBC3F83",
@@ -3687,7 +3687,7 @@
     "key": "95E8DAF7441719B3063BE7B84B85AE87",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text",
     "id": "Random",
-    "str": "สุ่ม"
+    "str": "โหมดสุ่ม"
   },
   {
     "key": "21FD3D1D43C022720514D89AC43F3A61",
@@ -3723,7 +3723,7 @@
     "key": "F167859643FD37B593110B9A866E9EB3",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text",
     "id": "Endless",
-    "str": "ไม่รู้จบ"
+    "str": "โหมดไม่รู้จบ"
   },
   {
     "key": "5A6092F448BE77B01756FFA578E7435A",
@@ -4023,7 +4023,7 @@
     "key": "D2B1C5344321A79D5E2704A2F870B831",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_4.Text",
     "id": "Top Elo players",
-    "str": "อันดับท้อปผู้เล่น ELO"
+    "str": "ผู้เล่นอันดับท้อป ELO"
   },
   {
     "key": "C52F9F10483B5DB15BE1459A67C0EA36",
@@ -4041,7 +4041,7 @@
     "key": "16EFA1C84A69BF60F01C6F9720D2149A",
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_84.Text",
     "id": "Last matches",
-    "str": "การแข่งล่าสุด"
+    "str": "การแข่งขันล่าสุด"
   },
   {
     "key": "17389C2D46C82043BD67EFA835A30050",
@@ -4719,7 +4719,7 @@
     "key": "7DAA5504439C77D6D132F88F80DC083D",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_67.Text",
     "id": "Purge all Steam cloud save",
-    "str": "ล้าง save Steam cloud ทั้งหมด"
+    "str": "ล้าง save ใน Steam cloud ทั้งหมด"
   },
   {
     "key": "FF55AC7148DC82901808C0AE258E41BF",
