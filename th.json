@@ -3411,7 +3411,7 @@
     "key": "BE0B31354A5A7B3192DFA6BB958679BE",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:WidgetTree.TextBlock_1.Text",
     "id": "Daily challenge",
-    "str": "ความท้าทายรายวัน"
+    "str": "ความท้าทายประจำวัน"
   },
   {
     "key": "9B6292A84A111FF42D574085642D7D63",
