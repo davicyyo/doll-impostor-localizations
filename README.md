@@ -1,7 +1,7 @@
 # doll-impostor-localizations
 
 Use this tool for translate
-https://simple-locale.vercel.app/
+https://localization.headarrow.com/
 
 Use this file for upload in to tool as base file
 https://github.com/davicyyo/doll-impostor-localizations/blob/main/en.json
