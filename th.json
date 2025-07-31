@@ -15,7 +15,7 @@
     "key": "8953E06D4224FADDDA2E008D8A0E56FB",
     "location": "/Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]",
     "id": "The impostor used mislead by performing the action {action}; it may have broken or attacked friends to confuse you.",
-    "str": "Impostor ได้ทำการปลอมตัวและได้ใช้ {action} เป็นหลักฐานปลอม ซึ่งอาจจะทำลายตู้หรือโจมตีเพื่อนตัวเองเพื่อทำให้คุณสับสนได้"
+    "str": "Impostor ได้ทำการปลอมตัวและได้ใช้ {action} เป็นหลักฐานปลอม ซึ่งบางครั้งอาจจะทำลายตู้ หรือโจมตีเพื่อนตัวเองเพื่อต้องการทำให้คุณสับสน"
   },
   {
     "key": "8C6EFCE649B93D5275B158901F4CAB7A",
@@ -117,31 +117,31 @@
     "key": "073BF882481ECDE57F50FF98957A3C22",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "You've unlocked a new difficulty!",
-    "str": "คุณได้ปลดล็อคระดับความยากใหม่แล้ว!"
+    "str": "คุณได้ปลดล็อกระดับความยากใหม่แล้ว!"
   },
   {
     "key": "51B58C89473E1AE2A37E6A8118DC37C1",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!",
-    "str": "คุณอยากรู้ไหมว่าข้อมูลเกี่ยวกับตุ๊กตามาจากไหนในโหมดอาชีพนี้ คุณสามารถค้นคว้าข้อมูลต่าง ๆ เกี่ยวกับตุ๊กตาได้ในการเล่นเคสไปเรื่อย ๆ แบบไม่จำกัด ไม่ว่าจะเป็นเคสในรูปแบบต่าง ๆ สภาพทางการเงิน ระดับความยากง่าย ร้านค้า การประดิษฐ์ และอื่น ๆ อีกมากมาย!"
+    "str": "คุณอยากรู้ไหมว่าข้อมูลเกี่ยวกับตุ๊กตามาจากไหนในโหมดอาชีพนี้ โดยในโหมดนี้ คุณสามารถค้นคว้าข้อมูลต่าง ๆ เกี่ยวกับตุ๊กตาได้ โดยการเล่นเคสไปเรื่อย ๆ แบบไม่จำกัด ไม่ว่าจะเป็นเคสในรูปแบบต่าง ๆ สภาพทางการเงิน ระดับความยากง่าย ร้านค้า การประดิษฐ์ และอื่น ๆ อีกมากมาย!"
   },
   {
     "key": "839DA89C42E027A3CA515CA3BC5BE204",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "You can try it now in PC",
-    "str": "ตอนนี้คุณสามารถลองได้บนพีซีแล้ว"
+    "str": "ตอนนี้คุณสามารถลองบนพีซีได้แล้ว"
   },
   {
     "key": "9472CB7546EB19A64D00B9B40CF7BC7D",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "You've unlocked a new extra mode!",
-    "str": "คุณได้ปลดล็อคโหมดพิเศษแล้ว!"
+    "str": "คุณได้ปลดล็อกโหมดพิเศษแล้ว!"
   },
   {
     "key": "B372B7564467D935DC5122B7415A738C",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]",
     "id": "You've unlocked the career mode!",
-    "str": "คุณได้ปลดล็อคโหมดอาชีพแล้ว!"
+    "str": "คุณได้ปลดล็อกโหมดอาชีพแล้ว!"
   },
   {
     "key": "FE11E6ED4FA63C5B12631383E56A20B5",
@@ -285,7 +285,7 @@
     "key": "3F82A2864259BCB639BD6AA1600CAEED",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "An error occurred while trying to find a match. Please try again or come back later.",
-    "str": "เกิดข้อผิดพลาดในขณะที่กำลังค้นหาการจับคู่ โปรดลองอีกครั้ง หรือกลับมาลองอีกครั้งภายหลังได้"
+    "str": "เกิดข้อผิดพลาดในขณะที่กำลังค้นหาการจับคู่ โปรดลองอีกครั้ง หรือกลับมาลองอีกครั้งในภายหลังได้"
   },
   {
     "key": "821BBE2A48EE821074956AB736CA0ECB",
@@ -513,13 +513,13 @@
     "key": "248912CB4D92726E9643E1AC09AF929C",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_0.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the Doll Impostor playlist radio",
-    "str": "ปลดล็อควิทยุเพลย์ลิสต์ Doll Impostor"
+    "str": "ปลดล็อกวิทยุเพลย์ลิสต์ Doll Impostor"
   },
   {
     "key": "19DDC502474EF80CF581C28691820477",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_1.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the Guess Who room in your lobby",
-    "str": "ปลดล็อคเกม ห้องบุคคลปริศนา ในล็อบบี้ของคุณ"
+    "str": "ปลดล็อกเกม ห้องบุคคลปริศนา ในล็อบบี้ของคุณ"
   },
   {
     "key": "768293AA49D6732C57669FAC91A3F198",
@@ -531,7 +531,7 @@
     "key": "E0F0C61A4E3FA26397234BA16ACDD9DE",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow_2.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Unlock the guard robot in your lobby, it will be peaceful",
-    "str": "ปลดล็อค หุ่นยนต์ลาดตระเวน ในล็อบบี้เพื่อความสงบสุขของคุณ"
+    "str": "ปลดล็อก หุ่นยนต์ลาดตระเวน ในล็อบบี้เพื่อความสงบสุขของคุณ"
   },
   {
     "key": "1057619F4616D8E4F8AA27A80261F8A7",
@@ -1881,7 +1881,7 @@
     "key": "58463A01483064ED239E849F40302FE1",
     "location": "/Game/enums/actions.actions.DisplayNameMap(70 - Value).DisplayNameMap",
     "id": "Chop logs",
-    "str": "สับท่อนไม้"
+    "str": "ผ่าฟืน"
   },
   {
     "key": "8C71383749B1D50C469953B74B91BBB3",
@@ -2613,7 +2613,7 @@
     "key": "1B78D2B546450B245D7FEF8436E4A4CB",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Fate will cross our paths again.",
-    "str": "โชคชะตาจะพาให้เรามาพบกันอีกครั้ง"
+    "str": "โชคชะตาจะนำพาให้เรามาพบกันอีกครั้ง"
   },
   {
     "key": "1B9FB76C46F1512B0A29F782E47D1462",
@@ -2637,7 +2637,7 @@
     "key": "26F317714EFF63CB9F7B9F817CF8125C",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "It wasn’t luck, it was destiny.",
-    "str": "มันไม่ใช่เรื่องบังเอิญ แต่มันเป็นโชคชะตา"
+    "str": "มันไม่ใช่เรื่องบังเอิญ มันคือโชคชะตา"
   },
   {
     "key": "375E194F46163C84C5ADD4B5A9B195F4",
@@ -2655,7 +2655,7 @@
     "key": "65E9ED0F4443E3F584BD3EA799519E28",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "This was not our last match.",
-    "str": "ครั้งนี่จะไม่ใช่นัดสุดท้ายของเรา"
+    "str": "ครั้งนี้จะไม่ใช่นัดสุดท้ายของเรา"
   },
   {
     "key": "6C928E3D409261E7EA2609B47E286EA2",
@@ -2721,7 +2721,7 @@
     "key": "E4D153634D02AC70C2C82499E0C3DAFA",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]",
     "id": "Your skills left me speechless... and matchless.",
-    "str": "ทักษะของคุณทำให้ฉันพูดไม่ออก ... และไร้ที่ติ"
+    "str": "ทักษะของคุณทำให้ฉันพูดไม่ออก ... ช่างไร้ที่ติ"
   },
   {
     "key": "E7484B2747CB11E478EBE7AF6523F710",
@@ -2745,7 +2745,7 @@
     "key": "EF176B2A4BCEA55C2F438CB60C8AC601",
     "location": "/Game/functions/messageFunctions.messageFunctions_C:getTexts [Script Bytecode]",
     "id": "Press key to bind",
-    "str": "กดปุ่มเพื่อมัด"
+    "str": "กดปุ่มเพื่อเลือก"
   },
   {
     "key": "1793A7934071DB7EFDE6498C6D04FBC3",
@@ -2769,7 +2769,7 @@
     "key": "DD24411D4ABAB447C1584B86E08D6117",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "Something has gone wrong, try restarting steam, the host may need to restart the lobby",
-    "str": "มีข้อผิดพลาดบางอย่างเกิดขึ้น ลองรีสตาร์ท Steam โฮสต์อาจจะต้องรีสตาร์ทล็อบบี้ใหม่"
+    "str": "มีข้อผิดพลาดบางอย่างเกิดขึ้น ลองทำการรีสตาร์ท Steam โฮสต์อาจจะต้องรีสตาร์ทล็อบบี้ใหม่"
   },
   {
     "key": "EC2A6CF342794100347D079D5C709865",
@@ -2835,7 +2835,7 @@
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-    "str": "ยินดีต้อนรับสู่เซฟเฮาส์! ที่นี่เป็นเขตปลอดภัย คุณสามารถเริ่มเกมใหม่ในโหมดต่าง ๆ ได้ที่นี่ คุณสามารถตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ บนชั้นได้ และยังสามารถปรับแต่งสถานที่นี้ได้อย่างอิสระได้อีกด้วย ด้วยการกดปุ่มจานสีที่อยู่บนโต๊ะทำงานของคุณ! "
+    "str": "ยินดีต้อนรับสู่เซฟเฮาส์! ที่นี่คือพื้นที่ของคุณ คุณสามารถเริ่มเกมใหม่ในโหมดต่าง ๆ ได้ที่นี่ แล้วยังสามารถตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ บนชั้นที่ล้อบบี้ทางเดินได้ นอกจากนี้ยังสามารถปรับแต่งสถานที่นี้ได้อย่างอิสระได้อีกด้วย ด้วยการกดปุ่มจานสีที่อยู่บนโต๊ะทำงานของคุณ! "
   },
   {
     "key": "AE7921274BBCE3DD133FC885B09DE5F9",
@@ -2859,19 +2859,19 @@
     "key": "04119A0C4BAB3896CA5F208DA41F582A",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "It looks like the impostor has done some events. These will be displayed on your left panel. Review them and then access the room again.",
-    "str": "ดูเหมือนว่าผู้ต้องสงสัยได้กระทำอะไรบางอย่าง เหตุการณ์เหล่านี้จะแสดงบนกระดานทางด้านข้างของคุณ โปรดสังเกตและเข้าไปในห้องตุ๊กตาเพื่อทำการตรวจสอบอีกครั้ง"
+    "str": "ดูเหมือนว่าผู้ต้องสงสัยของเราได้กระทำอะไรบางอย่างเอาไว้ โดยเหตุการณ์เหล่านี้จะแสดงบนกระดานทางด้านข้างของคุณ โปรดสังเกตให้ดี และเข้าไปในห้องตุ๊กตาเพื่อทำการตรวจสอบอีกครั้ง"
   },
   {
     "key": "08FC22B7498C0918FE50E0AB274B5889",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you.",
-    "str": "ก่อนออกจากห้องอย่าลืมล็อคกลอนประตู ถ้าหากคุณไม่ทำเช่นนั้น ตุ๊กตาอาจจะเข้ามาก่อกวนสิ่งที่คุณบันทึกไว้บนกระดาน หรือแม้กระทั่งฆ่าคุณได้ด้วยเช่นกัน"
+    "str": "ก่อนออกจากห้อง อย่าลืมล็อกกลอนประตูด้วย ถ้าหากคุณไม่ทำเช่นนั้น ตุ๊กตาอาจจะเข้ามาก่อกวนสิ่งที่คุณบันทึกไว้บนกระดาน หรือแม้กระทั่งฆ่าคุณได้ด้วยเช่นกัน"
   },
   {
     "key": "095285C644BBCF6CF4EA8EBA3F985F9F",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room.",
-    "str": "ที่นี่คือห้องตุ๊กตา คุณจะเห็นได้ว่าตุ๊กตาเหล่านี้ได้ทำอะไรบางอย่างในขณะที่คุณนอนหลับ ลองจับตาดูพวกเขาเอาไว้ สังเกตการณ์แล้วกลับไปที่ห้องนอน"
+    "str": "ที่นี่คือห้องเก็บตุ๊กตา คุณจะเห็นได้ว่าตุ๊กตาเหล่านี้ได้ทำอะไรบางอย่างในขณะที่คุณนอนหลับ ลองจับตาดูพวกเขาและคอยสังเกตการณ์เอาไว้ให้ดี แล้วกลับไปที่ห้องนอน"
   },
   {
     "key": "0A3D5EC2435134BB35A189A4B69C4101",
@@ -2889,7 +2889,7 @@
     "key": "0E888CB843DF92D55BD437BEB42F99EB",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Let's go back to the panel and start weeding out suspects who don't match our evidence.",
-    "str": "กลับไปที่กระดานและเริ่มคัดกรองผู้ต้องสงสัยบนกระดานที่ไม่ตรงกับหลักฐานที่เราสืบมาได้ออกไป"
+    "str": "กลับไปที่กระดาน และเริ่มคัดกรองผู้ต้องสงสัยบนกระดานที่ไม่ตรงกับหลักฐานที่เราสืบมาได้ออกไป"
   },
   {
     "key": "34AFF09749F832F67360E0923F227F4F",
@@ -2901,13 +2901,13 @@
     "key": "3A4B9B82453A3C78DD066BBB53AFC867",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "We only have 3 left. Let's go to the room to see who has moved and who has been moved.",
-    "str": "ตอนนี้เราเหลืออยู่เพียง 3 ตัวเท่านั้น ลองกลับไปตรวจสอบที่ห้องตุ๊กตาเพื่อตรวจดูว่ามีใครขยับหรือถูกย้ายหรือไม่"
+    "str": "ตอนนี้เราเหลืออยู่เพียง 3 ตัวเท่านั้น ลองกลับไปตรวจสอบที่ห้องตุ๊กตาเพื่อตรวจดูว่ามีใครขยับตัว หรือถูกย้ายหรือไม่"
   },
   {
     "key": "47254BE24A91487FA9DB08918BAFEBED",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "You've made it through the tutorial, you know the basics! To finish the tutorial, go to bed and sleep. You will go to your safe zone. Use the computer to start a game!",
-    "str": "คุณผ่านการทดสอบและมีความรู้พื้นฐานเบื้องต้นแล้ว! กลับไปนอนที่เตียงเพื่อเป็นการจบแบบทดสอบและกลับไปยังเซฟเฮาส์ของคุณ หลังจากนั้นคุณสามารถใช้คอมพิวเตอร์เพื่อเริ่มเกมต่าง ๆ ได้เลย!"
+    "str": "คุณได้ผ่านการทดสอบและมีความรู้พื้นฐานเบื้องต้นแล้ว! กลับไปนอนที่เตียงเพื่อเป็นการจบแบบทดสอบและกลับไปยังเซฟเฮาส์ของคุณ หลังจากนั้นคุณสามารถใช้คอมพิวเตอร์เพื่อเริ่มเกมต่าง ๆ ได้เลย!"
   },
   {
     "key": "5220ED3742AAD20F53D18B86F110B811",
@@ -2931,19 +2931,19 @@
     "key": "6621BA854D50DB36041E58AFE9A250D5",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "It's the last hour. We only have this chance to find out. Let's go to the room.",
-    "str": "นี่เป็นชั่วโมงสุดท้ายแล้ว เราเหลือเพียงโอกาสเดียวเท่านั้นในการสืบหา ไปสำรวจที่ห้องตุ๊กตากันเถอะ"
+    "str": "นี่คือชั่วโมงสุดท้ายแล้ว เราเหลือเพียงโอกาสเดียวเท่านั้น ในการสืบหาข้อมูล ลองกลับไปสำรวจที่ห้องตุ๊กตา"
   },
   {
     "key": "75DB907D4C3E80ED887ACDA2AADF602C",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are.",
-    "str": "คุณจะต้องสืบหาหลักฐาน โดยอ้างอิงจากหลักฐานการกระทำตามความชอบและไม่ชอบ ความเป็นเพื่อนหรือศัตรู ความรักหรือความเกลียดชัง โดยช้อมูลรายละเอียดของผู้ต้องสงสัยทั้งหมดได้ระบุไว้บนกระดานด้านซ้ายของคุณแล้ว"
+    "str": "คุณมีหน้าที่สืบหาหลักฐาน โดยอ้างอิงจากหลักฐานการกระทำตามความชอบและไม่ชอบ ความสัมพันธ์ต่าง ๆ ทั้ง เพื่อน ศัตรู ความรัก หรือแม้แต่ความเกลียดชัง โดยช้อมูลรายละเอียดของผู้ต้องสงสัยทั้งหมดได้ระบุไว้บนกระดานด้านข้างของคุณเรียบร้อยแล้ว"
   },
   {
     "key": "7F18D69F420F68627730E39CE489A2EC",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights.",
-    "str": "มาวางกับดักสำหรับผู้ต้องสงสัยกันเถอะ เรารู้แล้วว่าเขาชอบ ทีวี กับ ดนตรี เรามาลองเปิดไฟเอาไว้กัน"
+    "str": "เรามาทำหารวางกับดักสำหรับผู้ต้องสงสัยกัน เรารู้ข้อมูลแล้วว่าเขาชอบ ทีวี กับ ดนตรี เรามาลองเปิดไฟเอาไว้กัน"
   },
   {
     "key": "815797D840D1A6AEC45401A9A3996DE0",
@@ -2979,19 +2979,19 @@
     "key": "BD7ABF40452E652BF9FDDDB2B311BA06",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "To start, there are 20 dolls. Check them on the board and when you are ready, go to the room to meet them.",
-    "str": "อันดับแรก เรามีตุ๊กตาทั้งหมด 20 ตัว ลองตรวจสอบรายชื่อพวกเขาบนกระดาน เมื่อพร้อมแล้วให้เข้าห้องตุ๊กตาได้เลย"
+    "str": "อันดับแรก เรามีรายชื่อตุ๊กตาทั้งหมด 20 ตัว คุณสามารถตรวจสอบรายชื่อพวกเขาบนกระดาน เมื่อคุณพร้อม แล้วให้เข้าไปที่ห้องตุ๊กตาได้เลย"
   },
   {
     "key": "BDC3A1864427A6240202ACAFA646188C",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "Go to sleep and let's see if the clue is solved in the next hour.",
-    "str": "กลับไปนอน แล้วมาตรวจสอบดูว่า จะมีเบาะแสอะไรใหม่ ๆ ในชั่วโมงถัดไปหรือไม่"
+    "str": "ลองกลับไปนอน แล้วมาตรวจสอบดูอีกครั้งว่า เราจะได้เบาะแสอะไรใหม่ ๆ ในชั่วโมงถัดไปหรือไม่"
   },
   {
     "key": "BF587B62432840655EC059BE5054E289",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "It is clear that he likes blood. It could be either of the two, but check the boxes. Freddy is missing and his box is full of blood. He left this verdict for you. When you are sure, discard the candidate.",
-    "str": "เห็นได้ชัดว่าเขาชอบเลือด อาจจะเป็นฝีมือตัวใดตัวหนึ่ง ลองสำรวจที่ตู้โชว์ Freddy ได้หายไปและตู้โชว์เขาเต็มไปด้วยเลือด เขาทิ้งหลักฐานอันนี้ไว้ให้คุณ อาจจะเป็นคนที่เกลียดเขา ถ้าหากคุณมั่นใจในข้อมูลที่คุณมีแล้ว ให้ทำการคัดผู้ต้องสงสัยที่ไม่เกี่ยวข้องออกได้เลย"
+    "str": "เป็นที่ชัดเจนแล้วว่า เขาชอบเลือด อาจจะเป็นฝีมือใครซักคน เมื่อเราลองไปสำรวจที่ตู้โชว์ของ Freddy ดูและเราพบว่า เขาได้ตายไปแล้วและตู้โชว์เขาเต็มไปด้วยเลือด เป็นหลักฐานว่ามีใครบางคนเกลียดและทำร้ายเขา ถ้าหากคุณมั่นใจหลักฐานที่คุณมี ให้เริ่มทำการคัดกรองผู้ต้องสงสัยที่ไม่เกี่ยวข้องออกได้เลย"
   },
   {
     "key": "CA75CAA04ADC71945FDEF1B6843F94B0",
@@ -3021,7 +3021,7 @@
     "key": "FAD096A047C791A2435446A372491A59",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-    "str": "เราพบว่า Ricky นั่งอยู่บนโซฟาและ Monty นั่งอยู่ที่เปียโน ดังนั้นเราเหลือผู้ต้องสงสัยที่เป็นไปได้แค่ 2 ตัวเท่านั้น แต่อย่างไรก็ตามเราไม่แนะนำให้คุณเสี่ยงโอกาส 50/50 ที่เป็นไปได้นี้ เพื่อความปลอดภัยของคุณ เราแนะนำว่าเราควรกลับไปที่ห้องเพื่อทำการคัดกรองตุ๊กตาที่หลักฐานไม่เกี่ยวข้อง และรอเบาะแสถัดไป"
+    "str": "เราพบว่า Ricky นั่งอยู่บนโซฟา กับ Monty นั่งอยู่ที่เปียโน ดังนั้นเราเหลือผู้ต้องสงสัยที่เป็นไปได้แค่ 2 ตัวเท่านั้น แต่อย่างไรก็ตามเราไม่แนะนำให้คุณเสี่ยงโอกาส 50/50 ที่เป็นไปได้นี้ เพื่อความปลอดภัยของคุณ เราแนะนำว่าเราควรกลับไปที่ห้องเพื่อทำการคัดกรองตุ๊กตาที่หลักฐานไม่เกี่ยวข้อง และรอเบาะแสถัดไปดีกว่า"
   },
   {
     "key": "7055F47B466C9C3B47C459A2BDF1373A",
@@ -3057,7 +3057,7 @@
     "key": "09526FC54AA5D1983C1048ACADED01C4",
     "location": "/Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]",
     "id": "You have now accepted the case. Outside of the tutorial, you could abandon the case at any time, but you won't be able to find new cases once you've accepted. With this settled, travel to the location when you're ready.",
-    "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณยังสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ แต่จะไม่สามารถหาเคสใหม่ถ้าหากคุณเลือกรับเคสก่อนหน้านี้ไว้ได้ เมื่อคุณจัดการ และเตรียมอุปกรณ์ของคุณพร้อมแล้ว คุณสามารถออกเดินทางได้เลย"
+    "str": "ตอนนี้คุณได้เลือกเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณยังสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ แต่จะไม่สามารถหาเคสใหม่ถ้าหากคุณเลือกรับเคสก่อนหน้านี้ไว้ได้ เมื่อคุณจัดการ และเตรียมอุปกรณ์ของคุณพร้อมเรียบร้อยแล้ว คุณสามารถออกเดินทางได้เลย"
   },
   {
     "key": "3E89DE624ACBA88C4179C9852E9C70AD",
@@ -3357,7 +3357,7 @@
     "key": "06D919A94D862F6B8ACAAFA90ABFD823",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the {map} map in time trial with {medal} medal",
-    "str": "เอาชนะแผนที่ {map} ในการจับเวลาด้วยเหรียญรางวัล {medal}"
+    "str": "เอาชนะแผนที่ {map} ในโหมดจับเวลาด้วยเหรียญรางวัล {medal}"
   },
   {
     "key": "1FEC6BF54861A572D22E959A41960743",
@@ -3375,7 +3375,7 @@
     "key": "6C799D7C4C77D7EF2DC0579F8D8F948B",
     "location": "/Game/UI/challengeUI/dailychallenge.dailychallenge_C:ExecuteUbergraph_dailychallenge [Script Bytecode]",
     "id": "Beat the map {map} with {nights} nights in endless mode",
-    "str": "เอาชนะแผนที่ {map} ด้วย {nights} คืนในโหมดไม่รู้จบ"
+    "str": "เอาชนะแผนที่ {map} ด้วยจำนวน {nights} คืน ในโหมดไม่รู้จบ"
   },
   {
     "key": "CA1C6A0A487A2DD8E6542DA36C569087",
@@ -3615,7 +3615,7 @@
     "key": "AEB4B3D54B17C67F1E1637ADF1242ED3",
     "location": "/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]",
     "id": "You didn't close the door",
-    "str": "คุณไม่ได้ล็อคประตูรถตู้"
+    "str": "คุณไม่ได้ล็อกประตูรถตู้"
   },
   {
     "key": "B084116A4B080238B7AB2A89F60A598E",
@@ -3663,7 +3663,7 @@
     "key": "27F0561948852E1FB316F9A6EAEB5841",
     "location": "/Game/UI/gameMenu.gameMenu_C:GetText_1 [Script Bytecode]",
     "id": "Streak of {days} consecutive days!",
-    "str": "เล่นติดต่อกันแล้ว {days} วัน!"
+    "str": "เล่นติดต่อกันเป็นเวลา {days} วัน แล้ว!"
   },
   {
     "key": "BF4FA5364C39224BE93EC080C21FF285",
@@ -3681,7 +3681,7 @@
     "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
     "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-    "str": "เหมาะสำหรับมืออาชีพเท่านั้น เริ่มที่เวลา 08:00 น. และมีเบาะแสที่สำคัญเพียง 3 รายการ ไม่มีรูปภาพตุ๊กตาและข้อมูลบางส่วนถูกปิดเอาไว้ รวมถึงถูกจำกัดพื้นที่ในการเข้าถึงแค่บางส่วนเท่านั้น"
+    "str": "ระดับนี้เหมาะสำหรับมืออาชีพเท่านั้น จะเริ่มที่เวลา 08:00 น. และมีเบาะแสที่สำคัญเพียง 3 รายการ ไม่มีรูปภาพตุ๊กตาและข้อมูลบางส่วนถูกปิดเอาไว้ รวมถึงถูกจำกัดพื้นที่ในการเข้าถึงแค่บางส่วนเท่านั้น"
   },
   {
     "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -3693,7 +3693,7 @@
     "key": "21FD3D1D43C022720514D89AC43F3A61",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_13.Text",
     "id": "You have all the clues and all the information about the dolls, but this is completely random for each doll.",
-    "str": "คุณมีเบาะแสและข้อมูลของตุ๊กตาทุกตัวไว้แล้ว แต่ข้อมูลดังกล่าวจะเป็นแบบสุ่มทั้งหมด"
+    "str": "คุณมีเบาะแสและข้อมูลของตุ๊กตาทุกตัวไว้เรียบร้อยแล้ว แต่ข้อมูลดังกล่าวจะเป็นแบบสุ่มทั้งหมด"
   },
   {
     "key": "11739C0E41A20499E9C760B853C45A40",
@@ -3717,7 +3717,7 @@
     "key": "8C118CF148C516FD54C9BC8FE28F9A95",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
     "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-    "str": "โหมดสุ่มแบบจับเวลา ค้นหาตุ๊กตาและตอบให้ถูกต้องก่อนที่เวลาจะหมด และรับถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
+    "str": "โหมดสุ่มแบบจับเวลา เราจะต้องค้นหาตุ๊กตา และตอบให้ถูกต้องก่อนที่เวลาจะหมด และรับถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
   },
   {
     "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3747,7 +3747,7 @@
     "key": "E80DB2AE4EFABFA02AFEEBA33FADDDEC",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text",
     "id": "As you unlock new levels, new ones will appear!",
-    "str": "เมื่อคุณปลดล็อคระดับใหม่ จะมีระดับใหม่ปรากฏขึ้น!"
+    "str": "เมื่อคุณปลดล็อกระดับแล้ว จะมีระดับใหม่ปรากฏขึ้น!"
   },
   {
     "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
@@ -3777,13 +3777,13 @@
     "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
     "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-    "str": "เพิ่มระดับความยากเล็กน้อย จะไม่มีเบาะแสให้บนกระดาน และคุณไม่สามารถดูชื่อตุ๊กตาที่ตัวตุ๊กตาได้"
+    "str": "เพิ่มระดับความยากเล็กน้อย จะไม่มีเบาะแสปรากฏบนกระดาน และคุณไม่สามารถดูชื่อตุ๊กตาที่ตัวตุ๊กตาได้"
   },
   {
     "key": "DFC327DA4616540509FBF6AA40D0458B",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text",
     "id": "Expert mode, you start from 06:00, there are no extra clues and no photographs",
-    "str": "โหมดสำหรับผู้เชี่ยวชาญ เริ่มเวลา 06:00 น. เบาะแสลดจำนวนลง และไม่มีรูปภาพตุ๊กตาปรากฏให้"
+    "str": "โหมดนี้สำหรับผู้เชี่ยวชาญ จะเริ่มเวลา 06:00 น. เบาะแสจะถูกลดจำนวนลง และไม่มีรูปภาพตุ๊กตาปรากฏให้"
   },
   {
     "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
@@ -3795,7 +3795,7 @@
     "key": "6540E66F480EE470D56246880E1AAC02",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text",
     "id": "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter",
-    "str": "ระดับความยากมาตรฐาน เบาะแสทั้งหมดจะถูกเปิดเผยเมื่อถึงเวลา 08:00 น. คุณมีตัวเลือกในการดูชื่อของตุ๊กตาและรายการการกระทำของผู้ต้องสงสัย"
+    "str": "ระดับความยากมาตรฐาน เบาะแสทั้งหมดจะถูกเปิดเผยเมื่อถึงเวลา 08:00 น. คุณมีหลักฐานเพียงพอที่จะตามหาผู้ต้องสงสัย โดยม่ตัวเลือกในการดูชื่อของตุ๊กตาและรายการการกระทำของผู้ต้องสงสัย"
   },
   {
     "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
@@ -3903,7 +3903,7 @@
     "key": "1F08FDF0468D51F7E028E1BB99CD5292",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_8.Text",
     "id": "Your tickets",
-    "str": "ตั๋วของคุณ"
+    "str": "รายงานปัญหาที่คุณพบ"
   },
   {
     "key": "3C6A18094402141EA3AC7C9F87F0B1C1",
@@ -3945,7 +3945,7 @@
     "key": "2CDD0CEC4E31721F7E60268C06941859",
     "location": "/Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]",
     "id": "The ticket has been created, do you want to see it?",
-    "str": "สร้างตั๋วแล้ว คุณต้องการดูมันไหม?"
+    "str": "เราได้รับรายงานเกี่ยวกับปัญหาที่คุณพบ คุณต้องการจะตรวจสอบไหม?"
   },
   {
     "key": "7E7BE8534A4EEA2E07828BB7683F8722",
@@ -3957,7 +3957,7 @@
     "key": "6F0469EB48D6EC34F0C511B2D187D7D9",
     "location": "/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_1.Text",
     "id": "Have you had any issues?",
-    "str": "คุณเคยประสบปัญหาบ้างไหม?"
+    "str": "คุณเจอประสบปัญหาอะไรบ้างไหม?"
   },
   {
     "key": "A2C08BE6447E2720D3051F8CA460E102",
