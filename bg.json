@@ -320,8 +320,8 @@
   {
     "key": "C0592C6C49617410AFF0AEA0D20C4C38",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
-    "id": "You have 5 unfinished games. You can't start a new one until those games are completed.",
-    "str": "Имате 5 незавършени игри. "
+    "id": "You have {num} unfinished games. You can't start a new one until those games are completed.",
+    "str": "Имате {num} незавършени игри. "
   },
   {
     "key": "79B48418402866A435B0658D650C041D",
@@ -1476,6 +1476,132 @@
     "str": "Кабина в гората"
   },
   {
+    "key": "80CF77464D28A21972A063845C52E7D9",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Major",
+    "str": "Основният"
+  },
+  {
+    "key": "3E40326C412009058F6124BFD8AFDA0C",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Minister",
+    "str": "Министърът"
+  },
+  {
+    "key": "D6F858584F28B1519B6C07BD1CE1B98B",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Explorer",
+    "str": "Изследовател"
+  },
+  {
+    "key": "7FA40C224FFFB246745BFD84D7B73419",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Commander",
+    "str": "Командирът"
+  },
+  {
+    "key": "34D171784721BBA559EED6BDB53280F4",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Healer",
+    "str": "Лечителят"
+  },
+  {
+    "key": "2624D6C147FB35E04D0360B4BA9DDD75",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Medic",
+    "str": "Медикът"
+  },
+  {
+    "key": "14DDBDAF4354D162FC4C4AB9D98933A5",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Chef",
+    "str": "Готвачът"
+  },
+  {
+    "key": "75B9955E42810289D96C47A60D86C30F",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Baker",
+    "str": "Хлебарят"
+  },
+  {
+    "key": "F91612204C79C87AE6B3CD8C52C85B0A",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Server",
+    "str": "Сървъра"
+  },
+  {
+    "key": "8554C8F3411B857CF3F2B1B958A3A089",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Butler",
+    "str": "Бътлър"
+  },
+  {
+    "key": "3EA0CEA84C472BE0FAAEF19BFE6ABDF4",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Rescuer",
+    "str": "Спасителят"
+  },
+  {
+    "key": "A0406E40471541E4372E338817DD3816",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Firefighter",
+    "str": "Пожарникарят"
+  },
+  {
+    "key": "E9D7852E47870C4C1BB48CA20DDF0710",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Collector",
+    "str": "Колекционерът"
+  },
+  {
+    "key": "FEE4ABA84AE0176FAA4B46BCE0E0E307",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Sweeper",
+    "str": "Чистачката"
+  },
+  {
+    "key": "AE478A3F44316B31025635ABE702435F",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Recruit",
+    "str": "Набирането"
+  },
+  {
+    "key": "38D45BB8419F2FA7DBC0569C7DD59F07",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Cadet",
+    "str": "Кадетът"
+  },
+  {
+    "key": "8627F7594E899828ACDDF78856990D6C",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The officer",
+    "str": "Офицерът"
+  },
+  {
+    "key": "F45469E54D1A993476E443A8D910BA70",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Sergeant",
+    "str": "Сержантът"
+  },
+  {
+    "key": "B4D3A0F548FF08030F2F958A23F5EE6A",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Advisor",
+    "str": "Съветникът"
+  },
+  {
+    "key": "C239B67C4D815AB0F53B0ABDCE84596E",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
+    "id": "The Scholar",
+    "str": "Ученият"
+  },
+  {
+    "key": "8EEA2F894F67C37E9BD8398268387B58",
+    "location": "/Game/data-tables/mapList.mapList.NewRow_4.name_18_82096130492E34A890A0138C4910D929",
+    "id": "Toy Factory",
+    "str": "Фабрика за играчки"
+  },
+  {
     "key": "F2BC9C064F532236387F0ABC86BA8078",
     "location": "/Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap",
     "id": "Organization",
@@ -1902,10 +2028,106 @@
     "str": "Фенер"
   },
   {
+    "key": "5334408648C557811A184E976C06A549",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(74 - Value).DisplayNameMap",
+    "id": "Showcase with friends",
+    "str": "Витрина с приятели"
+  },
+  {
+    "key": "EA9D912F4AD26C11BB4E54BD2AB554B1",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(75 - Value).DisplayNameMap",
+    "id": "Showcase with enemies",
+    "str": "Витрина с врагове"
+  },
+  {
+    "key": "DA7DBBEF4C04B93861C434B2DEB1FB82",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(76 - Value).DisplayNameMap",
+    "id": "Sales work",
+    "str": "Продажби"
+  },
+  {
+    "key": "A60FC2C34907BF1F1982DFBEFC52FF97",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(77 - Value).DisplayNameMap",
+    "id": "Technical work",
+    "str": "Техническа работа"
+  },
+  {
+    "key": "A6EF7D474751301FECF61F8777545955",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(78 - Value).DisplayNameMap",
+    "id": "Reporting work",
+    "str": "Работа по отчитане"
+  },
+  {
+    "key": "FBB15C024919E213AD0A12819A88AABD",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(79 - Value).DisplayNameMap",
+    "id": "Actor work",
+    "str": "Актьорска работа"
+  },
+  {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
     "location": "/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap",
     "id": "Tea with enemies",
     "str": "Чай с врагове"
+  },
+  {
+    "key": "4FE7940F48472D8296F507B9CD31A401",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(80 - Value).DisplayNameMap",
+    "id": "Warehouse work",
+    "str": "Работа с склад"
+  },
+  {
+    "key": "33ABB50B464ABA0CA52845B56E471579",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(81 - Value).DisplayNameMap",
+    "id": "Photography work",
+    "str": "Фотографска работа"
+  },
+  {
+    "key": "FDE0ADE64BD2350A52E5E2BEEE19203D",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(82 - Value).DisplayNameMap",
+    "id": "Sweeper work",
+    "str": "Работа по чистач"
+  },
+  {
+    "key": "376368514E1680C3B9E19A9F4EDC290D",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(83 - Value).DisplayNameMap",
+    "id": "Production",
+    "str": "Производство"
+  },
+  {
+    "key": "5D8EF37143DA1F1990086E967598AC54",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(84 - Value).DisplayNameMap",
+    "id": "Foortkit",
+    "str": "Foortkit"
+  },
+  {
+    "key": "94B98805435D6D630297949DBCC11872",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(85 - Value).DisplayNameMap",
+    "id": "Repair",
+    "str": "Ремонт"
+  },
+  {
+    "key": "C439E4F142BB563BB7CA8DAC815830BA",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(86 - Value).DisplayNameMap",
+    "id": "Produce dolls",
+    "str": "Произвеждат кукли"
+  },
+  {
+    "key": "34D14CB84B78A22961B949B5B3EDD76B",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(87 - Value).DisplayNameMap",
+    "id": "Produce robots",
+    "str": "Произвеждат роботи"
+  },
+  {
+    "key": "055C56B4433858ACC413F4B387DB6246",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(88 - Value).DisplayNameMap",
+    "id": "Produce boxes",
+    "str": "Произвеждат кутии"
+  },
+  {
+    "key": "EB1F58A541CF8EFA9FBF538B50B67461",
+    "location": "/Game/enums/actions.actions.DisplayNameMap(89 - Value).DisplayNameMap",
+    "id": "Produce toys",
+    "str": "Произвеждат играчки"
   },
   {
     "key": "D2BAA1EC4F84BE5AA48BBC92F65D2FA8",
@@ -3294,7 +3516,7 @@
     "str": "Приемете случай"
   },
   {
-    "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
+    "key": "70DDD36542F90AF7ABFEACB0673FAF68",
     "location": "/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_9.Text",
     "id": "Location",
     "str": "Местоположение"
@@ -3474,22 +3696,10 @@
     "str": "Награда"
   },
   {
-    "key": "4892E0854EBE7A4830C8569356E9F5B6",
-    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_47.Text",
-    "id": "Contract",
-    "str": "Договор"
-  },
-  {
     "key": "4D3A5C034446E93B138F8DBF8934968C",
     "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_5.Text",
     "id": "Difficulty",
     "str": "Трудност"
-  },
-  {
-    "key": "70DDD36542F90AF7ABFEACB0673FAF68",
-    "location": "/Game/UI/contracts/contract.contract_C:WidgetTree.TextBlock_82.Text",
-    "id": "Location",
-    "str": "Местоположение"
   },
   {
     "key": "7701FD52493C0B02EA08D8BAF5BD5C0A",
@@ -3628,6 +3838,12 @@
     "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock.Text",
     "id": "Invite players",
     "str": "Поканете играчи"
+  },
+  {
+    "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
+    "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text",
+    "id": "Browse Lobbies",
+    "str": "Разгледайте лобитата"
   },
   {
     "key": "0A9B45DB40B3BFE34DF53CB9717F18AC",
@@ -3798,18 +4014,6 @@
     "str": "Стандартната трудност за всеки играч, всички улики ще бъдат направени в 08:00, имате възможност да видите имената на куклите и списъка с действията на самозванеца"
   },
   {
-    "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
-    "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text",
-    "id": "Name",
-    "str": "Име"
-  },
-  {
-    "key": "D82E9CC948B03153A925558746DD99F2",
-    "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text",
-    "id": "Password",
-    "str": "Парола"
-  },
-  {
     "key": "41A1A89A4ADCC9D9F94EABA4A93A05DB",
     "location": "/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text",
     "id": "Visibility",
@@ -3858,10 +4062,22 @@
     "str": "Преведено от: {people}"
   },
   {
-    "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
-    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text",
-    "id": "Exit",
-    "str": "Изход"
+    "key": "D874B1094946F76596835A86FE1F53DC",
+    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_10.Text",
+    "id": "HeadArrow merch",
+    "str": "Meadarrow Merch"
+  },
+  {
+    "key": "4E94C231410D12DEC924E7BA00492FEF",
+    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_12.Text",
+    "id": "Check Doll Inc",
+    "str": "Проверете Doll Inc."
+  },
+  {
+    "key": "ECA1F9F34AEBA0B58ACDE1B00AB6C8C3",
+    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_14.Text",
+    "id": "Content creators program",
+    "str": "Програма за създатели на съдържание"
   },
   {
     "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -3886,12 +4102,6 @@
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_4.Text",
     "id": "Open lobby",
     "str": "Отворено фоайе"
-  },
-  {
-    "key": "B2D8A8F840BD88A7FB7EB385796D6E10",
-    "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text",
-    "id": "Browse Lobbies",
-    "str": "Разгледайте лобитата"
   },
   {
     "key": "94DF171240785BD6422882B6ECC3CFDC",
@@ -3936,6 +4146,12 @@
     "str": "Позиция"
   },
   {
+    "key": "E64ED09448DCC6987F8B6A80DFEF3B3F",
+    "location": "/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text",
+    "id": "Name",
+    "str": "Име"
+  },
+  {
     "key": "901E40384D0FE3FAD3508F98408C18C7",
     "location": "/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text",
     "id": "Nights",
@@ -3972,6 +4188,12 @@
     "str": "Хареса ли ти"
   },
   {
+    "key": "D82E9CC948B03153A925558746DD99F2",
+    "location": "/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]",
+    "id": "Password",
+    "str": "Парола"
+  },
+  {
     "key": "36DAFDA641D110060CAB6BBD14FE3722",
     "location": "/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]",
     "id": "Continue",
@@ -3982,6 +4204,12 @@
     "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.ResumeGameButton.ButtonText",
     "id": "Resume Game",
     "str": "Възобновяване на играта"
+  },
+  {
+    "key": "1692DE874C0C2B1FC7A6A5AD1D9C1FE9",
+    "location": "/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text",
+    "id": "Exit",
+    "str": "Изход"
   },
   {
     "key": "AC84F8B94C4CFF5DD57791BC7770A5BB",
@@ -4024,12 +4252,6 @@
     "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_4.Text",
     "id": "Top Elo players",
     "str": "Най -добрите играчи на ELO"
-  },
-  {
-    "key": "C52F9F10483B5DB15BE1459A67C0EA36",
-    "location": "/Game/UI/matchmaking/matchmaking.matchmaking_C:WidgetTree.TextBlock_5.Text",
-    "id": "Matchmaking",
-    "str": "Мачове"
   },
   {
     "key": "8520674D43548D021E595CABA678C0F5",
@@ -4150,6 +4372,12 @@
     "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_7.Text",
     "id": "You have lost 100% of the robot's reward for not discovering the impostor",
     "str": "Загубили сте 100% от наградата на робота, защото не сте открили измамника"
+  },
+  {
+    "key": "A0A8C36D40881280C500F9A2E5AFFDAB",
+    "location": "/Game/UI/results.results_C:WidgetTree.TextBlock_9.Text",
+    "id": "Location",
+    "str": "Местоположение"
   },
   {
     "key": "5A9082C24056C8BFE9DE8EA9069EF292",
@@ -4876,12 +5104,6 @@
     "location": "/Game/UI/stats.stats_C:WidgetTree.TextBlock_1.Text",
     "id": "Most Earned Doll",
     "str": "Най-спечелената кукла"
-  },
-  {
-    "key": "CB775D1F41F692F4946D738AA83BB23E",
-    "location": "/Game/UI/todoList.todoList_C:getDollFriends [Script Bytecode]",
-    "id": "Friends",
-    "str": "приятели"
   },
   {
     "key": "EBE268F84D4CEBE50AAF908A7823DF79",
