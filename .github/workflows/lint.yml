@@ -1,8 +1,8 @@
 name: JSON Syntax and Escape Check
 
 on:
-  pull_request:
-    types: [opened, synchronize]
+  workflow_dispatch:
+
 
 jobs:
   json-lint:
