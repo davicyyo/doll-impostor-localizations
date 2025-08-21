@@ -9,7 +9,7 @@
     "key": "FA639CDD4018768675D08E937A324AF2",
     "location": "/Game/Blueprints/3DLeaderboard.3DLeaderboard_C:ExecuteUbergraph_3DLeaderboard [Script Bytecode]",
     "id": "Weekly Leaderboard Endless",
-    "str": "กระดานผู้นำโหมดไม่รู้จบประจำสัปดาห์"
+    "str": "กระดานผู้นำโหมดไม่รู้จบ ประจำสัปดาห์"
   },
   {
     "key": "8953E06D4224FADDDA2E008D8A0E56FB",
@@ -105,7 +105,7 @@
     "key": "486E52D945C3D792DA06099F44AC1A7A",
     "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
     "id": "Be careful, you will lose the equipped items",
-    "str": "โปรดระวังคุณอาจจะสูญเสียอุปกรณ์ที่คุณติดตั้งเอาไว้"
+    "str": "โปรดระวัง คุณอาจจะสูญเสียอุปกรณ์ที่คุณติดตั้งเอาไว้"
   },
   {
     "key": "5DAA61584F29C51BE364D59FAF17F7CB",
@@ -165,13 +165,13 @@
     "key": "31F028F14458C827E8B896A573933074",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've broken your new weekly record with {new} nights! of the {old} nights before!",
-    "str": "คุณได้ทำลายสถิติใหม่ในโหมดไม่รู้จบประจำสัปดาห์ของคุณด้วยจำนวน {new} คืน! "
+    "str": "คุณได้ทำลายสถิติใหม่ ในโหมดไม่รู้จบประจำสัปดาห์ของคุณ ด้วยจำนวน {new} คืน! "
   },
   {
     "key": "57040D874D4ECC42E93EEBA119A420B0",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your weekly record of {old} nights",
-    "str": "คุณเล่นไปแล้ว {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณในอันดับประจำสัปดาห์ที่ {old} คืน ได้"
+    "str": "คุณเล่นไปแล้ว {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณ ในอันดับประจำสัปดาห์ที่ {old} คืน ได้"
   },
   {
     "key": "798C9DA54AB7FB8B77443DA0EE442098",
@@ -183,7 +183,7 @@
     "key": "8F23FF6C43F579A0AAD7EFBCFB1B03AC",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've got {new} nights, you haven't managed to beat your global record of {old} nights",
-    "str": "คุณเล่นไปแล้ว {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณในอันดับระดับโลกที่ {old} คืน ได้ "
+    "str": "คุณเล่นไปแล้ว {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณ ในอันดับระดับโลกที่ {old} คืน ได้ "
   },
   {
     "key": "97F7579E41A844AC5D7FDDAB706274C6",
@@ -207,7 +207,7 @@
     "key": "C6A5EF874754CC2689ADB69E1CF529FE",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "You've broken your new global record with {new} nights! of the {old} nights before!",
-    "str": "คุณได้ทำลายสถิติใหม่ในโหมดไม่รู้จบในระดับโลกของคุณด้วยจำนวน {new} คืน! "
+    "str": "คุณได้ทำลายสถิติใหม่ในโหมดไม่รู้จบในระดับโลกของคุณ ด้วยจำนวน {new} คืน! "
   },
   {
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
@@ -303,7 +303,7 @@
     "key": "A7B995CE42A855DD02B0D4A9CA26F37C",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "We were unable to create an online session. Please check your connection and restart the game. If you decide to continue, the game will work in offline mode.",
-    "str": "เราไม่สามารถสร้างเซสชันออนไลน์ในขณะนี้ได้ โปรดตรวจสอบการเชื่อมต่อของคุณและทำการเริ่มเกมใหม่ ถ้าหากคุณยืนยันที่จะดำเนินการต่อ เกมจะทำงานในโหมดออฟไลน์"
+    "str": "เราไม่สามารถสร้างเซสชันออนไลน์ในขณะนี้ได้ โปรดตรวจสอบการเชื่อมต่อของคุณและทำการเริ่มเกมใหม่ ถ้าหากคุณยืนยันที่จะดำเนินการต่อ เกมจะทำงานในโหมดออฟไลน์ชั่วคราว"
   },
   {
     "key": "B1656BA74A31111BA2FF87B17BE080E3",
@@ -321,7 +321,7 @@
     "key": "C0592C6C49617410AFF0AEA0D20C4C38",
     "location": "/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]",
     "id": "You have {num} unfinished games. You can't start a new one until those games are completed.",
-    "str": "คุณมีอยู่ {num} เกมที่ยังเล่นไม่เสร็จ คุณไม่สามารถเล่นเกมใหม่ได้จนกว่าจะเล่นเกมที่ค้างอยู่ให้เสร็จ"
+    "str": "คุณมีเกมที่ค้างอยู่จำนวน {num} เกม ที่ยังเล่นไม่เสร็จ คุณจะไม่สามารถเล่นเกมใหม่ได้จนกว่าจะเล่นเกมที่ค้างอยู่ให้เสร็จ"
   },
   {
     "key": "79B48418402866A435B0658D650C041D",
@@ -501,7 +501,7 @@
     "key": "3FE7DD094BD2D76BA8B7BC975328185E",
     "location": "/Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.description_11_824BF2764BEA15D0E158889D98A10228",
     "id": "Inventory Box where you can share objects with other players in your lobby",
-    "str": "คุณสามารถแบ่งปันอุปกรณ์ของคุณให้กับผู้เล่นคนอื่น ๆ โดยใช้กล่องเก็บกองกลางของในล็อบบี้ของคุณได้"
+    "str": "คุณสามารถแบ่งปันอุปกรณ์ของคุณให้กับผู้เล่นคนอื่น ๆ โดยใช้กล่องเก็บของกองกลางในล็อบบี้ของคุณได้"
   },
   {
     "key": "6411F5FC448D9766116676924D091830",
@@ -1125,7 +1125,7 @@
     "key": "F22CBEE0429B4D716137DE9A58D8A371",
     "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Frightening",
-    "str": "กรรโชก"
+    "str": "เขย่าขวัญ"
   },
   {
     "key": "D0B2C8BA4674F0C2C3F6CAB676B10CBF",
@@ -1137,13 +1137,13 @@
     "key": "966BA2A948A2BC025A15EBA7AD8767E0",
     "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Diabolic",
-    "str": "ป่าเถื่อน"
+    "str": "สารเลว"
   },
   {
     "key": "CE5521734152BB8FDF36949D84AA7F39",
     "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Ghastly",
-    "str": "สัมภเวสี"
+    "str": "ผีเฮี้ยน"
   },
   {
     "key": "7461839E43289FBE953BE6A6CD4D28D8",
@@ -1179,7 +1179,7 @@
     "key": "D0C5B7DC4D0EDAB37A13E7A562E45ED6",
     "location": "/Game/data-tables/mapList.mapList.NewRow_1.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Chilling",
-    "str": "เย็นชา"
+    "str": "เลือดเย็น"
   },
   {
     "key": "F7F54678404761EAEB33B4B508EC97D1",
@@ -1263,7 +1263,7 @@
     "key": "8482CDF142B6B8DA6AB0148C9B01430B",
     "location": "/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Tactician",
-    "str": "จอมกลยุทธ"
+    "str": "นักกลยุทธ์"
   },
   {
     "key": "B56C952645AF8D8E34E6D7AC0CC9F750",
@@ -1437,7 +1437,7 @@
     "key": "D54AD32246C068D95A3BF5911FDC1807",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Lurker",
-    "str": "ถ้ำมอง"
+    "str": "หลบซ่อน"
   },
   {
     "key": "852398F5495BF5F04FA860A27630541D",
@@ -1449,7 +1449,7 @@
     "key": "7969D08443D6AB359F1A76AFDC805E0F",
     "location": "/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Murmurer",
-    "str": "พึมพำ"
+    "str": "ฮึมฮัม"
   },
   {
     "key": "D66671DD433D8F8AAFEDA7997FFB55F3",
@@ -1503,7 +1503,7 @@
     "key": "34D171784721BBA559EED6BDB53280F4",
     "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Healer",
-    "str": "ผู้เยียวยา"
+    "str": "คุณหมอ"
   },
   {
     "key": "2624D6C147FB35E04D0360B4BA9DDD75",
@@ -1527,13 +1527,13 @@
     "key": "F91612204C79C87AE6B3CD8C52C85B0A",
     "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Server",
-    "str": "ผู้คุมเซิร์ฟเวอร์"
+    "str": "แม่บ้าน"
   },
   {
     "key": "8554C8F3411B857CF3F2B1B958A3A089",
     "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Butler",
-    "str": "บัตเลอร์"
+    "str": "พ่อบ้าน"
   },
   {
     "key": "3EA0CEA84C472BE0FAAEF19BFE6ABDF4",
@@ -2055,7 +2055,7 @@
     "key": "A6EF7D474751301FECF61F8777545955",
     "location": "/Game/enums/actions.actions.DisplayNameMap(78 - Value).DisplayNameMap",
     "id": "Reporting work",
-    "str": "บันทึกรายงาน"
+    "str": "รายงานข่าว"
   },
   {
     "key": "FBB15C024919E213AD0A12819A88AABD",
@@ -2985,13 +2985,13 @@
     "key": "7C05B2D1458BF9056EFE4A98BF9D4544",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "You can't join a multiplayer match until you complete the tutorial.",
-    "str": "คุณไม่สามารถเข้าร่วมการแข่งขันแบบผู้เล่นหลายคนได้จนกว่าจะเสร็จสิ้นบทช่วยสอน"
+    "str": "คุณไม่สามารถเข้าร่วมการแข่งขันแบบผู้เล่นหลายคนได้ จนกว่าจะเสร็จสิ้นบทช่วยสอน"
   },
   {
     "key": "DD24411D4ABAB447C1584B86E08D6117",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "Something has gone wrong, try restarting steam, the host may need to restart the lobby",
-    "str": "มีข้อผิดพลาดบางอย่างเกิดขึ้น ลองทำการรีสตาร์ท Steam โฮสต์อาจจะต้องรีสตาร์ทล็อบบี้ใหม่"
+    "str": "มีข้อผิดพลาดบางอย่างเกิดขึ้น โปรดทำการรีสตาร์ท Steam โดยโฮสต์อาจจะต้องรีสตาร์ทล็อบบี้ใหม่"
   },
   {
     "key": "EC2A6CF342794100347D079D5C709865",
@@ -3021,7 +3021,7 @@
     "key": "2DD3DC844B37E701E7C0E7BBA33D59F8",
     "location": "/Game/levels/dynamicHouseMap.dynamicHouseMap_C:ExecuteUbergraph_dynamicHouseMap [Script Bytecode]",
     "id": "I have given you the necessary items to use in the case! Check the caravan's chest and carefully read what each item is for.",
-    "str": "ฉันมอบสิ่งของที่จำเป็นสำหรับใช้ในเคสนี้ให้คุณแล้ว! ลองตรวจสอบกล่องและตรวจสอบอุปกรณ์ให้ละเอียดก่อนใช้งาน"
+    "str": "ฉันมอบสิ่งของที่จำเป็นสำหรับใช้ในเคสนี้ให้คุณแล้ว! ลองตรวจสอบกล่องและตรวจสอบอุปกรณ์แต่ละชนิดให้ละเอียดก่อนใช้งาน"
   },
   {
     "key": "F4A0E2E14D59BC41D9DCA8958FB25D18",
@@ -3057,7 +3057,7 @@
     "key": "7ABFF0E544D6C598A2E7A08FC98250AC",
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!",
-    "str": "ยินดีต้อนรับสู่เซฟเฮาส์! ที่นี่คือพื้นที่ของคุณ คุณสามารถเริ่มเกมใหม่ในโหมดต่าง ๆ ได้ที่นี่ แล้วยังสามารถตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ บนชั้นที่ล้อบบี้ทางเดินได้ นอกจากนี้ยังสามารถปรับแต่งสถานที่นี้ได้อย่างอิสระได้อีกด้วย ด้วยการกดปุ่มจานสีที่อยู่บนโต๊ะทำงานของคุณ! "
+    "str": "ยินดีต้อนรับสู่เซฟเฮาส์! ที่นี่คือพื้นที่ปลอดภัยของคุณ คุณสามารถเริ่มเกมใหม่ในโหมดต่าง ๆ ได้ที่นี่ แล้วยังสามารถตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ บนชั้นที่ล้อบบี้ทางเดินได้ นอกจากนี้ยังสามารถปรับแต่งสถานที่นี้ได้อย่างอิสระได้อีกด้วย ด้วยการกดปุ่มจานสีที่อยู่บนโต๊ะทำงานของคุณสิ! "
   },
   {
     "key": "AE7921274BBCE3DD133FC885B09DE5F9",
