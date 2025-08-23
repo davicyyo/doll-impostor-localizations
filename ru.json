@@ -3003,7 +3003,7 @@
     "key": "FEB9026C48BC0599149DBA9898C6CB45",
     "location": "/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]",
     "id": "The version is different from the host \n{version}\n",
-    "str": "Версия отличается от версии хоста {version}"
+    "str": "Версия отличается от версии хоста \n{version}\n"
   },
   {
     "key": "5BC1D7604A1C399EA23C8A967E53983E",
