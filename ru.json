@@ -2043,7 +2043,7 @@
     "key": "DA7DBBEF4C04B93861C434B2DEB1FB82",
     "location": "/Game/enums/actions.actions.DisplayNameMap(76 - Value).DisplayNameMap",
     "id": "Sales work",
-    "str": "Продажи работы"
+    "str": "Работа продавцом"
   },
   {
     "key": "A60FC2C34907BF1F1982DFBEFC52FF97",
@@ -2061,7 +2061,7 @@
     "key": "FBB15C024919E213AD0A12819A88AABD",
     "location": "/Game/enums/actions.actions.DisplayNameMap(79 - Value).DisplayNameMap",
     "id": "Actor work",
-    "str": "Актер работает"
+    "str": "Работа актером"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -2079,13 +2079,13 @@
     "key": "33ABB50B464ABA0CA52845B56E471579",
     "location": "/Game/enums/actions.actions.DisplayNameMap(81 - Value).DisplayNameMap",
     "id": "Photography work",
-    "str": "Фотография работа"
+    "str": "Работа фотографом"
   },
   {
     "key": "FDE0ADE64BD2350A52E5E2BEEE19203D",
     "location": "/Game/enums/actions.actions.DisplayNameMap(82 - Value).DisplayNameMap",
     "id": "Sweeper work",
-    "str": "Работа"
+    "str": "Работа уборщиком"
   },
   {
     "key": "376368514E1680C3B9E19A9F4EDC290D",
