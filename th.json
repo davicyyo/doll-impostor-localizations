@@ -159,7 +159,7 @@
     "key": "313664F547D8F4158BB67E8898134C0E",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} leave the game",
-    "str": "{player} ได้ออกจากเกม"
+    "str": "ผู้เล่น {player} ได้ออกจากเกม"
   },
   {
     "key": "31F028F14458C827E8B896A573933074",
@@ -213,7 +213,7 @@
     "key": "E260B86E4EF0F3E2B1480B8784D99A9A",
     "location": "/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]",
     "id": "{player} joined the game",
-    "str": "{player} เข้าร่วมเกมแล้ว"
+    "str": "ผู้เล่น {player} เข้าร่วมเกมแล้ว"
   },
   {
     "key": "F83E76BC49FC84244322C382556B6E5F",
@@ -687,13 +687,13 @@
     "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Activate the final battle to uncover the impostor.",
-    "str": "เปิดใช้งานหนังสือเพื่อเปิดเผยตัวตนของ Impostor ในขั้นตอนสุดท้าย"
+    "str": "เปิเใช้งานหนังสือวิญญาณเพื่อเปิดเผยตัวตนของ Impostor ในขั้นตอนสุดท้าย"
   },
   {
     "key": "CA5357694E9708D4AC84699C2DC77CBD",
     "location": "/Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD",
     "id": "Soul Book",
-    "str": "หนังสือแห่งวิญญาณ"
+    "str": "หนังสือวิญญาณ"
   },
   {
     "key": "F2BAB4874C2FDD509DA5CDA67FF91E37",
@@ -1503,7 +1503,7 @@
     "key": "34D171784721BBA559EED6BDB53280F4",
     "location": "/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5",
     "id": "The Healer",
-    "str": "คุณหมอ"
+    "str": "พยาบาล"
   },
   {
     "key": "2624D6C147FB35E04D0360B4BA9DDD75",
@@ -2031,31 +2031,31 @@
     "key": "5334408648C557811A184E976C06A549",
     "location": "/Game/enums/actions.actions.DisplayNameMap(74 - Value).DisplayNameMap",
     "id": "Showcase with friends",
-    "str": "การแสดงกับเพื่อน"
+    "str": "โชว์ตัวกับเพื่อน"
   },
   {
     "key": "EA9D912F4AD26C11BB4E54BD2AB554B1",
     "location": "/Game/enums/actions.actions.DisplayNameMap(75 - Value).DisplayNameMap",
     "id": "Showcase with enemies",
-    "str": "การแสดงกับศัตรู"
+    "str": "โชว์ตัวกับศัตรู"
   },
   {
     "key": "DA7DBBEF4C04B93861C434B2DEB1FB82",
     "location": "/Game/enums/actions.actions.DisplayNameMap(76 - Value).DisplayNameMap",
     "id": "Sales work",
-    "str": "งานขายของ"
+    "str": "งานขายสินค้า"
   },
   {
     "key": "A60FC2C34907BF1F1982DFBEFC52FF97",
     "location": "/Game/enums/actions.actions.DisplayNameMap(77 - Value).DisplayNameMap",
     "id": "Technical work",
-    "str": "งานเทคนิค"
+    "str": "งานช่างเทคนิค"
   },
   {
     "key": "A6EF7D474751301FECF61F8777545955",
     "location": "/Game/enums/actions.actions.DisplayNameMap(78 - Value).DisplayNameMap",
     "id": "Reporting work",
-    "str": "รายงานข่าว"
+    "str": "รายงานข่าวสาร"
   },
   {
     "key": "FBB15C024919E213AD0A12819A88AABD",
@@ -2091,7 +2091,7 @@
     "key": "376368514E1680C3B9E19A9F4EDC290D",
     "location": "/Game/enums/actions.actions.DisplayNameMap(83 - Value).DisplayNameMap",
     "id": "Production",
-    "str": "การผลิต"
+    "str": "การผลิตสินค้า"
   },
   {
     "key": "5D8EF37143DA1F1990086E967598AC54",
@@ -2103,7 +2103,7 @@
     "key": "94B98805435D6D630297949DBCC11872",
     "location": "/Game/enums/actions.actions.DisplayNameMap(85 - Value).DisplayNameMap",
     "id": "Repair",
-    "str": "ซ่อมบำรุง"
+    "str": "งานซ่อมบำรุง"
   },
   {
     "key": "C439E4F142BB563BB7CA8DAC815830BA",
@@ -3063,7 +3063,7 @@
     "key": "AE7921274BBCE3DD133FC885B09DE5F9",
     "location": "/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]",
     "id": "Loading matchmaking data...",
-    "str": "กำลังโหลดข้อมูลการจับคู่ ..."
+    "str": "กำลังโหลดข้อมูลการแข่งขัน ..."
   },
   {
     "key": "B75DC93941A74B4A564DF389EB387762",
@@ -3243,7 +3243,7 @@
     "key": "FAD096A047C791A2435446A372491A59",
     "location": "/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]",
     "id": "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event.",
-    "str": "เราพบว่า Ricky นั่งอยู่บนโซฟา กับ Monty นั่งอยู่ที่เปียโน ดังนั้นเราเหลือผู้ต้องสงสัยที่เป็นไปได้แค่ 2 ตัวเท่านั้น แต่อย่างไรก็ตามเราไม่แนะนำให้คุณเสี่ยงโอกาส 50/50 ที่เป็นไปได้นี้ เพื่อความปลอดภัยของคุณ เราแนะนำว่าเราควรกลับไปที่ห้องเพื่อทำการคัดกรองตุ๊กตาที่หลักฐานไม่เกี่ยวข้อง และรอเบาะแสถัดไปดีกว่า"
+    "str": "เราพบว่า Ricky นั่งอยู่บนโซฟา กับ Monty นั่งอยู่ที่เปียโน ดังนั้นเราเหลือผู้ต้องสงสัยที่เป็นไปได้แค่ 2 ตัวเท่านั้น แต่อย่างไรก็ตามเราไม่แนะนำให้คุณเสี่ยงโอกาส 50/50 ที่เป็นไปได้นี้ เพื่อความปลอดภัยของคุณ เราขอแนะนำว่าเราควรกลับไปที่ห้องเพื่อทำการคัดกรองตุ๊กตาที่หลักฐานไม่เกี่ยวข้อง และรอเบาะแสถัดไปดีกว่า"
   },
   {
     "key": "7055F47B466C9C3B47C459A2BDF1373A",
@@ -3897,7 +3897,7 @@
     "key": "7C43F9DE48DB63CDFAC71F9F14D83E23",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text",
     "id": "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map",
-    "str": "ระดับนี้เหมาะสำหรับมืออาชีพเท่านั้น จะเริ่มที่เวลา 08:00 น. และมีเบาะแสที่สำคัญเพียง 3 รายการ ไม่มีรูปภาพตุ๊กตาและข้อมูลบางส่วนถูกปิดเอาไว้ รวมถึงถูกจำกัดพื้นที่ในการเข้าถึงแค่บางส่วนเท่านั้น"
+    "str": "ระดับความยากนี้ เหมาะสำหรับมืออาชีพเท่านั้น โดยจะเริ่มที่เวลา 08:00 น. และมีเบาะแสที่สำคัญเพียง 3 รายการเท่านั้น จะไม่มีรูปภาพตุ๊กตา ข้อมูลบางส่วนถูกปิดเอาไว้ รวมไปถึงถูกจำกัดพื้นที่ในการเข้าถึงบางส่วนเท่านั้น"
   },
   {
     "key": "95E8DAF7441719B3063BE7B84B85AE87",
@@ -3933,7 +3933,7 @@
     "key": "8C118CF148C516FD54C9BC8FE28F9A95",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text",
     "id": "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed.",
-    "str": "โหมดสุ่มแบบจับเวลา เราจะต้องค้นหาตุ๊กตา และตอบให้ถูกต้องก่อนที่เวลาจะหมด และรับถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
+    "str": "โหมดสุ่มแบบจับเวลา เราจะต้องค้นหาตุ๊กตา และตอบให้ถูกต้องภายในเวลาที่กำหนดไว้ และรับถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
   },
   {
     "key": "F167859643FD37B593110B9A866E9EB3",
@@ -3945,7 +3945,7 @@
     "key": "5A6092F448BE77B01756FFA578E7435A",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
     "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-    "str": "โหมดสุ่มแบบไม่รู้จบ คุณมีเวลาเพียง 3 นาที มีข้อมูลในการสืบหาตุ๊กตาให้ทั้งหมด และมีกระดานผู้นำทั่วโลก"
+    "str": "โหมดสุ่มแบบเล่นไม่รู้จบ คุณมีเวลา 3 นาที ในการสืบหาตุ๊กตา โดยมีข้อมูลให้ทั้งหมดเป็นแบบสุ่ม และมีกระดานผู้นำทั่วโลก"
   },
   {
     "key": "3E3E53D64E987B22AD5967A23BB5AC57",
@@ -3993,7 +3993,7 @@
     "key": "B1FA0BA34DA00CA6BA1EE9B4D8E18772",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text",
     "id": "One more step of difficulty, there are no extra clues, You can't see the names or list",
-    "str": "เพิ่มระดับความยากเล็กน้อย จะไม่มีเบาะแสปรากฏบนกระดาน และคุณไม่สามารถดูชื่อตุ๊กตาที่ตัวตุ๊กตาได้"
+    "str": "เพิ่มระดับความยากเล็กน้อย จะไม่มีเบาะแสแสดงบนกระดาน และไม่สามารถดูชื่อของตุ๊กตาที่ตัวตุ๊กตาได้"
   },
   {
     "key": "DFC327DA4616540509FBF6AA40D0458B",
@@ -4581,7 +4581,7 @@
     "key": "F00A91DE4FD2BF7AD2CC558E36CF0D94",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock.Text",
     "id": "Field of View",
-    "str": "มุมมอง"
+    "str": "มุมมองสายตา"
   },
   {
     "key": "5E0DC4AE4575000AC0171F95AD85CADA",
@@ -4725,7 +4725,7 @@
     "key": "E96A210546B4B0647B0763843052BBF8",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_3.Text",
     "id": "Head Bobbing",
-    "str": "การกระตุกหัว"
+    "str": "การโยกหัว"
   },
   {
     "key": "31D2289342B165F56F2435A9CDCEB36A",
@@ -4779,7 +4779,7 @@
     "key": "7EBE45E64B8119C2AA017590BE5B8563",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text",
     "id": "Anti Aliasing Quality",
-    "str": "คุณภาพการลบรอยหยัก"
+    "str": "คุณภาพการลดรอยหยัก"
   },
   {
     "key": "99AE0DEC47710525BAF347ABFE8339AB",
@@ -4977,7 +4977,7 @@
     "key": "4B42EDC74552B167B6C050B42EED7773",
     "location": "/Game/UI/settings.settings_C:WidgetTree.TextBlock_71.Text",
     "id": "Toggle lock",
-    "str": "แตะปุ่มล็อก"
+    "str": "เปิด/ ปิด ล็อก"
   },
   {
     "key": "6825277540EC01C05B094C81655574A0",
