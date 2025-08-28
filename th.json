@@ -687,7 +687,7 @@
     "key": "ADEEDBE04D10D55BE7B838934AC45E6C",
     "location": "/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E",
     "id": "Activate the final battle to uncover the impostor.",
-    "str": "เปิเใช้งานหนังสือวิญญาณเพื่อเปิดเผยตัวตนของ Impostor ในขั้นตอนสุดท้าย"
+    "str": "เปิเใช้งานหนังสือวิญญาณเพื่อเผยตัวตนของ Impostor ในขั้นตอนสุดท้าย"
   },
   {
     "key": "CA5357694E9708D4AC84699C2DC77CBD",
@@ -2061,7 +2061,7 @@
     "key": "FBB15C024919E213AD0A12819A88AABD",
     "location": "/Game/enums/actions.actions.DisplayNameMap(79 - Value).DisplayNameMap",
     "id": "Actor work",
-    "str": "นักแสดง"
+    "str": "งานนักแสดง"
   },
   {
     "key": "21FFAF7243B370CCA19D849D0F92E7A4",
@@ -2097,7 +2097,7 @@
     "key": "5D8EF37143DA1F1990086E967598AC54",
     "location": "/Game/enums/actions.actions.DisplayNameMap(84 - Value).DisplayNameMap",
     "id": "Foortkit",
-    "str": "ฟูร์ทคิท"
+    "str": "รถยกของ"
   },
   {
     "key": "94B98805435D6D630297949DBCC11872",
@@ -3849,7 +3849,7 @@
     "key": "0A9B45DB40B3BFE34DF53CB9717F18AC",
     "location": "/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text",
     "id": "Restart game",
-    "str": "เริ่มเกมใหม่"
+    "str": "รีสตาร์ทเกม"
   },
   {
     "key": "1F66019F447C68AA3AEE3A8D1EBEECAA",
@@ -3945,7 +3945,7 @@
     "key": "5A6092F448BE77B01756FFA578E7435A",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_19.Text",
     "id": "Random but endless mode, you have a 3-minute timer to fix the case and there is a leaderboard of leaders",
-    "str": "โหมดสุ่มแบบเล่นไม่รู้จบ คุณมีเวลา 3 นาที ในการสืบหาตุ๊กตา โดยมีข้อมูลให้ทั้งหมดเป็นแบบสุ่ม และมีกระดานผู้นำทั่วโลก"
+    "str": "โหมดสุ่มแบบเล่นไม่รู้จบ คุณมีเวลา 3 นาที ในการสืบหาตุ๊กตา โดยมีข้อมูลให้เป็นแบบสุ่มทั้งหมด และมีกระดานผู้นำทั่วโลก"
   },
   {
     "key": "3E3E53D64E987B22AD5967A23BB5AC57",
@@ -3969,13 +3969,13 @@
     "key": "C6A278F94000AE1F35ED22BF78A7ADE5",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text",
     "id": "New Game",
-    "str": "เริ่มเกมใหม่"
+    "str": "เริ่มเกม"
   },
   {
     "key": "74CB94924A0D7B248DF67DA581AFEEE9",
     "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text",
     "id": "Matchmaking",
-    "str": "กาาจับคู่แข่งขัน"
+    "str": "การจับคู่แข่งขัน"
   },
   {
     "key": "2D485E384A7ABE47FD44F58A954301B6",
@@ -4059,7 +4059,7 @@
     "key": "D43847EE40A03CCE1238E0A4BAB8F812",
     "location": "/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]",
     "id": "Translated by: {people}",
-    "str": "แปลโดย: {people}"
+    "str": "แปลภาษาโดย: {people}"
   },
   {
     "key": "D874B1094946F76596835A86FE1F53DC",
@@ -4077,7 +4077,7 @@
     "key": "ECA1F9F34AEBA0B58ACDE1B00AB6C8C3",
     "location": "/Game/UI/intro.intro_C:WidgetTree.TextBlock_14.Text",
     "id": "Content creators program",
-    "str": "โปรแกรมคอนเท็นครีเอตเตอร์ประจำเกม"
+    "str": "โปรแกรมคอนเทนต์ครีเอเตอร์ประจำเกม"
   },
   {
     "key": "6AFC77BB43DCD66B4099688FF725AB13",
@@ -4167,19 +4167,19 @@
     "key": "7E7BE8534A4EEA2E07828BB7683F8722",
     "location": "/Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]",
     "id": "Share your thoughts.",
-    "str": "แบ่งปันความคิดของคุณ"
+    "str": "ลองแบ่งปันความคิดของคุณ"
   },
   {
     "key": "6F0469EB48D6EC34F0C511B2D187D7D9",
     "location": "/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_1.Text",
     "id": "Have you had any issues?",
-    "str": "คุณเจอประสบปัญหาอะไรบ้างไหม?"
+    "str": "คุณประสบปัญหาอะไรบ้างไหม?"
   },
   {
     "key": "A2C08BE6447E2720D3051F8CA460E102",
     "location": "/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_10.Text",
     "id": "Can you help me with a positive review?",
-    "str": "คุณสามารถเขียนรีวิวเชิงบวกให้เราได้ไหม?"
+    "str": "คุณเขียนรีวิวเชิงบวกให้พวกเราได้ไหม?"
   },
   {
     "key": "575CEFFD4FA0D19F96B3A99FF6AEFBE1",
@@ -4425,7 +4425,7 @@
     "key": "77DAE76A48EC13E45F2983881F23E808",
     "location": "/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(0).Options.Label",
     "id": "Gameplay Settings",
-    "str": "การตั้งค่าการเกม"
+    "str": "การตั้งค่าการเล่นเกม"
   },
   {
     "key": "1586BC174775240305EB85A03C419F06",
@@ -5109,7 +5109,7 @@
     "key": "EBE268F84D4CEBE50AAF908A7823DF79",
     "location": "/Game/UI/todoList.todoList_C:WidgetTree.dislikes_2.Text",
     "id": "Find the imposter and keep it in the bag",
-    "str": "ตามหา Impostor แล้วจับตัวมาเก็บใส่ไว้ในกระเป๋า"
+    "str": "ตามหา Impostor แล้วจับตัวมาเก็บไว้ในกระเป๋า"
   },
   {
     "key": "7B34A441429642B9DA52218285A1BB2A",
