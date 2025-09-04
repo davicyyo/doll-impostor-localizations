@@ -1,10 +1,10 @@
 # doll-impostor-localizations
 
 Use this tool for translate
-https://localization.headarrow.com/
+https://localization-po.headarrow.com/
 
 Use this file for upload in to tool as base file
-https://github.com/davicyyo/doll-impostor-localizations/blob/main/en.json
+https://github.com/davicyyo/doll-impostor-localizations/blob/main/en/Game.po
 
 # HOW TO UP CHANGES
 
@@ -22,15 +22,3 @@ https://github.com/davicyyo/doll-impostor-localizations/blob/main/en.json
 12. Just select the right side with your user and main
 13. Create pull request
 14. Alert me!
-
-FEATURES:
-Edit a file:
-![GIF](https://i.gyazo.com/3d0c1356ed126d130810886ae2ec1367.gif)
-
-Save, Delete and Show My Translation:
-
-![PNG](https://gyazo.com/7e7e924401f97dc02ec55b329128717b.png)
-
-Auto keep your changes with a new file:
-
-![GIF](https://gyazo.com/39b2b4dbb02f49bb300ce80a639bccc8.gif)
