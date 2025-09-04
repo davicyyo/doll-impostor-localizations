@@ -2460,7 +2460,7 @@ msgstr "Produktion"
 #: /Game/enums/actions.actions.DisplayNameMap(84 - Value).DisplayNameMap
 msgctxt ",60DE1CBD4FDAA7C8A6896C8D2CBA29C1"
 msgid "Forklift"
-msgstr ""
+msgstr "Gaffeltruck"
 
 #. Key:	94B98805435D6D630297949DBCC11872
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(85 - Value).DisplayNameMap
