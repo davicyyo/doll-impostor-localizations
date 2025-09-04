@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-08-18 19:04\n"
-"PO-Revision-Date: 2025-08-18 19:04\n"
+"POT-Creation-Date: 2025-09-04 11:02\n"
+"PO-Revision-Date: 2025-09-04 11:02\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -388,7 +388,7 @@ msgstr "OK"
 #: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
 msgctxt ",C0592C6C49617410AFF0AEA0D20C4C38"
 msgid "You have {num} unfinished games. You can't start a new one until those games are completed."
-msgstr ""
+msgstr "Sie haben {num} unvollendete Spiele. "
 
 #. Key:	79B48418402866A435B0658D650C041D
 #. SourceLocation:	/Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]
@@ -1739,147 +1739,147 @@ msgstr "Das Waldhaus"
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",80CF77464D28A21972A063845C52E7D9"
 msgid "The Major"
-msgstr ""
+msgstr "Der Major"
 
-#. Key:	3E40326C412009058F6124BFD8AFDA0C
+#. Key:	E9D7852E47870C4C1BB48CA20DDF0710
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",3E40326C412009058F6124BFD8AFDA0C"
-msgid "The Minister"
-msgstr ""
+msgctxt ",E9D7852E47870C4C1BB48CA20DDF0710"
+msgid "The Collector"
+msgstr "Der Sammler"
 
-#. Key:	D6F858584F28B1519B6C07BD1CE1B98B
+#. Key:	3E40326C412009058F6124BFD8AFDA0C
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",D6F858584F28B1519B6C07BD1CE1B98B"
-msgid "The Explorer"
-msgstr ""
+msgctxt ",3E40326C412009058F6124BFD8AFDA0C"
+msgid "The Minister"
+msgstr "Der Minister"
 
-#. Key:	7FA40C224FFFB246745BFD84D7B73419
+#. Key:	FEE4ABA84AE0176FAA4B46BCE0E0E307
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",7FA40C224FFFB246745BFD84D7B73419"
-msgid "The Commander"
-msgstr ""
-
-#. Key:	34D171784721BBA559EED6BDB53280F4
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",34D171784721BBA559EED6BDB53280F4"
-msgid "The Healer"
-msgstr ""
-
-#. Key:	2624D6C147FB35E04D0360B4BA9DDD75
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",2624D6C147FB35E04D0360B4BA9DDD75"
-msgid "The Medic"
-msgstr ""
-
-#. Key:	14DDBDAF4354D162FC4C4AB9D98933A5
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",14DDBDAF4354D162FC4C4AB9D98933A5"
-msgid "The Chef"
-msgstr ""
+msgctxt ",FEE4ABA84AE0176FAA4B46BCE0E0E307"
+msgid "The Sweeper"
+msgstr "Der Kehrer"
 
 #. Key:	75B9955E42810289D96C47A60D86C30F
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",75B9955E42810289D96C47A60D86C30F"
 msgid "The Baker"
-msgstr ""
+msgstr "Der Bäcker"
 
 #. Key:	F91612204C79C87AE6B3CD8C52C85B0A
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",F91612204C79C87AE6B3CD8C52C85B0A"
 msgid "The Server"
-msgstr ""
+msgstr "Der Server"
+
+#. Key:	C239B67C4D815AB0F53B0ABDCE84596E
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",C239B67C4D815AB0F53B0ABDCE84596E"
+msgid "The Scholar"
+msgstr "Der Gelehrte"
+
+#. Key:	3EA0CEA84C472BE0FAAEF19BFE6ABDF4
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",3EA0CEA84C472BE0FAAEF19BFE6ABDF4"
+msgid "The Rescuer"
+msgstr "Der Retter"
+
+#. Key:	A0406E40471541E4372E338817DD3816
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",A0406E40471541E4372E338817DD3816"
+msgid "The Firefighter"
+msgstr "Der Feuerwehrmann"
 
 #. Key:	8554C8F3411B857CF3F2B1B958A3A089
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",8554C8F3411B857CF3F2B1B958A3A089"
 msgid "The Butler"
-msgstr ""
-
-#. Key:	3EA0CEA84C472BE0FAAEF19BFE6ABDF4
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",3EA0CEA84C472BE0FAAEF19BFE6ABDF4"
-msgid "The Rescuer"
-msgstr ""
-
-#. Key:	A0406E40471541E4372E338817DD3816
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",A0406E40471541E4372E338817DD3816"
-msgid "The Firefighter"
-msgstr ""
-
-#. Key:	E9D7852E47870C4C1BB48CA20DDF0710
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",E9D7852E47870C4C1BB48CA20DDF0710"
-msgid "The Collector"
-msgstr ""
-
-#. Key:	FEE4ABA84AE0176FAA4B46BCE0E0E307
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",FEE4ABA84AE0176FAA4B46BCE0E0E307"
-msgid "The Sweeper"
-msgstr ""
-
-#. Key:	AE478A3F44316B31025635ABE702435F
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",AE478A3F44316B31025635ABE702435F"
-msgid "The Recruit"
-msgstr ""
+msgstr "Der Butler"
 
 #. Key:	38D45BB8419F2FA7DBC0569C7DD59F07
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",38D45BB8419F2FA7DBC0569C7DD59F07"
 msgid "The Cadet"
-msgstr ""
+msgstr "Der Kadett"
+
+#. Key:	2624D6C147FB35E04D0360B4BA9DDD75
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",2624D6C147FB35E04D0360B4BA9DDD75"
+msgid "The Medic"
+msgstr "Der Mediziner"
+
+#. Key:	AE478A3F44316B31025635ABE702435F
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",AE478A3F44316B31025635ABE702435F"
+msgid "The Recruit"
+msgstr "Der Rekrut"
 
 #. Key:	8627F7594E899828ACDDF78856990D6C
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",8627F7594E899828ACDDF78856990D6C"
 msgid "The officer"
-msgstr ""
-
-#. Key:	F45469E54D1A993476E443A8D910BA70
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",F45469E54D1A993476E443A8D910BA70"
-msgid "The Sergeant"
-msgstr ""
+msgstr "Der Offizier"
 
 #. Key:	B4D3A0F548FF08030F2F958A23F5EE6A
-#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",B4D3A0F548FF08030F2F958A23F5EE6A"
 msgid "The Advisor"
-msgstr ""
+msgstr "Der Berater"
 
-#. Key:	C239B67C4D815AB0F53B0ABDCE84596E
+#. Key:	D6F858584F28B1519B6C07BD1CE1B98B
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",D6F858584F28B1519B6C07BD1CE1B98B"
+msgid "The Explorer"
+msgstr "Der Entdecker"
+
+#. Key:	F45469E54D1A993476E443A8D910BA70
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",F45469E54D1A993476E443A8D910BA70"
+msgid "The Sergeant"
+msgstr "Der Sergeant"
+
+#. Key:	7FA40C224FFFB246745BFD84D7B73419
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",7FA40C224FFFB246745BFD84D7B73419"
+msgid "The Commander"
+msgstr "Der Kommandant"
+
+#. Key:	34D171784721BBA559EED6BDB53280F4
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",34D171784721BBA559EED6BDB53280F4"
+msgid "The Healer"
+msgstr "Der Heiler"
+
+#. Key:	14DDBDAF4354D162FC4C4AB9D98933A5
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
-msgctxt ",C239B67C4D815AB0F53B0ABDCE84596E"
-msgid "The Scholar"
-msgstr ""
+msgctxt ",14DDBDAF4354D162FC4C4AB9D98933A5"
+msgid "The Chef"
+msgstr "Der Koch"
 
 #. Key:	8EEA2F894F67C37E9BD8398268387B58
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.name_18_82096130492E34A890A0138C4910D929
 #: /Game/data-tables/mapList.mapList.NewRow_4.name_18_82096130492E34A890A0138C4910D929
 msgctxt ",8EEA2F894F67C37E9BD8398268387B58"
 msgid "Toy Factory"
-msgstr ""
+msgstr "Spielzeugfabrik"
 
 #. Key:	F2BC9C064F532236387F0ABC86BA8078
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap
@@ -2383,42 +2383,42 @@ msgstr "Laterne"
 #: /Game/enums/actions.actions.DisplayNameMap(74 - Value).DisplayNameMap
 msgctxt ",5334408648C557811A184E976C06A549"
 msgid "Showcase with friends"
-msgstr ""
+msgstr "Showcase mit Freunden"
 
 #. Key:	EA9D912F4AD26C11BB4E54BD2AB554B1
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(75 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(75 - Value).DisplayNameMap
 msgctxt ",EA9D912F4AD26C11BB4E54BD2AB554B1"
 msgid "Showcase with enemies"
-msgstr ""
+msgstr "Showcase mit Feinden"
 
 #. Key:	DA7DBBEF4C04B93861C434B2DEB1FB82
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(76 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(76 - Value).DisplayNameMap
 msgctxt ",DA7DBBEF4C04B93861C434B2DEB1FB82"
 msgid "Sales work"
-msgstr ""
+msgstr "Verkaufsarbeit"
 
 #. Key:	A60FC2C34907BF1F1982DFBEFC52FF97
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(77 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(77 - Value).DisplayNameMap
 msgctxt ",A60FC2C34907BF1F1982DFBEFC52FF97"
 msgid "Technical work"
-msgstr ""
+msgstr "Technische Arbeit"
 
 #. Key:	A6EF7D474751301FECF61F8777545955
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(78 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(78 - Value).DisplayNameMap
 msgctxt ",A6EF7D474751301FECF61F8777545955"
 msgid "Reporting work"
-msgstr ""
+msgstr "Berichterstattung"
 
 #. Key:	FBB15C024919E213AD0A12819A88AABD
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(79 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(79 - Value).DisplayNameMap
 msgctxt ",FBB15C024919E213AD0A12819A88AABD"
 msgid "Actor work"
-msgstr ""
+msgstr "Schauspielerarbeit"
 
 #. Key:	21FFAF7243B370CCA19D849D0F92E7A4
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap
@@ -2432,34 +2432,34 @@ msgstr "Tee mit Feinden"
 #: /Game/enums/actions.actions.DisplayNameMap(80 - Value).DisplayNameMap
 msgctxt ",4FE7940F48472D8296F507B9CD31A401"
 msgid "Warehouse work"
-msgstr ""
+msgstr "Lagerarbeit"
 
 #. Key:	33ABB50B464ABA0CA52845B56E471579
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(81 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(81 - Value).DisplayNameMap
 msgctxt ",33ABB50B464ABA0CA52845B56E471579"
 msgid "Photography work"
-msgstr ""
+msgstr "Fotografiearbeit"
 
 #. Key:	FDE0ADE64BD2350A52E5E2BEEE19203D
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(82 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(82 - Value).DisplayNameMap
 msgctxt ",FDE0ADE64BD2350A52E5E2BEEE19203D"
 msgid "Sweeper work"
-msgstr ""
+msgstr "Kehrerarbeit"
 
 #. Key:	376368514E1680C3B9E19A9F4EDC290D
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(83 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(83 - Value).DisplayNameMap
 msgctxt ",376368514E1680C3B9E19A9F4EDC290D"
 msgid "Production"
-msgstr ""
+msgstr "Produktion"
 
-#. Key:	5D8EF37143DA1F1990086E967598AC54
+#. Key:	60DE1CBD4FDAA7C8A6896C8D2CBA29C1
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(84 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(84 - Value).DisplayNameMap
-msgctxt ",5D8EF37143DA1F1990086E967598AC54"
-msgid "Foortkit"
+msgctxt ",60DE1CBD4FDAA7C8A6896C8D2CBA29C1"
+msgid "Forklift"
 msgstr ""
 
 #. Key:	94B98805435D6D630297949DBCC11872
@@ -2467,35 +2467,35 @@ msgstr ""
 #: /Game/enums/actions.actions.DisplayNameMap(85 - Value).DisplayNameMap
 msgctxt ",94B98805435D6D630297949DBCC11872"
 msgid "Repair"
-msgstr ""
+msgstr "Reparieren"
 
 #. Key:	C439E4F142BB563BB7CA8DAC815830BA
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(86 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(86 - Value).DisplayNameMap
 msgctxt ",C439E4F142BB563BB7CA8DAC815830BA"
 msgid "Produce dolls"
-msgstr ""
+msgstr "Puppen produzieren"
 
 #. Key:	34D14CB84B78A22961B949B5B3EDD76B
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(87 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(87 - Value).DisplayNameMap
 msgctxt ",34D14CB84B78A22961B949B5B3EDD76B"
 msgid "Produce robots"
-msgstr ""
+msgstr "Roboter produzieren"
 
 #. Key:	055C56B4433858ACC413F4B387DB6246
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(88 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(88 - Value).DisplayNameMap
 msgctxt ",055C56B4433858ACC413F4B387DB6246"
 msgid "Produce boxes"
-msgstr ""
+msgstr "Kisten produzieren"
 
 #. Key:	EB1F58A541CF8EFA9FBF538B50B67461
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(89 - Value).DisplayNameMap
 #: /Game/enums/actions.actions.DisplayNameMap(89 - Value).DisplayNameMap
 msgctxt ",EB1F58A541CF8EFA9FBF538B50B67461"
 msgid "Produce toys"
-msgstr ""
+msgstr "Spielzeug produzieren"
 
 #. Key:	D2BAA1EC4F84BE5AA48BBC92F65D2FA8
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(9 - Value).DisplayNameMap
@@ -4492,13 +4492,6 @@ msgctxt ",F699B0844A39D7ABCF0260916BF5F41B"
 msgid "Invite players"
 msgstr "Spieler einladen"
 
-#. Key:	B2D8A8F840BD88A7FB7EB385796D6E10
-#. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text
-#: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text
-msgctxt ",B2D8A8F840BD88A7FB7EB385796D6E10"
-msgid "Browse Lobbies"
-msgstr "Durchsuche Lobbys"
-
 #. Key:	0A9B45DB40B3BFE34DF53CB9717F18AC
 #. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text
 #: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text
@@ -4695,6 +4688,20 @@ msgctxt ",6540E66F480EE470D56246880E1AAC02"
 msgid "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter"
 msgstr "Der Standard-Schwierigkeitsgrad für jeden Spieler, alle Hinweise werden um 08:00 Uhr gemacht, du hast die Möglichkeit, die Namen der Puppen und die Liste der Aktionen des Betrügers einzusehen"
 
+#. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
+#. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
+#: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
+msgctxt ",E64ED09448DCC6987F8B6A80DFEF3B3F"
+msgid "Name"
+msgstr "Name"
+
+#. Key:	D82E9CC948B03153A925558746DD99F2
+#. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text
+msgctxt ",D82E9CC948B03153A925558746DD99F2"
+msgid "Password"
+msgstr "Passwort"
+
 #. Key:	41A1A89A4ADCC9D9F94EABA4A93A05DB
 #. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text
 #: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text
@@ -4751,26 +4758,12 @@ msgctxt ",D43847EE40A03CCE1238E0A4BAB8F812"
 msgid "Translated by: {people}"
 msgstr "Übersetzt von: {people}"
 
-#. Key:	D874B1094946F76596835A86FE1F53DC
-#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_10.Text
-#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_10.Text
-msgctxt ",D874B1094946F76596835A86FE1F53DC"
-msgid "HeadArrow merch"
-msgstr ""
-
-#. Key:	4E94C231410D12DEC924E7BA00492FEF
-#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_12.Text
-#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_12.Text
-msgctxt ",4E94C231410D12DEC924E7BA00492FEF"
-msgid "Check Doll Inc"
-msgstr ""
-
-#. Key:	ECA1F9F34AEBA0B58ACDE1B00AB6C8C3
-#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_14.Text
-#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_14.Text
-msgctxt ",ECA1F9F34AEBA0B58ACDE1B00AB6C8C3"
-msgid "Content creators program"
-msgstr ""
+#. Key:	1692DE874C0C2B1FC7A6A5AD1D9C1FE9
+#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text
+msgctxt ",1692DE874C0C2B1FC7A6A5AD1D9C1FE9"
+msgid "Exit"
+msgstr "Verlassen"
 
 #. Key:	6AFC77BB43DCD66B4099688FF725AB13
 #. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text
@@ -4799,6 +4792,13 @@ msgstr "Vorherigen Speicher wiederherstellen"
 msgctxt ",DCC8B59542A6483748795F9617F86F55"
 msgid "Open lobby"
 msgstr "Offene Lobby"
+
+#. Key:	B2D8A8F840BD88A7FB7EB385796D6E10
+#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text
+#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text
+msgctxt ",B2D8A8F840BD88A7FB7EB385796D6E10"
+msgid "Browse Lobbies"
+msgstr "Durchsuche Lobbys"
 
 #. Key:	94DF171240785BD6422882B6ECC3CFDC
 #. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text
@@ -4849,13 +4849,6 @@ msgctxt ",AB6B64D64932C68A8743709693AF267B"
 msgid "Position"
 msgstr "Position"
 
-#. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
-#. SourceLocation:	/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text
-#: /Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text
-msgctxt ",E64ED09448DCC6987F8B6A80DFEF3B3F"
-msgid "Name"
-msgstr "Name"
-
 #. Key:	901E40384D0FE3FAD3508F98408C18C7
 #. SourceLocation:	/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text
 #: /Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text
@@ -4898,13 +4891,6 @@ msgctxt ",575CEFFD4FA0D19F96B3A99FF6AEFBE1"
 msgid "Did you like it?"
 msgstr "Hat es dir gefallen?"
 
-#. Key:	D82E9CC948B03153A925558746DD99F2
-#. SourceLocation:	/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]
-#: /Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]
-msgctxt ",D82E9CC948B03153A925558746DD99F2"
-msgid "Password"
-msgstr "Passwort"
-
 #. Key:	36DAFDA641D110060CAB6BBD14FE3722
 #. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]
 #: /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]
@@ -4918,13 +4904,6 @@ msgstr "Fortfahren"
 msgctxt ",4634F1C448A78E03F4AC7B94441281EB"
 msgid "Resume Game"
 msgstr "Spiel fortsetzen"
-
-#. Key:	1692DE874C0C2B1FC7A6A5AD1D9C1FE9
-#. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text
-#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text
-msgctxt ",1692DE874C0C2B1FC7A6A5AD1D9C1FE9"
-msgid "Exit"
-msgstr "Verlassen"
 
 #. Key:	AC84F8B94C4CFF5DD57791BC7770A5BB
 #. SourceLocation:	/Game/UI/matchmaking/allMatches.allMatches_C:WidgetTree.TextBlock.Text
