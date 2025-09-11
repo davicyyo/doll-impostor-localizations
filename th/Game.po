@@ -1739,7 +1739,7 @@ msgstr "กระท่อมกลางป่า"
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",80CF77464D28A21972A063845C52E7D9"
 msgid "The Major"
-msgstr "ผู้พันหญิง"
+msgstr "เทศมนตรี"
 
 #. Key:	E9D7852E47870C4C1BB48CA20DDF0710
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -4868,14 +4868,14 @@ msgstr "เราได้รับรายงานเกี่ยวกับ
 #: /Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]
 msgctxt ",7E7BE8534A4EEA2E07828BB7683F8722"
 msgid "Share your thoughts."
-msgstr "แบ่งปันความคิดของคุณ"
+msgstr "ลองแบ่งปันความคิดเห็นของคุณ"
 
 #. Key:	6F0469EB48D6EC34F0C511B2D187D7D9
 #. SourceLocation:	/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_1.Text
 #: /Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_1.Text
 msgctxt ",6F0469EB48D6EC34F0C511B2D187D7D9"
 msgid "Have you had any issues?"
-msgstr "คุณเคยประสบปัญหาอะไรบ้างไหม?"
+msgstr "คุณประสบปัญหาอะไรบ้างไหม?"
 
 #. Key:	A2C08BE6447E2720D3051F8CA460E102
 #. SourceLocation:	/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_10.Text
@@ -5638,7 +5638,7 @@ msgstr "คุณภาพลงเงา"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text
 msgctxt ",20F643D0433786C0252EBF9BC0704CDC"
 msgid "The game will use the system's default microphone. Changing it requires a restart."
-msgstr "เกมจะใช้ไมโครโฟนแบบเริ่มต้นของระบบ หลังจากเปลี่ยนแปลงแล้วต้องทำการรีสตาร์ทเกม"
+msgstr "เกมจะใช้ไมโครโฟนแบบพื้นฐาน หลังจากทำการเปลี่ยนแปลงแล้ว ต้องรีสตาร์ทเกมเพื่อให้การเปลี่ยนแปลงมีผล"
 
 #. Key:	2DE4F4264AEB90D45B2363B38034FA9E
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_48.Text
@@ -5799,7 +5799,7 @@ msgstr "ระดับเสียงหุ่นยนต์"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_71.Text
 msgctxt ",4B42EDC74552B167B6C050B42EED7773"
 msgid "Toggle lock"
-msgstr "เปิด/ ปิด ล็อก"
+msgstr "เปิด/ปิด ล็อก"
 
 #. Key:	6825277540EC01C05B094C81655574A0
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_72.Text
@@ -5953,7 +5953,7 @@ msgstr "ตุ๊กตาที่สะสมได้มากที่สุ
 #: /Game/UI/todoList.todoList_C:WidgetTree.dislikes_2.Text
 msgctxt ",EBE268F84D4CEBE50AAF908A7823DF79"
 msgid "Find the imposter and keep it in the bag"
-msgstr "ตามหา Impostor แล้วจับตัวมาเก็บใส่ไว้ในกระเป๋า"
+msgstr "ตามหา Impostor แล้วจับตัวมาเก็บไว้ในกระเป๋า"
 
 #. Key:	7B34A441429642B9DA52218285A1BB2A
 #. SourceLocation:	/Game/UI/todoList.todoList_C:WidgetTree.energy.Text
@@ -6016,7 +6016,7 @@ msgstr "คุณได้รับเหรียญรางวัลพนั
 #: /Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock_1.Text
 msgctxt ",DB6479E94240EBE8EC3405AEE83EF579"
 msgid "You can now see this medal in your Employee of the Week chest!"
-msgstr "ตอนนี้คุณสามารถเก็บเหรียญตรานี้ในกล่องพนักงานยอดเยี่ยมประจำสัปดาห์ของคุณแล้ว!"
+msgstr "ตอนนี้เหรียญรางวัลพนักงานยอดเยี่ยมประจำสัปดาห์ ได้เก็บไว้ในกล่องของคุณแล้ว!"
 
 #. Key:	4A4EFF4C40A276033B050495CB6E5179
 #. SourceLocation:	/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(0).Options.Label
