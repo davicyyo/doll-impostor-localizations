@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-09-04 11:02\n"
-"PO-Revision-Date: 2025-09-04 11:02\n"
+"POT-Creation-Date: 2025-11-23 19:36\n"
+"PO-Revision-Date: 2025-11-23 19:36\n"
 "Language-Team: \n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgstr "กระดานผู้นำโหมดไม่รู้จบ �
 #: /Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]
 msgctxt ",8953E06D4224FADDDA2E008D8A0E56FB"
 msgid "The impostor used mislead by performing the action {action}; it may have broken or attacked friends to confuse you."
-msgstr "Impostor ได้ทำการปลอมตัวและได้ใช้ {action} เป็นหลักฐานปลอม ซึ่งบางครั้งอาจจะทำลายตู้ หรือโจมตีเพื่อนตัวเองเพื่อต้องการทำให้คุณสับสน"
+msgstr "Impostor ได้ทำการปลอมตัวและได้ใช้ {action} เป็นหลักฐานปลอม ซึ่งบางครั้งอาจจะทำลายตู้ หรือโจมตีเพื่อนตัวเอง เพื่อต้องการทำให้คุณสับสน"
 
 #. Key:	8C6EFCE649B93D5275B158901F4CAB7A
 #. SourceLocation:	/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]
@@ -187,6 +187,13 @@ msgctxt ",FE11E6ED4FA63C5B12631383E56A20B5"
 msgid "You've unlocked the {map} Map!"
 msgstr "คุณปลดล็อกด่าน {map} แล้ว!"
 
+#. Key:	2389D5614060663C38CEA9A54ACB9DFE
+#. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
+#: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
+msgctxt ",2389D5614060663C38CEA9A54ACB9DFE"
+msgid "The impostor has left the match, restarting the game."
+msgstr "ผู้แอบอ้างออกจากการแข่งขันแล้ว เริ่มเกมใหม่"
+
 #. Key:	29996BA046E32225A477C4BF9759D962
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
@@ -206,7 +213,7 @@ msgstr "ผู้เล่น {player} ได้ออกจากเกม"
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",31F028F14458C827E8B896A573933074"
 msgid "You've broken your new weekly record with {new} nights! of the {old} nights before!"
-msgstr "คุณได้ทำลายสถิติใหม่ ในโหมดไม่รู้จบประจำสัปดาห์ของคุณ ด้วยจำนวน {new} คืน! "
+msgstr "คุณได้ทำลายสถิติใหม่ ในโหมดไม่รู้จบประจำสัปดาห์ของคุณ ด้วยจำนวน {new} คืน!"
 
 #. Key:	57040D874D4ECC42E93EEBA119A420B0
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
@@ -227,7 +234,7 @@ msgstr "กลับไปยังเซฟเฮาส์"
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",8F23FF6C43F579A0AAD7EFBCFB1B03AC"
 msgid "You've got {new} nights, you haven't managed to beat your global record of {old} nights"
-msgstr "คุณเล่นไปแล้ว {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณ ในอันดับระดับโลกที่ {old} คืน ได้ "
+msgstr "คุณเล่นไปแล้ว {new} คืน แต่คุณยังไม่สามารถทำลายสถิติเดิมของคุณ ในอันดับระดับโลกที่ {old} คืน ได้"
 
 #. Key:	97F7579E41A844AC5D7FDDAB706274C6
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
@@ -255,7 +262,14 @@ msgstr "ยินดีด้วย!"
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",C6A5EF874754CC2689ADB69E1CF529FE"
 msgid "You've broken your new global record with {new} nights! of the {old} nights before!"
-msgstr "คุณได้ทำลายสถิติใหม่ในโหมดไม่รู้จบในระดับโลกของคุณ ด้วยจำนวน {new} คืน! "
+msgstr "คุณได้ทำลายสถิติใหม่ในโหมดไม่รู้จบในระดับโลกของคุณ ด้วยจำนวน {new} คืน!"
+
+#. Key:	C9AB8FE44FCD71F5147AD1B61C0E3ACC
+#. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
+#: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
+msgctxt ",C9AB8FE44FCD71F5147AD1B61C0E3ACC"
+msgid "Not enough players to continue, returning to the safehouse..."
+msgstr "มีผู้เล่นไม่เพียงพอที่จะดำเนินการต่อ กลับเซฟเฮาส์..."
 
 #. Key:	E260B86E4EF0F3E2B1480B8784D99A9A
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
@@ -284,6 +298,13 @@ msgstr "ไม่ใช่ Impostor"
 msgctxt ",416137A54D8BDF2957A99DA3E3A214DB"
 msgid "You left several dolls uncrossed out"
 msgstr "คุณจบเกมโดยที่คุณไม่ได้กากบาทตุ๊กตาที่เหลืออยู่"
+
+#. Key:	BA1901304FB5A9DC7B1BB49A21924ED6
+#. SourceLocation:	/Game/Blueprints/interactableObject.interactableObject_C:ExecuteUbergraph_interactableObject [Script Bytecode]
+#: /Game/Blueprints/interactableObject.interactableObject_C:ExecuteUbergraph_interactableObject [Script Bytecode]
+msgctxt ",BA1901304FB5A9DC7B1BB49A21924ED6"
+msgid "Only alive people can interact with it"
+msgstr "มีเพียงคนที่ยังมีชีวิตอยู่เท่านั้นที่สามารถโต้ตอบกับมันได้"
 
 #. Key:	27228C9F429D8354B0534FB17BD564AA
 #. SourceLocation:	/Game/Blueprints/interactableUI3D.interactableUI3D_C:ExecuteUbergraph_interactableUI3D [Script Bytecode]
@@ -346,7 +367,7 @@ msgstr "เราตรวจพบการเปลี่ยนแปลงใ
 #: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
 msgctxt ",3F82A2864259BCB639BD6AA1600CAEED"
 msgid "An error occurred while trying to find a match. Please try again or come back later."
-msgstr "เกิดข้อผิดพลาดในขณะที่กำลังค้นหาการจับคู่ โปรดลองอีกครั้ง หรือกลับมาลองอีกครั้งในภายหลังได้"
+msgstr "เกิดข้อผิดพลาดในขณะที่กำลังค้นหาการจับคู่แข่งขัน โปรดลองอีกครั้ง หรือกลับมาลองอีกครั้งในภายหลังได้"
 
 #. Key:	821BBE2A48EE821074956AB736CA0ECB
 #. SourceLocation:	/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
@@ -416,7 +437,7 @@ msgstr "พิมพ์เขียว"
 #: /Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
 msgctxt ",F2A8B642470514630D564A877B6C0FD7"
 msgid "Static Meshes"
-msgstr "ตาข่าย"
+msgstr "Static Meshes"
 
 #. Key:	8E794D794CCEA0D30D037D8DA2BFD248
 #. SourceLocation:	/Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25
@@ -1270,7 +1291,7 @@ msgstr "หัวโบราณ"
 #: /Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",D03A184741DBDC2985FBC9A454F19494"
 msgid "The Nervous"
-msgstr "ประหม่า"
+msgstr "เขินอาย"
 
 #. Key:	60747A674F244C50BD7C42986DD084AD
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1459,7 +1480,7 @@ msgstr "เสียงทอง"
 #: /Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",5AC930984185A24BC84F5EB1E734B80E"
 msgid "The Tubesocks"
-msgstr "ทูบซอคส์"
+msgstr "เดอะ ทูบซอคส์"
 
 #. Key:	2CE416DB412AC40BEE092AAD7EC2F3F6
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1480,7 +1501,7 @@ msgstr "นักวางแผน"
 #: /Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",FACAB65943781B084CD803A77E0F7266"
 msgid "The Gurl"
-msgstr "เดอะเกิร์ล"
+msgstr "เดอะ เกิร์ล"
 
 #. Key:	8482CDF142B6B8DA6AB0148C9B01430B
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1494,14 +1515,14 @@ msgstr "นักกลยุทธ์"
 #: /Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",B56C952645AF8D8E34E6D7AC0CC9F750"
 msgid "The Loner"
-msgstr "สันโดษ"
+msgstr "ผู้สันโดษ"
 
 #. Key:	9B0C4F0544EED1171CEEF59539778188
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #: /Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",9B0C4F0544EED1171CEEF59539778188"
 msgid "The Unlucky"
-msgstr "อับโชค"
+msgstr "ผู้อับโชค"
 
 #. Key:	E672CE194312B524EAE5218F788B97F4
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1564,14 +1585,14 @@ msgstr "น.ส. เลิศเลอ"
 #: /Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",CAECC15549067E173F931888596593F1"
 msgid "The Sweet"
-msgstr "หวานใจ"
+msgstr "ยอดหวานใจ"
 
 #. Key:	9CE4FD774DFBE4C84DC711A634666FA7
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #: /Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",9CE4FD774DFBE4C84DC711A634666FA7"
 msgid "The Bot"
-msgstr "เดอะบอท"
+msgstr "เดอะ บอท"
 
 #. Key:	9CDEB80D4E621DB2CC0B839965697925
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_2.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1592,14 +1613,14 @@ msgstr "คณะละครสัตว์"
 #: /Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",A2DA993D4C8D5803246FE6BF9A720632"
 msgid "The King in the North"
-msgstr "เดอะคิงอินเดอะนอร์ธ"
+msgstr "เดอะ คิงอินเดอะนอร์ธ"
 
 #. Key:	3D9FD42E45538D66DD5CFBBAC921B9BF
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #: /Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",3D9FD42E45538D66DD5CFBBAC921B9BF"
 msgid "The winner"
-msgstr "ชนะเลิศ"
+msgstr "ผู้ชนะเลิศ"
 
 #. Key:	F241102A460A1ADA609A19BE0187A073
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1613,7 +1634,7 @@ msgstr "คิกคัก"
 #: /Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",ACCFC2124F7E816A3A1C5FA43F97E9C6"
 msgid "The Speedster"
-msgstr "สปีดสเตอร์"
+msgstr "เดอะ สปีดสเตอร์"
 
 #. Key:	98856C914B2FFB85622539B3A7DC529F
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1676,7 +1697,7 @@ msgstr "ด่างพร้อย"
 #: /Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",CFED712040C045766F0B5B99553678AA"
 msgid "The Stoic"
-msgstr "อดทน"
+msgstr "ผู้อดทน"
 
 #. Key:	6DA543AF44AAEFD2447E468497B52D89
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1690,7 +1711,7 @@ msgstr "บาบายาก้า"
 #: /Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",D54AD32246C068D95A3BF5911FDC1807"
 msgid "The Lurker"
-msgstr "หลบซ่อน"
+msgstr "ผู้หลบซ่อน"
 
 #. Key:	852398F5495BF5F04FA860A27630541D
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1711,7 +1732,7 @@ msgstr "ฮึมฮัม"
 #: /Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",D66671DD433D8F8AAFEDA7997FFB55F3"
 msgid "The Protocute"
-msgstr "โพรโทคิวท์"
+msgstr "เดอะ โพรโทคิวท์"
 
 #. Key:	02866DAB46A2CC7C42F7DBB8F29C8616
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1725,7 +1746,7 @@ msgstr "โหยหวน"
 #: /Game/data-tables/mapList.mapList.NewRow_3.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",1F6AA84C466ABB6835E5169D988912BC"
 msgid "The Forgotten"
-msgstr "จืดจาง"
+msgstr "ผู้จืดจาง"
 
 #. Key:	9C6C75F04D147EC179FD38B01562A9DF
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_3.name_18_82096130492E34A890A0138C4910D929
@@ -1739,7 +1760,7 @@ msgstr "กระท่อมกลางป่า"
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",80CF77464D28A21972A063845C52E7D9"
 msgid "The Major"
-msgstr "ผู้พัน"
+msgstr "เทศมนตรี"
 
 #. Key:	E9D7852E47870C4C1BB48CA20DDF0710
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1760,7 +1781,7 @@ msgstr "รัฐมนตรี"
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",FEE4ABA84AE0176FAA4B46BCE0E0E307"
 msgid "The Sweeper"
-msgstr "ปัดกวาด"
+msgstr "ผู้เก็บกวาด"
 
 #. Key:	75B9955E42810289D96C47A60D86C30F
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1774,7 +1795,7 @@ msgstr "คนทำขนมปัง"
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",F91612204C79C87AE6B3CD8C52C85B0A"
 msgid "The Server"
-msgstr "แม่บ้าน"
+msgstr "พนักงานเสิร์ฟ"
 
 #. Key:	C239B67C4D815AB0F53B0ABDCE84596E
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(14).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -1865,7 +1886,7 @@ msgstr "ผู้บัญชาการ"
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",34D171784721BBA559EED6BDB53280F4"
 msgid "The Healer"
-msgstr "พยาบาล"
+msgstr "คุณพยาบาล"
 
 #. Key:	14DDBDAF4354D162FC4C4AB9D98933A5
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
@@ -2418,7 +2439,7 @@ msgstr "รายงานข่าวสาร"
 #: /Game/enums/actions.actions.DisplayNameMap(79 - Value).DisplayNameMap
 msgctxt ",FBB15C024919E213AD0A12819A88AABD"
 msgid "Actor work"
-msgstr "นักแสดง"
+msgstr "งานนักแสดง"
 
 #. Key:	21FFAF7243B370CCA19D849D0F92E7A4
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(8 - Value).DisplayNameMap
@@ -2504,6 +2525,111 @@ msgctxt ",D2BAA1EC4F84BE5AA48BBC92F65D2FA8"
 msgid "Light"
 msgstr "แสงไฟ"
 
+#. Key:	394205F7411D1655718E7DBB2FFEF25B
+#. SourceLocation:	/Game/enums/character/cccharParts.cccharParts.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/enums/character/cccharParts.cccharParts.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",394205F7411D1655718E7DBB2FFEF25B"
+msgid "Module"
+msgstr "โมดูล"
+
+#. Key:	F513D4C945B122BA681A3A98345DF25A
+#. SourceLocation:	/Game/enums/character/cccharParts.cccharParts.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/enums/character/cccharParts.cccharParts.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F513D4C945B122BA681A3A98345DF25A"
+msgid "Primary Color"
+msgstr "สีหลัก"
+
+#. Key:	9302DB974D3000952B9FD984F7F06435
+#. SourceLocation:	/Game/enums/character/cccharParts.cccharParts.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/enums/character/cccharParts.cccharParts.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",9302DB974D3000952B9FD984F7F06435"
+msgid "Secondary Color"
+msgstr "สีรอง"
+
+#. Key:	09048E1E4914A59A46DDDFBC54462623
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",09048E1E4914A59A46DDDFBC54462623"
+msgid "Face"
+msgstr "ใบหน้า"
+
+#. Key:	C782AFBE4A6EE0B67D6DF880F5FDC8F3
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",C782AFBE4A6EE0B67D6DF880F5FDC8F3"
+msgid "Hair"
+msgstr "ผม"
+
+#. Key:	D248AD1E4AB44B633E3F3CB2A12AA913
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",D248AD1E4AB44B633E3F3CB2A12AA913"
+msgid "Mustaches"
+msgstr "หนวด"
+
+#. Key:	C0BFCD64468E1DBCEA56D3BD4BA2569B
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",C0BFCD64468E1DBCEA56D3BD4BA2569B"
+msgid "Torso Details"
+msgstr "รายละเอียดลำตัว"
+
+#. Key:	0738F8D946BCC039BD73AE9DE88C5BF4
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",0738F8D946BCC039BD73AE9DE88C5BF4"
+msgid "Hair Props"
+msgstr "อุปกรณ์ประกอบฉากผม"
+
+#. Key:	A5CB659E494F3FD9094885ABF85A166C
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",A5CB659E494F3FD9094885ABF85A166C"
+msgid "Face Props"
+msgstr "อุปกรณ์ประกอบฉากใบหน้า"
+
+#. Key:	5B66CFFB47C661BACB44BB91BB580D74
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",5B66CFFB47C661BACB44BB91BB580D74"
+msgid "Torso"
+msgstr "เนื้อตัว"
+
+#. Key:	A73C98BD43C632F76995E4AD5A9B1FB1
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",A73C98BD43C632F76995E4AD5A9B1FB1"
+msgid "Torso Props"
+msgstr "อุปกรณ์ประกอบฉากลำตัว"
+
+#. Key:	4B1CA16D42922DD0268E82B4B428D1EA
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",4B1CA16D42922DD0268E82B4B428D1EA"
+msgid "Legs"
+msgstr "ขา"
+
+#. Key:	A3FEEF1C41B169ED6E3B378798EC520D
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",A3FEEF1C41B169ED6E3B378798EC520D"
+msgid "Legs Props"
+msgstr "อุปกรณ์ประกอบฉากขา"
+
+#. Key:	A8763368496CF71858C2948454EDEE34
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",A8763368496CF71858C2948454EDEE34"
+msgid "Feets"
+msgstr "เท้า"
+
+#. Key:	72C079474E4C6F07EB8B68AE4ABC355B
+#. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",72C079474E4C6F07EB8B68AE4ABC355B"
+msgid "Beards"
+msgstr "เครา"
+
 #. Key:	9639E2074CB67CEC4666A4AF3A4FC559
 #. SourceLocation:	/Game/enums/costs.costs.DisplayNameMap(0 - Value).DisplayNameMap
 #: /Game/enums/costs.costs.DisplayNameMap(0 - Value).DisplayNameMap
@@ -2545,6 +2671,13 @@ msgstr "โหมดคลาสสิก"
 msgctxt ",249DE7534CD1567EA10B7F971D9C0BF1"
 msgid "Career"
 msgstr "โหมดอาชีพ"
+
+#. Key:	B383AEBA444328B5A71FF88EF36A0DBB
+#. SourceLocation:	/Game/enums/gamemodes.gamemodes.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/enums/gamemodes.gamemodes.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",B383AEBA444328B5A71FF88EF36A0DBB"
+msgid "Impostor"
+msgstr "Impostor"
 
 #. Key:	D107C133465E950C0D0B42BAAA8BDF09
 #. SourceLocation:	/Game/enums/probability.probability.DisplayNameMap(0 - Value).DisplayNameMap
@@ -3468,7 +3601,7 @@ msgstr "เรารอดชีวิตมาได้ (หรือเกื�
 #: /Game/functions/messageFunctions.messageFunctions_C:getStaticPhrase [Script Bytecode]
 msgctxt ",EF4702EA4EFDD26ED06C3CB15D3059F3"
 msgid "Good company, good game. See you around!"
-msgstr "เป็นเกมที่ดี แล้วเจอกันใหม่! "
+msgstr "เป็นเกมที่ดี แล้วเจอกันใหม่!"
 
 #. Key:	EF176B2A4BCEA55C2F438CB60C8AC601
 #. SourceLocation:	/Game/functions/messageFunctions.messageFunctions_C:getTexts [Script Bytecode]
@@ -3580,7 +3713,7 @@ msgstr "Doll Who เป็นเกมกระดานที่ใช้ทั
 #: /Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]
 msgctxt ",7ABFF0E544D6C598A2E7A08FC98250AC"
 msgid "Welcome to the refuge! This is your safe zone. Here, you can start a new game on the computer, view your collection of dolls and trophies, and also customize this place by clicking on the colour palette icon on your desktop!"
-msgstr "ยินดีต้อนรับสู่เซฟเฮาส์! ที่นี่คือพื้นที่ปลอดภัยของคุณ คุณสามารถเริ่มเกมใหม่ในโหมดต่าง ๆ ได้ที่นี่ แล้วยังสามารถตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ บนชั้นที่ล้อบบี้ทางเดินได้ นอกจากนี้ยังสามารถปรับแต่งสถานที่นี้ได้อย่างอิสระได้อีกด้วย ด้วยการกดปุ่มจานสีที่อยู่บนโต๊ะทำงานของคุณสิ! "
+msgstr "ยินดีต้อนรับสู่เซฟเฮาส์! ที่นี่คือพื้นที่ปลอดภัยของคุณ คุณสามารถเริ่มเกมใหม่ในโหมดต่าง ๆ ได้ที่นี่ แล้วยังสามารถตรวจสอบตู้โชว์ตุ๊กตาและถ้วยรางวัลต่าง ๆ บนชั้นที่ล้อบบี้ทางเดินได้ นอกจากนี้ยังสามารถปรับแต่งสถานที่นี้ได้อย่างอิสระได้อีกด้วย ด้วยการกดปุ่มจานสีที่อยู่บนโต๊ะทำงานของคุณสิ!"
 
 #. Key:	AE7921274BBCE3DD133FC885B09DE5F9
 #. SourceLocation:	/Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]
@@ -3615,14 +3748,14 @@ msgstr "ดูเหมือนว่าผู้ต้องสงสัยข
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",08FC22B7498C0918FE50E0AB274B5889"
 msgid "Remember to keep the door locked with the latch. If you don't, the dolls can come out, alter your tests, and even kill you."
-msgstr "ก่อนออกจากห้อง อย่าลืมล็อกกลอนประตูทุกครั้ง ถ้าหากคุณไม่ทำเช่นนั้น ตุ๊กตาอาจจะเข้ามาก่อกวนสิ่งที่คุณบันทึกไว้บนกระดาน หรือแม้กระทั่งฆ่าคุณได้ด้วยเช่นกัน"
+msgstr "ก่อนออกจากห้อง อย่าลืมล็อกกลอนประตูทุกครั้ง ถ้าหากคุณไม่ทำเช่นนั้น ตุ๊กตาอาจจะเข้ามาก่อกวนสิ่งที่คุณบันทึกไว้บนกระดาน หรือแม้กระทั่งจัดการคุณได้ด้วยเช่นกัน"
 
 #. Key:	095285C644BBCF6CF4EA8EBA3F985F9F
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",095285C644BBCF6CF4EA8EBA3F985F9F"
 msgid "This is the dolls' room. Here you will see what they have done while you slept. Take a look at them, and then let's go back to the room."
-msgstr "ที่นี่คือห้องเก็บตุ๊กตา คุณจะเห็นได้ว่าตุ๊กตาเหล่านี้ได้ทำอะไรบางอย่างในขณะที่คุณนอนหลับ ให้จับตาดูพวกเขาและคอยสังเกตการณ์เอาไว้ให้ดี แล้วกลับไปที่ห้องนอน"
+msgstr "ที่นี่คือห้องเก็บตุ๊กตา คุณจะเห็นได้ว่าตุ๊กตาเหล่านี้ มีบางตัวที่ได้ทำอะไรบางอย่างในขณะที่คุณนอนหลับ ให้จับตาดูพวกเขาและคอยสังเกตการณ์เอาไว้ให้ดี แล้วกลับไปที่ห้องนอน"
 
 #. Key:	0A3D5EC2435134BB35A189A4B69C4101
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -3636,14 +3769,14 @@ msgstr "ห้องตุ๊กตา"
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",0B2A9AAE439C83F5A59624AAE1C48AAE"
 msgid "Traps"
-msgstr "การวางกับดัก"
+msgstr "เตรียมกับดัก"
 
 #. Key:	0E888CB843DF92D55BD437BEB42F99EB
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",0E888CB843DF92D55BD437BEB42F99EB"
 msgid "Let's go back to the panel and start weeding out suspects who don't match our evidence."
-msgstr "กลับไปที่กระดาน และเริ่มคัดกรองผู้ต้องสงสัยบนกระดานที่ไม่ตรงกับหลักฐานที่เราสืบมาได้ออกไป"
+msgstr "กลับไปที่กระดาน ตรวจสอบข้อมูล และเริ่มคัดกรองผู้ต้องสงสัยบนกระดานที่ไม่ตรงกับหลักฐานที่เราสืบมาได้ออกไป"
 
 #. Key:	34AFF09749F832F67360E0923F227F4F
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -3657,7 +3790,7 @@ msgstr "การคัดออก"
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",3A4B9B82453A3C78DD066BBB53AFC867"
 msgid "We only have 3 left. Let's go to the room to see who has moved and who has been moved."
-msgstr "ตอนนี้เราเหลืออยู่เพียง 3 ตัวเท่านั้น ลองกลับไปตรวจสอบที่ห้องตุ๊กตาเพื่อตรวจดูว่ามีใครขยับตัว หรือถูกย้ายหรือไม่"
+msgstr "ตอนนี้เราเหลืออยู่เพียง 3 ตัวเท่านั้น ลองกลับไปตรวจสอบที่ห้องตุ๊กตา เพื่อตรวจดูว่ามีใครขยับตัว หรือถูกย้ายไปที่อื่นหรือไม่"
 
 #. Key:	47254BE24A91487FA9DB08918BAFEBED
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -3671,14 +3804,14 @@ msgstr "คุณได้ผ่านการทดสอบและมีค
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",5220ED3742AAD20F53D18B86F110B811"
 msgid "You are the guardian of dolls, one of them is alive and intends to kill you. You must discover which one it is before 09:00."
-msgstr "คุณคือผู้ดูแลตุ๊กตา โดยมีหนึ่งตัวในนั้นได้มีชีวิตขึ้นมาและได้วางแผนจะฆ่าคุณ คุณจะต้องทำการสืบหาหลักฐานต่าง ๆ ว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
+msgstr "คุณคือผู้ดูแลตุ๊กตา โดยมีหนึ่งตัวในนั้นโดนผีสิงและมีชีวิตขึ้นมา เขาเตรียมวางแผนที่จะฆ่าคุณ คุณจะต้องทำการสืบหาหลักฐานต่าง ๆ ว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
 
 #. Key:	53A10A0B4D95DA3B8371AEA60CDFE0CF
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",53A10A0B4D95DA3B8371AEA60CDFE0CF"
 msgid "Perfect, we have 5 suspects left. Let's go to sleep again."
-msgstr "ยอดเยี่ยม ตอนนี้เราเหลือผู้ต้องสงสัยแค่ 5 ตัว ลองกลับไปนอนอีกครั้ง"
+msgstr "ยอดเยี่ยมมาก ตอนนี้เราเหลือผู้ต้องสงสัยแค่ 5 ตัว ลองกลับไปนอนอีกครั้ง"
 
 #. Key:	611C7265455A03D1E36711A53C897A09
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -3699,14 +3832,14 @@ msgstr "นี่คือชั่วโมงสุดท้ายแล้ว
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",75DB907D4C3E80ED887ACDA2AADF602C"
 msgid "You will have a detective role in which you will have to determine, based on the impostor's likes and dislikes listed on the panel to your left, what he likes and doesn't like, who his enemies, friends, loves, or hated individuals are."
-msgstr "คุณจะต้องสืบหาหลักฐาน โดยการสังเกตและวิเคราะห์จากหลักฐานต่าง ๆ โดยอ้างอิงจากการกระทำตามความชอบและไม่ชอบ ความสัมพันธ์ต่าง ๆ ของตุ๊กตา ทั้งความเป็นเพื่อน เป็นศัตรู พันธมิตร คนที่รัก หรือแม้กระทั่งคนที่เกลียดชัง ของตุ๊กตาแต่ละตัว โดยข้อมูลของผู้ต้องสงสัยทั้งหมด ได้ระบุไว้บนกระดานด้านข้างของคุณเรียบร้อยแล้ว"
+msgstr "คุณจะต้องสืบหาข้อมูล โดยการสังเกตและวิเคราะห์จากหลักฐานต่าง ๆ ที่พบ โดยอ้างอิงจากการกระทำตามความชอบและไม่ชอบ ความสัมพันธ์ต่าง ๆ ของตุ๊กตา ทั้งความเป็นเพื่อน เป็นศัตรู พันธมิตร คนที่รัก หรือแม้กระทั่งคนที่เกลียดชัง ของตุ๊กตาแต่ละตัว โดยข้อมูลของผู้ต้องสงสัยทั้งหมด ได้ระบุไว้บนกระดานด้านข้างของคุณเรียบร้อยแล้ว"
 
 #. Key:	7F18D69F420F68627730E39CE489A2EC
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",7F18D69F420F68627730E39CE489A2EC"
 msgid "Let's set a trap for the impostor. We already know that he likes TV and music. Turn on the lights."
-msgstr "เรามาทำการวางกับดักสำหรับผู้ต้องสงสัยกัน เรารู้ข้อมูลแล้วว่าเขาชอบ ทีวี กับ ดนตรี เรามาลองเปิดไฟเอาไว้กัน"
+msgstr "เรามาเตรียมวางกับดักสำหรับผู้ต้องสงสัยกัน เรารู้ข้อมูลแล้วว่าเขาชอบ ทีวี กับ ดนตรี เรามาลองเปิดไฟเอาไว้กัน"
 
 #. Key:	815797D840D1A6AEC45401A9A3996DE0
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -3769,7 +3902,7 @@ msgstr "เป็นที่ชัดเจนแล้วว่า เขา�
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",CA75CAA04ADC71945FDEF1B6843F94B0"
 msgid "He has fallen into our trap and turned off the lights. We can now discard all those who like the light."
-msgstr "ผู้ต้องสงสัยติดกับดักของเราแล้ว เขาได้มาปิดไฟที่เราเปิดเอาไว้ ตอนนี้เราสามารถคัดตุ๊กตาที่ชอบแสงไฟออกไปได้"
+msgstr "ผู้ต้องสงสัยติดกับดักของเราแล้ว เขาได้มาปิดไฟที่เราเปิดเอาไว้ ตอนนี้เราสามารถคัดกรองตุ๊กตาที่ชอบแสงไฟออกไปได้เลย"
 
 #. Key:	DA89561543E0C4540EBC6E8D9B7FCF8A
 #. SourceLocation:	/Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -3797,7 +3930,7 @@ msgstr "การนอน"
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 msgctxt ",FAD096A047C791A2435446A372491A59"
 msgid "We have Ricky on the couch and Monty at the piano, so we already have the 2 possible candidates. However, we are not going to take the 50% risk. Let's go back to the room to rule out the one that can't be and wait for his next event."
-msgstr "เราพบว่า Ricky นั่งอยู่บนโซฟา กับ Monty นั่งอยู่ที่เปียโน ดังนั้นเราเหลือผู้ต้องสงสัยที่เป็นไปได้แค่ 2 ตัวเท่านั้น แต่อย่างไรก็ตามเราไม่แนะนำให้คุณเสี่ยงโอกาส 50/50 ที่เป็นไปได้นี้ เพื่อความปลอดภัยของคุณ เราขอแนะนำว่าเราควรกลับไปที่ห้องเพื่อทำการคัดกรองตุ๊กตาที่หลักฐานไม่เกี่ยวข้อง และรอเบาะแสถัดไปดีกว่า"
+msgstr "เราพบว่า Ricky นั่งอยู่บนโซฟา กับ Monty นั่งอยู่ที่เปียโน เราเหลือผู้ต้องสงสัยที่เป็นไปได้แค่ 2 ตัวเท่านั้น แต่อย่างไรก็ตามเราไม่แนะนำให้คุณเสี่ยงโอกาส 50/50 ที่เป็นไปได้นี้ ดังนั้นเพื่อความปลอดภัยของคุณ เราขอแนะนำว่าเราควรกลับไปที่ห้องเพื่อทำการคัดกรองตุ๊กตาที่หลักฐานไม่เกี่ยวข้อง และรอเบาะแสถัดไปดีกว่า"
 
 #. Key:	7055F47B466C9C3B47C459A2BDF1373A
 #. SourceLocation:	/Game/UI/bookCollector.bookCollector_C:GetText [Script Bytecode]
@@ -4373,6 +4506,13 @@ msgctxt ",2BB11678432B1B25F353A1A7B4A35E7E"
 msgid "Reset"
 msgstr "รีเซ็ต"
 
+#. Key:	708EA77A4ED05FDA2A6E7D9E75FCEB5C
+#. SourceLocation:	/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text.Text
+#: /Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text.Text
+msgctxt ",708EA77A4ED05FDA2A6E7D9E75FCEB5C"
+msgid "Partner"
+msgstr "พันธมิตร"
+
 #. Key:	5ADF115E421CC60065765BA497935F74
 #. SourceLocation:	/Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_1.Text
 #: /Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text_1.Text
@@ -4443,13 +4583,6 @@ msgctxt ",EF9484874E9B2D923F2B00B2C0CAAF9D"
 msgid "Employee of the Week Awards"
 msgstr "รางวัลพนักงานดีเด่นประจำสัปดาห์"
 
-#. Key:	715AE4624267FE9F9EF6939C8ECFD3D1
-#. SourceLocation:	/Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]
-#: /Game/UI/endingUI.endingUI_C:ExecuteUbergraph_endingUI [Script Bytecode]
-msgctxt ",715AE4624267FE9F9EF6939C8ECFD3D1"
-msgid "Do you want to leave the current lobby to go to your safehouse?"
-msgstr "คุณต้องการออกจากล็อบบี้เพื่อกลับไปที่เซฟเฮาส์ของคุณหรือไม่?"
-
 #. Key:	5981A77041F835414316E0BEA0C3C8F8
 #. SourceLocation:	/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]
 #: /Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]
@@ -4478,12 +4611,19 @@ msgctxt ",AEB4B3D54B17C67F1E1637ADF1242ED3"
 msgid "You didn't close the door"
 msgstr "คุณไม่ได้ล็อกประตูรถ"
 
-#. Key:	B084116A4B080238B7AB2A89F60A598E
-#. SourceLocation:	/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text
-#: /Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_2.Text
-msgctxt ",B084116A4B080238B7AB2A89F60A598E"
-msgid "Replay"
-msgstr "เล่นอีกครั้ง"
+#. Key:	A97CAAF349E73A3B00137D8CB44BCBAD
+#. SourceLocation:	/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_1.Text
+msgctxt ",A97CAAF349E73A3B00137D8CB44BCBAD"
+msgid "You win the bet!"
+msgstr "คุณชนะเดิมพัน!"
+
+#. Key:	87B3FC8446132603DA2B638D614B2A83
+#. SourceLocation:	/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_4.Text
+msgctxt ",87B3FC8446132603DA2B638D614B2A83"
+msgid "You lose the bet and all your money"
+msgstr "คุณเสียเดิมพันและเงินทั้งหมดของคุณ"
 
 #. Key:	F699B0844A39D7ABCF0260916BF5F41B
 #. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock.Text
@@ -4497,7 +4637,14 @@ msgstr "เชิญผู้เล่น"
 #: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt ",0A9B45DB40B3BFE34DF53CB9717F18AC"
 msgid "Restart game"
-msgstr "เริ่มเกมใหม่"
+msgstr "รีสตาร์ทเกม"
+
+#. Key:	E9D3BE9C45C7096824F72B87485EE620
+#. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_6.Text
+#: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_6.Text
+msgctxt ",E9D3BE9C45C7096824F72B87485EE620"
+msgid "Character creator"
+msgstr "ผู้สร้างตัวละคร"
 
 #. Key:	1F66019F447C68AA3AEE3A8D1EBEECAA
 #. SourceLocation:	/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]
@@ -4520,12 +4667,19 @@ msgctxt ",2CB05BB340AA7F8DFF600E83A23BDADD"
 msgid "Unavailable"
 msgstr "ไม่พร้อมใช้งาน"
 
+#. Key:	A033523C4F6C59E3BFB1BE965ADF9A71
+#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]
+#: /Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]
+msgctxt ",A033523C4F6C59E3BFB1BE965ADF9A71"
+msgid "This mode require 2 or more players!"
+msgstr "โหมดนี้ต้องมีผู้เล่น 2 คนขึ้นไป!"
+
 #. Key:	AD01C42149F1EF55342AAAB262E7D9C8
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]
 #: /Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]
 msgctxt ",AD01C42149F1EF55342AAAB262E7D9C8"
 msgid "This game mode is not available in multiplayer."
-msgstr "โหมดเกมนี้ไม่รองรับการเล่นแบบหลายคน"
+msgstr "เกมโหมดนี้ไม่รองรับการเล่นแบบหลายคน"
 
 #. Key:	27F0561948852E1FB316F9A6EAEB5841
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:GetText_1 [Script Bytecode]
@@ -4639,12 +4793,54 @@ msgctxt ",C6A278F94000AE1F35ED22BF78A7ADE5"
 msgid "New Game"
 msgstr "เริ่มเกมใหม่"
 
-#. Key:	74CB94924A0D7B248DF67DA581AFEEE9
+#. Key:	02DC05E44F7A1D295F3D88917BC6866F
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text
+msgctxt ",02DC05E44F7A1D295F3D88917BC6866F"
+msgid "Play with friends against a human impostor. One player is the infiltrator. Plan ahead, act carefully, and avoid being exposed by the investigators."
+msgstr "เล่นกับเพื่อน ๆ ต่อสู้กับมนุษย์จอมปลอม"
+
+#. Key:	01163BE7400AF0B66C8D7CA87F61A4D3
+#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text
+#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text
+msgctxt ",01163BE7400AF0B66C8D7CA87F61A4D3"
+msgid "Double or nothing (bet all your money)"
+msgstr "สองเท่าหรือไม่มีอะไรเลย (เดิมพันเงินทั้งหมดของคุณ)"
+
+#. Key:	6C69A93D4C696EDE4CF252A6F90E2F2C
+#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_30.Text
+#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_30.Text
+msgctxt ",6C69A93D4C696EDE4CF252A6F90E2F2C"
+msgid "The original Doll Impostor experience: find the impostor before 09:00 using traps, multiple difficulty levels, and extra modes."
+msgstr "ประสบการณ์ Doll Impostor ดั้งเดิม: ค้นหาผู้แอบอ้างก่อน 09:00 น. โดยใช้กับดัก ระดับความยากหลายระดับ และโหมดพิเศษ"
+
+#. Key:	93BFB5AA4CE3C4EA5E9973A84D12FD76
+#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_31.Text
+#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_31.Text
+msgctxt ",93BFB5AA4CE3C4EA5E9973A84D12FD76"
+msgid "Doll Hunters (Only locked dolls)"
+msgstr "Doll Hunters (เฉพาะตุ๊กตาที่ถูกล็อคเท่านั้น)"
+
+#. Key:	5D004B2B4E6DCFDC1AEBBE8241036B85
+#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_32.Text
+#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_32.Text
+msgctxt ",5D004B2B4E6DCFDC1AEBBE8241036B85"
+msgid "Face another player asynchronously: both investigate the same case with all events included and random conditions. You have one hour to find the impostor. The fastest wins. Includes ELO and global ranking."
+msgstr "เผชิญหน้ากับผู้เล่นอื่นแบบอะซิงโครนัส: ทั้งสองตรวจสอบกรณีเดียวกันโดยรวมเหตุการณ์ทั้งหมดและเงื่อนไขแบบสุ่ม"
+
+#. Key:	74CB94924A0D7B248DF67DA581AFEEE9
+#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
+#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
 msgctxt ",74CB94924A0D7B248DF67DA581AFEEE9"
 msgid "Matchmaking"
 msgstr "กาาจับคู่แข่งขัน"
+
+#. Key:	006F940B40EF1B343BAC488C091B017E
+#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_36.Text
+#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_36.Text
+msgctxt ",006F940B40EF1B343BAC488C091B017E"
+msgid "Buy and craft items, build the perfect case, and complete tasks like identifying suspicious doll actions. Find the impostor and bag them."
+msgstr "ซื้อและสร้างไอเท็ม สร้างกล่องที่สมบูรณ์แบบ และทำงานให้เสร็จสิ้น เช่น การระบุการกระทำของตุ๊กตาที่น่าสงสัย"
 
 #. Key:	2D485E384A7ABE47FD44F58A954301B6
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text
@@ -4722,6 +4918,20 @@ msgstr "สาธารณะ"
 msgctxt ",E27F6BC0436B7CDF6E4091A3895DF357"
 msgid "Private"
 msgstr "ส่วนตัว"
+
+#. Key:	6A0D6D30417F220237B81A8995985C2F
+#. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
+#: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
+msgctxt ",6A0D6D30417F220237B81A8995985C2F"
+msgid "Inspectors"
+msgstr "ผู้ตรวจสอบ"
+
+#. Key:	89DD4B8A4A57828A0D0B08827934CCEA
+#. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
+#: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
+msgctxt ",89DD4B8A4A57828A0D0B08827934CCEA"
+msgid "{team} won"
+msgstr "{ทีม} ชนะ"
 
 #. Key:	15673F574D5DA742FD4F428DA263DCB1
 #. SourceLocation:	/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]
@@ -4868,14 +5078,14 @@ msgstr "เราได้รับรายงานเกี่ยวกับ
 #: /Game/UI/linkRefs.linkRefs_C:ExecuteUbergraph_linkRefs [Script Bytecode]
 msgctxt ",7E7BE8534A4EEA2E07828BB7683F8722"
 msgid "Share your thoughts."
-msgstr "แบ่งปันความคิดของคุณ"
+msgstr "ลองแบ่งปันความคิดเห็นของคุณ"
 
 #. Key:	6F0469EB48D6EC34F0C511B2D187D7D9
 #. SourceLocation:	/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_1.Text
 #: /Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_1.Text
 msgctxt ",6F0469EB48D6EC34F0C511B2D187D7D9"
 msgid "Have you had any issues?"
-msgstr "คุณเจอประสบปัญหาอะไรบ้างไหม?"
+msgstr "คุณประสบปัญหาอะไรบ้างไหม?"
 
 #. Key:	A2C08BE6447E2720D3051F8CA460E102
 #. SourceLocation:	/Game/UI/linkRefs.linkRefs_C:WidgetTree.TextBlock_10.Text
@@ -5010,13 +5220,6 @@ msgctxt ",F328405344EB2B4CB4D34EA75D918FD1"
 msgid "Hates"
 msgstr "เกลียด"
 
-#. Key:	708EA77A4ED05FDA2A6E7D9E75FCEB5C
-#. SourceLocation:	/Game/UI/paperInterface.paperInterface_C:GetText_4 [Script Bytecode]
-#: /Game/UI/paperInterface.paperInterface_C:GetText_4 [Script Bytecode]
-msgctxt ",708EA77A4ED05FDA2A6E7D9E75FCEB5C"
-msgid "Partner"
-msgstr "พันธมิตร"
-
 #. Key:	2BB3FBB843E9BFD6353681B23923B65D
 #. SourceLocation:	/Game/UI/purchaseUI.purchaseUI_C:WidgetTree.moneyField_1.Text
 #: /Game/UI/purchaseUI.purchaseUI_C:WidgetTree.moneyField_1.Text
@@ -5030,6 +5233,20 @@ msgstr "ยกเลิก"
 msgctxt ",6371A84F40D0902115E78A9A1C09FBCE"
 msgid "Do you want buy this product?"
 msgstr "คุณต้องการซื้อผลิตภัณฑ์นี้หรือไม่?"
+
+#. Key:	715AE4624267FE9F9EF6939C8ECFD3D1
+#. SourceLocation:	/Game/UI/replayUI.replayUI_C:ExecuteUbergraph_replayUI [Script Bytecode]
+#: /Game/UI/replayUI.replayUI_C:ExecuteUbergraph_replayUI [Script Bytecode]
+msgctxt ",715AE4624267FE9F9EF6939C8ECFD3D1"
+msgid "Do you want to leave the current lobby to go to your safehouse?"
+msgstr "คุณต้องการออกจากล็อบบี้ปัจจุบันเพื่อไปที่เซฟเฮาส์ของคุณหรือไม่?"
+
+#. Key:	B084116A4B080238B7AB2A89F60A598E
+#. SourceLocation:	/Game/UI/replayUI.replayUI_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/replayUI.replayUI_C:WidgetTree.TextBlock_2.Text
+msgctxt ",B084116A4B080238B7AB2A89F60A598E"
+msgid "Replay"
+msgstr "เล่นซ้ำ"
 
 #. Key:	A0C0892943CF5FC4B208879116F465F0
 #. SourceLocation:	/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text
@@ -5143,6 +5360,34 @@ msgctxt ",2EF2F1564FC48CCE3E64C3AC2AE2520E"
 msgid "Fullscreen"
 msgstr "เต็มจอ"
 
+#. Key:	BAE5154E4E3AE14A54E6828C32370216
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(1).Options.Label
+#: /Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(1).Options.Label
+msgctxt ",BAE5154E4E3AE14A54E6828C32370216"
+msgid "Auto"
+msgstr "อัตโนมัติ"
+
+#. Key:	1F60747F484721580EA9649AFE5C2893
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(2).Options.Label
+#: /Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(2).Options.Label
+msgctxt ",1F60747F484721580EA9649AFE5C2893"
+msgid "Quality"
+msgstr "คุณภาพ"
+
+#. Key:	AB501C9445DFF4BF182BCB9E51DA8A49
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(3).Options.Label
+#: /Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(3).Options.Label
+msgctxt ",AB501C9445DFF4BF182BCB9E51DA8A49"
+msgid "Balanced"
+msgstr "สมดุล"
+
+#. Key:	D0AE45E14934432AE6AAEEB53740D81C
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(4).Options.Label
+#: /Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(4).Options.Label
+msgctxt ",D0AE45E14934432AE6AAEEB53740D81C"
+msgid "Performance"
+msgstr "ผลงาน"
+
 #. Key:	B7A232F04263043B9FEA5F8F6A6CBF61
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(4).Options.Label
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(4).Options.Label
@@ -5185,9 +5430,16 @@ msgctxt ",3E1BC428435A0C653E4D7185A4847A91"
 msgid "Input Settings"
 msgstr "ตั้งค่าการป้อนข้อมูล"
 
-#. Key:	5CB127A3485E81E42B473984FAD83220
+#. Key:	313F40EF478559493D8CBBB58F9FF50B
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(5).Options.Label
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(5).Options.Label
+msgctxt ",313F40EF478559493D8CBBB58F9FF50B"
+msgid "VR Settings"
+msgstr "การตั้งค่า VR"
+
+#. Key:	5CB127A3485E81E42B473984FAD83220
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(6).Options.Label
+#: /Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(6).Options.Label
 msgctxt ",5CB127A3485E81E42B473984FAD83220"
 msgid "Data Settings"
 msgstr "การตั้งค่าข้อมูล"
@@ -5638,7 +5890,7 @@ msgstr "คุณภาพลงเงา"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text
 msgctxt ",20F643D0433786C0252EBF9BC0704CDC"
 msgid "The game will use the system's default microphone. Changing it requires a restart."
-msgstr "เกมจะใช้ไมโครโฟนแบบเริ่มต้นของระบบ หลังจากเปลี่ยนแปลงแล้วต้องทำการรีสตาร์ทเกม"
+msgstr "เกมจะใช้ไมโครโฟนแบบพื้นฐาน หลังจากทำการเปลี่ยนแปลงแล้ว ต้องรีสตาร์ทเกมเพื่อให้การเปลี่ยนแปลงมีผล"
 
 #. Key:	2DE4F4264AEB90D45B2363B38034FA9E
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_48.Text
@@ -5799,7 +6051,7 @@ msgstr "ระดับเสียงหุ่นยนต์"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_71.Text
 msgctxt ",4B42EDC74552B167B6C050B42EED7773"
 msgid "Toggle lock"
-msgstr "เปิด/ ปิด ล็อก"
+msgstr "เปิด/ปิด ล็อก"
 
 #. Key:	6825277540EC01C05B094C81655574A0
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_72.Text
@@ -5836,12 +6088,47 @@ msgctxt ",E6E5563145CE2732C896519D18711948"
 msgid "VR Interface Pointer"
 msgstr "ตัวชี้อินเตอร์เฟส VR"
 
+#. Key:	C7F4448D4D2D9FC266E17B924B19932F
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_79.Text
+#: /Game/UI/settings.settings_C:WidgetTree.TextBlock_79.Text
+msgctxt ",C7F4448D4D2D9FC266E17B924B19932F"
+msgid "Seat mode"
+msgstr "โหมดที่นั่ง"
+
 #. Key:	7826866B435A8EE313772C8979CA261B
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_8.Text
 msgctxt ",7826866B435A8EE313772C8979CA261B"
 msgid "Jumpscares Volume"
 msgstr "ระดับเสียง Jumpscares"
+
+#. Key:	384220FB4868C58CB1B793A323D8B7E6
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_80.Text
+#: /Game/UI/settings.settings_C:WidgetTree.TextBlock_80.Text
+msgctxt ",384220FB4868C58CB1B793A323D8B7E6"
+msgid "Smooth turn"
+msgstr "เลี้ยวได้อย่างราบรื่น"
+
+#. Key:	9E19DD8A4C744EFEDEC12C98E2158FD0
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_81.Text
+#: /Game/UI/settings.settings_C:WidgetTree.TextBlock_81.Text
+msgctxt ",9E19DD8A4C744EFEDEC12C98E2158FD0"
+msgid "Smooth turn sensivity"
+msgstr "ความไวในการเลี้ยวที่ราบรื่น"
+
+#. Key:	5338B040417362F9E3D17EAB3DDE3EFA
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_82.Text
+#: /Game/UI/settings.settings_C:WidgetTree.TextBlock_82.Text
+msgctxt ",5338B040417362F9E3D17EAB3DDE3EFA"
+msgid "Spectator Move Up"
+msgstr "ผู้ชมขยับขึ้น"
+
+#. Key:	5B1ECD0D4E381D818269C2A9DA03E80B
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_83.Text
+#: /Game/UI/settings.settings_C:WidgetTree.TextBlock_83.Text
+msgctxt ",5B1ECD0D4E381D818269C2A9DA03E80B"
+msgid "Spectator Move Down"
+msgstr "ผู้ชมเลื่อนลง"
 
 #. Key:	433A6CE84E4955044C7FB38105FA63BF
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text
@@ -5953,7 +6240,7 @@ msgstr "ตุ๊กตาที่สะสมได้มากที่สุ
 #: /Game/UI/todoList.todoList_C:WidgetTree.dislikes_2.Text
 msgctxt ",EBE268F84D4CEBE50AAF908A7823DF79"
 msgid "Find the imposter and keep it in the bag"
-msgstr "ตามหา Impostor แล้วจับตัวมาเก็บใส่ไว้ในกระเป๋า"
+msgstr "ตามหา Impostor แล้วจับตัวมาเก็บไว้ในกระเป๋า"
 
 #. Key:	7B34A441429642B9DA52218285A1BB2A
 #. SourceLocation:	/Game/UI/todoList.todoList_C:WidgetTree.energy.Text
@@ -6016,7 +6303,7 @@ msgstr "คุณได้รับเหรียญรางวัลพนั
 #: /Game/UI/weeklyMedal.weeklyMedal_C:WidgetTree.TextBlock_1.Text
 msgctxt ",DB6479E94240EBE8EC3405AEE83EF579"
 msgid "You can now see this medal in your Employee of the Week chest!"
-msgstr "ตอนนี้คุณสามารถเก็บเหรียญตรานี้ในกล่องพนักงานยอดเยี่ยมประจำสัปดาห์ของคุณแล้ว!"
+msgstr "ตอนนี้เหรียญรางวัลพนักงานยอดเยี่ยมประจำสัปดาห์ ได้เก็บไว้ในกล่องของคุณแล้ว!"
 
 #. Key:	4A4EFF4C40A276033B050495CB6E5179
 #. SourceLocation:	/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(0).Options.Label
@@ -6024,13 +6311,6 @@ msgstr "ตอนนี้คุณสามารถเก็บเหรีย
 msgctxt ",4A4EFF4C40A276033B050495CB6E5179"
 msgid "World"
 msgstr "ภาพรวม"
-
-#. Key:	B383AEBA444328B5A71FF88EF36A0DBB
-#. SourceLocation:	/Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label
-#: /Game/UI/winDetails.winDetails_C:WidgetTree.DefaultSpinner.Options(1).Options.Label
-msgctxt ",B383AEBA444328B5A71FF88EF36A0DBB"
-msgid "Impostor"
-msgstr "Impostor"
 
 #. Key:	E447809B421298C1BDA5E4B063D86F49
 #. SourceLocation:	/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock.Text
