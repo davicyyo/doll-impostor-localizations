@@ -31,8 +31,7 @@ msgstr "กระดานผู้นำโหมดไม่รู้จบ �
 #: /Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]
 msgctxt ",8953E06D4224FADDDA2E008D8A0E56FB"
 msgid "The impostor used mislead by performing the action {action}; it may have broken or attacked friends to confuse you."
-msgstr "Impostor ได้ทำการปลอมตัวและได้ใช้ {action} เป็นหลักฐานปลอม ซึ่งบางครั้งอาจจะทำลายตู้ หรือโจมตีเพื่อนตัวเอง เพื่อต้องการทำให้คุณสับสน"
-msgstr "Impostor ได้ทำการปลอมตัวและได้ใช้ {action} เป็นหลักฐานปลอม ซึ่งบางครั้งอาจจะทำลายตู้ หรือโจมตีเพื่อนตัวเอง เพื่อต้องการทำให้คุณสับสน"
+msgstr "Impostor ได้ทำการปลอมตัวโดยใช้ {action} เป็นหลักฐานปลอมเพื่อหลอกคุณ ซึ่งบางครั้งอาจจะทำลายตู้ หรือโจมตีเพื่อนตัวเอง เพื่อทำให้คุณสับสน"
 
 #. Key:	8C6EFCE649B93D5275B158901F4CAB7A
 #. SourceLocation:	/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]
@@ -46,7 +45,7 @@ msgstr "กลับไปยังเซฟเฮาส์"
 #: /Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]
 msgctxt ",E0A26C2A477073293C2A5093569FFE5E"
 msgid "If you return to the safehouse, the house will restore its state and you will lose the equipped items"
-msgstr "ถ้าหากคุณกลับไปยังเซฟเฮาส์ตอนนี้ บ้านจะกลับสู่สภาพเดิม และคุณจะสูญเสียไอเท็มที่ได้จัดเตรียมเอาไว้ทั้งหมด"
+msgstr "ถ้าหากคุณกลับไปยังเซฟเฮาส์ตอนนี้ บ้านที่นี่จะกลับสู่สภาพเดิม และคุณจะสูญเสียไอเท็มที่เตรียมมาทั้งหมด"
 
 #. Key:	C312729245B39D3E05385886891922CF
 #. SourceLocation:	/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts
@@ -144,7 +143,7 @@ msgstr "โปรดระวัง คุณอาจจะสูญเสี�
 #: /Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]
 msgctxt ",5DAA61584F29C51BE364D59FAF17F7CB"
 msgid "You need to use the book of souls before you save the imposter doll"
-msgstr "คุณต้องใช้หนังสือแห่งวิญญาณก่อนที่จะทำการจับตุ๊กตา Imposter"
+msgstr "คุณต้องใช้ หนังสือแห่งวิญญาณ ก่อนที่จะทำการจับตุ๊กตา Imposter"
 
 #. Key:	073BF882481ECDE57F50FF98957A3C22
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
@@ -165,7 +164,7 @@ msgstr "คุณอยากรู้ไหมว่า ข้อมูลเ�
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
 msgctxt ",839DA89C42E027A3CA515CA3BC5BE204"
 msgid "You can try it now in PC"
-msgstr "ตอนนี้คุณสามารถลองบน PC ได้แล้ว"
+msgstr "คุณสามารถลองบน PC ได้แล้ว"
 
 #. Key:	9472CB7546EB19A64D00B9B40CF7BC7D
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
@@ -193,14 +192,14 @@ msgstr "คุณปลดล็อกด่าน {map} แล้ว!"
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",2389D5614060663C38CEA9A54ACB9DFE"
 msgid "The impostor has left the match, restarting the game."
-msgstr "ผู้แอบอ้างออกจากการแข่งขันแล้ว เริ่มเกมใหม่"
+msgstr "ผู้ที่เป็น Impostor ได้ออกจากเกมแล้ว โปรดทำการเริ่มเกมใหม่"
 
 #. Key:	29996BA046E32225A477C4BF9759D962
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",29996BA046E32225A477C4BF9759D962"
 msgid "The robot has caught you"
-msgstr "คุณถูกหุ่นยนต์จับตัวแล้ว"
+msgstr "คุณถูกหุ่นยนต์จับตัว"
 
 #. Key:	313664F547D8F4158BB67E8898134C0E
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
@@ -270,7 +269,7 @@ msgstr "คุณได้ทำลายสถิติใหม่ในโห
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",C9AB8FE44FCD71F5147AD1B61C0E3ACC"
 msgid "Not enough players to continue, returning to the safehouse..."
-msgstr "มีผู้เล่นไม่เพียงพอที่จะดำเนินการต่อ กลับเซฟเฮาส์..."
+msgstr "มีผู้เล่นไม่เพียงพอที่จะดำเนินการต่อ กำลังไปยังกลับเซฟเฮาส์..."
 
 #. Key:	E260B86E4EF0F3E2B1480B8784D99A9A
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
@@ -305,7 +304,7 @@ msgstr "คุณจบเกมโดยที่คุณไม่ได้ก
 #: /Game/Blueprints/interactableObject.interactableObject_C:ExecuteUbergraph_interactableObject [Script Bytecode]
 msgctxt ",BA1901304FB5A9DC7B1BB49A21924ED6"
 msgid "Only alive people can interact with it"
-msgstr "มีเพียงคนที่ยังมีชีวิตอยู่เท่านั้นที่สามารถโต้ตอบกับมันได้"
+msgstr "สามารถโต้ตอบได้เฉพาะผู้เล่นที่ยังมีชีวิตอยู่เท่านั้น"
 
 #. Key:	27228C9F429D8354B0534FB17BD564AA
 #. SourceLocation:	/Game/Blueprints/interactableUI3D.interactableUI3D_C:ExecuteUbergraph_interactableUI3D [Script Bytecode]
@@ -2069,7 +2068,7 @@ msgstr "เคลื่อนย้ายตัวเอง"
 #: /Game/enums/actions.actions.DisplayNameMap(30 - Value).DisplayNameMap
 msgctxt ",455698874FAE4AEB808E15AA36758F84"
 msgid "Houses"
-msgstr "บ้านไม้"
+msgstr "บ้านของเล่น"
 
 #. Key:	06E2AE2A4553C0E1B8BD4FAEBFD8FA1E
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(31 - Value).DisplayNameMap
@@ -2580,28 +2579,28 @@ msgstr "รายละเอียดลำตัว"
 #: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",0738F8D946BCC039BD73AE9DE88C5BF4"
 msgid "Hair Props"
-msgstr "อุปกรณ์ประกอบฉากผม"
+msgstr "อุปกรณ์แต่งผม"
 
 #. Key:	A5CB659E494F3FD9094885ABF85A166C
 #. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",A5CB659E494F3FD9094885ABF85A166C"
 msgid "Face Props"
-msgstr "อุปกรณ์ประกอบฉากใบหน้า"
+msgstr "อุปกรณ์แต่งหน้า"
 
 #. Key:	5B66CFFB47C661BACB44BB91BB580D74
 #. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(4 - Value).DisplayNameMap
 #: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",5B66CFFB47C661BACB44BB91BB580D74"
 msgid "Torso"
-msgstr "เนื้อตัว"
+msgstr "ลำตัว"
 
 #. Key:	A73C98BD43C632F76995E4AD5A9B1FB1
 #. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(5 - Value).DisplayNameMap
 #: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",A73C98BD43C632F76995E4AD5A9B1FB1"
 msgid "Torso Props"
-msgstr "อุปกรณ์ประกอบฉากลำตัว"
+msgstr "อุปกรณ์แต่งตัว"
 
 #. Key:	4B1CA16D42922DD0268E82B4B428D1EA
 #. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(6 - Value).DisplayNameMap
@@ -2615,7 +2614,7 @@ msgstr "ขา"
 #: /Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(7 - Value).DisplayNameMap
 msgctxt ",A3FEEF1C41B169ED6E3B378798EC520D"
 msgid "Legs Props"
-msgstr "อุปกรณ์ประกอบฉากขา"
+msgstr "อุปกรณ์แต่งขา"
 
 #. Key:	A8763368496CF71858C2948454EDEE34
 #. SourceLocation:	/Game/enums/character/ccsectionParts.ccsectionParts.DisplayNameMap(8 - Value).DisplayNameMap
@@ -4407,7 +4406,7 @@ msgstr "รีเซ็ตวัน"
 #: /Game/UI/chat.chat_C:GetHintText [Script Bytecode]
 msgctxt ",53601F8C474D490D252A5AB16AC0B004"
 msgid "Enter chat"
-msgstr "เปิดแชท"
+msgstr "พิมพ์แชท"
 
 #. Key:	CBE66CF34A90B013DD19BCB8455D256A
 #. SourceLocation:	/Game/UI/chat.chat_C:GetHintText [Script Bytecode]
@@ -4589,14 +4588,14 @@ msgstr "รางวัลพนักงานดีเด่นประจำ
 #: /Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]
 msgctxt ",5981A77041F835414316E0BEA0C3C8F8"
 msgid "YOU WIN"
-msgstr "คุณชนะแล้ว"
+msgstr "คุณชนะ"
 
 #. Key:	FE160B74470133E4B513D18D4566D063
 #. SourceLocation:	/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]
 #: /Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]
 msgctxt ",FE160B74470133E4B513D18D4566D063"
 msgid "YOU LOSE"
-msgstr "คุณแพ้แล้ว"
+msgstr "คุณแพ้"
 
 #. Key:	96BE28504D901245DE1115BF00D47E10
 #. SourceLocation:	/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]
@@ -4617,14 +4616,14 @@ msgstr "คุณไม่ได้ล็อกประตูรถ"
 #: /Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_1.Text
 msgctxt ",A97CAAF349E73A3B00137D8CB44BCBAD"
 msgid "You win the bet!"
-msgstr "คุณชนะเดิมพัน!"
+msgstr "คุณชนะการเดิมพัน!"
 
 #. Key:	87B3FC8446132603DA2B638D614B2A83
 #. SourceLocation:	/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_4.Text
 #: /Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_4.Text
 msgctxt ",87B3FC8446132603DA2B638D614B2A83"
 msgid "You lose the bet and all your money"
-msgstr "คุณเสียเดิมพันและเงินทั้งหมดของคุณ"
+msgstr "คุณแพ้การเดิมพันและเงินทั้งหมดของคุณ"
 
 #. Key:	F699B0844A39D7ABCF0260916BF5F41B
 #. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock.Text
@@ -4645,7 +4644,7 @@ msgstr "รีสตาร์ทเกม"
 #: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_6.Text
 msgctxt ",E9D3BE9C45C7096824F72B87485EE620"
 msgid "Character creator"
-msgstr "ผู้สร้างตัวละคร"
+msgstr "สร้างตัวละคร"
 
 #. Key:	1F66019F447C68AA3AEE3A8D1EBEECAA
 #. SourceLocation:	/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]
@@ -4673,7 +4672,7 @@ msgstr "ไม่พร้อมใช้งาน"
 #: /Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]
 msgctxt ",A033523C4F6C59E3BFB1BE965ADF9A71"
 msgid "This mode require 2 or more players!"
-msgstr "โหมดนี้ต้องมีผู้เล่น 2 คนขึ้นไป!"
+msgstr "โหมดนี้ต้องการผู้เล่น 2 คนขึ้นไป!"
 
 #. Key:	AD01C42149F1EF55342AAAB262E7D9C8
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]
@@ -4785,7 +4784,7 @@ msgstr "สัญญาจ้าง"
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_25.Text
 msgctxt ",E80DB2AE4EFABFA02AFEEBA33FADDDEC"
 msgid "As you unlock new levels, new ones will appear!"
-msgstr "เมื่อคุณผ่านด่านแล้ว จะมีการปลดล็อกระดับใหม่ ๆ ให้คุณเล่น!"
+msgstr "เมื่อคุณผ่านด่านแล้ว จะมีการปลดล็อกระดับใหม่ให้คุณเล่น!"
 
 #. Key:	C6A278F94000AE1F35ED22BF78A7ADE5
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_268.Text
@@ -4799,35 +4798,35 @@ msgstr "เริ่มเกมใหม่"
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text
 msgctxt ",02DC05E44F7A1D295F3D88917BC6866F"
 msgid "Play with friends against a human impostor. One player is the infiltrator. Plan ahead, act carefully, and avoid being exposed by the investigators."
-msgstr "เล่นกับเพื่อน ๆ ต่อสู้กับมนุษย์จอมปลอม"
+msgstr "โหมดนี้สามารถสนุดกกับเพื่อน ๆ ท้าชิงกับผู้เล่นคนอื่น ๆ โดยผู้เล่นคนหนึ่ง ได้รับบทเป็น Impostor ที่วางแผนแสนแยบยล จัดการอย่างรอบคอบ เฉียบขาด และรอดการถูกเปิดเผยโดยผู้เล่นคนอื่น ๆ"
 
 #. Key:	01163BE7400AF0B66C8D7CA87F61A4D3
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text
 msgctxt ",01163BE7400AF0B66C8D7CA87F61A4D3"
 msgid "Double or nothing (bet all your money)"
-msgstr "สองเท่าหรือไม่มีอะไรเลย (เดิมพันเงินทั้งหมดของคุณ)"
+msgstr "ได้สองเท่า หรือ หมดตัว (เดิมพันเงินทั้งหมดของคุณ)"
 
 #. Key:	6C69A93D4C696EDE4CF252A6F90E2F2C
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_30.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_30.Text
 msgctxt ",6C69A93D4C696EDE4CF252A6F90E2F2C"
 msgid "The original Doll Impostor experience: find the impostor before 09:00 using traps, multiple difficulty levels, and extra modes."
-msgstr "ประสบการณ์ Doll Impostor ดั้งเดิม: ค้นหาผู้แอบอ้างก่อน 09:00 น. โดยใช้กับดัก ระดับความยากหลายระดับ และโหมดพิเศษ"
+msgstr "ประสบการณ์ Doll Impostor แบบดั้งเดิม ค้นหา Impostor ก่อน 09:00 น. โดยใช้กับดัก ระดับความยากหลายระดับ และโหมดพิเศษ"
 
 #. Key:	93BFB5AA4CE3C4EA5E9973A84D12FD76
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_31.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_31.Text
 msgctxt ",93BFB5AA4CE3C4EA5E9973A84D12FD76"
 msgid "Doll Hunters (Only locked dolls)"
-msgstr "Doll Hunters (เฉพาะตุ๊กตาที่ถูกล็อคเท่านั้น)"
+msgstr "Doll Hunters (เฉพาะตุ๊กตาที่ถูกล็อกเท่านั้น)"
 
 #. Key:	5D004B2B4E6DCFDC1AEBBE8241036B85
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_32.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_32.Text
 msgctxt ",5D004B2B4E6DCFDC1AEBBE8241036B85"
 msgid "Face another player asynchronously: both investigate the same case with all events included and random conditions. You have one hour to find the impostor. The fastest wins. Includes ELO and global ranking."
-msgstr "เผชิญหน้ากับผู้เล่นอื่นแบบอะซิงโครนัส: ทั้งสองตรวจสอบกรณีเดียวกันโดยรวมเหตุการณ์ทั้งหมดและเงื่อนไขแบบสุ่ม"
+msgstr "เผชิญหน้ากับผู้เล่นอื่นแบบตัวต่อตัวในเวลาเดียวกันพร้อมทั้งสองฝ่าย จะทำการเล่นเคสเดียวกัน โดยรวมเหตุการณ์ทั้งหมดและเงื่อนไขแบบโหมดสุ่ม คุณมีเวลาแค่รอบเดียวเท่านั้น ผู้ที่เร็วสุดเท่านั้นจะเป็นผู้ชะ และได้รางวัลแต้ม ELO และอันดับระดับโลก"
 
 #. Key:	74CB94924A0D7B248DF67DA581AFEEE9
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
@@ -4841,7 +4840,7 @@ msgstr "กาาจับคู่แข่งขัน"
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_36.Text
 msgctxt ",006F940B40EF1B343BAC488C091B017E"
 msgid "Buy and craft items, build the perfect case, and complete tasks like identifying suspicious doll actions. Find the impostor and bag them."
-msgstr "ซื้อและสร้างไอเท็ม สร้างกล่องที่สมบูรณ์แบบ และทำงานให้เสร็จสิ้น เช่น การระบุการกระทำของตุ๊กตาที่น่าสงสัย"
+msgstr "ซื้อและสร้างไอเท็ม สร้างเคสที่สมบูรณ์แบบ และทำงานให้เสร็จสิ้น เช่น การระบุการกระทำของตุ๊กตาที่น่าสงสัย ทำการค้นหาให้ะพบแล้วจับใส่กระเป๋า"
 
 #. Key:	2D485E384A7ABE47FD44F58A954301B6
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text
@@ -4925,7 +4924,7 @@ msgstr "ส่วนตัว"
 #: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
 msgctxt ",6A0D6D30417F220237B81A8995985C2F"
 msgid "Inspectors"
-msgstr "ผู้ตรวจสอบ"
+msgstr "Inspectors"
 
 #. Key:	89DD4B8A4A57828A0D0B08827934CCEA
 #. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
@@ -6333,4 +6332,3 @@ msgstr "ชอบ"
 msgctxt ",C0FE25964E732C097D287AB368FB54A4"
 msgid "Dislikes"
 msgstr "ไม่ชอบ"
-
