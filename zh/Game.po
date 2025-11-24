@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-11-23 19:36\n"
-"PO-Revision-Date: 2025-11-23 19:36\n"
+"POT-Creation-Date: 2025-11-24 20:27\n"
+"PO-Revision-Date: 2025-11-24 20:27\n"
 "Language-Team: \n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -4583,27 +4583,6 @@ msgctxt ",EF9484874E9B2D923F2B00B2C0CAAF9D"
 msgid "Employee of the Week Awards"
 msgstr "本周最佳员工奖"
 
-#. Key:	5981A77041F835414316E0BEA0C3C8F8
-#. SourceLocation:	/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]
-#: /Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]
-msgctxt ",5981A77041F835414316E0BEA0C3C8F8"
-msgid "YOU WIN"
-msgstr "你赢了"
-
-#. Key:	FE160B74470133E4B513D18D4566D063
-#. SourceLocation:	/Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]
-#: /Game/UI/endingUI.endingUI_C:GetText [Script Bytecode]
-msgctxt ",FE160B74470133E4B513D18D4566D063"
-msgid "YOU LOSE"
-msgstr "你输了"
-
-#. Key:	96BE28504D901245DE1115BF00D47E10
-#. SourceLocation:	/Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]
-#: /Game/UI/endingUI.endingUI_C:GetText_1 [Script Bytecode]
-msgctxt ",96BE28504D901245DE1115BF00D47E10"
-msgid "Action Details"
-msgstr "行动细节"
-
 #. Key:	AEB4B3D54B17C67F1E1637ADF1242ED3
 #. SourceLocation:	/Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]
 #: /Game/UI/endingUI.endingUI_C:GetText_2 [Script Bytecode]
@@ -4933,6 +4912,27 @@ msgctxt ",89DD4B8A4A57828A0D0B08827934CCEA"
 msgid "{team} won"
 msgstr "{团队}获胜"
 
+#. Key:	5981A77041F835414316E0BEA0C3C8F8
+#. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+#: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+msgctxt ",5981A77041F835414316E0BEA0C3C8F8"
+msgid "YOU WIN"
+msgstr "你赢了"
+
+#. Key:	FE160B74470133E4B513D18D4566D063
+#. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+#: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+msgctxt ",FE160B74470133E4B513D18D4566D063"
+msgid "YOU LOSE"
+msgstr "你输了"
+
+#. Key:	5D4D14CF4249DFFD7C5E389B4FF05B7A
+#. SourceLocation:	/Game/UI/impostorgm/inspectorStart.inspectorStart_C:GetText [Script Bytecode]
+#: /Game/UI/impostorgm/inspectorStart.inspectorStart_C:GetText [Script Bytecode]
+msgctxt ",5D4D14CF4249DFFD7C5E389B4FF05B7A"
+msgid "{name} is the impostor"
+msgstr "{name} 是冒名顶替者"
+
 #. Key:	15673F574D5DA742FD4F428DA263DCB1
 #. SourceLocation:	/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]
 #: /Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]
@@ -5184,6 +5184,20 @@ msgstr "上一场比赛"
 msgctxt ",17389C2D46C82043BD67EFA835A30050"
 msgid "Recent Matches Won"
 msgstr "最近获胜的比赛"
+
+#. Key:	6A9E940047106DA3C7837F9E8922899B
+#. SourceLocation:	/Game/UI/minigame/impostorMinigame.impostorMinigame_C:WidgetTree.TextBlock.Text
+#: /Game/UI/minigame/impostorMinigame.impostorMinigame_C:WidgetTree.TextBlock.Text
+msgctxt ",6A9E940047106DA3C7837F9E8922899B"
+msgid "CORRECT!"
+msgstr "正确的！"
+
+#. Key:	7E9F3CC84301D7E168707FBA6D771DB5
+#. SourceLocation:	/Game/UI/minigame/impostorMinigame.impostorMinigame_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/minigame/impostorMinigame.impostorMinigame_C:WidgetTree.TextBlock_2.Text
+msgctxt ",7E9F3CC84301D7E168707FBA6D771DB5"
+msgid "INCORRECT"
+msgstr "不正确"
 
 #. Key:	2349798E480EE5B45348C4B753C4BCB8
 #. SourceLocation:	/Game/UI/notebook.Default__notebook_C.titles(1).titles
@@ -6130,6 +6144,13 @@ msgctxt ",5B1ECD0D4E381D818269C2A9DA03E80B"
 msgid "Spectator Move Down"
 msgstr "观众下移"
 
+#. Key:	854331C9425CC9D48C26049B823CFD28
+#. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_85.Text
+#: /Game/UI/settings.settings_C:WidgetTree.TextBlock_85.Text
+msgctxt ",854331C9425CC9D48C26049B823CFD28"
+msgid "Spectator Speed Movement"
+msgstr "观众速度运动"
+
 #. Key:	433A6CE84E4955044C7FB38105FA63BF
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text
@@ -6318,6 +6339,13 @@ msgstr "世界"
 msgctxt ",E447809B421298C1BDA5E4B063D86F49"
 msgid "Action Dolls"
 msgstr "动作人偶"
+
+#. Key:	96BE28504D901245DE1115BF00D47E10
+#. SourceLocation:	/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_2.Text
+msgctxt ",96BE28504D901245DE1115BF00D47E10"
+msgid "Action Details"
+msgstr "行动细节"
 
 #. Key:	37F6FE7147465126D16EBCAB90C1274D
 #. SourceLocation:	/Game/UI/winDetails.winDetails_C:WidgetTree.TextBlock_6.Text
