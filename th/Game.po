@@ -2677,7 +2677,7 @@ msgstr "โหมดอาชีพ"
 #: /Game/enums/gamemodes.gamemodes.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",B383AEBA444328B5A71FF88EF36A0DBB"
 msgid "Impostor"
-msgstr "โหมด Impostor"
+msgstr "Impostor"
 
 #. Key:	D107C133465E950C0D0B42BAAA8BDF09
 #. SourceLocation:	/Game/enums/probability.probability.DisplayNameMap(0 - Value).DisplayNameMap
