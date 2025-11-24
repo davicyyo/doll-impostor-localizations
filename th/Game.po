@@ -4931,7 +4931,7 @@ msgstr "Inspectors"
 #: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
 msgctxt ",89DD4B8A4A57828A0D0B08827934CCEA"
 msgid "{team} won"
-msgstr "ทีม {ทีม} ชนะ"
+msgstr "{team} ชนะ"
 
 #. Key:	15673F574D5DA742FD4F428DA263DCB1
 #. SourceLocation:	/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]
