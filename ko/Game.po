@@ -4910,7 +4910,7 @@ msgstr "검사관"
 #: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
 msgctxt ",89DD4B8A4A57828A0D0B08827934CCEA"
 msgid "{team} won"
-msgstr "{팀} 승리"
+msgstr "{team} 승리"
 
 #. Key:	5981A77041F835414316E0BEA0C3C8F8
 #. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
