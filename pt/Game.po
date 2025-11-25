@@ -4931,7 +4931,7 @@ msgstr "VOCÊ PERDEU!"
 #: /Game/UI/impostorgm/inspectorStart.inspectorStart_C:GetText [Script Bytecode]
 msgctxt ",5D4D14CF4249DFFD7C5E389B4FF05B7A"
 msgid "{name} is the impostor"
-msgstr "{nome} é o impostor"
+msgstr "{name} é o impostor"
 
 #. Key:	15673F574D5DA742FD4F428DA263DCB1
 #. SourceLocation:	/Game/UI/intro.intro_C:ExecuteUbergraph_intro [Script Bytecode]
