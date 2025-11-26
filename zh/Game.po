@@ -192,7 +192,7 @@ msgstr "你解锁了{map}地图！"
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",2389D5614060663C38CEA9A54ACB9DFE"
 msgid "The impostor has left the match, restarting the game."
-msgstr "冒名顶替者已离开比赛，重新开始比赛。"
+msgstr "人偶我弟已离开，重新开始游戏。"
 
 #. Key:	29996BA046E32225A477C4BF9759D962
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
@@ -206,7 +206,7 @@ msgstr "机器人抓住了你"
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",313664F547D8F4158BB67E8898134C0E"
 msgid "{player} leave the game"
-msgstr "{player} 离开游戏"
+msgstr "{player}离开游戏"
 
 #. Key:	31F028F14458C827E8B896A573933074
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
@@ -269,7 +269,7 @@ msgstr "你用{new}夜晚的成绩打破全球记录！"
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",C9AB8FE44FCD71F5147AD1B61C0E3ACC"
 msgid "Not enough players to continue, returning to the safehouse..."
-msgstr "没有足够的玩家继续，返回安全屋......"
+msgstr "玩家不足，返回安全屋……"
 
 #. Key:	E260B86E4EF0F3E2B1480B8784D99A9A
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
@@ -4623,7 +4623,7 @@ msgstr "重开游戏"
 #: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_6.Text
 msgctxt ",E9D3BE9C45C7096824F72B87485EE620"
 msgid "Character creator"
-msgstr "角色创造者"
+msgstr "角色创造"
 
 #. Key:	1F66019F447C68AA3AEE3A8D1EBEECAA
 #. SourceLocation:	/Game/UI/extraItem.extraItem_C:GetText [Script Bytecode]
@@ -4651,7 +4651,7 @@ msgstr "不可用"
 #: /Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]
 msgctxt ",A033523C4F6C59E3BFB1BE965ADF9A71"
 msgid "This mode require 2 or more players!"
-msgstr "此模式需要 2 名或更多玩家！"
+msgstr "此模式需要不少于2名玩家！"
 
 #. Key:	AD01C42149F1EF55342AAAB262E7D9C8
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:ExecuteUbergraph_gameMenu [Script Bytecode]
@@ -4777,28 +4777,28 @@ msgstr "新游戏"
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text
 msgctxt ",02DC05E44F7A1D295F3D88917BC6866F"
 msgid "Play with friends against a human impostor. One player is the infiltrator. Plan ahead, act carefully, and avoid being exposed by the investigators."
-msgstr "与朋友一起对抗人类冒名顶替者。"
+msgstr "与朋友一起对抗人类卧底。一个玩家是渗透者。提前计划，小心行事，避免暴露。"
 
 #. Key:	01163BE7400AF0B66C8D7CA87F61A4D3
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text
 msgctxt ",01163BE7400AF0B66C8D7CA87F61A4D3"
 msgid "Double or nothing (bet all your money)"
-msgstr "双倍或全无（赌上所有的钱）"
+msgstr "双倍或全无（梭哈）"
 
 #. Key:	6C69A93D4C696EDE4CF252A6F90E2F2C
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_30.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_30.Text
 msgctxt ",6C69A93D4C696EDE4CF252A6F90E2F2C"
 msgid "The original Doll Impostor experience: find the impostor before 09:00 using traps, multiple difficulty levels, and extra modes."
-msgstr "原创玩偶冒名顶替者体验：利用陷阱、多种难度级别和额外模式，在 09:00 之前找到冒名顶替者。"
+msgstr "原创人偶卧底体验：利用陷阱、多种难度和额外模式，在09:00之前找到人偶卧底。"
 
 #. Key:	93BFB5AA4CE3C4EA5E9973A84D12FD76
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_31.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_31.Text
 msgctxt ",93BFB5AA4CE3C4EA5E9973A84D12FD76"
 msgid "Doll Hunters (Only locked dolls)"
-msgstr "玩偶猎人（仅限锁定的玩偶）"
+msgstr "人偶猎人（仅限锁定的人偶）"
 
 #. Key:	5D004B2B4E6DCFDC1AEBBE8241036B85
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_32.Text
@@ -4812,14 +4812,14 @@ msgstr "异步面对另一个玩家：双方都调查同一案件，包括所有
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
 msgctxt ",74CB94924A0D7B248DF67DA581AFEEE9"
 msgid "Matchmaking"
-msgstr "对接"
+msgstr "匹配"
 
 #. Key:	006F940B40EF1B343BAC488C091B017E
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_36.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_36.Text
 msgctxt ",006F940B40EF1B343BAC488C091B017E"
 msgid "Buy and craft items, build the perfect case, and complete tasks like identifying suspicious doll actions. Find the impostor and bag them."
-msgstr "购买和制作物品，打造完美的箱子，并完成识别可疑玩偶行为等任务。"
+msgstr "购买和制作物品，打造完美的箱子，并完成识别可疑人偶、揭穿卧底等任务。"
 
 #. Key:	2D485E384A7ABE47FD44F58A954301B6
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text
@@ -5253,14 +5253,14 @@ msgstr "你要购买该产品吗？"
 #: /Game/UI/replayUI.replayUI_C:ExecuteUbergraph_replayUI [Script Bytecode]
 msgctxt ",715AE4624267FE9F9EF6939C8ECFD3D1"
 msgid "Do you want to leave the current lobby to go to your safehouse?"
-msgstr "你想离开当前的大厅前往你的安全屋吗？"
+msgstr "要离开当前大厅前往安全屋吗？"
 
 #. Key:	B084116A4B080238B7AB2A89F60A598E
 #. SourceLocation:	/Game/UI/replayUI.replayUI_C:WidgetTree.TextBlock_2.Text
 #: /Game/UI/replayUI.replayUI_C:WidgetTree.TextBlock_2.Text
 msgctxt ",B084116A4B080238B7AB2A89F60A598E"
 msgid "Replay"
-msgstr "重播"
+msgstr "重玩"
 
 #. Key:	A0C0892943CF5FC4B208879116F465F0
 #. SourceLocation:	/Game/UI/results.results_C:WidgetTree.TextBlock_13.Text
@@ -5379,7 +5379,7 @@ msgstr "全屏"
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(1).Options.Label
 msgctxt ",BAE5154E4E3AE14A54E6828C32370216"
 msgid "Auto"
-msgstr "汽车"
+msgstr "自动"
 
 #. Key:	1F60747F484721580EA9649AFE5C2893
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(2).Options.Label
@@ -5400,7 +5400,7 @@ msgstr "均衡"
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(4).Options.Label
 msgctxt ",D0AE45E14934432AE6AAEEB53740D81C"
 msgid "Performance"
-msgstr "表现"
+msgstr "性能"
 
 #. Key:	B7A232F04263043B9FEA5F8F6A6CBF61
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_277.Options(4).Options.Label
@@ -6121,7 +6121,7 @@ msgstr "惊吓音量"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_80.Text
 msgctxt ",384220FB4868C58CB1B793A323D8B7E6"
 msgid "Smooth turn"
-msgstr "平稳转弯"
+msgstr "平滑转向"
 
 #. Key:	9E19DD8A4C744EFEDEC12C98E2158FD0
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_81.Text
@@ -6135,21 +6135,21 @@ msgstr "平滑转向灵敏度"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_82.Text
 msgctxt ",5338B040417362F9E3D17EAB3DDE3EFA"
 msgid "Spectator Move Up"
-msgstr "观众向上移动"
+msgstr "观察上移"
 
 #. Key:	5B1ECD0D4E381D818269C2A9DA03E80B
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_83.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_83.Text
 msgctxt ",5B1ECD0D4E381D818269C2A9DA03E80B"
 msgid "Spectator Move Down"
-msgstr "观众下移"
+msgstr "观察下移"
 
 #. Key:	854331C9425CC9D48C26049B823CFD28
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_85.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_85.Text
 msgctxt ",854331C9425CC9D48C26049B823CFD28"
 msgid "Spectator Speed Movement"
-msgstr "观众速度运动"
+msgstr "观察移速"
 
 #. Key:	433A6CE84E4955044C7FB38105FA63BF
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_9.Text
@@ -6163,7 +6163,7 @@ msgstr "脚步声音量"
 #: /Game/UI/signs.signs_C:WidgetTree.TextBlock_4.Text
 msgctxt ",4F25154F492889931F8B37B7A8085613"
 msgid "No signs yet"
-msgstr "还没有迹象"
+msgstr "尚无迹象"
 
 #. Key:	4B70F7494C37681AE0AA74BE49283C5F
 #. SourceLocation:	/Game/UI/signs.signs_C:WidgetTree.TextBlock_62.Text
