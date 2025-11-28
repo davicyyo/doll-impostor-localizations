@@ -1,4 +1,4 @@
-﻿# Game Russian translation.
+# Game Russian translation.
 # 
 msgid ""
 msgstr ""
@@ -4903,14 +4903,14 @@ msgstr "Частный"
 #: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
 msgctxt ",6A0D6D30417F220237B81A8995985C2F"
 msgid "Inspectors"
-msgstr "Инспекторы"
+msgstr "Инспектор"
 
 #. Key:	89DD4B8A4A57828A0D0B08827934CCEA
 #. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
 #: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText [Script Bytecode]
 msgctxt ",89DD4B8A4A57828A0D0B08827934CCEA"
 msgid "{team} won"
-msgstr "{team} выиграла"
+msgstr "{team} выиграл"
 
 #. Key:	5981A77041F835414316E0BEA0C3C8F8
 #. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
