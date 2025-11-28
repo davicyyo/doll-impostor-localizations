@@ -3649,7 +3649,7 @@ msgstr "Лобби заполнено"
 #. SourceLocation:	/Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]
 #: /Game/functions/netFunctions.netFunctions_C:canJoinInSession [Script Bytecode]
 msgctxt ",FEB9026C48BC0599149DBA9898C6CB45"
-msgid "The version is different from the host \\"{version}\\""
+msgid "The version is different from the host \"{version}\""
 msgstr "Версия отличается от версии хоста \"{version}\""
 
 #. Key:	5BC1D7604A1C399EA23C8A967E53983E
