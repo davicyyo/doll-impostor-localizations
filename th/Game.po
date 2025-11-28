@@ -31,7 +31,7 @@ msgstr "กระดานผู้นำโหมดไม่รู้จบ �
 #: /Game/Blueprints/actionExecute.actionExecute_C:ExecuteUbergraph_actionExecute [Script Bytecode]
 msgctxt ",8953E06D4224FADDDA2E008D8A0E56FB"
 msgid "The impostor used mislead by performing the action {action}; it may have broken or attacked friends to confuse you."
-msgstr "Impostor ได้ทำการปลอมตัวโดยใช้ {action} เป็นหลักฐานปลอมเพื่อหลอกคุณ ซึ่งบางครั้งอาจจะทำลายตู้ หรือโจมตีเพื่อนตัวเอง เพื่อทำให้คุณสับสน"
+msgstr "Impostor ได้ทำการหลอกคุณโดยใช้ {action} เป็นหลักฐานปลอมเพื่อหลอกคุณ ซึ่งบางครั้งอาจจะทำลายตู้ หรือโจมตีเพื่อนตัวเอง เพื่อทำให้คุณสับสน"
 
 #. Key:	8C6EFCE649B93D5275B158901F4CAB7A
 #. SourceLocation:	/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]
@@ -45,7 +45,7 @@ msgstr "กลับไปยังเซฟเฮาส์"
 #: /Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]
 msgctxt ",E0A26C2A477073293C2A5093569FFE5E"
 msgid "If you return to the safehouse, the house will restore its state and you will lose the equipped items"
-msgstr "ถ้าหากคุณกลับไปยังเซฟเฮาส์ตอนนี้ บ้านที่นี่จะกลับสู่สภาพเดิม และคุณจะสูญเสียไอเท็มที่เตรียมมาทั้งหมด"
+msgstr "ถ้าหากคุณกลับไปยังเซฟเฮาส์ตอนนี้ บ้านที่นี่จะกลับสู่สภาพเดิม และคุณจะสูญเสียไอเท็มที่ได้เตรียมมาทั้งหมด"
 
 #. Key:	C312729245B39D3E05385886891922CF
 #. SourceLocation:	/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts
@@ -59,7 +59,7 @@ msgstr "พระเจ้าโปรดช่วยพวกเราด้ว
 #: /Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(1).texts
 msgctxt ",78CDF9F24D7F05B20507E99EF8B9D6B4"
 msgid "Where is the hope?"
-msgstr "พวกเรายังมีความหวังอยู่ไหม?"
+msgstr "พวกเราสิ้นหวังแล้วใช่ไหม?"
 
 #. Key:	806D1B0C4EFCAD5D435AD6A24A208010
 #. SourceLocation:	/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(10).texts
@@ -87,7 +87,7 @@ msgstr "ความมืดมนกำลังครอบงำพวกเ
 #: /Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(4).texts
 msgctxt ",46CE50D24305DF8EE5E3069A686AD62E"
 msgid "What do we have left?"
-msgstr "พวกเราไม่เหลืออะไรแล้วใช่ไหม?"
+msgstr "พวกเราไม่เหลืออะไรแล้วสินะ?"
 
 #. Key:	7C103CB840F8E092D02937A8D8ACCCCF
 #. SourceLocation:	/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(5).texts
@@ -108,7 +108,7 @@ msgstr "เป็นความเจ็บปวดเกินพรรณา
 #: /Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(7).texts
 msgctxt ",1B91C6234DA146AEDD1F52A4882D4BE0"
 msgid "There seems to be no way out"
-msgstr "ไม่มีทางหนีรอดออกไปได้"
+msgstr "ไม่มีทางหนีรอดออกไปไหนได้"
 
 #. Key:	8013788A45FE0968E12AA3BAF0AE5233
 #. SourceLocation:	/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(8).texts
@@ -122,7 +122,7 @@ msgstr "ความเงียบมันช่างหดหู่เหล
 #: /Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts
 msgctxt ",FB77087A4862A67B758D529F87748C2F"
 msgid "Chaos consumes us"
-msgstr "ความโกลาหลกลืนกินพวกเราแล้ว"
+msgstr "ความโกลาหลได้กลืนกินพวกเรา"
 
 #. Key:	1C4A0DD846CCF542A5D75C843FB42C43
 #. SourceLocation:	/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]
@@ -157,7 +157,7 @@ msgstr "คุณปลดล็อกระดับความยากให
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
 msgctxt ",51B58C89473E1AE2A37E6A8118DC37C1"
 msgid "Have you ever wondered where the information about the dolls comes from? In career mode, you will discover the information about the dolls with infinite cases, economy, levels, shop, crafting, and much more!"
-msgstr "คุณอยากรู้ไหมว่า ข้อมูลเกี่ยวกับตุ๊กตามาจากไหนในโหมดอาชีพ โดยในโหมดนี้ คุณสามารถค้นคว้าข้อมูลต่าง ๆ เกี่ยวกับตุ๊กตาได้จากการเล่นเคสไปเรื่อย ๆ แบบไม่จำกัด ไม่ว่าจะเป็นเคสในรูปแบบต่าง ๆ สภาพทางการเงิน ระดับความยากง่าย ร้านค้า การประดิษฐ์ และอื่น ๆ อีกมากมาย!"
+msgstr "คุณอยากรู้ไหมว่า ข้อมูลเกี่ยวกับตุ๊กตามาจากไหนในโหมดอาชีพนี้ โดยคุณสามารถค้นคว้าข้อมูลต่าง ๆ เกี่ยวกับตุ๊กตาได้จากการเล่นเคสไปเรื่อยแบบไม่จำกัด ไม่ว่าจะเป็นเคสในหลากหลายรูปแบบ รักษาสภาพทางการเงิน เลือกระดับความยากง่าย ร้านค้าเพื่อสร้างไอเทม และอื่น ๆ อีกมากมาย!"
 
 #. Key:	839DA89C42E027A3CA515CA3BC5BE204
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
@@ -171,14 +171,14 @@ msgstr "คุณสามารถลองบน PC ได้แล้ว"
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
 msgctxt ",9472CB7546EB19A64D00B9B40CF7BC7D"
 msgid "You've unlocked a new extra mode!"
-msgstr "คุณปลดล็อกโหมดพิเศษแล้ว!"
+msgstr "คุณปลดล็อก โหมดพิเศษ แล้ว!"
 
 #. Key:	B372B7564467D935DC5122B7415A738C
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
 msgctxt ",B372B7564467D935DC5122B7415A738C"
 msgid "You've unlocked the career mode!"
-msgstr "คุณปลดล็อกโหมดอาชีพแล้ว!"
+msgstr "คุณปลดล็อก โหมดอาชีพ แล้ว!"
 
 #. Key:	FE11E6ED4FA63C5B12631383E56A20B5
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
@@ -1032,7 +1032,7 @@ msgstr "รากแมนเดรก"
 #: /Game/data-tables/itemList.itemList.NewRow_32.info_16_4DFA58E54C75086154A8DC9A319FD10E
 msgctxt ",C6C0EE3547F1545A84D8268AC0025132"
 msgid "Portable device that produces a flame to start a fire."
-msgstr "อุปกรณ์สำหรับจุดไฟขนาดพกพา"
+msgstr "อุปกรณ์สำหรับจุดไฟขนาดกะทัดรัด"
 
 #. Key:	AB25CB294CD7BEF8559DFA89B96B8F9B
 #. SourceLocation:	/Game/data-tables/itemList.itemList.NewRow_32.name_12_D217604B46FF9197C7004FBE2050F6FD
@@ -4686,7 +4686,7 @@ msgstr "ออกจากระบบ"
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_10.Text
 msgctxt ",7C43F9DE48DB63CDFAC71F9F14D83E23"
 msgid "Only suitable for professionals, it starts at 08:00 and only has 3 effective clues, there are no photos or aids, some of the data is hidden, you have limited access to the map"
-msgstr "ในระดับความยากนี้ เหมาะสำหรับมืออาชีพเท่านั้น โดยเกมจะเริ่มที่เวลา 08:00 น. และมีเบาะแสที่สำคัญเพียง 3 รายการเท่านั้น จะไม่มีรูปภาพตุ๊กตา ข้อมูลบางส่วนถูกปิดเอาไว้ รวมไปถึงถูกจำกัดพื้นที่ในการเข้าถึงบางส่วนเท่านั้น"
+msgstr "ระดับความยากนี้เหมาะสำหรับมืออาชีพเท่านั้น โดยเกมจะเริ่มที่เวลา 08:00 น. และมีหลักฐานที่สำคัญเพียง 3 รายการเท่านั้น จะไม่มีรูปภาพตุ๊กตา ข้อมูลบางส่วนถูกปิดเอาไว้ รวมไปถึงจะถูกจำกัดพื้นที่ในการเข้าถึง"
 
 #. Key:	95E8DAF7441719B3063BE7B84B85AE87
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text
@@ -4728,7 +4728,7 @@ msgstr "โหมดจับเวลา"
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_17.Text
 msgctxt ",8C118CF148C516FD54C9BC8FE28F9A95"
 msgid "Random mode but you're racing against the clock; find the doll before time runs out and earn trophies based on your speed."
-msgstr "โหมดสุ่มแบบจับเวลา เราจะต้องค้นหาตุ๊กตา และตอบให้ถูกต้องภายในเวลาที่กำหนดไว้ และรับถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
+msgstr "โหมดสุ่มแบบจับเวลา เราจะต้องค้นหาตุ๊กตา และตอบให้ถูกต้องภายในระยะเวลาที่กำหนดไว้ และรับถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
 
 #. Key:	F167859643FD37B593110B9A866E9EB3
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text
@@ -4777,7 +4777,7 @@ msgstr "เริ่มเกมใหม่"
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_28.Text
 msgctxt ",02DC05E44F7A1D295F3D88917BC6866F"
 msgid "Play with friends against a human impostor. One player is the infiltrator. Plan ahead, act carefully, and avoid being exposed by the investigators."
-msgstr "โหมดนี้สามารถสนุกกับเพื่อน ๆ และท้าชิงกับผู้เล่นคนอื่น ๆ โดยผู้เล่นคนหนึ่ง ได้รับบทเป็น Impostor ที่วางแผนแสนแยบยล จัดการอย่างรอบคอบ เฉียบขาด และรอดการถูกเปิดเผยโดยผู้เล่นคนอื่น ๆ"
+msgstr "โหมดนี้ท้าทายความสามารถกับเพื่อน และท้าชิงกับผู้เล่นคนอื่น ๆ โดยผู้เล่นคนหนึ่ง จะได้รับบทเป็น Impostor ที่วางแผนแสนแยบยล จัดการอย่างรอบคอบ เฉียบขาด และรอดการถูกเปิดเผยโดยผู้เล่นคนอื่น ๆ"
 
 #. Key:	01163BE7400AF0B66C8D7CA87F61A4D3
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text
@@ -4791,35 +4791,35 @@ msgstr "ได้สองเท่า หรือ เสียหมดตั�
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_30.Text
 msgctxt ",6C69A93D4C696EDE4CF252A6F90E2F2C"
 msgid "The original Doll Impostor experience: find the impostor before 09:00 using traps, multiple difficulty levels, and extra modes."
-msgstr "ประสบการณ์ Doll Impostor ตามแบบฉบับดั้งเดิม ทำการค้นหา Impostor ให้เจอก่อน 09:00 น. โดยการวางกับดัก ระดับความยากหลายระดับ และโหมดพิเศษอื่น ๆ"
+msgstr "ประสบการณ์ Doll Impostor แบบดั้งเดิม โดยทำการค้นหา Impostor ให้เจอก่อน 09:00 น. พร้อมวางกับดัก ระดับความยากที่หลากหลาย และโหมดพิเศษอื่น ๆ"
 
 #. Key:	93BFB5AA4CE3C4EA5E9973A84D12FD76
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_31.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_31.Text
 msgctxt ",93BFB5AA4CE3C4EA5E9973A84D12FD76"
 msgid "Doll Hunters (Only locked dolls)"
-msgstr "Doll Hunters (เฉพาะตุ๊กตาที่ถูกล็อกเท่านั้น)"
+msgstr "Doll Hunters (เฉพาะตุ๊กตาที่ยังไม่ได้เท่านั้น)"
 
 #. Key:	5D004B2B4E6DCFDC1AEBBE8241036B85
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_32.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_32.Text
 msgctxt ",5D004B2B4E6DCFDC1AEBBE8241036B85"
 msgid "Face another player asynchronously: both investigate the same case with all events included and random conditions. You have one hour to find the impostor. The fastest wins. Includes ELO and global ranking."
-msgstr "เผชิญความท้าทายกับผู้เล่นอื่นแบบตัวต่อตัว ในเวลาเดียวกันพร้อมทั้งสองฝ่าย จะทำการเล่นเคสเดียวกัน โดยรวมเหตุการณ์ทั้งหมดและเงื่อนไขแบบโหมดสุ่ม คุณมีเวลาแค่รอบเดียวเท่านั้น ผู้ที่เร็วสุดเท่านั้นจะเป็นฝ่ายชนะ จะได้รางวัลแต้ม ELO และอันดับระดับโลก"
+msgstr "เผชิญความท้าทายกับผู้เล่นอื่นแบบตัวต่อตัวในเวลาเดียวกัน ทั้งสองฝ่ายจะทำการเล่นเกมพร้อมกัน โดยใช้หลักการและเงื่อนไขแบบเดียวกับโหมดสุ่ม คุณมีเวลาตรวจสอบหลักฐานแค่รอบเดียวเท่านั้น ผู้ที่ทำเวลาเร็วสุดเท่านั้นจะเป็นฝ่ายชนะ จะได้รางวัลแต้ม ELO และอันดับระดับโลก"
 
 #. Key:	74CB94924A0D7B248DF67DA581AFEEE9
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
 msgctxt ",74CB94924A0D7B248DF67DA581AFEEE9"
 msgid "Matchmaking"
-msgstr "กาาจับคู่แข่งขัน"
+msgstr "กำลังแข่งขัน"
 
 #. Key:	006F940B40EF1B343BAC488C091B017E
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_36.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_36.Text
 msgctxt ",006F940B40EF1B343BAC488C091B017E"
 msgid "Buy and craft items, build the perfect case, and complete tasks like identifying suspicious doll actions. Find the impostor and bag them."
-msgstr "ซื้อและสร้างไอเท็ม สร้างเคสที่สมบูรณ์แบบ และทำงานให้เสร็จสมบูรณ์ เช่น การระบุการกระทำของตุ๊กตาที่น่าสงสัย ทำการค้นหาให้พบแล้วจับใส่กระเป๋า"
+msgstr "ซื้อและสร้างไอเท็ม เพื่อสร้างเคสที่สมบูรณ์แบบ และทำงานให้เสร็จสมบูรณ์ เช่น การระบุการกระทำของตุ๊กตาที่น่าสงสัย ทำการค้นหาให้พบแล้วจับใส่กระเป๋า"
 
 #. Key:	2D485E384A7ABE47FD44F58A954301B6
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text
@@ -4840,14 +4840,14 @@ msgstr "ฝันร้าย"
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_6.Text
 msgctxt ",B1FA0BA34DA00CA6BA1EE9B4D8E18772"
 msgid "One more step of difficulty, there are no extra clues, You can't see the names or list"
-msgstr "เพิ่มระดับความยากเล็กน้อย จะไม่มีเบาะแสแสดงบนกระดาน และไม่สามารถดูชื่อของตุ๊กตาที่ตัวตุ๊กตาได้"
+msgstr "เพิ่มระดับความยากเล็กน้อย จะไม่มีหลักฐานแสดงบนกระดาน และไม่สามารถดูชื่อของตุ๊กตาที่ตัวตุ๊กตาได้"
 
 #. Key:	DFC327DA4616540509FBF6AA40D0458B
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text
 msgctxt ",DFC327DA4616540509FBF6AA40D0458B"
 msgid "Expert mode, you start from 06:00, there are no extra clues and no photographs"
-msgstr "โหมดนี้สำหรับผู้ชำนาญการ จะเริ่มเวลา 06:00 น. เบาะแสจะถูกลดจำนวนลง และไม่มีรูปภาพตุ๊กตาปรากฏให้"
+msgstr "โหมดนี้สำหรับผู้ชำนาญการ จะเริ่มเวลา 06:00 น. หลักฐานจะถูกลดจำนวนลง และไม่มีรูปภาพตุ๊กตาปรากฏให้"
 
 #. Key:	92BFF30E4E114DDBBE7791B9CC9B70A5
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_8.Text
@@ -4861,7 +4861,7 @@ msgstr "ง่าย"
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",6540E66F480EE470D56246880E1AAC02"
 msgid "The standard difficulty for each player, all clues will be made at 08:00, you have the option to see the names of the dolls and the list of actions of the imposter"
-msgstr "ระดับความยากมาตรฐาน เบาะแสทั้งหมดจะถูกเปิดเผยเมื่อเล่นถึงเวลา 08:00 น. คุณมีหลักฐานเพียงพอที่จะตามหาผู้ต้องสงสัย โดยมีตัวเลือกในการดูชื่อของตุ๊กตาและรายการการกระทำของผู้ต้องสงสัย"
+msgstr "ระดับความยากมาตรฐานสำหรับผู้เล่นทั่วไป หลักฐานทั้งหมดจะถูกเปิดเผยเมื่อเล่นถึงเวลา 08:00 น. คุณมีหลักฐานเพียงพอที่จะตามหาผู้ต้องสงสัย โดยมีตัวเลือกในการดูชื่อของตุ๊กตาและรายการหลักฐานของผู้ต้องสงสัย"
 
 #. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
 #. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
@@ -5211,28 +5211,28 @@ msgstr "รายชื่อตุ๊กตา"
 #: /Game/UI/paperInterface.paperInterface_C:GetText_0 [Script Bytecode]
 msgctxt ",834E072547D98D80C120CD87A16FA4D6"
 msgid "Friends"
-msgstr "เพื่อน"
+msgstr "เป็นเพื่อน"
 
 #. Key:	694809A74B440CDD18D181A8C6BA0434
 #. SourceLocation:	/Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]
 #: /Game/UI/paperInterface.paperInterface_C:GetText_1 [Script Bytecode]
 msgctxt ",694809A74B440CDD18D181A8C6BA0434"
 msgid "Enemies"
-msgstr "ศัตรู"
+msgstr "เป็นศัตรู"
 
 #. Key:	21952B6F489AA6A8308F0591867EAC2B
 #. SourceLocation:	/Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]
 #: /Game/UI/paperInterface.paperInterface_C:GetText_2 [Script Bytecode]
 msgctxt ",21952B6F489AA6A8308F0591867EAC2B"
 msgid "Loves"
-msgstr "รัก"
+msgstr "คนรัก"
 
 #. Key:	F328405344EB2B4CB4D34EA75D918FD1
 #. SourceLocation:	/Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]
 #: /Game/UI/paperInterface.paperInterface_C:GetText_3 [Script Bytecode]
 msgctxt ",F328405344EB2B4CB4D34EA75D918FD1"
 msgid "Hates"
-msgstr "เกลียด"
+msgstr "คนเกลียด"
 
 #. Key:	2BB3FBB843E9BFD6353681B23923B65D
 #. SourceLocation:	/Game/UI/purchaseUI.purchaseUI_C:WidgetTree.moneyField_1.Text
@@ -5309,7 +5309,7 @@ msgstr "คุณเสียคะแนนไป 75% เพราะไม่�
 #: /Game/UI/results.results_C:WidgetTree.TextBlock_42.Text
 msgctxt ",B03E1FBA436DD65AC1BDFB9C7CED0AAE"
 msgid "You have lost 90% of the entire reward due to missing photos."
-msgstr "คุณเสียคะแนนไป 90% ของรางวัลทั้งหมด เนื่องจากไม่ได้ถ่ายรูปตุ๊กตาให้ครบ"
+msgstr "คุณเสียคะแนนไป 90% ของรางวัลทั้งหมด เนื่องจากถ่ายรูปตุ๊กตาไม่ครบ"
 
 #. Key:	273F474146E53E4EF26ED18EF748B092
 #. SourceLocation:	/Game/UI/results.results_C:WidgetTree.TextBlock_47.Text
@@ -5386,7 +5386,7 @@ msgstr "อัตโนมัติ"
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(2).Options.Label
 msgctxt ",1F60747F484721580EA9649AFE5C2893"
 msgid "Quality"
-msgstr "คุณภาพ"
+msgstr "เน้นคุณภาพ"
 
 #. Key:	AB501C9445DFF4BF182BCB9E51DA8A49
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultRadioSelectSetting_24.Options(3).Options.Label
@@ -5414,28 +5414,28 @@ msgstr "ไม่จำกัด"
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(0).Options.Label
 msgctxt ",77DAE76A48EC13E45F2983881F23E808"
 msgid "Gameplay Settings"
-msgstr "การตั้งค่าการเกม"
+msgstr "ตั้งค่าการเล่นเกม"
 
 #. Key:	1586BC174775240305EB85A03C419F06
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(1).Options.Label
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(1).Options.Label
 msgctxt ",1586BC174775240305EB85A03C419F06"
 msgid "Interface Settings"
-msgstr "การตั้งค่าอินเทอร์เฟซ"
+msgstr "ตั้งค่าอินเทอร์เฟซ"
 
 #. Key:	45C632DB4CE38CCF91E0E89A3C83E11B
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(2).Options.Label
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(2).Options.Label
 msgctxt ",45C632DB4CE38CCF91E0E89A3C83E11B"
 msgid "Video Settings"
-msgstr "การตั้งค่าวิดีโอ"
+msgstr "ตั้งค่าวิดีโอ"
 
 #. Key:	E1BED414427264B22F7080B7ED0D0CF9
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(3).Options.Label
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(3).Options.Label
 msgctxt ",E1BED414427264B22F7080B7ED0D0CF9"
 msgid "Audio Settings"
-msgstr "การตั้งค่าเสียง"
+msgstr "ตั้งค่าเสียง"
 
 #. Key:	3E1BC428435A0C653E4D7185A4847A91
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(4).Options.Label
@@ -5449,14 +5449,14 @@ msgstr "ตั้งค่าการป้อนข้อมูล"
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(5).Options.Label
 msgctxt ",313F40EF478559493D8CBBB58F9FF50B"
 msgid "VR Settings"
-msgstr "การตั้งค่า VR"
+msgstr "ตั้งค่า VR"
 
 #. Key:	5CB127A3485E81E42B473984FAD83220
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(6).Options.Label
 #: /Game/UI/settings.settings_C:WidgetTree.DefaultSpinner.Options(6).Options.Label
 msgctxt ",5CB127A3485E81E42B473984FAD83220"
 msgid "Data Settings"
-msgstr "การตั้งค่าข้อมูล"
+msgstr "ตั้งค่าข้อมูล"
 
 #. Key:	5E1F07F9481BBCB9286540A9845DA7DD
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.Filters.Options(0).Options.Label
@@ -5806,35 +5806,35 @@ msgstr "เปอร์เซ็นต์หน้าจอ"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_34.Text
 msgctxt ",50CA9C1F443642D2B6B6BE9E5D1E302F"
 msgid "Global Illumination Method"
-msgstr "วิธีการฉายแสงทั้งหมด"
+msgstr "การส่องสว่างแบบรวม"
 
 #. Key:	267DB35B4828F6D27920F0A6E4892E5A
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_35.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_35.Text
 msgctxt ",267DB35B4828F6D27920F0A6E4892E5A"
 msgid "Reflection Method"
-msgstr "วิธีการสะท้อนแสง"
+msgstr "คุณภาพการสะท้อนแสง"
 
 #. Key:	2D10309A4AE3A7B38D67BC894C9A5B97
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_36.Text
 msgctxt ",2D10309A4AE3A7B38D67BC894C9A5B97"
 msgid "View Distance Quality"
-msgstr "คุณภาพระยะการมองเห็น"
+msgstr "ระยะการแสดงผล"
 
 #. Key:	FC57D0154C6E70C0D8C839B6EA15B4B1
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_37.Text
 msgctxt ",FC57D0154C6E70C0D8C839B6EA15B4B1"
 msgid "Graphic Preset"
-msgstr "ตั้งค่ากราฟิก"
+msgstr "กราฟิกพรีเซท"
 
 #. Key:	7EBE45E64B8119C2AA017590BE5B8563
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_38.Text
 msgctxt ",7EBE45E64B8119C2AA017590BE5B8563"
 msgid "Anti Aliasing Quality"
-msgstr "คุณภาพการลดรอยหยัก"
+msgstr "วิธีการลดรอยหยัก"
 
 #. Key:	99AE0DEC47710525BAF347ABFE8339AB
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_39.Text
@@ -5855,21 +5855,21 @@ msgstr "ฟิล์มเกรน"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_40.Text
 msgctxt ",8CAC065540B47C971DC8E0B801B69618"
 msgid "Shadow Quality"
-msgstr "คุณภาพเงา"
+msgstr "คุณภาพการแสดงเงา"
 
 #. Key:	9806DB6E4107A01E3979C1BBEF780A91
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_41.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_41.Text
 msgctxt ",9806DB6E4107A01E3979C1BBEF780A91"
 msgid "Global Illumination Quality"
-msgstr "คุณภาพการฉายแสงทั้งหมด"
+msgstr "คุณภาพการส่องสว่างแบบรวม"
 
 #. Key:	3BF4F9F24361A6C9205652911A0DA864
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_42.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_42.Text
 msgctxt ",3BF4F9F24361A6C9205652911A0DA864"
 msgid "Reflection Quality"
-msgstr "คุณภาพเงาสะท้อน"
+msgstr "คุณภาพการสะท้อนแสง"
 
 #. Key:	B54084CB4A265AC5B0714AB02E26FFEE
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_43.Text
@@ -5883,21 +5883,21 @@ msgstr "คุณภาพพื้นผิว"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_44.Text
 msgctxt ",BED88CC84349A7555F6F8F8702DFC716"
 msgid "Visual Effects Quality"
-msgstr "คุณภาพเการมองเห็น"
+msgstr "คุณภาพการมองเห็น"
 
 #. Key:	84658DA54182C8A664927696DBF0C2C1
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_45.Text
 msgctxt ",84658DA54182C8A664927696DBF0C2C1"
 msgid "Foliage Quality"
-msgstr "คุณภาพใบไม้"
+msgstr "คุณภาพการแสดงผลของใบไม้"
 
 #. Key:	16A84C9B486F4A520142D791EC349B4F
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_46.Text
 msgctxt ",16A84C9B486F4A520142D791EC349B4F"
 msgid "Shading Quality"
-msgstr "คุณภาพลงเงา"
+msgstr "คุณภาพการแสดงผลของเงา"
 
 #. Key:	20F643D0433786C0252EBF9BC0704CDC
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_47.Text
