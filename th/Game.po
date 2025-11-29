@@ -4812,7 +4812,7 @@ msgstr "เผชิญความท้าทายกับผู้เล่
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
 msgctxt ",74CB94924A0D7B248DF67DA581AFEEE9"
 msgid "Matchmaking"
-msgstr "กำลังแข่งขัน"
+msgstr "จับคู่แข่งขัน"
 
 #. Key:	006F940B40EF1B343BAC488C091B017E
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_36.Text
