@@ -3384,7 +3384,7 @@ msgstr "คุณไม่สามารถเข้าร่วมเกมไ
 #: /Game/functions/messageFunctions.messageFunctions_C:getFindRelationText [Script Bytecode]
 msgctxt ",FCBE9D6940E5F7F0C84C4BBFC1243204"
 msgid "Find {doll}'s {relationship}"
-msgstr "ค้นหาความสัมพันธ์ที่เป็น {relationship} ของตุ๊กตาที่ชื่อ {doll}"
+msgstr "ค้นหาความสัมพันธ์ / สิ่งที่ {relationship} ของตุ๊กตาที่ชื่อ {doll}"
 
 #. Key:	410C72F3482B1E1E5F06FCBD4ABFF027
 #. SourceLocation:	/Game/functions/messageFunctions.messageFunctions_C:getMedalText [Script Bytecode]
@@ -5960,7 +5960,7 @@ msgstr "แสดงชื่อตุ๊กตา"
 #: /Game/UI/settings.settings_C:WidgetTree.TextBlock_57.Text
 msgctxt ",A7315029485656AEDD7500947B3C4E5B"
 msgid "This option will only be available on Easy difficulty."
-msgstr "ตัวเลือกนี้จะใช้ได้เฉพาะในระดับความง่ายเท่านั้น"
+msgstr "ตัวเลือกนี้สามารถใช้ได้เฉพาะในระดับความง่ายเท่านั้น"
 
 #. Key:	8BFB53E5448C16FA230515968C3ABF0A
 #. SourceLocation:	/Game/UI/settings.settings_C:WidgetTree.TextBlock_58.Text
@@ -6205,21 +6205,21 @@ msgstr "จำนวนข้อมูลที่ค้นพบ"
 #: /Game/UI/stats.stats_C:WidgetTree.dollTop1Name_2.Text
 msgctxt ",91E782534C65C15F2165A692F6DD50F6"
 msgid "Products purchased"
-msgstr "สินค้าที่ซื้อ"
+msgstr "จำนวนสินค้าที่ซื้อไป"
 
 #. Key:	056842694B3EB37BD05F159542C5CE41
 #. SourceLocation:	/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_3.Text
 #: /Game/UI/stats.stats_C:WidgetTree.dollTop1Name_3.Text
 msgctxt ",056842694B3EB37BD05F159542C5CE41"
 msgid "Products sold"
-msgstr "สินค้าที่ขาย"
+msgstr "จำนวนสินค้าที่ขายไป"
 
 #. Key:	C24AF8B14A567648475D7BB6A3A92BF2
 #. SourceLocation:	/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text
 #: /Game/UI/stats.stats_C:WidgetTree.dollTop1Name_4.Text
 msgctxt ",C24AF8B14A567648475D7BB6A3A92BF2"
 msgid "Number of photographs taken of dolls"
-msgstr "จำนวนรูปถ่ายตุ๊กตา"
+msgstr "จำนวนรูปถ่ายตุ๊กตาที่ถ่ายได้"
 
 #. Key:	D2D6CDB64FBDE59DEFB55CA83D00110D
 #. SourceLocation:	/Game/UI/stats.stats_C:WidgetTree.dollTop1Name_5.Text
@@ -6268,7 +6268,7 @@ msgstr "ตามหา Impostor แล้วจับตัวมาเก็�
 #: /Game/UI/todoList.todoList_C:WidgetTree.energy.Text
 msgctxt ",7B34A441429642B9DA52218285A1BB2A"
 msgid "Turn on the electricity"
-msgstr "ทำการเปิดระบบไฟฟ้า"
+msgstr "ทำการใส่ฟิวส์เพื่อเปิดระบบไฟฟ้า"
 
 #. Key:	5C75D8784B911BE2B7CA58A94B235798
 #. SourceLocation:	/Game/UI/todoList.todoList_C:WidgetTree.photos.Text
@@ -6289,7 +6289,7 @@ msgstr "ใช้หนังสือแห่งวิญญาณเพื่
 #: /Game/UI/todoList.todoList_C:WidgetTree.TextBlock_21.Text
 msgctxt ",8204CCFA44B783AD08234F8DE4E4D11B"
 msgid "Todo list"
-msgstr "รายการที่ต้องทำ"
+msgstr "ภารกิจที่ต้องทำ"
 
 #. Key:	54288BFC4059AA21CBC614AA74C19EBE
 #. SourceLocation:	/Game/UI/waiting.waiting_C:GetText [Script Bytecode]
