@@ -5627,7 +5627,7 @@ msgstr "Ganaron los partidos recientes"
 #. SourceLocation:	/Game/UI/minigame/impostorMinigame.impostorMinigame_C:GetText [Script Bytecode]
 msgctxt ",C1AE71BC4E281779766D6CA55B7A6F9D"
 msgid "+{num} POINTS"
-msgstr "+{núm} PUNTOS"
+msgstr "+{num} PUNTOS"
 
 #: /Game/UI/minigame/impostorMinigame.impostorMinigame_C:WidgetTree.TextBlock.Text
 #. Key:	6A9E940047106DA3C7837F9E8922899B
