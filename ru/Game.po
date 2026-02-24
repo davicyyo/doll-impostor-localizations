@@ -2212,7 +2212,7 @@ msgstr "Свечи"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(42 - Value).DisplayNameMap
 msgctxt ",E321649D4AF8734E473FEDB0404E1B2E"
 msgid "Move frames"
-msgstr "Двигать кадры"
+msgstr "Двигать рамки"
 
 #: /Game/enums/actions.actions.DisplayNameMap(43 - Value).DisplayNameMap
 #. Key:	9C3A179A4105F07AF02DAF9565B1CB02

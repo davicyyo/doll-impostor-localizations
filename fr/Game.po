@@ -2342,7 +2342,7 @@ msgstr "Animal en peluche animé"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(59 - Value).DisplayNameMap
 msgctxt ",F2550E874A39FA03A636BFB12632A579"
 msgid "Bonfire with friends"
-msgstr "Feu de Camp avec ses amis"
+msgstr "Feu entre amis"
 
 #: /Game/enums/actions.actions.DisplayNameMap(6 - Value).DisplayNameMap
 #. Key:	5DFAFA884E37BBC8C2C6959F8EF168A7
@@ -2356,7 +2356,7 @@ msgstr "Déplacer les autres"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(60 - Value).DisplayNameMap
 msgctxt ",8D1E4BAE4B57E8AEF49DC187DE36802E"
 msgid "Bonfire with enemies"
-msgstr "Feu de Camp avec ses ennemis"
+msgstr "Feu entre ennemis"
 
 #: /Game/enums/actions.actions.DisplayNameMap(61 - Value).DisplayNameMap
 #. Key:	2216B8AD47D0F974DCE7569F14A71283
