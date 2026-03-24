@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2026-01-31 17:32\n"
-"PO-Revision-Date: 2026-01-31 17:32\n"
+"POT-Creation-Date: 2026-03-24 19:02\n"
+"PO-Revision-Date: 2026-03-24 19:02\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -36,24 +36,6 @@ msgid ""
 msgstr ""
 "Der Betrüger nutzte Täuschung, indem er die Aktion {action} ausführte; er "
 "könnte Freunde verletzt oder angegriffen haben, um dich zu verwirren."
-
-#: /Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]
-#. Key:	8C6EFCE649B93D5275B158901F4CAB7A
-#. SourceLocation:	/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]
-msgctxt ",8C6EFCE649B93D5275B158901F4CAB7A"
-msgid "Back to the safehouse"
-msgstr "Zurück zum Safehouse"
-
-#: /Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]
-#. Key:	E0A26C2A477073293C2A5093569FFE5E
-#. SourceLocation:	/Game/Blueprints/driveVan.driveVan_C:ExecuteUbergraph_driveVan [Script Bytecode]
-msgctxt ",E0A26C2A477073293C2A5093569FFE5E"
-msgid ""
-"If you return to the safehouse, the house will restore its state and you "
-"will lose the equipped items"
-msgstr ""
-"Wenn du zum Safehouse zurückkehrst, stellt das Haus seinen Zustand wieder "
-"her und du verlierst die ausgerüsteten Gegenstände"
 
 #: /Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(0).texts
 #. Key:	C312729245B39D3E05385886891922CF
@@ -464,20 +446,6 @@ msgid "The power has gone out, insert a fuse to turn it back on."
 msgstr ""
 "Die Kraft ist ausgegangen, fügen Sie eine Sicherung ein, um sie wieder "
 "einzuschalten."
-
-#: /Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
-#. Key:	3CB2A0B24617CF31968FC28E978F4153
-#. SourceLocation:	/Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
-msgctxt ",3CB2A0B24617CF31968FC28E978F4153"
-msgid "Blueprints"
-msgstr "Blaupausen"
-
-#: /Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
-#. Key:	F2A8B642470514630D564A877B6C0FD7
-#. SourceLocation:	/Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
-msgctxt ",F2A8B642470514630D564A877B6C0FD7"
-msgid "Static Meshes"
-msgstr "Statische Kollision"
 
 #: /Game/data-tables/customizerRooms.customizerRooms.NewRow.label_17_E97135F84728B1D3E2D91DAE099E4D25
 #. Key:	8E794D794CCEA0D30D037D8DA2BFD248
@@ -1962,6 +1930,146 @@ msgctxt ",8EEA2F894F67C37E9BD8398268387B58"
 msgid "Toy Factory"
 msgstr "Spielzeugfabrik"
 
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	718DF81849AC3EBACE44BE8926B63DD0
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(0).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",718DF81849AC3EBACE44BE8926B63DD0"
+msgid "The Clown"
+msgstr "Der Clown"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	3321D165422589BABCCF09BA446C058F
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",3321D165422589BABCCF09BA446C058F"
+msgid "The Pirate"
+msgstr "Der Pirat"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	1DA0969B41253A0B2A4ABBBACBDAB60D
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",1DA0969B41253A0B2A4ABBBACBDAB60D"
+msgid "The Princess"
+msgstr "Die Prinzessin"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	271107F44D46081D73B947BDB54579F3
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(11).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",271107F44D46081D73B947BDB54579F3"
+msgid "The Bullfighter"
+msgstr "Der Stierkämpfer"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	1FA987D24A11430CE22CC4AADD7C2CDF
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(12).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",1FA987D24A11430CE22CC4AADD7C2CDF"
+msgid "The Wolf"
+msgstr "Der Wolf"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	1C5898644B44F289B3DFFAA968AE9E90
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(13).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",1C5898644B44F289B3DFFAA968AE9E90"
+msgid "The Cyborg"
+msgstr "Der Cyborg"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	0D10A9C14831C4FF8F6BDCA15BA9FC95
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",0D10A9C14831C4FF8F6BDCA15BA9FC95"
+msgid "The Ogre"
+msgstr "Der Oger"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	F1E6D9E84DDF74BF952EBFB4BC40AAFE
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",F1E6D9E84DDF74BF952EBFB4BC40AAFE"
+msgid "The Goddess"
+msgstr "Die Göttin"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	EBEC6BA2401C692B860A66A4BDE548E3
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(17).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",EBEC6BA2401C692B860A66A4BDE548E3"
+msgid "The Magician"
+msgstr "Der Zauberer"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	BBF91FDD433966EB4416D185BC74F69B
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(18).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",BBF91FDD433966EB4416D185BC74F69B"
+msgid "The Punk"
+msgstr "Der Punk"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	3363A1D749A3CF9D8CD7D1B2C0C07D62
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(19).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",3363A1D749A3CF9D8CD7D1B2C0C07D62"
+msgid "The Android"
+msgstr "Das Android"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	2AF88D054F3467147547E0902D9EFF1A
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(2).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",2AF88D054F3467147547E0902D9EFF1A"
+msgid "The Harlequin"
+msgstr "Der Harlekin"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	B0B83F32422484BAE96C06BA92F30155
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(3).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",B0B83F32422484BAE96C06BA92F30155"
+msgid "The Soldier"
+msgstr "Der Soldat"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	485E7818440578FA80F9B69174C56893
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(4).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",485E7818440578FA80F9B69174C56893"
+msgid "The Ghost"
+msgstr "Der Geist"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	73F7F87D4B944B835B10FDB551D5BDB0
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(5).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",73F7F87D4B944B835B10FDB551D5BDB0"
+msgid "The Driver"
+msgstr "Der Fahrer"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	21002B1842ACFB277772B8885DE325E2
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(6).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",21002B1842ACFB277772B8885DE325E2"
+msgid "The General"
+msgstr "Der General"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	0117355A42877D5A182F58A859E68EE2
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(7).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",0117355A42877D5A182F58A859E68EE2"
+msgid "The Cowboy"
+msgstr "Der Cowboy"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	253FDA924D87DC07C5E2E18915031E91
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",253FDA924D87DC07C5E2E18915031E91"
+msgid "The Scarecrow"
+msgstr "Die Vogelscheuche"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+#. Key:	26C0C815495AEE0202083599A2006958
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
+msgctxt ",26C0C815495AEE0202083599A2006958"
+msgid "The Knight"
+msgstr "Der Ritter"
+
+#: /Game/data-tables/mapList.mapList.NewRow_5.name_18_82096130492E34A890A0138C4910D929
+#. Key:	2ED15E1D418A306A83C7479AED3CFF05
+#. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.name_18_82096130492E34A890A0138C4910D929
+msgctxt ",2ED15E1D418A306A83C7479AED3CFF05"
+msgid "Carnival"
+msgstr "Karneval"
+
 #: /Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap
 #. Key:	F2BC9C064F532236387F0ABC86BA8078
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(0 - Value).DisplayNameMap
@@ -1982,6 +2090,13 @@ msgstr "Tee mit Freunden"
 msgctxt ",15973B6C49CE3AC92431D2B46BE8EEA4"
 msgid "Fireworks"
 msgstr "Feuerwerk"
+
+#: /Game/enums/actions.actions.DisplayNameMap(100 - Value).DisplayNameMap
+#. Key:	7D4E66D0405F35A425C928A648480931
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(100 - Value).DisplayNameMap
+msgctxt ",7D4E66D0405F35A425C928A648480931"
+msgid "Sky Balloons"
+msgstr "Himmelsballons"
 
 #: /Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap
 #. Key:	0DCDE313473E8A6D40F69ABCD969645B
@@ -2584,6 +2699,76 @@ msgstr "Spielzeug produzieren"
 msgctxt ",D2BAA1EC4F84BE5AA48BBC92F65D2FA8"
 msgid "Light"
 msgstr "Licht"
+
+#: /Game/enums/actions.actions.DisplayNameMap(90 - Value).DisplayNameMap
+#. Key:	B72428B84A6379F68F860E8088045546
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(90 - Value).DisplayNameMap
+msgctxt ",B72428B84A6379F68F860E8088045546"
+msgid "Juice Stand"
+msgstr "Saftständer"
+
+#: /Game/enums/actions.actions.DisplayNameMap(91 - Value).DisplayNameMap
+#. Key:	1F5EF7B347B880ACAF049E9A971C67E5
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(91 - Value).DisplayNameMap
+msgctxt ",1F5EF7B347B880ACAF049E9A971C67E5"
+msgid "Can Alley"
+msgstr "Can Alley"
+
+#: /Game/enums/actions.actions.DisplayNameMap(92 - Value).DisplayNameMap
+#. Key:	935DFCD7439827F098DBF59DEE15BC62
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(92 - Value).DisplayNameMap
+msgctxt ",935DFCD7439827F098DBF59DEE15BC62"
+msgid "Coconut shy"
+msgstr "Kokosnussscheu"
+
+#: /Game/enums/actions.actions.DisplayNameMap(93 - Value).DisplayNameMap
+#. Key:	A17277164B992CD4382D9785FEB01FEC
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(93 - Value).DisplayNameMap
+msgctxt ",A17277164B992CD4382D9785FEB01FEC"
+msgid "Duck Range"
+msgstr "Entenreihe"
+
+#: /Game/enums/actions.actions.DisplayNameMap(94 - Value).DisplayNameMap
+#. Key:	B3ACC7C84D59379E6AF254A86345E96D
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(94 - Value).DisplayNameMap
+msgctxt ",B3ACC7C84D59379E6AF254A86345E96D"
+msgid "Rail Ride"
+msgstr "Bahnfahrt"
+
+#: /Game/enums/actions.actions.DisplayNameMap(95 - Value).DisplayNameMap
+#. Key:	0580C85242D12C604FC06EA57CD0D7D4
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(95 - Value).DisplayNameMap
+msgctxt ",0580C85242D12C604FC06EA57CD0D7D4"
+msgid "Merry-Go-Round"
+msgstr "Karussell"
+
+#: /Game/enums/actions.actions.DisplayNameMap(96 - Value).DisplayNameMap
+#. Key:	2D3BD344480C21AF3625C28D7AA4233B
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(96 - Value).DisplayNameMap
+msgctxt ",2D3BD344480C21AF3625C28D7AA4233B"
+msgid "Spin Cups"
+msgstr "Spin-Cups"
+
+#: /Game/enums/actions.actions.DisplayNameMap(97 - Value).DisplayNameMap
+#. Key:	C79A310F4370A2098B11C78A85CEC0E7
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(97 - Value).DisplayNameMap
+msgctxt ",C79A310F4370A2098B11C78A85CEC0E7"
+msgid "Ferris Wheel"
+msgstr "Riesenrad"
+
+#: /Game/enums/actions.actions.DisplayNameMap(98 - Value).DisplayNameMap
+#. Key:	779BD8AA4AE480B16525A59566F7516F
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(98 - Value).DisplayNameMap
+msgctxt ",779BD8AA4AE480B16525A59566F7516F"
+msgid "Lemonade with friends"
+msgstr "Limonade mit Freunden"
+
+#: /Game/enums/actions.actions.DisplayNameMap(99 - Value).DisplayNameMap
+#. Key:	02456623452D67A278508195416CBF88
+#. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(99 - Value).DisplayNameMap
+msgctxt ",02456623452D67A278508195416CBF88"
+msgid "Lemonade with enemies"
+msgstr "Limonade mit Feinden"
 
 #: /Game/enums/character/cccharParts.cccharParts.DisplayNameMap(0 - Value).DisplayNameMap
 #. Key:	394205F7411D1655718E7DBB2FFEF25B
@@ -4446,6 +4631,13 @@ msgctxt ",A97B724146EEB86D384D6A85A4F8931C"
 msgid "Craft"
 msgstr "Handwerk"
 
+#: /Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(3).Options.Label
+#. Key:	3FD3275141C46D8A4E7B0C8B98721113
+#. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(3).Options.Label
+msgctxt ",3FD3275141C46D8A4E7B0C8B98721113"
+msgid "Settings"
+msgstr "Einstellungen"
+
 #: /Game/UI/career/careerUI.careerUI_C:WidgetTree.robotSpinner.Options(0).Options.Label
 #. Key:	7C75165C49E7D2EBD079048C7F8B471B
 #. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.robotSpinner.Options(0).Options.Label
@@ -5005,6 +5197,13 @@ msgctxt ",F699B0844A39D7ABCF0260916BF5F41B"
 msgid "Invite players"
 msgstr "Spieler einladen"
 
+#: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text
+#. Key:	B2D8A8F840BD88A7FB7EB385796D6E10
+#. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",B2D8A8F840BD88A7FB7EB385796D6E10"
+msgid "Browse Lobbies"
+msgstr "Durchsuche Lobbys"
+
 #: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text
 #. Key:	0A9B45DB40B3BFE34DF53CB9717F18AC
 #. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text
@@ -5300,20 +5499,6 @@ msgstr ""
 "08:00 Uhr gemacht, du hast die Möglichkeit, die Namen der Puppen und die "
 "Liste der Aktionen des Betrügers einzusehen"
 
-#: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
-#. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
-#. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
-msgctxt ",E64ED09448DCC6987F8B6A80DFEF3B3F"
-msgid "Name"
-msgstr "Name"
-
-#: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text
-#. Key:	D82E9CC948B03153A925558746DD99F2
-#. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text
-msgctxt ",D82E9CC948B03153A925558746DD99F2"
-msgid "Password"
-msgstr "Passwort"
-
 #: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text
 #. Key:	41A1A89A4ADCC9D9F94EABA4A93A05DB
 #. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text
@@ -5412,20 +5597,6 @@ msgctxt ",D43847EE40A03CCE1238E0A4BAB8F812"
 msgid "Translated by: {people}"
 msgstr "Übersetzt von: {people}"
 
-#: /Game/UI/intro.intro_C:WidgetTree.TextBlock.Text
-#. Key:	3FD3275141C46D8A4E7B0C8B98721113
-#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text
-msgctxt ",3FD3275141C46D8A4E7B0C8B98721113"
-msgid "Settings"
-msgstr "Einstellungen"
-
-#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text
-#. Key:	1692DE874C0C2B1FC7A6A5AD1D9C1FE9
-#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text
-msgctxt ",1692DE874C0C2B1FC7A6A5AD1D9C1FE9"
-msgid "Exit"
-msgstr "Verlassen"
-
 #: /Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text
 #. Key:	6AFC77BB43DCD66B4099688FF725AB13
 #. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text
@@ -5453,13 +5624,6 @@ msgstr "Vorherigen Speicher wiederherstellen"
 msgctxt ",DCC8B59542A6483748795F9617F86F55"
 msgid "Open lobby"
 msgstr "Offene Lobby"
-
-#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text
-#. Key:	B2D8A8F840BD88A7FB7EB385796D6E10
-#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text
-msgctxt ",B2D8A8F840BD88A7FB7EB385796D6E10"
-msgid "Browse Lobbies"
-msgstr "Durchsuche Lobbys"
 
 #: /Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text
 #. Key:	94DF171240785BD6422882B6ECC3CFDC
@@ -5521,6 +5685,13 @@ msgctxt ",AB6B64D64932C68A8743709693AF267B"
 msgid "Position"
 msgstr "Position"
 
+#: /Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text
+#. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
+#. SourceLocation:	/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text
+msgctxt ",E64ED09448DCC6987F8B6A80DFEF3B3F"
+msgid "Name"
+msgstr "Name"
+
 #: /Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text
 #. Key:	901E40384D0FE3FAD3508F98408C18C7
 #. SourceLocation:	/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text
@@ -5563,6 +5734,13 @@ msgctxt ",575CEFFD4FA0D19F96B3A99FF6AEFBE1"
 msgid "Did you like it?"
 msgstr "Hat es dir gefallen?"
 
+#: /Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]
+#. Key:	D82E9CC948B03153A925558746DD99F2
+#. SourceLocation:	/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]
+msgctxt ",D82E9CC948B03153A925558746DD99F2"
+msgid "Password"
+msgstr "Passwort"
+
 #: /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]
 #. Key:	36DAFDA641D110060CAB6BBD14FE3722
 #. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]
@@ -5576,6 +5754,13 @@ msgstr "Fortfahren"
 msgctxt ",4634F1C448A78E03F4AC7B94441281EB"
 msgid "Resume Game"
 msgstr "Spiel fortsetzen"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text
+#. Key:	1692DE874C0C2B1FC7A6A5AD1D9C1FE9
+#. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",1692DE874C0C2B1FC7A6A5AD1D9C1FE9"
+msgid "Exit"
+msgstr "Verlassen"
 
 #: /Game/UI/matchmaking/allMatches.allMatches_C:WidgetTree.TextBlock.Text
 #. Key:	AC84F8B94C4CFF5DD57791BC7770A5BB
