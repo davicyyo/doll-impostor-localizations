@@ -2728,7 +2728,7 @@ msgstr "ปาเป้ามะพร้าว"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(93 - Value).DisplayNameMap
 msgctxt ",A17277164B992CD4382D9785FEB01FEC"
 msgid "Duck Range"
-msgstr "ยิงเป้ายิงเป็ด"
+msgstr "เป้ายิงเป็ด"
 
 #: /Game/enums/actions.actions.DisplayNameMap(94 - Value).DisplayNameMap
 #. Key:	B3ACC7C84D59379E6AF254A86345E96D
