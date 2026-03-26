@@ -2092,7 +2092,7 @@ msgstr "Fuegos artificiales"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(100 - Value).DisplayNameMap
 msgctxt ",7D4E66D0405F35A425C928A648480931"
 msgid "Sky Balloons"
-msgstr "Globos del cielo"
+msgstr "Globos aerostáticos"
 
 #: /Game/enums/actions.actions.DisplayNameMap(11 - Value).DisplayNameMap
 #. Key:	0DCDE313473E8A6D40F69ABCD969645B
@@ -2708,21 +2708,21 @@ msgstr "Puesto de jugos"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(91 - Value).DisplayNameMap
 msgctxt ",1F5EF7B347B880ACAF049E9A971C67E5"
 msgid "Can Alley"
-msgstr "Callejón de lata"
+msgstr "Tiro a la lata"
 
 #: /Game/enums/actions.actions.DisplayNameMap(92 - Value).DisplayNameMap
 #. Key:	935DFCD7439827F098DBF59DEE15BC62
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(92 - Value).DisplayNameMap
 msgctxt ",935DFCD7439827F098DBF59DEE15BC62"
 msgid "Coconut shy"
-msgstr "coco tímido"
+msgstr "Tiro al coco"
 
 #: /Game/enums/actions.actions.DisplayNameMap(93 - Value).DisplayNameMap
 #. Key:	A17277164B992CD4382D9785FEB01FEC
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(93 - Value).DisplayNameMap
 msgctxt ",A17277164B992CD4382D9785FEB01FEC"
 msgid "Duck Range"
-msgstr "Gama de patos"
+msgstr "Tiro al pato"
 
 #: /Game/enums/actions.actions.DisplayNameMap(94 - Value).DisplayNameMap
 #. Key:	B3ACC7C84D59379E6AF254A86345E96D
@@ -2743,21 +2743,21 @@ msgstr "Tiovivo"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(96 - Value).DisplayNameMap
 msgctxt ",2D3BD344480C21AF3625C28D7AA4233B"
 msgid "Spin Cups"
-msgstr "Copas giratorias"
+msgstr "Tazas locas"
 
 #: /Game/enums/actions.actions.DisplayNameMap(97 - Value).DisplayNameMap
 #. Key:	C79A310F4370A2098B11C78A85CEC0E7
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(97 - Value).DisplayNameMap
 msgctxt ",C79A310F4370A2098B11C78A85CEC0E7"
 msgid "Ferris Wheel"
-msgstr "Rueda de la fortuna"
+msgstr "Noria"
 
 #: /Game/enums/actions.actions.DisplayNameMap(98 - Value).DisplayNameMap
 #. Key:	779BD8AA4AE480B16525A59566F7516F
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(98 - Value).DisplayNameMap
 msgctxt ",779BD8AA4AE480B16525A59566F7516F"
 msgid "Lemonade with friends"
-msgstr "limonada con amigos"
+msgstr "Limonada con amigos"
 
 #: /Game/enums/actions.actions.DisplayNameMap(99 - Value).DisplayNameMap
 #. Key:	02456623452D67A278508195416CBF88
