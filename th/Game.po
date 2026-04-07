@@ -122,22 +122,22 @@ msgid ""
 "This doll is under effects, wait for the effect to finish to apply another "
 "one"
 msgstr ""
-"ตุ๊กตาตัวนี้อยู่ภายใต้ฤทธิ์ยา "
-"โปรดรอให้ฤทธิ์ยาหมดลงก่อนที่จะใช้อุปกรณ์ชิ้นถัดไป"
+"ตุ๊กตาตัวนี้กำลังอยู่ภายใต้ฤทธิ์ยา"
+"โปรดรอให้ฤทธิ์ยาหมดลงก่อนใช้อุปกรณ์ชิ้นถัดไป"
 
 #: /Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]
 #. Key:	486E52D945C3D792DA06099F44AC1A7A
 #. SourceLocation:	/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]
 msgctxt ",486E52D945C3D792DA06099F44AC1A7A"
 msgid "Be careful, you will lose the equipped items"
-msgstr "โปรดระวัง คุณอาจจะสูญเสียอุปกรณ์ที่คุณติดตั้งเอาไว้"
+msgstr "โปรดระวัง คุณอาจจะสูญเสียอุปกรณ์ที่คุณเตรียมเอาไว้"
 
 #: /Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]
 #. Key:	5DAA61584F29C51BE364D59FAF17F7CB
 #. SourceLocation:	/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]
 msgctxt ",5DAA61584F29C51BE364D59FAF17F7CB"
 msgid "You need to use the book of souls before you save the imposter doll"
-msgstr "คุณต้องใช้ หนังสือแห่งวิญญาณ ก่อนที่จะทำการจับตุ๊กตา Imposter"
+msgstr "คุณต้องใช้ หนังสือแห่งวิญญาณ ก่อนที่จะทำการจับตุ๊กตาที่เป็น Imposter"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
 #. Key:	073BF882481ECDE57F50FF98957A3C22
@@ -155,10 +155,10 @@ msgid ""
 "career mode, you will discover the information about the dolls with "
 "infinite cases, economy, levels, shop, crafting, and much more!"
 msgstr ""
-"คุณเคยคิดไหมว่า ข้อมูลทีเกี่ยวกับตุ๊กตาในโหมดอาชีพนี้มาจากไหน "
-"โดยคุณสามารถค้นคว้าข้อมูลต่าง ๆ "
+"คุณเคยสงสัยบ้างไหมว่า ข้อมูลทีเกี่ยวกับตุ๊กตาในโหมดอาชีพนี้มาจากไหน? "
+"โดยคุณสามารถสืบหาข้อมูลหลักฐานต่าง ๆ "
 "เกี่ยวกับตุ๊กตาได้จากการเล่นเคสไปเรื่อยแบบไม่จำกัด "
-"ไม่ว่าจะเป็นเคสในหลากหลายรูปแบบ รักษาสภาพทางการเงิน เลือกระดับความยากง่าย "
+"ไม่ว่าจะเป็นเคสในหลากหลายรูปแบบ การรักษาสภาพทางการเงิน เลือกระดับความยากง่าย "
 "เข้าร้านค้าเพื่อสร้างไอเทม และอื่น ๆ อีกมากมาย!"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
@@ -629,8 +629,8 @@ msgstr "ด้านขวาพีซี"
 msgctxt ",3FE7DD094BD2D76BA8B7BC975328185E"
 msgid "Inventory Box where you can share objects with other players in your lobby"
 msgstr ""
-"คุณสามารถแบ่งปันอุปกรณ์ของคุณให้กับผู้เล่นคนอื่น ๆ "
-"โดยใช้กล่องเก็บของส่วนกลางในล็อบบี้ของคุณได้"
+"คุณสามารถแบ่งปันอุปกรณ์ของคุณให้กับผู้เล่นคนอื่น ๆ ได้"
+"โดยใช้กล่องเก็บของส่วนกลางในล็อบบี้ของคุณ"
 
 #: /Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8
 #. Key:	6411F5FC448D9766116676924D091830
@@ -1001,7 +1001,7 @@ msgstr "ใบเบลลาดอนน่า"
 #. SourceLocation:	/Game/data-tables/itemList.itemList.NewRow_3.info_16_4DFA58E54C75086154A8DC9A319FD10E
 msgctxt ",D597FBE342A7B8B23676A3BB4B81D863"
 msgid "Take notes on the behavior of the dolls"
-msgstr "สมุดสำหรับจดบันทึกพฤติกรรมของตุ๊กตา"
+msgstr "สมุดสำหรับจดบันทึกพฤติกรรมและหลักฐานของตุ๊กตา"
 
 #: /Game/data-tables/itemList.itemList.NewRow_3.name_12_D217604B46FF9197C7004FBE2050F6FD
 #. Key:	ED2F4CB1487E0D6D9070899567BB98B0
@@ -1916,7 +1916,7 @@ msgstr "ผู้บัญชาการ"
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(8).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",34D171784721BBA559EED6BDB53280F4"
 msgid "The Healer"
-msgstr "คุณพยาบาล"
+msgstr "พยาบาล"
 
 #: /Game/data-tables/mapList.mapList.NewRow_4.dolls_9_7FEB33284744601C3269539AAFDB6152(9).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #. Key:	14DDBDAF4354D162FC4C4AB9D98933A5
@@ -1979,7 +1979,7 @@ msgstr "ไซบอร์ก"
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(15).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",0D10A9C14831C4FF8F6BDCA15BA9FC95"
 msgid "The Ogre"
-msgstr "ยักษ์"
+msgstr "นางยักษ์"
 
 #: /Game/data-tables/mapList.mapList.NewRow_5.dolls_9_7FEB33284744601C3269539AAFDB6152(16).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #. Key:	F1E6D9E84DDF74BF952EBFB4BC40AAFE
@@ -2182,7 +2182,7 @@ msgstr "นั่งม้าหมุนกับศัตรู"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(21 - Value).DisplayNameMap
 msgctxt ",420F5BCA40413C0383C7AA9583EEC5C0"
 msgid "Mislead"
-msgstr "ทำให้เข้าใจผิด"
+msgstr "หลักฐานปลอม"
 
 #: /Game/enums/actions.actions.DisplayNameMap(22 - Value).DisplayNameMap
 #. Key:	E2D484854A1C9DB14835A6AD457B6207
@@ -3625,7 +3625,7 @@ msgstr "คุณสามารถใส่อุปกรณ์ได้สู
 #. SourceLocation:	/Game/functions/itemFunctions.itemFunctions_C:equipItems [Script Bytecode]
 msgctxt ",D3C6D63B4A98961E44BEEB8EC2FEF2D1"
 msgid "Some of the elements you already have equipped"
-msgstr "คุณกำลังถืออุปกรณ์ชิ้นนี้อยู่ในมือแล้ว"
+msgstr "คุณกำลังถืออุปกรณ์ชิ้นนี้อยู่ในมือ"
 
 #: /Game/functions/messageFunctions.messageFunctions_C:cantJoinGame [Script Bytecode]
 #. Key:	FDEB25754C7E891058DB1A97A81A0820
