@@ -2698,7 +2698,7 @@ msgstr "Свет"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(90 - Value).DisplayNameMap
 msgctxt ",B72428B84A6379F68F860E8088045546"
 msgid "Juice Stand"
-msgstr "Стенд для сока"
+msgstr "Стенд с соками"
 
 #: /Game/enums/actions.actions.DisplayNameMap(91 - Value).DisplayNameMap
 #. Key:	1F5EF7B347B880ACAF049E9A971C67E5
