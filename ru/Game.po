@@ -1,4 +1,4 @@
-# Game English translation.
+﻿# Game English translation.
 # 
 msgid ""
 msgstr ""
@@ -2698,35 +2698,35 @@ msgstr "Свет"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(90 - Value).DisplayNameMap
 msgctxt ",B72428B84A6379F68F860E8088045546"
 msgid "Juice Stand"
-msgstr "Стенд для сока"
+msgstr "Стенд с соками"
 
 #: /Game/enums/actions.actions.DisplayNameMap(91 - Value).DisplayNameMap
 #. Key:	1F5EF7B347B880ACAF049E9A971C67E5
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(91 - Value).DisplayNameMap
 msgctxt ",1F5EF7B347B880ACAF049E9A971C67E5"
 msgid "Can Alley"
-msgstr "Может Элли"
+msgstr "Сбей банки"
 
 #: /Game/enums/actions.actions.DisplayNameMap(92 - Value).DisplayNameMap
 #. Key:	935DFCD7439827F098DBF59DEE15BC62
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(92 - Value).DisplayNameMap
 msgctxt ",935DFCD7439827F098DBF59DEE15BC62"
 msgid "Coconut shy"
-msgstr "Кокосовый застенчивый"
+msgstr "Кокосовый тир"
 
 #: /Game/enums/actions.actions.DisplayNameMap(93 - Value).DisplayNameMap
 #. Key:	A17277164B992CD4382D9785FEB01FEC
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(93 - Value).DisplayNameMap
 msgctxt ",A17277164B992CD4382D9785FEB01FEC"
 msgid "Duck Range"
-msgstr "Утиный диапазон"
+msgstr "Утиный тир"
 
 #: /Game/enums/actions.actions.DisplayNameMap(94 - Value).DisplayNameMap
 #. Key:	B3ACC7C84D59379E6AF254A86345E96D
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(94 - Value).DisplayNameMap
 msgctxt ",B3ACC7C84D59379E6AF254A86345E96D"
 msgid "Rail Ride"
-msgstr "Железнодорожная поездка"
+msgstr "Паровозик"
 
 #: /Game/enums/actions.actions.DisplayNameMap(95 - Value).DisplayNameMap
 #. Key:	0580C85242D12C604FC06EA57CD0D7D4
@@ -2740,7 +2740,7 @@ msgstr "Карусель"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(96 - Value).DisplayNameMap
 msgctxt ",2D3BD344480C21AF3625C28D7AA4233B"
 msgid "Spin Cups"
-msgstr "Спиновые чашки"
+msgstr "Карусель «Чашки»"
 
 #: /Game/enums/actions.actions.DisplayNameMap(97 - Value).DisplayNameMap
 #. Key:	C79A310F4370A2098B11C78A85CEC0E7
