@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2026-03-24 19:02\n"
-"PO-Revision-Date: 2026-03-24 19:02\n"
+"POT-Creation-Date: 2026-04-18 18:50\n"
+"PO-Revision-Date: 2026-04-18 18:50\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -181,6 +181,13 @@ msgid "You've unlocked the {map} Map!"
 msgstr "你解鎖了{map}地圖"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
+#. Key:	1825EE54453613966190B28350984BE5
+#. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
+msgctxt ",1825EE54453613966190B28350984BE5"
+msgid "Multiple dolls remaining"
+msgstr "剩餘多個娃娃"
+
+#: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 #. Key:	2389D5614060663C38CEA9A54ACB9DFE
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",2389D5614060663C38CEA9A54ACB9DFE"
@@ -227,22 +234,6 @@ msgid ""
 "You've got {new} nights, you haven't managed to beat your global record of "
 "{old} nights"
 msgstr "您有{new}夜晚，您還沒有設法超越{old}夜晚的全球記錄"
-
-#: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
-#. Key:	97F7579E41A844AC5D7FDDAB706274C6
-#. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
-msgctxt ",97F7579E41A844AC5D7FDDAB706274C6"
-msgid "Try again"
-msgstr "再試一次"
-
-#: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
-#. Key:	A54FC3294EFCB8B57B533BBF0FABD261
-#. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
-msgctxt ",A54FC3294EFCB8B57B533BBF0FABD261"
-msgid ""
-"The time limit for a player to join has been exceeded, what do you want to "
-"do?"
-msgstr "已超過玩家加入的時間限制，您想做什麼？"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 #. Key:	B4559452445FD99D5366B68268BCFC9E
@@ -366,6 +357,22 @@ msgid ""
 "An error occurred while trying to find a match. Please try again or come "
 "back later."
 msgstr "試圖找到比賽時發生了錯誤。請重試或稍後再回來。"
+
+#: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
+#. Key:	6757D1D542C9895F4DE5C1A51C3EDE5C
+#. SourceLocation:	/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
+msgctxt ",6757D1D542C9895F4DE5C1A51C3EDE5C"
+msgid ""
+"There are players in the game, this mode is singleplayer only, make sure "
+"you are alone before playing"
+msgstr "遊戲中有玩家，此模式僅限單人，玩前請確保您是獨自一人"
+
+#: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
+#. Key:	74CB94924A0D7B248DF67DA581AFEEE9
+#. SourceLocation:	/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
+msgctxt ",74CB94924A0D7B248DF67DA581AFEEE9"
+msgid "Matchmaking"
+msgstr "對接"
 
 #: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
 #. Key:	821BBE2A48EE821074956AB736CA0ECB
@@ -532,6 +539,13 @@ msgstr "廂型車右邊"
 msgctxt ",164553EC4B6A9D265430F3B6A25830E5"
 msgid "Van Bed"
 msgstr "廂型車的床"
+
+#: /Game/data-tables/customizerRooms.customizerRooms.NewRow_22.label_17_E97135F84728B1D3E2D91DAE099E4D25
+#. Key:	FFD0B45F489D1A8EFFF3B3ADF235035D
+#. SourceLocation:	/Game/data-tables/customizerRooms.customizerRooms.NewRow_22.label_17_E97135F84728B1D3E2D91DAE099E4D25
+msgctxt ",FFD0B45F489D1A8EFFF3B3ADF235035D"
+msgid "Safehouse Robot"
+msgstr "安全屋機器人"
 
 #: /Game/data-tables/customizerRooms.customizerRooms.NewRow_3.label_17_E97135F84728B1D3E2D91DAE099E4D25
 #. Key:	8D62136643D4EAA319AD22BBFD4C8FD1
@@ -2893,6 +2907,13 @@ msgctxt ",B383AEBA444328B5A71FF88EF36A0DBB"
 msgid "Impostor"
 msgstr "臥底"
 
+#: /Game/enums/gamemodes.gamemodes.DisplayNameMap(3 - Value).DisplayNameMap
+#. Key:	1AB39F8044E93A97AE42BA8864A0B931
+#. SourceLocation:	/Game/enums/gamemodes.gamemodes.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",1AB39F8044E93A97AE42BA8864A0B931"
+msgid "Madness"
+msgstr "瘋狂"
+
 #: /Game/enums/probability.probability.DisplayNameMap(0 - Value).DisplayNameMap
 #. Key:	D107C133465E950C0D0B42BAAA8BDF09
 #. SourceLocation:	/Game/enums/probability.probability.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4508,13 +4529,6 @@ msgctxt ",A97B724146EEB86D384D6A85A4F8931C"
 msgid "Craft"
 msgstr "製作"
 
-#: /Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(3).Options.Label
-#. Key:	3FD3275141C46D8A4E7B0C8B98721113
-#. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(3).Options.Label
-msgctxt ",3FD3275141C46D8A4E7B0C8B98721113"
-msgid "Settings"
-msgstr "設定"
-
 #: /Game/UI/career/careerUI.careerUI_C:WidgetTree.robotSpinner.Options(0).Options.Label
 #. Key:	7C75165C49E7D2EBD079048C7F8B471B
 #. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.robotSpinner.Options(0).Options.Label
@@ -4636,13 +4650,6 @@ msgctxt ",5A417E174DAE0F1865DA91B85DC6AFF4"
 msgid "Buy All"
 msgstr "全部購買"
 
-#: /Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_7.Text
-#. Key:	F703F19542906B2F29A58E83811DB3AD
-#. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_7.Text
-msgctxt ",F703F19542906B2F29A58E83811DB3AD"
-msgid "You don't have enough money"
-msgstr "你的錢不夠"
-
 #: /Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text
 #. Key:	84B3B484489A7A0017B755B62F30FC82
 #. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text
@@ -4658,25 +4665,11 @@ msgid "Location"
 msgstr "位置"
 
 #: /Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
-#. Key:	5981A77041F835414316E0BEA0C3C8F8
-#. SourceLocation:	/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
-msgctxt ",5981A77041F835414316E0BEA0C3C8F8"
-msgid "YOU WIN"
-msgstr "你贏了"
-
-#: /Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
 #. Key:	CCDA7BC64A6EA8E1824143B0E488DCDA
 #. SourceLocation:	/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
 msgctxt ",CCDA7BC64A6EA8E1824143B0E488DCDA"
 msgid "Dropped"
 msgstr "已放棄"
-
-#: /Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
-#. Key:	FE160B74470133E4B513D18D4566D063
-#. SourceLocation:	/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
-msgctxt ",FE160B74470133E4B513D18D4566D063"
-msgid "YOU LOSE"
-msgstr "你輸了"
 
 #: /Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]
 #. Key:	B8F169E14DBF7CFF567A468DBF711F46
@@ -4754,6 +4747,13 @@ msgstr "朋友"
 msgctxt ",A213AE2B42DEEB0AC450A9AEC96730E1"
 msgid "Closed"
 msgstr "關閉"
+
+#: /Game/UI/career/tickets.tickets_C:WidgetTree.TextBlock_11.Text
+#. Key:	11739C0E41A20499E9C760B853C45A40
+#. SourceLocation:	/Game/UI/career/tickets.tickets_C:WidgetTree.TextBlock_11.Text
+msgctxt ",11739C0E41A20499E9C760B853C45A40"
+msgid "Back"
+msgstr "返回"
 
 #: /Game/UI/challengeUI/challengeUI.challengeUI_C:WidgetTree.TextBlock.Text
 #. Key:	59F469684F1CFCF7B313728720C8F09A
@@ -4951,12 +4951,26 @@ msgctxt ",4191F3C04D16D6B588127484A538B7E5"
 msgid "Customize"
 msgstr "定制"
 
+#: /Game/UI/customizer.customizer_C:WidgetTree.DefaultSpinner_1.Options(1).Options.Label
+#. Key:	3E3E53D64E987B22AD5967A23BB5AC57
+#. SourceLocation:	/Game/UI/customizer.customizer_C:WidgetTree.DefaultSpinner_1.Options(1).Options.Label
+msgctxt ",3E3E53D64E987B22AD5967A23BB5AC57"
+msgid "Extras"
+msgstr "額外關卡"
+
 #: /Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text
 #. Key:	2BB11678432B1B25F353A1A7B4A35E7E
 #. SourceLocation:	/Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text
 msgctxt ",2BB11678432B1B25F353A1A7B4A35E7E"
 msgid "Reset"
 msgstr "重設"
+
+#: /Game/UI/customizerItem.customizerItem_C:ExecuteUbergraph_customizerItem [Script Bytecode]
+#. Key:	F703F19542906B2F29A58E83811DB3AD
+#. SourceLocation:	/Game/UI/customizerItem.customizerItem_C:ExecuteUbergraph_customizerItem [Script Bytecode]
+msgctxt ",F703F19542906B2F29A58E83811DB3AD"
+msgid "You don't have enough money"
+msgstr "你的錢不夠"
 
 #: /Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text.Text
 #. Key:	708EA77A4ED05FDA2A6E7D9E75FCEB5C
@@ -5065,13 +5079,6 @@ msgctxt ",F699B0844A39D7ABCF0260916BF5F41B"
 msgid "Invite players"
 msgstr "邀請玩家"
 
-#: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text
-#. Key:	B2D8A8F840BD88A7FB7EB385796D6E10
-#. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text
-msgctxt ",B2D8A8F840BD88A7FB7EB385796D6E10"
-msgid "Browse Lobbies"
-msgstr "瀏覽大廳"
-
 #: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text
 #. Key:	0A9B45DB40B3BFE34DF53CB9717F18AC
 #. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text
@@ -5147,13 +5154,6 @@ msgid ""
 "completely random for each doll."
 msgstr "你擁有關於這些人偶的所有線索和資訊，但每個人偶的資訊都是完全隨機的。"
 
-#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text
-#. Key:	11739C0E41A20499E9C760B853C45A40
-#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text
-msgctxt ",11739C0E41A20499E9C760B853C45A40"
-msgid "Back"
-msgstr "返回"
-
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text
 #. Key:	CE77947D46EF18A8A49309A22EB6E699
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text
@@ -5192,13 +5192,6 @@ msgid ""
 "Random but endless mode, you have a 3-minute timer to fix the case and "
 "there is a leaderboard of leaders"
 msgstr "隨機的無盡模式，你有3分鐘的時間來解決案件，該模式有排行榜。"
-
-#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text
-#. Key:	3E3E53D64E987B22AD5967A23BB5AC57
-#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text
-msgctxt ",3E3E53D64E987B22AD5967A23BB5AC57"
-msgid "Extras"
-msgstr "額外關卡"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text
 #. Key:	0958AB2948217C45C2F03B9AA2FFBBD5
@@ -5263,13 +5256,6 @@ msgid ""
 "impostor. The fastest wins. Includes ELO and global ranking."
 msgstr "異步面對另一個玩家：雙方都調查同一案件，包括所有事件和隨機條件。你有一個小時的時間來找到冒名頂替者。最快的獲勝。包括 ELO 和全球排名。"
 
-#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
-#. Key:	74CB94924A0D7B248DF67DA581AFEEE9
-#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
-msgctxt ",74CB94924A0D7B248DF67DA581AFEEE9"
-msgid "Matchmaking"
-msgstr "對接"
-
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_34.Text
 #. Key:	39E11BD54EF086D9407433ABFB581A8E
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_34.Text
@@ -5292,6 +5278,19 @@ msgid ""
 "Buy and craft items, build the perfect case, and complete tasks like "
 "identifying suspicious doll actions. Find the impostor and bag them."
 msgstr "購買和製作物品，打造完美的箱子，並完成識別可疑玩偶行為等任務。找到冒名頂替者並將其打包。"
+
+#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_39.Text
+#. Key:	2A260104425808DD1CCB5CBD5845AE8A
+#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_39.Text
+msgctxt ",2A260104425808DD1CCB5CBD5845AE8A"
+msgid ""
+"Play alone or with friends in an intense match. Clues appear as you expose "
+"yourself to danger. Photos are available. Sleeping is not possible. Actions "
+"are random for each doll, and the dolls move toward you when unseen with "
+"the goal of killing you."
+msgstr ""
+"獨自玩或與朋友一起玩激烈的比賽。當您將自己置於危險之中時，線索就會出現。有照片。睡覺是不可能的。每個玩偶的動作都是隨機的，玩偶會在不被發現的情況下向您移"
+"動，目的是殺死您。"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text
 #. Key:	2D485E384A7ABE47FD44F58A954301B6
@@ -5342,6 +5341,20 @@ msgid ""
 "of the imposter"
 msgstr "一般玩家的標準難度，所有線索都會在08:00時揭開，你可以選擇要不要看人偶的名字和臥底的行動。"
 
+#: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
+#. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
+#. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
+msgctxt ",E64ED09448DCC6987F8B6A80DFEF3B3F"
+msgid "Name"
+msgstr "姓名"
+
+#: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text
+#. Key:	D82E9CC948B03153A925558746DD99F2
+#. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text
+msgctxt ",D82E9CC948B03153A925558746DD99F2"
+msgid "Password"
+msgstr "密碼"
+
 #: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text
 #. Key:	41A1A89A4ADCC9D9F94EABA4A93A05DB
 #. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text
@@ -5376,6 +5389,20 @@ msgstr "檢查員"
 msgctxt ",89DD4B8A4A57828A0D0B08827934CCEA"
 msgid "{team} won"
 msgstr "{團隊}獲勝"
+
+#: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+#. Key:	5981A77041F835414316E0BEA0C3C8F8
+#. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+msgctxt ",5981A77041F835414316E0BEA0C3C8F8"
+msgid "YOU WIN"
+msgstr "你贏了"
+
+#: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+#. Key:	FE160B74470133E4B513D18D4566D063
+#. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+msgctxt ",FE160B74470133E4B513D18D4566D063"
+msgid "YOU LOSE"
+msgstr "你輸了"
 
 #: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_2 [Script Bytecode]
 #. Key:	96BE28504D901245DE1115BF00D47E10
@@ -5432,6 +5459,20 @@ msgctxt ",D43847EE40A03CCE1238E0A4BAB8F812"
 msgid "Translated by: {people}"
 msgstr "由 {people} 翻譯"
 
+#: /Game/UI/intro.intro_C:WidgetTree.TextBlock.Text
+#. Key:	3FD3275141C46D8A4E7B0C8B98721113
+#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text
+msgctxt ",3FD3275141C46D8A4E7B0C8B98721113"
+msgid "Settings"
+msgstr "設定"
+
+#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text
+#. Key:	1692DE874C0C2B1FC7A6A5AD1D9C1FE9
+#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text
+msgctxt ",1692DE874C0C2B1FC7A6A5AD1D9C1FE9"
+msgid "Exit"
+msgstr "離開"
+
 #: /Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text
 #. Key:	6AFC77BB43DCD66B4099688FF725AB13
 #. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text
@@ -5459,6 +5500,13 @@ msgstr "恢復之前的保存"
 msgctxt ",DCC8B59542A6483748795F9617F86F55"
 msgid "Open lobby"
 msgstr "開放式大堂"
+
+#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text
+#. Key:	B2D8A8F840BD88A7FB7EB385796D6E10
+#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text
+msgctxt ",B2D8A8F840BD88A7FB7EB385796D6E10"
+msgid "Browse Lobbies"
+msgstr "瀏覽大廳"
 
 #: /Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text
 #. Key:	94DF171240785BD6422882B6ECC3CFDC
@@ -5518,13 +5566,6 @@ msgctxt ",AB6B64D64932C68A8743709693AF267B"
 msgid "Position"
 msgstr "位置"
 
-#: /Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text
-#. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
-#. SourceLocation:	/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text
-msgctxt ",E64ED09448DCC6987F8B6A80DFEF3B3F"
-msgid "Name"
-msgstr "姓名"
-
 #: /Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text
 #. Key:	901E40384D0FE3FAD3508F98408C18C7
 #. SourceLocation:	/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text
@@ -5567,13 +5608,6 @@ msgctxt ",575CEFFD4FA0D19F96B3A99FF6AEFBE1"
 msgid "Did you like it?"
 msgstr "你喜歡它嗎？"
 
-#: /Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]
-#. Key:	D82E9CC948B03153A925558746DD99F2
-#. SourceLocation:	/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]
-msgctxt ",D82E9CC948B03153A925558746DD99F2"
-msgid "Password"
-msgstr "密碼"
-
 #: /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]
 #. Key:	36DAFDA641D110060CAB6BBD14FE3722
 #. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]
@@ -5587,13 +5621,6 @@ msgstr "繼續"
 msgctxt ",4634F1C448A78E03F4AC7B94441281EB"
 msgid "Resume Game"
 msgstr "繼續遊戲"
-
-#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text
-#. Key:	1692DE874C0C2B1FC7A6A5AD1D9C1FE9
-#. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text
-msgctxt ",1692DE874C0C2B1FC7A6A5AD1D9C1FE9"
-msgid "Exit"
-msgstr "離開"
 
 #: /Game/UI/matchmaking/allMatches.allMatches_C:WidgetTree.TextBlock.Text
 #. Key:	AC84F8B94C4CFF5DD57791BC7770A5BB

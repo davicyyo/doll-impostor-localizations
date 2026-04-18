@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2026-03-24 19:02\n"
-"PO-Revision-Date: 2026-03-24 19:02\n"
+"POT-Creation-Date: 2026-04-18 18:50\n"
+"PO-Revision-Date: 2026-04-18 18:50\n"
 "Language-Team: \n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -183,6 +183,13 @@ msgid "You've unlocked the {map} Map!"
 msgstr "Você desbloqueou o mapa {map}!"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
+#. Key:	1825EE54453613966190B28350984BE5
+#. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
+msgctxt ",1825EE54453613966190B28350984BE5"
+msgid "Multiple dolls remaining"
+msgstr "Várias bonecas restantes"
+
+#: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 #. Key:	2389D5614060663C38CEA9A54ACB9DFE
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",2389D5614060663C38CEA9A54ACB9DFE"
@@ -229,24 +236,6 @@ msgid ""
 "You've got {new} nights, you haven't managed to beat your global record of "
 "{old} nights"
 msgstr "Você tem {new} noites"
-
-#: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
-#. Key:	97F7579E41A844AC5D7FDDAB706274C6
-#. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
-msgctxt ",97F7579E41A844AC5D7FDDAB706274C6"
-msgid "Try again"
-msgstr "Tente novamente"
-
-#: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
-#. Key:	A54FC3294EFCB8B57B533BBF0FABD261
-#. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
-msgctxt ",A54FC3294EFCB8B57B533BBF0FABD261"
-msgid ""
-"The time limit for a player to join has been exceeded, what do you want to "
-"do?"
-msgstr ""
-"O tempo limite para entrada de um jogador foi excedido, o que você deseja "
-"fazer?"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 #. Key:	B4559452445FD99D5366B68268BCFC9E
@@ -370,6 +359,24 @@ msgid ""
 "An error occurred while trying to find a match. Please try again or come "
 "back later."
 msgstr "Ocorreu um erro ao tentar encontrar uma correspondência."
+
+#: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
+#. Key:	6757D1D542C9895F4DE5C1A51C3EDE5C
+#. SourceLocation:	/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
+msgctxt ",6757D1D542C9895F4DE5C1A51C3EDE5C"
+msgid ""
+"There are players in the game, this mode is singleplayer only, make sure "
+"you are alone before playing"
+msgstr ""
+"Existem jogadores no jogo, este modo é apenas para um jogador, "
+"certifique-se de estar sozinho antes de jogar"
+
+#: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
+#. Key:	74CB94924A0D7B248DF67DA581AFEEE9
+#. SourceLocation:	/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
+msgctxt ",74CB94924A0D7B248DF67DA581AFEEE9"
+msgid "Matchmaking"
+msgstr "Matchmaking"
 
 #: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
 #. Key:	821BBE2A48EE821074956AB736CA0ECB
@@ -538,6 +545,13 @@ msgstr "Lado direito da van"
 msgctxt ",164553EC4B6A9D265430F3B6A25830E5"
 msgid "Van Bed"
 msgstr "Cama da van"
+
+#: /Game/data-tables/customizerRooms.customizerRooms.NewRow_22.label_17_E97135F84728B1D3E2D91DAE099E4D25
+#. Key:	FFD0B45F489D1A8EFFF3B3ADF235035D
+#. SourceLocation:	/Game/data-tables/customizerRooms.customizerRooms.NewRow_22.label_17_E97135F84728B1D3E2D91DAE099E4D25
+msgctxt ",FFD0B45F489D1A8EFFF3B3ADF235035D"
+msgid "Safehouse Robot"
+msgstr "Robô de casa segura"
 
 #: /Game/data-tables/customizerRooms.customizerRooms.NewRow_3.label_17_E97135F84728B1D3E2D91DAE099E4D25
 #. Key:	8D62136643D4EAA319AD22BBFD4C8FD1
@@ -2909,6 +2923,13 @@ msgctxt ",B383AEBA444328B5A71FF88EF36A0DBB"
 msgid "Impostor"
 msgstr "Impostor"
 
+#: /Game/enums/gamemodes.gamemodes.DisplayNameMap(3 - Value).DisplayNameMap
+#. Key:	1AB39F8044E93A97AE42BA8864A0B931
+#. SourceLocation:	/Game/enums/gamemodes.gamemodes.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",1AB39F8044E93A97AE42BA8864A0B931"
+msgid "Madness"
+msgstr "Loucura"
+
 #: /Game/enums/probability.probability.DisplayNameMap(0 - Value).DisplayNameMap
 #. Key:	D107C133465E950C0D0B42BAAA8BDF09
 #. SourceLocation:	/Game/enums/probability.probability.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4596,13 +4617,6 @@ msgctxt ",A97B724146EEB86D384D6A85A4F8931C"
 msgid "Craft"
 msgstr "Criar"
 
-#: /Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(3).Options.Label
-#. Key:	3FD3275141C46D8A4E7B0C8B98721113
-#. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(3).Options.Label
-msgctxt ",3FD3275141C46D8A4E7B0C8B98721113"
-msgid "Settings"
-msgstr "Configurações"
-
 #: /Game/UI/career/careerUI.careerUI_C:WidgetTree.robotSpinner.Options(0).Options.Label
 #. Key:	7C75165C49E7D2EBD079048C7F8B471B
 #. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.robotSpinner.Options(0).Options.Label
@@ -4726,13 +4740,6 @@ msgctxt ",5A417E174DAE0F1865DA91B85DC6AFF4"
 msgid "Buy All"
 msgstr "Compre tudo"
 
-#: /Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_7.Text
-#. Key:	F703F19542906B2F29A58E83811DB3AD
-#. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_7.Text
-msgctxt ",F703F19542906B2F29A58E83811DB3AD"
-msgid "You don't have enough money"
-msgstr "Você não tem dinheiro suficiente"
-
 #: /Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text
 #. Key:	84B3B484489A7A0017B755B62F30FC82
 #. SourceLocation:	/Game/UI/career/careerUI.careerUI_C:WidgetTree.TextBlock_8.Text
@@ -4748,25 +4755,11 @@ msgid "Location"
 msgstr "Localização"
 
 #: /Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
-#. Key:	5981A77041F835414316E0BEA0C3C8F8
-#. SourceLocation:	/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
-msgctxt ",5981A77041F835414316E0BEA0C3C8F8"
-msgid "YOU WIN"
-msgstr "VOCÊ GANHOU!"
-
-#: /Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
 #. Key:	CCDA7BC64A6EA8E1824143B0E488DCDA
 #. SourceLocation:	/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
 msgctxt ",CCDA7BC64A6EA8E1824143B0E488DCDA"
 msgid "Dropped"
 msgstr "Derrubado"
-
-#: /Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
-#. Key:	FE160B74470133E4B513D18D4566D063
-#. SourceLocation:	/Game/UI/career/caseItem.caseItem_C:GetText [Script Bytecode]
-msgctxt ",FE160B74470133E4B513D18D4566D063"
-msgid "YOU LOSE"
-msgstr "VOCÊ PERDEU!"
 
 #: /Game/UI/career/caseItem.caseItem_C:GetText_2 [Script Bytecode]
 #. Key:	B8F169E14DBF7CFF567A468DBF711F46
@@ -4844,6 +4837,13 @@ msgstr "Amigos"
 msgctxt ",A213AE2B42DEEB0AC450A9AEC96730E1"
 msgid "Closed"
 msgstr "Fechado"
+
+#: /Game/UI/career/tickets.tickets_C:WidgetTree.TextBlock_11.Text
+#. Key:	11739C0E41A20499E9C760B853C45A40
+#. SourceLocation:	/Game/UI/career/tickets.tickets_C:WidgetTree.TextBlock_11.Text
+msgctxt ",11739C0E41A20499E9C760B853C45A40"
+msgid "Back"
+msgstr "Voltar"
 
 #: /Game/UI/challengeUI/challengeUI.challengeUI_C:WidgetTree.TextBlock.Text
 #. Key:	59F469684F1CFCF7B313728720C8F09A
@@ -5041,12 +5041,26 @@ msgctxt ",4191F3C04D16D6B588127484A538B7E5"
 msgid "Customize"
 msgstr "Personalizar"
 
+#: /Game/UI/customizer.customizer_C:WidgetTree.DefaultSpinner_1.Options(1).Options.Label
+#. Key:	3E3E53D64E987B22AD5967A23BB5AC57
+#. SourceLocation:	/Game/UI/customizer.customizer_C:WidgetTree.DefaultSpinner_1.Options(1).Options.Label
+msgctxt ",3E3E53D64E987B22AD5967A23BB5AC57"
+msgid "Extras"
+msgstr "Extras"
+
 #: /Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text
 #. Key:	2BB11678432B1B25F353A1A7B4A35E7E
 #. SourceLocation:	/Game/UI/customizer.customizer_C:WidgetTree.TextBlock.Text
 msgctxt ",2BB11678432B1B25F353A1A7B4A35E7E"
 msgid "Reset"
 msgstr "Reiniciar"
+
+#: /Game/UI/customizerItem.customizerItem_C:ExecuteUbergraph_customizerItem [Script Bytecode]
+#. Key:	F703F19542906B2F29A58E83811DB3AD
+#. SourceLocation:	/Game/UI/customizerItem.customizerItem_C:ExecuteUbergraph_customizerItem [Script Bytecode]
+msgctxt ",F703F19542906B2F29A58E83811DB3AD"
+msgid "You don't have enough money"
+msgstr "Você não tem dinheiro suficiente"
 
 #: /Game/UI/detailsLegend.detailsLegend_C:WidgetTree.Text.Text
 #. Key:	708EA77A4ED05FDA2A6E7D9E75FCEB5C
@@ -5157,13 +5171,6 @@ msgctxt ",F699B0844A39D7ABCF0260916BF5F41B"
 msgid "Invite players"
 msgstr "Convide jogadores"
 
-#: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text
-#. Key:	B2D8A8F840BD88A7FB7EB385796D6E10
-#. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_4.Text
-msgctxt ",B2D8A8F840BD88A7FB7EB385796D6E10"
-msgid "Browse Lobbies"
-msgstr "Navegar nos lobbies"
-
 #: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text
 #. Key:	0A9B45DB40B3BFE34DF53CB9717F18AC
 #. SourceLocation:	/Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock_5.Text
@@ -5244,13 +5251,6 @@ msgstr ""
 "Você tem todas as pistas e todas as informações sobre os bonecos, mas isso "
 "é completamente aleatório para cada boneco."
 
-#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text
-#. Key:	11739C0E41A20499E9C760B853C45A40
-#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_14.Text
-msgctxt ",11739C0E41A20499E9C760B853C45A40"
-msgid "Back"
-msgstr "Voltar"
-
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text
 #. Key:	CE77947D46EF18A8A49309A22EB6E699
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text
@@ -5291,13 +5291,6 @@ msgid ""
 msgstr ""
 "Modo aleatório, mas sem fim. Você tem um cronômetro de 3 minutos para "
 "resolver o caso e há uma tabela de classificação de líderes"
-
-#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text
-#. Key:	3E3E53D64E987B22AD5967A23BB5AC57
-#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_2.Text
-msgctxt ",3E3E53D64E987B22AD5967A23BB5AC57"
-msgid "Extras"
-msgstr "Extras"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text
 #. Key:	0958AB2948217C45C2F03B9AA2FFBBD5
@@ -5366,13 +5359,6 @@ msgstr ""
 "Enfrente outro jogador de forma assíncrona: ambos investigam o mesmo caso "
 "com todos os eventos incluídos e condições aleatórias."
 
-#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
-#. Key:	74CB94924A0D7B248DF67DA581AFEEE9
-#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_33.Text
-msgctxt ",74CB94924A0D7B248DF67DA581AFEEE9"
-msgid "Matchmaking"
-msgstr "Matchmaking"
-
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_34.Text
 #. Key:	39E11BD54EF086D9407433ABFB581A8E
 #. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_34.Text
@@ -5399,6 +5385,17 @@ msgid ""
 msgstr ""
 "Compre e crie itens, construa a caixa perfeita e conclua tarefas como "
 "identificar ações suspeitas de bonecas."
+
+#: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_39.Text
+#. Key:	2A260104425808DD1CCB5CBD5845AE8A
+#. SourceLocation:	/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_39.Text
+msgctxt ",2A260104425808DD1CCB5CBD5845AE8A"
+msgid ""
+"Play alone or with friends in an intense match. Clues appear as you expose "
+"yourself to danger. Photos are available. Sleeping is not possible. Actions "
+"are random for each doll, and the dolls move toward you when unseen with "
+"the goal of killing you."
+msgstr "Jogue sozinho ou com amigos em uma partida intensa."
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text
 #. Key:	2D485E384A7ABE47FD44F58A954301B6
@@ -5456,6 +5453,20 @@ msgstr ""
 "08:00, você tem a opção de ver os nomes dos bonecos e a lista de ações do "
 "impostor"
 
+#: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
+#. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
+#. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
+msgctxt ",E64ED09448DCC6987F8B6A80DFEF3B3F"
+msgid "Name"
+msgstr "Nome"
+
+#: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text
+#. Key:	D82E9CC948B03153A925558746DD99F2
+#. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_1.Text
+msgctxt ",D82E9CC948B03153A925558746DD99F2"
+msgid "Password"
+msgstr "Senha"
+
 #: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text
 #. Key:	41A1A89A4ADCC9D9F94EABA4A93A05DB
 #. SourceLocation:	/Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock_137.Text
@@ -5490,6 +5501,20 @@ msgstr "Inspetores"
 msgctxt ",89DD4B8A4A57828A0D0B08827934CCEA"
 msgid "{team} won"
 msgstr "{team} venceu"
+
+#: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+#. Key:	5981A77041F835414316E0BEA0C3C8F8
+#. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+msgctxt ",5981A77041F835414316E0BEA0C3C8F8"
+msgid "YOU WIN"
+msgstr "VOCÊ GANHOU!"
+
+#: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+#. Key:	FE160B74470133E4B513D18D4566D063
+#. SourceLocation:	/Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_0 [Script Bytecode]
+msgctxt ",FE160B74470133E4B513D18D4566D063"
+msgid "YOU LOSE"
+msgstr "VOCÊ PERDEU!"
 
 #: /Game/UI/impostorgm/impostorEnd.impostorEnd_C:GetText_2 [Script Bytecode]
 #. Key:	96BE28504D901245DE1115BF00D47E10
@@ -5552,6 +5577,20 @@ msgctxt ",D43847EE40A03CCE1238E0A4BAB8F812"
 msgid "Translated by: {people}"
 msgstr "Traduzido por: {people}"
 
+#: /Game/UI/intro.intro_C:WidgetTree.TextBlock.Text
+#. Key:	3FD3275141C46D8A4E7B0C8B98721113
+#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock.Text
+msgctxt ",3FD3275141C46D8A4E7B0C8B98721113"
+msgid "Settings"
+msgstr "Configurações"
+
+#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text
+#. Key:	1692DE874C0C2B1FC7A6A5AD1D9C1FE9
+#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_1.Text
+msgctxt ",1692DE874C0C2B1FC7A6A5AD1D9C1FE9"
+msgid "Exit"
+msgstr "Saída"
+
 #: /Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text
 #. Key:	6AFC77BB43DCD66B4099688FF725AB13
 #. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_2.Text
@@ -5579,6 +5618,13 @@ msgstr "Restaurar salvamento anterior"
 msgctxt ",DCC8B59542A6483748795F9617F86F55"
 msgid "Open lobby"
 msgstr "Lobby aberto"
+
+#: /Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text
+#. Key:	B2D8A8F840BD88A7FB7EB385796D6E10
+#. SourceLocation:	/Game/UI/intro.intro_C:WidgetTree.TextBlock_5.Text
+msgctxt ",B2D8A8F840BD88A7FB7EB385796D6E10"
+msgid "Browse Lobbies"
+msgstr "Navegar nos lobbies"
 
 #: /Game/UI/intro.intro_C:WidgetTree.TextBlock_6.Text
 #. Key:	94DF171240785BD6422882B6ECC3CFDC
@@ -5640,13 +5686,6 @@ msgctxt ",AB6B64D64932C68A8743709693AF267B"
 msgid "Position"
 msgstr "Posição"
 
-#: /Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text
-#. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
-#. SourceLocation:	/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_21.Text
-msgctxt ",E64ED09448DCC6987F8B6A80DFEF3B3F"
-msgid "Name"
-msgstr "Nome"
-
 #: /Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text
 #. Key:	901E40384D0FE3FAD3508F98408C18C7
 #. SourceLocation:	/Game/UI/leaderBoardTop.leaderBoardTop_C:WidgetTree.TextBlock_22.Text
@@ -5689,13 +5728,6 @@ msgctxt ",575CEFFD4FA0D19F96B3A99FF6AEFBE1"
 msgid "Did you like it?"
 msgstr "Você gostou?"
 
-#: /Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]
-#. Key:	D82E9CC948B03153A925558746DD99F2
-#. SourceLocation:	/Game/UI/lobbyItem.lobbyItem_C:ExecuteUbergraph_lobbyItem [Script Bytecode]
-msgctxt ",D82E9CC948B03153A925558746DD99F2"
-msgid "Password"
-msgstr "Senha"
-
 #: /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]
 #. Key:	36DAFDA641D110060CAB6BBD14FE3722
 #. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu [Script Bytecode]
@@ -5709,13 +5741,6 @@ msgstr "Continuar"
 msgctxt ",4634F1C448A78E03F4AC7B94441281EB"
 msgid "Resume Game"
 msgstr "Voltar ao jogo"
-
-#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text
-#. Key:	1692DE874C0C2B1FC7A6A5AD1D9C1FE9
-#. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text
-msgctxt ",1692DE874C0C2B1FC7A6A5AD1D9C1FE9"
-msgid "Exit"
-msgstr "Saída"
 
 #: /Game/UI/matchmaking/allMatches.allMatches_C:WidgetTree.TextBlock.Text
 #. Key:	AC84F8B94C4CFF5DD57791BC7770A5BB
