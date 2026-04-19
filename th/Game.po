@@ -155,11 +155,10 @@ msgid ""
 "career mode, you will discover the information about the dolls with "
 "infinite cases, economy, levels, shop, crafting, and much more!"
 msgstr ""
-"คุณเคยคิดไหมว่า ข้อมูลทีเกี่ยวกับตุ๊กตาในโหมดอาชีพนี้มาจากไหน "
-"โดยคุณสามารถค้นคว้าข้อมูลต่าง ๆ "
-"เกี่ยวกับตุ๊กตาได้จากการเล่นเคสไปเรื่อยแบบไม่จำกัด "
-"ไม่ว่าจะเป็นเคสในหลากหลายรูปแบบ รักษาสภาพทางการเงิน เลือกระดับความยากง่าย "
-"เข้าร้านค้าเพื่อสร้างไอเทม และอื่น ๆ อีกมากมาย!"
+"คุณอยากรู้ไหมว่า ข้อมูลที่เกี่ยวกับตุ๊กตาในโหมดอาชีพนี้มาจากไหน "
+"ในโหมดนี้ คุณสามารถค้นคว้าข้อมูลต่าง ๆ เกี่ยวกับตุ๊กตาได้จากการเล่นเคสไปเรื่อยแบบไม่จำกัด "
+"ไม่ว่าจะเป็นการเล่นเคสในหลากหลายรูปแบบ การรักษาสภาพทางการเงิน เลือกระดับความยากง่าย "
+"แล้วเข้าร้านค้าเพื่อซื้อวัตถุดิบมาสร้างไอเทม และอื่น ๆ อีกมากมาย!"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:checkPopUps [Script Bytecode]
 #. Key:	839DA89C42E027A3CA515CA3BC5BE204
@@ -194,7 +193,7 @@ msgstr "คุณปลดล็อกด่าน {map} แล้ว!"
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",1825EE54453613966190B28350984BE5"
 msgid "Multiple dolls remaining"
-msgstr "มีตุ๊กตาตกค้างอีกหลายตัว"
+msgstr "ยังมีตุ๊กตาที่ยังไม่กากบาทอีกหลายตัว"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 #. Key:	2389D5614060663C38CEA9A54ACB9DFE
@@ -253,7 +252,7 @@ msgstr ""
 #. SourceLocation:	/Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 msgctxt ",B4559452445FD99D5366B68268BCFC9E"
 msgid "Congratulations!"
-msgstr "ขอแสดงความยินดีด้วย!"
+msgstr "ยินดีด้วย!"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 #. Key:	C6A5EF874754CC2689ADB69E1CF529FE
@@ -262,7 +261,7 @@ msgctxt ",C6A5EF874754CC2689ADB69E1CF529FE"
 msgid ""
 "You've broken your new global record with {new} nights! of the {old} nights "
 "before!"
-msgstr "คุณได้ทำลายสถิติใหม่ในโหมดไม่รู้จบในระดับโลกของคุณ ด้วยจำนวน {new} คืน!"
+msgstr "คุณได้ทำลายสถิติใหม่ ในโหมดไม่รู้จบในระดับโลกของคุณ ด้วยจำนวน {new} คืน!"
 
 #: /Game/Blueprints/HorrorEngineGameMode.HorrorEngineGameMode_C:ExecuteUbergraph_HorrorEngineGameMode [Script Bytecode]
 #. Key:	C9AB8FE44FCD71F5147AD1B61C0E3ACC
@@ -382,7 +381,7 @@ msgid ""
 "you are alone before playing"
 msgstr ""
 "มีผู้เล่นคนอื่นกำลังอยู่ในเกม โหมดนี้สำหรับผู้เล่นคนเดียวเท่านั้น "
-"โปรดตรวจสอบให้แน่ใจว่าคุณอยู่คนเดียวก่อนที่จะเล่น"
+"โปรดตรวจสอบให้แน่ใจว่าคุณอยู่คนเดียวก่อนที่จะเล่นเกม"
 
 #: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
 #. Key:	74CB94924A0D7B248DF67DA581AFEEE9
@@ -423,7 +422,7 @@ msgstr ""
 #. SourceLocation:	/Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
 msgctxt ",B1656BA74A31111BA2FF87B17BE080E3"
 msgid "{msg}..."
-msgstr "{msg} ..."
+msgstr "{msg}..."
 
 #: /Game/Blueprints/PC.PC_C:ExecuteUbergraph_PC [Script Bytecode]
 #. Key:	BCA4F7E9472918A4030087B0CBCF7608
@@ -440,8 +439,8 @@ msgid ""
 "You have {num} unfinished games. You can't start a new one until those "
 "games are completed."
 msgstr ""
-"คุณมีเกมที่ค้างอยู่จำนวน {num} เกม ที่ยังเล่นไม่เสร็จ "
-"คุณจะไม่สามารถเล่นเกมใหม่ได้จนกว่าจะเล่นเกมที่ค้างอยู่ให้เสร็จ"
+"คุณมีเกมที่ค้างอยู่จำนวน {num} เกม ที่ยังเล่นไม่ประกาศผล "
+"จะทำให้ไม่สามารถเล่นเกมใหม่ได้ จนกว่าจะเกมที่ค้างอยู่ประกาศผลการแข่งขัน"
 
 #: /Game/Blueprints/weaponInteract.weaponInteract_C:ExecuteUbergraph_weaponInteract [Script Bytecode]
 #. Key:	79B48418402866A435B0658D650C041D
@@ -645,8 +644,7 @@ msgstr "ด้านขวาพีซี"
 msgctxt ",3FE7DD094BD2D76BA8B7BC975328185E"
 msgid "Inventory Box where you can share objects with other players in your lobby"
 msgstr ""
-"คุณสามารถแบ่งปันอุปกรณ์ของคุณให้กับผู้เล่นคนอื่น ๆ "
-"โดยใช้กล่องเก็บของส่วนกลางในล็อบบี้ของคุณได้"
+"คุณสามารถแบ่งปันอุปกรณ์ของคุณให้กับผู้เล่นคนอื่น ๆ โดยใช้กล่องเก็บของในล็อบบี้ของคุณได้"
 
 #: /Game/data-tables/extraCustomizerData.extraCustomizerData.NewRow.name_6_904C2CB24CE1B9F539A9AF9D5CD134A8
 #. Key:	6411F5FC448D9766116676924D091830
@@ -863,7 +861,7 @@ msgstr "กลีบกุหลาบ"
 #. SourceLocation:	/Game/data-tables/itemList.itemList.NewRow_2.info_16_4DFA58E54C75086154A8DC9A319FD10E
 msgctxt ",ADEEDBE04D10D55BE7B838934AC45E6C"
 msgid "Activate the final battle to uncover the impostor."
-msgstr "เปิเใช้งานหนังสือวิญญาณเพื่อเปิดเผยตัวตนของ Impostor ในขั้นตอนสุดท้าย"
+msgstr "เปิดใช้งานหนังสือวิญญาณเพื่อเปิดเผยตัวตนของ Impostor ในขั้นตอนสุดท้าย"
 
 #: /Game/data-tables/itemList.itemList.NewRow_2.name_12_D217604B46FF9197C7004FBE2050F6FD
 #. Key:	CA5357694E9708D4AC84699C2DC77CBD
@@ -1110,8 +1108,7 @@ msgid ""
 "of value, characterized by its weight and golden luster."
 msgstr ""
 "ทองคำแท่งที่มีความบริสุทธิ์สูง เหมาะสำหรับการลงทุนหรือเก็งกำไร "
-"ลักษณะเด่นคือน้ำหนักดี ประกายสีทองแวววาว มีความหรูหรามั่งคั่ง ใคร ๆ "
-"ก็อยากได้มาครอบครอง"
+"ลักษณะเด่นคือน้ำหนักดี ประกายสีทองแวววาว มีความหรูหรามั่งคั่ง ใคร ๆ ก็อยากได้มาครอบครอง"
 
 #: /Game/data-tables/itemList.itemList.NewRow_35.name_12_D217604B46FF9197C7004FBE2050F6FD
 #. Key:	22B8C07045CAEA974D03AD9C0D933A4E
@@ -1129,7 +1126,7 @@ msgid ""
 "victory in sports competitions or prestigious ceremonies."
 msgstr ""
 "ถ้วยรางวัลสีทอง นิยมใช้เป็นสัญลักษณ์แห่งชัยชนะในการแข่งขันกีฬา "
-"หรือใช้ในการมอบเป็นรางวัลในโอกาสอันพิเศษต่าง ๆ"
+"หรือใช้ในการมอบเป็นของรางวัลในโอกาสอันพิเศษต่าง ๆ"
 
 #: /Game/data-tables/itemList.itemList.NewRow_36.name_12_D217604B46FF9197C7004FBE2050F6FD
 #. Key:	9A3A87B047A1CC933C4F6197811B657B
@@ -1147,8 +1144,7 @@ msgid ""
 "their soft luster and associated with sophistication and luxury."
 msgstr ""
 "เครื่องประดับสุดหรูหรา ประกอบด้วยไข่มุกทรงกลมสีขาวละมุน "
-"เป็นที่ขึ้นชื่อในเรื่องความงดงาม หรูหรา เลิศเลอ ทรงคุณค่า "
-"และยกระดับทางสังคมแก่ผู้ที่สวมใส่"
+"เป็นที่ขึ้นชื่อในเรื่องความงดงาม หรูหรา ทรงคุณค่า และยกระดับทางสังคมแก่ผู้ที่สวมใส่"
 
 #: /Game/data-tables/itemList.itemList.NewRow_37.name_12_D217604B46FF9197C7004FBE2050F6FD
 #. Key:	82B77C5A456740B0D72910B21AF4A463
@@ -1225,7 +1221,7 @@ msgstr "สงบเสงี่ยม"
 #. SourceLocation:	/Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(1).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 msgctxt ",B53AF9564736AB6B4D8F2C81FD9CE5F6"
 msgid "The Unnoticed"
-msgstr "ย่องเบา"
+msgstr "เงียบขรึม"
 
 #: /Game/data-tables/mapList.mapList.NewRow.dolls_9_7FEB33284744601C3269539AAFDB6152(10).dolls_9_7FEB33284744601C3269539AAFDB6152.alias_32_BCA92BEA4AAFD6928073EDABA20013F5
 #. Key:	4F13E4CD4029EC13370EF7B54BCF3D90
@@ -2506,7 +2502,7 @@ msgstr "แขวนของ"
 #. SourceLocation:	/Game/enums/actions.actions.DisplayNameMap(62 - Value).DisplayNameMap
 msgctxt ",43E917A74DB0CD9DFDE917ADC750AF59"
 msgid "Voodoo"
-msgstr "ตุ๊กตาวูดู"
+msgstr "วูดู"
 
 #: /Game/enums/actions.actions.DisplayNameMap(63 - Value).DisplayNameMap
 #. Key:	4575A0784C42B9D9639C2CABE36F982E
@@ -4048,7 +4044,7 @@ msgid ""
 "enjoy Doll Impostor and collect many dolls.Good luck, Inspector!"
 msgstr ""
 "และนี่คือ เนื้อหาทั้งหมดของเกม เราหวังว่าคุณจะสนุกสนานไปกับเกม Doll Impostor"
-"อย่าลืมที่จะลองตกแต่งรถตู้ของคุณล่ะ ของให้โชคดีกับเล่นเกมนะคุณนักสืบ"
+"อย่าลืมที่จะลองตกแต่งรถตู้ของคุณล่ะ ของให้โชคดีกับเล่นเกมนะคุณนักสืบ!"
 
 #: /Game/levels/safeMap.safeMap:PersistentLevel.cameraIntro_C_1.cameras(2).cameras.text_5_A51CD7A845743CC7A4232AAC7C99F2C9
 #. Key:	1AFACC3249DC7D164E0FEE85F5827F9D
@@ -4116,7 +4112,7 @@ msgid ""
 "trade them on Steam."
 msgstr ""
 "ในขณะที่คุณเล่น คุณอาจจะได้รับการ์ดตุ๊กตาสะสม โดยคุณสามารถหาซื้อ "
-"หรือแลกเปลี่ยนกับผู้เล่นคนอืาน ๆ ได้ บน Steam"
+"หรือแลกเปลี่ยนกับผู้เล่นคนอื่น ๆ บน Steam ได้ "
 
 #: /Game/levels/safeMap.safeMap:PersistentLevel.helpInformation_C_1.description
 #. Key:	BC337B2B42B2192B0CEC87925C1BFA2C
@@ -4131,13 +4127,11 @@ msgid ""
 "discover the opponent's character. The first player to guess correctly wins."
 msgstr ""
 "Doll Who เป็นเกมกระดานที่ใช้ทักษะความน่าจะเป็นหรือการคาดเดา "
-"โดยผู้เล่นสองฝ่ายจะต้องใช้ความสามารถในการเดาตุ๊กตาของผู้เล่นที่ฝ่ายตรงข้ามเล"
-"ือกเอาไว้ โดยแต่ละคนจะมีแผ่นกระดานที่มีตุ๊กตาหลากหลายลักษณะแตกต่างกันไป "
-"โดยผู้เล่นสามารถผลัดกันตั้งถามโต้ตอบสลับกัน โดยถามคำถามที่ตอบว่า ใช่ หรือ "
-"ไม่ใช่ เพื่อถามเกี่ยวกับลักษณะของตุ๊กตา (เช่น "
-"มีหมวกหรือเคยปรากฏในแผนที่สถานเลี้ยงเด็ก) "
-"โดยคัดตัวเลือกที่ไม่ใช่ออกจนกว่าจะพบตุ๊กตาของฝ่ายตรงข้ามที่ได้เลือกไว้ "
-"ผู้เล่นที่เดาถูกคนแรกจะเป็นผู้ชนะในเกมนั้นๆ"
+"โดยผู้เล่นแต่ละฝ่าย จะมีแผ่นกระดานที่มีตุ๊กตาหลากหลายลักษณะแตกต่างกันไป "
+"ผู้เล่นละคนจะต้องผลัดกันตั้งถามโต้ตอบสลับกัน เดาคำตอบตุ๊กตาของผู้เล่นที่ฝ่ายตรงข้ามเลือกเอาไว้ "
+"โดยสามารถถามเกี่ยวกับลักษณะของตุ๊กตา (เช่น มีหมวกหรือปรากฏในแผนที่สถานเลี้ยงเด็ก)  "
+"และผู้เล่นให้คำตอบว่า ใช่ หรือ ไม่ใช่ หลังจากนั้นคัดกรองตุ๊กตาที่ไม่ใช่ออกไป"
+"จนกว่าจะพบตุ๊กตาของฝ่ายตรงข้ามที่ได้เลือกไว้ ผู้เล่นที่ตอบถูกคนแรกจะเป็นผู้ชนะในเกมนั้นๆ"
 
 #: /Game/levels/safeMap.safeMap_C:ExecuteUbergraph_safeMap [Script Bytecode]
 #. Key:	AE7921274BBCE3DD133FC885B09DE5F9
@@ -4161,8 +4155,8 @@ msgid ""
 "It looks like the impostor has done some events. These will be displayed on "
 "your left panel. Review them and then access the room again."
 msgstr ""
-"ดูเหมือนว่าผู้ต้องสงสัยของเราได้กระทำอะไรบางอย่างเอาไว้ "
-"โดยเหตุการณ์เหล่านี้จะแสดงบนกระดานทางด้านข้างของคุณ โปรดตรวจสอบให้ละเอียด "
+"ดูเหมือนว่าผู้ต้องสงสัยของเราได้ทำอะไรบางอย่างไว้ โดยเหตุการณ์เหล่านี้ "
+"จะแสดงบนกระดานทางด้านข้างของคุณ โปรดตรวจสอบให้ละเอียด "
 "และเข้าไปในห้องตุ๊กตาเพื่อทำการวิเคราะห์อีกครั้ง"
 
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -4173,7 +4167,7 @@ msgid ""
 "Remember to keep the door locked with the latch. If you don't, the dolls "
 "can come out, alter your tests, and even kill you."
 msgstr ""
-"โปรดอ่าน! ก่อนออกจากห้อง ต้องล็อกกลอนประตูทุกครั้ง ถ้าหากคุณไม่ทำเช่นนั้น "
+"โปรดจำไว้ว่า หลังจากออกจากห้อง ต้องล็อกกลอนประตูทุกครั้ง ถ้าหากคุณไม่ทำเช่นนั้น "
 "ตุ๊กตาอาจจะเข้ามาก่อกวนสิ่งที่คุณบันทึกไว้บนกระดาน "
 "หรือแม้กระทั่งจัดการคุณได้ด้วยเช่นกัน"
 
@@ -4185,9 +4179,9 @@ msgid ""
 "This is the dolls' room. Here you will see what they have done while you "
 "slept. Take a look at them, and then let's go back to the room."
 msgstr ""
-"ที่นี่คือห้องเก็บตุ๊กตา คุณจะเห็นได้ว่าตุ๊กตาเหล่านี้ "
-"มีบางตัวที่ได้ทำอะไรบางอย่างในขณะที่คุณนอนหลับ "
-"ให้จับตาดูพวกเขาและคอยสังเกตการณ์เอาไว้ให้ดี แล้วกลับไปที่ห้องนอน"
+"ที่นี่คือห้องเก็บตุ๊กตา คุณจะเห็นว่าตุ๊กตาเหล่านี้ ได้ทำอะไรบางอย่าง "
+"ในขณะที่คุณนอนหลับ จับตาดูพวกเขา และคอยสังเกตการณ์เอาไว้ให้ดี "
+"แล้วกลับไปที่ห้องนอน"
 
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 #. Key:	0A3D5EC2435134BB35A189A4B69C4101
@@ -4211,7 +4205,7 @@ msgid ""
 "Let's go back to the panel and start weeding out suspects who don't match "
 "our evidence."
 msgstr ""
-"กลับไปตรวจสอบที่กระดาน วิเคราะห์ข้อมูลที่ได้มา "
+"ได้เวลากลับไปตรวจสอบหลักฐานที่กระดาน โดยวิเคราะห์ข้อมูลที่ได้มา "
 "และเริ่มคัดกรองผู้ต้องสงสัยบนกระดานที่ไม่ตรงกับหลักฐานที่เราสืบมาได้ออกไป"
 
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -4253,9 +4247,8 @@ msgid ""
 "You are the guardian of dolls, one of them is alive and intends to kill "
 "you. You must discover which one it is before 09:00."
 msgstr ""
-"คุณคือผู้ดูแลตุ๊กตา โดยมีหนึ่งตัวในนั้นโดนผีสิงและมีชีวิตขึ้นมา "
-"เขาเตรียมวางแผนที่จะฆ่าคุณ คุณจะต้องทำการสืบหาหลักฐานต่าง ๆ "
-"ว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
+"คุณคือผู้ดูแลตุ๊กตา โดยมีหนึ่งตัวในนั้นโดนผีสิงและมีชีวิตขึ้นมา เขาเตรียมวางแผนที่จะฆ่าคุณ "
+"คุณจะต้องทำการสืบหาหลักฐานต่าง ๆ ว่ามันคือตุ๊กตาตัวใดก่อนเวลา 09:00 น."
 
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 #. Key:	53A10A0B4D95DA3B8371AEA60CDFE0CF
@@ -4279,7 +4272,7 @@ msgid ""
 "It's the last hour. We only have this chance to find out. Let's go to the "
 "room."
 msgstr ""
-"และนี่คือชั่วโมงสุดท้ายแล้ว เราเหลือเพียงโอกาสเดียวเท่านั้นในการสืบหาข้อมูล "
+"นี่คือชั่วโมงสุดท้ายแล้ว เราเหลือเพียงโอกาสเดียวเท่านั้นในการสืบหาข้อมูล "
 "ลองกลับไปสำรวจที่ห้องตุ๊กตาอีกครั้ง"
 
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -4293,7 +4286,7 @@ msgid ""
 "individuals are."
 msgstr ""
 "คุณจะต้องสืบหาข้อมูล โดยการสังเกตและวิเคราะห์จากหลักฐานต่าง ๆ ที่พบ "
-"โดยอ้างอิงจากการกระทำตามความชอบและไม่ชอบ ความสัมพันธ์ต่าง ๆ ของตุ๊กตา "
+"โดยอ้างอิงจากการกระทำตามความชอบและไม่ชอบ ความสัมพันธ์ของตุ๊กตา "
 "ทั้งความเป็นเพื่อน เป็นศัตรู พันธมิตร คนที่รัก หรือแม้กระทั่งคนที่เกลียดชัง "
 "ของตุ๊กตาแต่ละตัว โดยข้อมูลของผู้ต้องสงสัยทั้งหมด "
 "ได้ระบุไว้บนกระดานด้านข้างของคุณเรียบร้อยแล้ว"
@@ -4306,8 +4299,8 @@ msgid ""
 "Let's set a trap for the impostor. We already know that he likes TV and "
 "music. Turn on the lights."
 msgstr ""
-"เรามาวางกับดักสำหรับผู้ต้องสงสัยกัน เราทราบข้อมูลแล้วว่าเขาชอบ ทีวี กับ "
-"ดนตรี คราวนี้เรามาทดลองเปิดไฟเอาไว้กัน"
+"เรามาวางกับดักสำหรับผู้ต้องสงสัยกัน เราทราบข้อมูลแล้วว่าเขาชอบ ทีวี กับ ดนตรี "
+"คราวนี้เรามาทดลองเปิดไฟเอาไว้กัน"
 
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 #. Key:	815797D840D1A6AEC45401A9A3996DE0
@@ -4352,9 +4345,8 @@ msgid ""
 "To start, there are 20 dolls. Check them on the board and when you are "
 "ready, go to the room to meet them."
 msgstr ""
-"มาเริ่มกันเลย เรามีรายชื่อตุ๊กตาทั้งหมด 20 ตัว "
-"โดยคุณสามารถตรวจสอบรายชื่อพวกเขาบนกระดานได้ เมื่อคุณพร้อมแล้ว "
-"ให้เข้าไปที่ห้องตุ๊กตาได้เลย"
+"มาเริ่มกันเลย เรามีรายชื่อตุ๊กตาทั้งหมด 20 ตัว คุณสามารถตรวจสอบรายชื่อพวกเขาบนกระดานได้"
+"เมื่อคุณพร้อมแล้ว ให้เข้าไปที่ห้องตุ๊กตาได้เลย"
 
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 #. Key:	BDC3A1864427A6240202ACAFA646188C
@@ -4374,11 +4366,10 @@ msgid ""
 "the boxes. Freddy is missing and his box is full of blood. He left this "
 "verdict for you. When you are sure, discard the candidate."
 msgstr ""
-"เป็นที่ชัดเจนแล้วว่า เขาชอบเลือด อาจจะเป็นฝีมือใครซักคน "
-"เมื่อเราลองไปสำรวจที่ตู้โชว์ของ Freddy เราพบว่า เขาได้ตายไปแล้ว "
-"และตู้โชว์เขาเต็มไปด้วยเลือด เป็นหลักฐานว่ามีใครบางคนที่เกลียดและทำร้ายเขา "
-"ถ้าหากคุณมั่นใจหลักฐานที่คุณพบ "
-"ให้เริ่มทำการคัดกรองผู้ต้องสงสัยที่ไม่เกี่ยวข้องออกได้เลย"
+"เป็นที่ชัดเจนแล้วว่า เขาชอบเลือด ต้องเป็นฝีมือใครซักคน "
+"ถ้าเราลองไปสำรวจที่ตู้โชว์ของ Freddy เราพบว่า เขาได้ตายไปแล้ว "
+"และตู้โชว์เขาเต็มไปด้วยเลือด เป็นหลักฐานว่ามีใครบางคนที่เกลียดและได้ทำฆ่าเขา "
+"ถ้าหากคุณมั่นใจหลักฐานที่คุณมี ให้เริ่มทำการคัดกรองผู้ต้องสงสัยที่ไม่เกี่ยวข้องออกได้เลย"
 
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
 #. Key:	CA75CAA04ADC71945FDEF1B6843F94B0
@@ -4388,7 +4379,7 @@ msgid ""
 "He has fallen into our trap and turned off the lights. We can now discard "
 "all those who like the light."
 msgstr ""
-"ผู้ต้องสงสัยติดกับดักของเราแล้ว เขาได้มาปิดไฟที่เราเปิดเอาไว้ "
+"ผู้ต้องสงสัยติดกับดักของเราแล้ว เขามาปิดไฟที่เราเปิดทิ้งเอาไว้ "
 "ตอนนี้เราสามารถคัดกรองตุ๊กตาที่ชอบแสงไฟออกไปได้เลย"
 
 #: /Game/levels/tutorialMap.tutorialMap_C:ExecuteUbergraph_tutorialMap [Script Bytecode]
@@ -4423,11 +4414,9 @@ msgid ""
 "event."
 msgstr ""
 "เราค้นพบว่า Ricky อยู่บนโซฟา กับ Monty อยู่ที่เปียโน มีความเป็นไปได้สูงว่า "
-"เราเหลือตุ๊กตาผู้ต้องสงสัยที่เป็นไปได้แค่ 2 ตัวเท่านั้น "
-"แต่อย่างไรก็ตามเราไม่แนะนำให้คุณเสี่ยงโอกาส 50/50 ที่เป็นไปได้นี้ "
-"ดังนั้นเพื่อความปลอดภัยในชีวิตของคุณ"
-"เราขอแนะนำว่าเราควรกลับไปที่ห้องเพื่อทำการคัดกรองตุ๊กตาที่หลักฐาน"
-"ไม่เกี่ยวข้องและทำการรอเบาะแสถัดไปดีกว่า"
+"เราพบผู้ต้องสงสัยที่เป็นไปได้แค่ 2 ตัวนี้ แต่อย่างไรก็ตาม "
+"เราไม่แนะนำให้คุณเสี่ยงโอกาส 50/50 นี้ ดังนั้นเพื่อความปลอดภัยในชีวิตของคุณ "
+"เราขอแนะนำว่าเรากลับไปคัดกรองหลักฐาน ที่ไม่เกี่ยวข้องและทำการรอเบาะแสถัดไปดีกว่า"
 
 #: /Game/UI/bookCollector.bookCollector_C:GetText [Script Bytecode]
 #. Key:	7055F47B466C9C3B47C459A2BDF1373A
@@ -4473,10 +4462,9 @@ msgid ""
 "the case at any time, but you won't be able to find new cases once you've "
 "accepted. With this settled, travel to the location when you're ready."
 msgstr ""
-"คุณได้รับเลือกทำเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว "
-"คุณยังสามารถลยกเลิกเคสนี้ได้ ถ้าคุณไม่ชอบ "
-"แต่จะไม่สามารถหาเคสใหม่ได้ ถ้าหากคุณเลือกรับเคสก่อนหน้านี้ไว้แล้ว "
-"เมื่อคุณวางแผนและเตรียมอุปกรณ์ของคุณพร้อมเรียบร้อยแล้ว "
+"คุณได้เลือกทำเคสนี้แล้ว นอกเหนือจากบทฝึกสอนแล้ว คุณสามารถลยกเลิกเคสนี้ได้ทุกเมื่อ "
+"แต่จะไม่สามารถหาเคสใหม่ได้ ถ้าคุณเลือกรับเคสก่อนหน้านี้ไว้"
+"ดังนั้น เมื่อคุณวางแผนและเตรียมอุปกรณ์ของคุณพร้อมเรียบร้อยแล้ว "
 "คุณสามารถออกเดินทางไปทำภารกิจของคุณได้เลย"
 
 #: /Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]
@@ -4529,9 +4517,8 @@ msgid ""
 "difficulty level, it will grant you more or less money to use in the cases."
 msgstr ""
 "เมื่อคุณทำโหมดฝึกสอนเสร็จแล้ว บางครั้งคุณอาจประสบปัญหาทางการเงิน "
-"เราขอเสนอวิธีอันแสนง่ายในการแก้ปัญหาเหล่านี้ โดยคุณสามารถเล่นโหมดคลาสสิก "
-"โดยเงินที่คุณได้รับมานั่นจะมากหรือน้อย มันจะ"
-"ขึ้นอยู่กับระดับความยากตามที่คุณได้เลือกเอาไว้"
+"เราขอเสนอวิธีอันแสนง่ายในการแก้ปัญหาเหล่านี้ โดยคุณสามารถเล่นเกมในโหมดคลาสสิก "
+"โดยเงินที่คุณได้รับมาจะมากหรือน้อย ขึ้นอยู่กับระดับความยากตามที่คุณได้เลือกเอาไว้"
 
 #: /Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]
 #. Key:	95529FFB4B5C7B8BF0D230810B54E147
@@ -4573,10 +4560,8 @@ msgid ""
 "Be careful if you perform this action you will lose all your career mode "
 "progress, returning again to the tutorial, this includes your case history."
 msgstr ""
-"โปรดระวัง! ถ้าหากคุณเลือกดำเนินการนี้ "
-"คุณอาจจะสูญเสียความคืบหน้าในโหมดอาชีพทั้งหมดไป "
-"แล้วกลับมาเริ่มที่บทช่วยสอนอีกครั้ง "
-"ซึ่งรวมถึงประวัติเคสของคุณที่เคยทำไว้ก่อนหน้านี้ด้วย"
+"โปรดระวัง! ถ้าหากคุณเลือกดำเนินการนี้ คุณอาจจะสูญเสียความคืบหน้าในโหมดอาชีพไปทั้งหมด"
+"แล้วกลับมาเริ่มที่บทช่วยสอนอีกครั้ง ซึ่งรวมถึงประวัติเคสของคุณที่เคยทำไว้ก่อนหน้านี้ด้วย"
 
 #: /Game/UI/career/careerUI.careerUI_C:ExecuteUbergraph_careerUI [Script Bytecode]
 #. Key:	E8BEC2F04785EFD5186984BE67C4B88A
@@ -4608,8 +4593,8 @@ msgid ""
 "the case, or search for a new case."
 msgstr ""
 "คุณจะมีเคสให้เลือกทำที่หลายหลายรูปแบบ ด่านต่าง ๆ "
-"ให้เลือกสรรตามที่คุณต้องการ โดยจะแสดงข้อมูลทั้งหมดในหน้าจอก่อนเลือกเคส "
-"และถ้าหากคุณไม่ชอบเคสไหน คุณสามารถเปลี่ยนเคสได้โดยแลกกับเงิน "
+"ให้เลือกสรรตามที่คุณต้องการ โดยจะแสดงข้อมูลทั้งหมดในหน้าจอตอนเลือกเคส "
+"และถ้าหากคุณไม่ชอบเคสไหน คุณสามารถจ่ายเงินเพื่อเปลี่ยนเคสได้ "
 "แต่ในโหมดการฝึกสอนขณะนี้ เราได้ทำการจำกัดการโต้ตอบของคุณ "
 "โดยที่คุณยังไม่สามารถซื้อของ ประดิษฐ์สิ่งของ ออกจากเคส หรือค้นหาเคสใหม่ได้"
 
@@ -4635,8 +4620,7 @@ msgid ""
 "This probability will be latent every time you travel; you might encounter "
 "a box that will contain things inside."
 msgstr ""
-"ในการออกเดินทางทำภารกิจแต่ละครั้ง "
-"มีความเป็นไปได้ที่คุณจะพบกับกล่องรางวัลปริศนาวางอยู่ในสถานที่นั้น "
+"ในการออกเดินทางทำภารกิจ มีความเป็นไปได้ที่คุณจะพบกับกล่องรางวัลปริศนาวางอยู่ในสถานที่นั้น "
 "ข้างในนั้นอาจจะมีสิ่งที่คุณต้องการอยู่ก็ได้นะ"
 
 #: /Game/UI/career/careerUI.careerUI_C:WidgetTree.DefaultSpinner.Options(0).Options.Label
@@ -5176,7 +5160,7 @@ msgid ""
 "The box might not be related to the doll performing the action, but to "
 "another doll that was moved there earlier."
 msgstr ""
-"ในบางครั้ง ตุ๊กตาบางตัว อาจจะย้ายตุ๊กตาตัวอื่น ๆ ที่อาจจะเป็นเพื่อน, ศัตรู หรือคนที่เขาเกลียด"
+"ในบางครั้ง ตุ๊กตาบางตัวอาจจะย้ายตุ๊กตาตัวอื่น ๆ ที่อาจจะเป็นเพื่อน, ศัตรู หรือคนที่เขาเกลียด"
 "มาสลับที่กับตู้ตุ๊กตาของตัวเอง หรือย้ายสลับที่ไปยังตู้อื่น ๆ ได้"
 
 #: /Game/UI/employerOfTheWeek.employerOfTheWeek_C:WidgetTree.TextBlock.Text
@@ -5205,7 +5189,7 @@ msgstr "คุณชนะการเดิมพัน!"
 #. SourceLocation:	/Game/UI/endingUI.endingUI_C:WidgetTree.TextBlock_4.Text
 msgctxt ",87B3FC8446132603DA2B638D614B2A83"
 msgid "You lose the bet and all your money"
-msgstr "คุณแพ้การเดิมพันนี้ และเสียเงินไปทั้งหมด"
+msgstr "คุณแพ้การเดิมพัน และเสียเงินไปทั้งหมด"
 
 #: /Game/UI/escapeMenu.escapeMenu_C:WidgetTree.TextBlock.Text
 #. Key:	F699B0844A39D7ABCF0260916BF5F41B
@@ -5272,8 +5256,8 @@ msgid ""
 "effective clues, there are no photos or aids, some of the data is hidden, "
 "you have limited access to the map"
 msgstr ""
-"ระดับความยากนี้เหมาะสำหรับมืออาชีพเท่านั้น โดยเกมจะเริ่มที่เวลา 08:00 น. "
-"และมีหลักฐานที่สำคัญเพียง 3 รายการเท่านั้น จะไม่มีรูปภาพตุ๊กตา "
+"ระดับความยากที่เหมาะสำหรับมืออาชีพเท่านั้น โดยเกมจะเริ่มที่เวลา 08:00 น. "
+"มีหลักฐานที่สำคัญเพียง 3 รายการเท่านั้น ไม่มีรูปภาพตุ๊กตา นอนข้ามชั่วโมงไม่ได้ "
 "ข้อมูลบางส่วนถูกปิดเอาไว้ รวมไปถึงจะถูกจำกัดพื้นที่ในการเข้าถึง"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_12.Text
@@ -5291,8 +5275,8 @@ msgid ""
 "You have all the clues and all the information about the dolls, but this is "
 "completely random for each doll."
 msgstr ""
-"คุณจะมีหลักฐานของตุ๊กตาทุกตัว รวมถึงความสัมพันธ์ของตุ๊กตาทุกตัวไว้ทั้งหมดแล้ว"
-"แต่ข้อมูลที่คุณได้รับนี้ จะเป็นการสุ่มทั้งหมด"
+"คุณจะมีหลักฐาน และความสัมพันธ์ของตุ๊กตา เหมือนในโหมดปกติ"
+"เพียงแต่ข้อมูลที่คุณมี ตัวเกมจะสุ่มหลักฐาน และความสัมพันธ์ของตุ๊กตามาให้คุณ"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_15.Text
 #. Key:	CE77947D46EF18A8A49309A22EB6E699
@@ -5316,9 +5300,8 @@ msgid ""
 "Random mode but you're racing against the clock; find the doll before time "
 "runs out and earn trophies based on your speed."
 msgstr ""
-"โหมดสุ่มแบบจับเวลา เราจะต้องค้นหาตุ๊กตา "
-"และตอบให้ถูกต้องภายในระยะเวลาที่กำหนดไว้ "
-"และรับถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
+"โหมดสุ่มแบบจับเวลา เราจะต้องค้นหาตุ๊กตา และตอบให้ถูกต้อง "
+"ภายในระยะเวลาที่กำหนดไว้ และรับถ้วยรางวัลตามความเร็วในการค้นหาของคุณ"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_18.Text
 #. Key:	F167859643FD37B593110B9A866E9EB3
@@ -5335,9 +5318,8 @@ msgid ""
 "Random but endless mode, you have a 3-minute timer to fix the case and "
 "there is a leaderboard of leaders"
 msgstr ""
-"โหมดสุ่มแบบเล่นไม่รู้จบ คุณมีเวลา 3 นาที ในการสืบหาตุ๊กตา "
-"โดยมีข้อมูลและความสัมพันธ์ของตุ๊กตาให้ทั้งหมดเป็นแบบสุ่ม "
-"และมีกระดานผู้นำทั่วโลก"
+"โหมดสุ่มแบบเล่นไม่รู้จบ คุณมีเวลา 3 นาที ในการสืบหาตุ๊กตา และตอบให้ถูกต้อง "
+"โดยมีข้อมูล และความสัมพันธ์ของตุ๊กตาเป็นแบบสุ่ม และมีกระดานผู้นำทั่วโลก"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_20.Text
 #. Key:	0958AB2948217C45C2F03B9AA2FFBBD5
@@ -5368,9 +5350,9 @@ msgid ""
 "Play with friends against a human impostor. One player is the infiltrator. "
 "Plan ahead, act carefully, and avoid being exposed by the investigators."
 msgstr ""
-"โหมดนี้ท้าทายความสามารถกับเพื่อน และท้าชิงกับผู้เล่นคนอื่น ๆ "
-"โดยผู้เล่นคนหนึ่ง จะได้รับบทเป็น Impostor ที่วางแผนแสนแยบยล "
-"จัดการอย่างรอบคอบ เฉียบขาด และรอดการถูกเปิดเผยโดยผู้เล่นคนอื่น ๆ"
+"โหมดนี้ ท้าทายประสบการณ์และความสามารถกับเพื่อน ๆ ของคุณ "
+"โดยผู้เล่นคนหนึ่งจะรับบทเป็น Impostor ที่เกมกำหนดบทบาทไว้แบบสุ่มไว้ให้ "
+"เขาจะต้องวางแผนอย่างชาญฉลาด และรอดการถูกเปิดเผยโดยผู้เล่นคนอื่น ๆ"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_29.Text
 #. Key:	01163BE7400AF0B66C8D7CA87F61A4D3
@@ -5387,8 +5369,8 @@ msgid ""
 "The original Doll Impostor experience: find the impostor before 09:00 using "
 "traps, multiple difficulty levels, and extra modes."
 msgstr ""
-"ประสบการณ์ Doll Impostor แบบดั้งเดิม โดยทำการค้นหา Impostor ให้เจอก่อน "
-"09:00 น. พร้อมวางกับดัก ระดับความยากที่หลากหลาย และโหมดพิเศษอื่น ๆ"
+"ประสบการณ์ Doll Impostor แบบต้นฉบับ โดยทำต้องค้นหา Impostor "
+"ให้เจอก่อน 09:00 น. พร้อมวางกับดัก ระดับความยากที่หลากหลาย และโหมดพิเศษอื่น ๆ"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_31.Text
 #. Key:	93BFB5AA4CE3C4EA5E9973A84D12FD76
@@ -5406,11 +5388,9 @@ msgid ""
 "events included and random conditions. You have one hour to find the "
 "impostor. The fastest wins. Includes ELO and global ranking."
 msgstr ""
-"เผชิญความท้าทายกับผู้เล่นอื่นแบบตัวต่อตัวในเวลาเดียวกัน "
-"ทั้งสองฝ่ายจะทำการเล่นเกมพร้อมกัน "
-"โดยใช้หลักการและเงื่อนไขแบบเดียวกับโหมดสุ่ม "
-"คุณมีเวลาตรวจสอบหลักฐานแค่รอบเดียวเท่านั้น "
-"ผู้ที่ทำเวลาเร็วสุดเท่านั้นจะเป็นฝ่ายชนะ จะได้รางวัลแต้ม ELO "
+"เผชิญความท้าทายกับผู้เล่นอื่น แบบตัวต่อตัวในเวลาเดียวกัน ทั้งสองฝ่ายจะทำการเล่นเกมพร้อมกัน"
+"โดยใช้และเงื่อนไขแบบเดียวกับโหมดสุ่ม คุณมีเวลาตรวจสอบหลักฐานแค่รอบเดียวเท่านั้น "
+"ผู้ที่ทำเวลาเร็วสุด และตอบถูกต้องเท่านั้นจะเป็นฝ่ายชนะ จะได้รางวัลแต้ม ELO "
 "และอันดับระดับโลก"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_34.Text
@@ -5426,7 +5406,7 @@ msgstr "โหมดโปร"
 msgctxt ",AFF376D34E72FD90942A0594B0412DA9"
 msgid "Random but nightmare, you only have 3 effective clues and 1 hour to resolve"
 msgstr ""
-"โหมดสุ่ม แต่ระดับฝันร้าย คุณมีแค่ 3 เบาะแสที่มีประโยชน์ และจำกัดเวลาที่ 1 ชั่วโมง เท่านั้น"
+"โหมดสุ่มในระดับฝันร้าย คุณมีแค่ 3 เบาะแส ที่มีประโยชน์ และจำกัดเวลาที่ 1 ชั่วโมง เท่านั้น"
 "ในการตามหาตุ๊กตา"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_36.Text
@@ -5437,8 +5417,8 @@ msgid ""
 "Buy and craft items, build the perfect case, and complete tasks like "
 "identifying suspicious doll actions. Find the impostor and bag them."
 msgstr ""
-"ซื้อและสร้างไอเท็ม เพื่อสร้างเคสที่สมบูรณ์แบบ และทำงานให้เสร็จสมบูรณ์ เช่น "
-"การระบุการกระทำของตุ๊กตาที่น่าสงสัย ทำการค้นหาให้พบแล้วจับใส่กระเป๋า"
+"ซื้อและสร้างไอเท็ม เพื่อสร้างเคสที่สมบูรณ์แบบ และทำงานให้เสร็จสมบูรณ์ "
+"เช่น การระบุหลักฐานของตุ๊กตาที่น่าสงสัย ทำการค้นหาให้พบแล้วจับใส่กระเป๋า"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_39.Text
 #. Key:	2A260104425808DD1CCB5CBD5845AE8A
@@ -5452,8 +5432,8 @@ msgid ""
 msgstr ""
 "เล่นคนเดียว หรือ เล่นกับเพื่อนของคุณ ด้วยแมทช์ที่ดุเดือด หลักฐานที่ได้มานั้นยากเย็นแสนเข็น"
 "แม้ว่าเราจะมีรูปภาพตุ๊กตาให้ หลักฐานที่มีให้จะเป็นการสุ่มทั้งหมด และทยอยเปิดเผยที่ละนิดทีละน้อย"
-"แต่คุณจะไม่สามารถนอนข้างชั่วโมงได้ คุณต้องระวังตัวให้ดี ตุ๊กตาจะขยับตัวได้ เมื่อคุณไม่ได้สนใจพวกเขา"
-"พวกเขากำลังตามล่าคุณอยู่ จงเอาตัวรอดให้ได้ อย่าให้พวกเขาจับคุณ"
+"และไม่สามารถนอนข้างชั่วโมงได้ คุณต้องระวังตัวให้ดี ตุ๊กตาจะขยับตัวได้ เมื่อคุณไม่ได้มองพวกเขา"
+"พวกเขากตามล่าคุณอยู่ จงเอาตัวรอดให้ได้ อย่าให้พวกเขาจับคุณได้"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text
 #. Key:	2D485E384A7ABE47FD44F58A954301B6
@@ -5477,8 +5457,8 @@ msgid ""
 "One more step of difficulty, there are no extra clues, You can't see the "
 "names or list"
 msgstr ""
-"เพิ่มระดับความยากเล็กน้อย จะไม่มีหลักฐานแสดงบนกระดาน "
-"และไม่สามารถดูชื่อของตุ๊กตาที่ตัวตุ๊กตาได้"
+"โหมดนี้ เพิ่มระดับความยากเล็กน้อย จะไม่โชว์หลักฐานบนกระดาน "
+"และไม่สามารถดูชื่อของตุ๊กตา เมื่อคุณชี้ไปที่ที่ตัวตุ๊กตาได้"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_7.Text
 #. Key:	DFC327DA4616540509FBF6AA40D0458B
@@ -5488,7 +5468,7 @@ msgid ""
 "Expert mode, you start from 06:00, there are no extra clues and no "
 "photographs"
 msgstr ""
-"โหมดนี้สำหรับผู้ชำนาญแล้ว จะเริ่มเวลา 06:00 น. หลักฐานจะถูกลดจำนวนลง "
+"โหมดนี้สำหรับผู้ชำนาญแล้ว เกมจะเริ่มที่เวลา 06:00 น. หลักฐานจะถูกลดจำนวนลง "
 "และไม่มีรูปภาพตุ๊กตาปรากฏให้"
 
 #: /Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_8.Text
@@ -5507,9 +5487,9 @@ msgid ""
 "you have the option to see the names of the dolls and the list of actions "
 "of the imposter"
 msgstr ""
-"ระดับความยากมาตรฐานสำหรับผู้เล่นทั่วไป หลักฐานทั้งหมดจะถูกเปิดเผยเมื่อเล่นถึง 08:00 น."
-"คุณมีหลักฐานมากเพียงพอที่จะตามหาผู้ต้องสงสัย"
-"โดยมีตัวเลือกในการดูชื่อตุ๊กตา และรายการหลักฐานของตุ๊กตาบนกระดาน"
+"ระดับมาตรฐานสำหรับผู้เล่นทั่วไป รายการหลักฐานของตุ๊กตาจะทยอยเปิดเผยเมื่อถึงเวลา 08:00 น."
+"คุณมีหลักฐานมากเพียงพอที่จะตามหาผู้ต้องสงสัย โดยมีตัวเลือกในการดูชื่อตุ๊กตา"
+"และสามารถ เปิด/ปิด รายการหลักฐานของตุ๊กตาบนกระดานได้"
 
 #: /Game/UI/hostGameUI.hostGameUI_C:WidgetTree.TextBlock.Text
 #. Key:	E64ED09448DCC6987F8B6A80DFEF3B3F
